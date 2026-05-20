@@ -8,17 +8,62 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src.ingest.pdf_extractor import PDFExtractor
+from src.ingest.pdf_extractor import PDFExtractor, PageText
+
+REAL_CATEGORIES = frozenset(
+    {"ireps", "cpwd", "delhi_pwd", "epi", "nhai", "odisha_pwd", "bims", "mes", "mh_publicworks"}
+)
+
+# Large tender PDFs: full-text extraction for manifest is unnecessary and very slow.
+_MANIFEST_SAMPLE_MAX_BYTES = 8 * 1024 * 1024
+_MANIFEST_SAMPLE_MAX_PAGES = 2
+
+
+def _manifest_pdf_stats(pdf_path: Path, extractor: PDFExtractor) -> tuple[int, int, bool]:
+    """Return (page_count, char_count, is_scanned) without running table extraction."""
+
+    import pdfplumber
+
+    with pdfplumber.open(str(pdf_path)) as pdf:
+        total_pages = len(pdf.pages)
+        if total_pages == 0:
+            return 0, 0, True
+        sample_pages = pdf.pages[:_MANIFEST_SAMPLE_MAX_PAGES]
+        texts = [p.extract_text() or "" for p in sample_pages]
+        chars_sample = sum(len(t) for t in texts)
+
+    size = pdf_path.stat().st_size
+    if size <= _MANIFEST_SAMPLE_MAX_BYTES:
+        page_texts = extractor.extract_text(str(pdf_path))
+        chars = sum(len(p.text) for p in page_texts)
+        return len(page_texts), chars, extractor.is_scanned(page_texts)
+
+    sample = [PageText(page_number=i + 1, text=texts[i]) for i in range(len(texts))]
+    # Rough total char estimate for dashboards (not used for training)
+    if chars_sample > 0 and total_pages > len(sample_pages):
+        chars = int(chars_sample * (total_pages / len(sample_pages)))
+    else:
+        chars = chars_sample
+    return total_pages, chars, extractor.is_scanned(sample)
 
 
 def scan_existing_pdfs(raw_dir: Path) -> list[dict]:
     """Scan existing PDFs and categorize them."""
     pdfs = list(raw_dir.glob("*.pdf"))
+    for sub in raw_dir.iterdir():
+        if sub.is_dir():
+            pdfs.extend(sub.glob("*.pdf"))
 
     sources = {
         "ireps": [],
         "cpwd": [],
         "delhi_pwd": [],
+        "epi": [],
+        "nhai": [],
+        "odisha_pwd": [],
+        "bims": [],
+        "mes": [],
+        "mh_publicworks": [],
         "synthetic_building": [],
         "synthetic_road": [],
         "synthetic_bridge": [],
@@ -29,7 +74,10 @@ def scan_existing_pdfs(raw_dir: Path) -> list[dict]:
 
     for pdf in pdfs:
         name = pdf.name.lower()
-        if "ireps" in name:
+        parent = pdf.parent.name if pdf.parent != raw_dir else ""
+        if parent in REAL_CATEGORIES:
+            sources[parent].append(pdf.name)
+        elif "ireps" in name:
             sources["ireps"].append(pdf.name)
         elif "cpwd" in name:
             sources["cpwd"].append(pdf.name)
@@ -45,6 +93,8 @@ def scan_existing_pdfs(raw_dir: Path) -> list[dict]:
             sources["synthetic_electrical"].append(pdf.name)
         elif "rfq_plumbing" in name:
             sources["synthetic_plumbing"].append(pdf.name)
+        elif "rfq_sample" in name:
+            sources["synthetic_building"].append(pdf.name)
         else:
             sources["unknown"].append(pdf.name)
 
@@ -64,6 +114,12 @@ def create_manifest(raw_dir: Path, output_path: Path) -> dict:
             "ireps": "IREPS (Indian Railway Electronic Procurement System) - real government tenders",
             "cpwd": "CPWD (Central Public Works Department) - real government tenders",
             "delhi_pwd": "Delhi PWD - real government tenders",
+            "epi": "EPI (Engineering Projects India Ltd) - real government tenders",
+            "nhai": "NHAI - National Highways Authority of India",
+            "odisha_pwd": "Odisha government building tenders",
+            "bims": "BIMS portal tenders",
+            "mes": "Military Engineering Services",
+            "mh_publicworks": "Maharashtra public works",
             "synthetic_building": "Synthetic building construction RFQs",
             "synthetic_road": "Synthetic road construction RFQs",
             "synthetic_bridge": "Synthetic bridge construction RFQs",
@@ -72,7 +128,7 @@ def create_manifest(raw_dir: Path, output_path: Path) -> dict:
         },
         "files": [],
         "notes": {
-            "real_tenders": ["ireps", "cpwd", "delhi_pwd"],
+            "real_tenders": sorted(REAL_CATEGORIES),
             "synthetic_tenders": ["synthetic_building", "synthetic_road", "synthetic_bridge", "synthetic_electrical", "synthetic_plumbing"],
         }
     }
@@ -82,19 +138,20 @@ def create_manifest(raw_dir: Path, output_path: Path) -> dict:
     for category, files in sources.items():
         for filename in files:
             pdf_path = raw_dir / filename
+            if not pdf_path.exists() and category in REAL_CATEGORIES:
+                pdf_path = raw_dir / category / filename
+            if not pdf_path.exists() and "synthetic" in category:
+                pdf_path = raw_dir / "synthetic_archive" / filename
             if not pdf_path.exists():
                 continue
 
             try:
-                doc = extractor.extract(str(pdf_path))
-                pages = len(doc.pages)
-                chars = sum(len(p.text) for p in doc.pages)
-                is_scanned = doc.is_scanned
+                pages, chars, is_scanned = _manifest_pdf_stats(pdf_path, extractor)
 
                 manifest["files"].append({
                     "filename": filename,
                     "category": category,
-                    "is_real": category in ["ireps", "cpwd", "delhi_pwd"],
+                    "is_real": category in REAL_CATEGORIES,
                     "is_synthetic": "synthetic" in category,
                     "pages": pages,
                     "chars": chars,
@@ -104,7 +161,7 @@ def create_manifest(raw_dir: Path, output_path: Path) -> dict:
                 manifest["files"].append({
                     "filename": filename,
                     "category": category,
-                    "is_real": category in ["ireps", "cpwd", "delhi_pwd"],
+                    "is_real": category in REAL_CATEGORIES,
                     "is_synthetic": "synthetic" in category,
                     "error": str(e),
                 })
