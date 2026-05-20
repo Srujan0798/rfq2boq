@@ -1,0 +1,985 @@
+{
+  "standards": [
+    {
+      "code": "IS 456",
+      "full_name": "Code of Practice for Plain and Reinforced Concrete",
+      "aliases": [
+        "IS456",
+        "IS-456"
+      ],
+      "applies_to": [
+        "concrete",
+        "RCC",
+        "cement"
+      ]
+    },
+    {
+      "code": "IS 2062",
+      "full_name": "Hot Rolled Medium and High Tensile Structural Steel",
+      "aliases": [
+        "IS2062",
+        "IS-2062"
+      ],
+      "applies_to": [
+        "structural steel",
+        "mild steel",
+        "MS plate",
+        "steel section"
+      ]
+    },
+    {
+      "code": "IS 1786",
+      "full_name": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement",
+      "aliases": [
+        "IS1786",
+        "IS-1786"
+      ],
+      "applies_to": [
+        "TMT",
+        "rebar",
+        "reinforcement",
+        "HYSD bar"
+      ]
+    },
+    {
+      "code": "IS 1139",
+      "full_name": "Hot Rolled Mild Steel Medium and Heavy Sections",
+      "aliases": [
+        "IS1139",
+        "IS-1139"
+      ],
+      "applies_to": [
+        "mild steel",
+        "structural steel"
+      ]
+    },
+    {
+      "code": "IS 277",
+      "full_name": "Galvanized Steel Sheets (Plain and Corrugated)",
+      "aliases": [
+        "IS277",
+        "IS-277"
+      ],
+      "applies_to": [
+        "GI sheet",
+        "galvanized steel",
+        "zinc coated"
+      ]
+    },
+    {
+      "code": "IS 808",
+      "full_name": "Dimensions for Hot Rolled Steel Sections",
+      "aliases": [
+        "IS808",
+        "IS-808"
+      ],
+      "applies_to": [
+        "steel section",
+        "beam",
+        "channel",
+        "angle"
+      ]
+    },
+    {
+      "code": "IS 4926",
+      "full_name": "Ready Mixed Concrete",
+      "aliases": [
+        "IS4926",
+        "IS-4926"
+      ],
+      "applies_to": [
+        "RMC",
+        "ready mix concrete"
+      ]
+    },
+    {
+      "code": "IS 383",
+      "full_name": "Coarse and Fine Aggregates for Concrete",
+      "aliases": [
+        "IS383",
+        "IS-383"
+      ],
+      "applies_to": [
+        "aggregate",
+        "sand",
+        "crushed stone"
+      ]
+    },
+    {
+      "code": "IS 269",
+      "full_name": "Ordinary Portland Cement 33 Grade",
+      "aliases": [
+        "IS269",
+        "IS-269"
+      ],
+      "applies_to": [
+        "cement",
+        "OPC"
+      ]
+    },
+    {
+      "code": "IS 1489",
+      "full_name": "Portland Pozzolana Cement",
+      "aliases": [
+        "IS1489",
+        "IS-1489"
+      ],
+      "applies_to": [
+        "cement",
+        "PPC"
+      ]
+    },
+    {
+      "code": "IS 12330",
+      "full_name": "Sulphate Resisting Portland Cement",
+      "aliases": [
+        "IS12330",
+        "IS-12330"
+      ],
+      "applies_to": [
+        "cement",
+        "PSC"
+      ]
+    },
+    {
+      "code": "IS 1077",
+      "full_name": "Common Burnt Clay Building Bricks",
+      "aliases": [
+        "IS1077",
+        "IS-1077"
+      ],
+      "applies_to": [
+        "brick",
+        "clay brick"
+      ]
+    },
+    {
+      "code": "IS 3495",
+      "full_name": "Methods of Tests of Burnt Clay Building Bricks",
+      "aliases": [
+        "IS3495",
+        "IS-3495"
+      ],
+      "applies_to": [
+        "brick"
+      ]
+    },
+    {
+      "code": "IS 2185",
+      "full_name": "Concrete Masonry Units",
+      "aliases": [
+        "IS2185",
+        "IS-2185"
+      ],
+      "applies_to": [
+        "concrete block",
+        "hollow block",
+        "AAC"
+      ]
+    },
+    {
+      "code": "IS 12894",
+      "full_name": "Pulverized Fuel Ash-Lime Building Bricks",
+      "aliases": [
+        "IS12894",
+        "IS-12894"
+      ],
+      "applies_to": [
+        "fly ash brick",
+        "FAB"
+      ]
+    },
+    {
+      "code": "IS 2212",
+      "full_name": "Code of Practice for Construction of Brickwork",
+      "aliases": [
+        "IS2212",
+        "IS-2212"
+      ],
+      "applies_to": [
+        "brickwork",
+        "brick masonry"
+      ]
+    },
+    {
+      "code": "IS 1905",
+      "full_name": "Code of Practice for Structural Safety of Brickwork",
+      "aliases": [
+        "IS1905",
+        "IS-1905"
+      ],
+      "applies_to": [
+        "brick masonry"
+      ]
+    },
+    {
+      "code": "IS 1597",
+      "full_name": "Code of Practice for Construction of Stone Masonry",
+      "aliases": [
+        "IS1597",
+        "IS-1597"
+      ],
+      "applies_to": [
+        "stone masonry",
+        "rubble"
+      ]
+    },
+    {
+      "code": "IS 3144",
+      "full_name": "Code of Practice for Treatment of Existing Buildings Against Leakage",
+      "aliases": [
+        "IS3144",
+        "IS-3144"
+      ],
+      "applies_to": [
+        "waterproofing",
+        "leakage"
+      ]
+    },
+    {
+      "code": "IS 1582",
+      "full_name": "Bitumen Felts for Waterproofing and Damp Proofing",
+      "aliases": [
+        "IS1582",
+        "IS-1582"
+      ],
+      "applies_to": [
+        "tarfelt",
+        "bitumen felt"
+      ]
+    },
+    {
+      "code": "IS 1322",
+      "full_name": "Bitumen Felts for Roof Waterproofing",
+      "aliases": [
+        "IS1322",
+        "IS-1322"
+      ],
+      "applies_to": [
+        "tarfelt",
+        "roofing felt"
+      ]
+    },
+    {
+      "code": "IS 3067",
+      "full_name": "Code of Practice for Damp Proofing",
+      "aliases": [
+        "IS3067",
+        "IS-3067"
+      ],
+      "applies_to": [
+        "DPC",
+        "damp proofing"
+      ]
+    },
+    {
+      "code": "IS 9859",
+      "full_name": "Polyvinyl Chloride Pipes for Potable Water Supplies",
+      "aliases": [
+        "IS9859",
+        "IS-9859"
+      ],
+      "applies_to": [
+        "PVC pipe",
+        "uPVC pipe"
+      ]
+    },
+    {
+      "code": "IS 4985",
+      "full_name": "Unplasticized PVC Pipes for Potable Water Supplies",
+      "aliases": [
+        "IS4985",
+        "IS-4985"
+      ],
+      "applies_to": [
+        "uPVC pipe",
+        "PVC pipe"
+      ]
+    },
+    {
+      "code": "IS 4984",
+      "full_name": "High Density Polyethylene Pipes for Water Supply",
+      "aliases": [
+        "IS4984",
+        "IS-4984"
+      ],
+      "applies_to": [
+        "HDPE pipe"
+      ]
+    },
+    {
+      "code": "IS 3589",
+      "full_name": "Electric Resistance Welded Steel Pipes",
+      "aliases": [
+        "IS3589",
+        "IS-3589"
+      ],
+      "applies_to": [
+        "steel pipe",
+        "MS pipe"
+      ]
+    },
+    {
+      "code": "IS 1239",
+      "full_name": "Steel Tubes, Tubulars and Other Wrought Steel Fittings",
+      "aliases": [
+        "IS1239",
+        "IS-1239"
+      ],
+      "applies_to": [
+        "GI pipe",
+        "MS pipe",
+        "steel tube"
+      ]
+    },
+    {
+      "code": "IS 1538",
+      "full_name": "Cast Iron Spun Pipes and Fittings",
+      "aliases": [
+        "IS1538",
+        "IS-1538"
+      ],
+      "applies_to": [
+        "CI pipe",
+        "cast iron pipe"
+      ]
+    },
+    {
+      "code": "IS 7181",
+      "full_name": "Cast Iron Pipes for Water and Sewerage",
+      "aliases": [
+        "IS7181",
+        "IS-7181"
+      ],
+      "applies_to": [
+        "CI pipe",
+        "spun pipe"
+      ]
+    },
+    {
+      "code": "IS 9537",
+      "full_name": "Rigid PVC Conduits for Electrical Wiring",
+      "aliases": [
+        "IS9537",
+        "IS-9537"
+      ],
+      "applies_to": [
+        "PVC conduit",
+        "conduit"
+      ]
+    },
+    {
+      "code": "IS 694",
+      "full_name": "PVC Insulated Cables",
+      "aliases": [
+        "IS694",
+        "IS-694"
+      ],
+      "applies_to": [
+        "cable",
+        "wire"
+      ]
+    },
+    {
+      "code": "IS 1554",
+      "full_name": "PVC Insulated (Heavy Duty) Electric Cables",
+      "aliases": [
+        "IS1554",
+        "IS-1554"
+      ],
+      "applies_to": [
+        "power cable"
+      ]
+    },
+    {
+      "code": "IS 7098",
+      "full_name": "XLPE Insulated Power Cables",
+      "aliases": [
+        "IS7098",
+        "IS-7098"
+      ],
+      "applies_to": [
+        "cable",
+        "power cable"
+      ]
+    },
+    {
+      "code": "IS 3043",
+      "full_name": "Code of Practice for Earthing",
+      "aliases": [
+        "IS3043",
+        "IS-3043"
+      ],
+      "applies_to": [
+        "earthing",
+        "grounding"
+      ]
+    },
+    {
+      "code": "IS 2082",
+      "full_name": "Specification for Electric Instantaneous Water Heaters",
+      "aliases": [
+        "IS2082",
+        "IS-2082"
+      ],
+      "applies_to": [
+        "geyser",
+        "water heater"
+      ]
+    },
+    {
+      "code": "IS 374",
+      "full_name": "Electric Ceiling Fans",
+      "aliases": [
+        "IS374",
+        "IS-374"
+      ],
+      "applies_to": [
+        "ceiling fan",
+        "fan"
+      ]
+    },
+    {
+      "code": "IS 8828",
+      "full_name": "Circuit Breakers for Alternating Current Systems",
+      "aliases": [
+        "IS8828",
+        "IS-8828"
+      ],
+      "applies_to": [
+        "switchgear",
+        "circuit breaker"
+      ]
+    },
+    {
+      "code": "IS 12640",
+      "full_name": "Residual Current Circuit Breakers",
+      "aliases": [
+        "IS12640",
+        "IS-12640"
+      ],
+      "applies_to": [
+        "RCCB",
+        "safety device"
+      ]
+    },
+    {
+      "code": "IS 2190",
+      "full_name": "Selection, Installation and Maintenance of Fire Extinguishers",
+      "aliases": [
+        "IS2190",
+        "IS-2190"
+      ],
+      "applies_to": [
+        "fire extinguisher"
+      ]
+    },
+    {
+      "code": "IS 2553",
+      "full_name": "Specification for Safety Glass",
+      "aliases": [
+        "IS2553",
+        "IS-2553"
+      ],
+      "applies_to": [
+        "glass",
+        "toughened glass"
+      ]
+    },
+    {
+      "code": "IS 14900",
+      "full_name": "Transparent Float Glass",
+      "aliases": [
+        "IS14900",
+        "IS-14900"
+      ],
+      "applies_to": [
+        "glass",
+        "float glass"
+      ]
+    },
+    {
+      "code": "IS 303",
+      "full_name": "Plywood for General Purposes",
+      "aliases": [
+        "IS303",
+        "IS-303"
+      ],
+      "applies_to": [
+        "plywood"
+      ]
+    },
+    {
+      "code": "IS 710",
+      "full_name": "Marine Plywood",
+      "aliases": [
+        "IS710",
+        "IS-710"
+      ],
+      "applies_to": [
+        "marine plywood"
+      ]
+    },
+    {
+      "code": "IS 1003",
+      "full_name": "Timber Door, Window and Ventilator Frames",
+      "aliases": [
+        "IS1003",
+        "IS-1003"
+      ],
+      "applies_to": [
+        "door frame",
+        "timber frame"
+      ]
+    },
+    {
+      "code": "IS 2202",
+      "full_name": "Wooden Flush Doors (Solid Core Type)",
+      "aliases": [
+        "IS2202",
+        "IS-2202"
+      ],
+      "applies_to": [
+        "flush door",
+        "ply door"
+      ]
+    },
+    {
+      "code": "IS 3424",
+      "full_name": "Galvanized Steel Sheets for Roofing",
+      "aliases": [
+        "IS3424",
+        "IS-3424"
+      ],
+      "applies_to": [
+        "GI sheet",
+        "roofing sheet"
+      ]
+    },
+    {
+      "code": "IS 1038",
+      "full_name": "Steel Doors, Windows and Ventilators",
+      "aliases": [
+        "IS1038",
+        "IS-1038"
+      ],
+      "applies_to": [
+        "steel door",
+        "steel window"
+      ]
+    },
+    {
+      "code": "IS 1948",
+      "full_name": "Aluminum Windows",
+      "aliases": [
+        "IS1948",
+        "IS-1948"
+      ],
+      "applies_to": [
+        "aluminum window",
+        "al window"
+      ]
+    },
+    {
+      "code": "IS 1949",
+      "full_name": "Aluminum Doors and Windows",
+      "aliases": [
+        "IS1949",
+        "IS-1949"
+      ],
+      "applies_to": [
+        "aluminum door",
+        "al window"
+      ]
+    },
+    {
+      "code": "IS 14222",
+      "full_name": "Precoated Galvanized Steel Sheets",
+      "aliases": [
+        "IS14222",
+        "IS-14222"
+      ],
+      "applies_to": [
+        "color coated sheet",
+        "PPGL"
+      ]
+    },
+    {
+      "code": "IS 1622",
+      "full_name": "Wood Particle Board",
+      "aliases": [
+        "IS1622",
+        "IS-1622"
+      ],
+      "applies_to": [
+        "particle board",
+        "MDF"
+      ]
+    },
+    {
+      "code": "IS 3097",
+      "full_name": "Veneered Particle Board",
+      "aliases": [
+        "IS3097",
+        "IS-3097"
+      ],
+      "applies_to": [
+        "particle board"
+      ]
+    },
+    {
+      "code": "IS 1661",
+      "full_name": "Code of Practice for Application of Cement and CementBased Plasters",
+      "aliases": [
+        "IS1661",
+        "IS-1661"
+      ],
+      "applies_to": [
+        "plaster",
+        "cement plaster"
+      ]
+    },
+    {
+      "code": "IS 3456",
+      "full_name": "Ready Mixed Paint, Oil Wood Preservative",
+      "aliases": [
+        "IS3456",
+        "IS-3456"
+      ],
+      "applies_to": [
+        "varnish",
+        "wood finish"
+      ]
+    },
+    {
+      "code": "IS 428",
+      "full_name": "Distemper, Oil Bound, Acrylic",
+      "aliases": [
+        "IS428",
+        "IS-428"
+      ],
+      "applies_to": [
+        "distemper",
+        "emulsion paint"
+      ]
+    },
+    {
+      "code": "IS 101",
+      "full_name": "Methods of Tests for Ready Mixed Paint",
+      "aliases": [
+        "IS101",
+        "IS-101"
+      ],
+      "applies_to": [
+        "paint",
+        "primer"
+      ]
+    },
+    {
+      "code": "IS 15622",
+      "full_name": "Glazed Ceramic Tiles",
+      "aliases": [
+        "IS15622",
+        "IS-15622"
+      ],
+      "applies_to": [
+        "tile",
+        "ceramic tile"
+      ]
+    },
+    {
+      "code": "IS 13730",
+      "full_name": "Ceramic Tiles",
+      "aliases": [
+        "IS13730",
+        "IS-13730"
+      ],
+      "applies_to": [
+        "tile"
+      ]
+    },
+    {
+      "code": "IS 1237",
+      "full_name": "Chequered Tiles",
+      "aliases": [
+        "IS1237",
+        "IS-1237"
+      ],
+      "applies_to": [
+        "mosaic tile",
+        "chequered tile"
+      ]
+    },
+    {
+      "code": "IS 802",
+      "full_name": "Code of Practice for Use of Structural Steel in General Bridge Construction",
+      "aliases": [
+        "IS802",
+        "IS-802"
+      ],
+      "applies_to": [
+        "structural steel",
+        "purlin",
+        "truss"
+      ]
+    },
+    {
+      "code": "IS 4000",
+      "full_name": "Code of Practice for Fabrication and Erection of Steel Structure",
+      "aliases": [
+        "IS4000",
+        "IS-4000"
+      ],
+      "applies_to": [
+        "steel structure",
+        "gate",
+        "grill"
+      ]
+    },
+    {
+      "code": "IS 4963",
+      "full_name": "Recommendations for Buildings Drainage",
+      "aliases": [
+        "IS4963",
+        "IS-4963"
+      ],
+      "applies_to": [
+        "drainage",
+        "plumbing"
+      ]
+    },
+    {
+      "code": "IS 2062",
+      "full_name": "Hot Rolled Medium and High Tensile Structural Steel",
+      "aliases": [
+        "IS2062",
+        "IS-2062"
+      ],
+      "applies_to": [
+        "structural steel"
+      ]
+    },
+    {
+      "code": "ASTM A36",
+      "full_name": "Standard Specification for Carbon Structural Steel",
+      "aliases": [
+        "ASTM A36",
+        "A36"
+      ],
+      "applies_to": [
+        "structural steel",
+        "mild steel"
+      ]
+    },
+    {
+      "code": "ASTM A615",
+      "full_name": "Standard Specification for Deformed and Plain Carbon-Steel Bars for Concrete Reinforcement",
+      "aliases": [
+        "ASTM A615",
+        "A615"
+      ],
+      "applies_to": [
+        "rebar",
+        "TMT",
+        "reinforcement"
+      ]
+    },
+    {
+      "code": "ASTM A653",
+      "full_name": "Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) by Hot-Dip Process",
+      "aliases": [
+        "ASTM A653",
+        "A653"
+      ],
+      "applies_to": [
+        "GI sheet",
+        "galvanized steel"
+      ]
+    },
+    {
+      "code": "ASTM A888",
+      "full_name": "Standard Specification for Hubless Cast Iron Soil Pipe and Fittings",
+      "aliases": [
+        "ASTM A888"
+      ],
+      "applies_to": [
+        "CI pipe",
+        "cast iron"
+      ]
+    },
+    {
+      "code": "BS 5950",
+      "full_name": "Structural Use of Steelwork in Building",
+      "aliases": [
+        "BS 5950",
+        "BS5950"
+      ],
+      "applies_to": [
+        "structural steel",
+        "steelwork"
+      ]
+    },
+    {
+      "code": "BS EN 197-1",
+      "full_name": "Cement - Composition, Conformity Criteria for Common Cements",
+      "aliases": [
+        "BS EN 197-1",
+        "EN 197-1",
+        "BSEN197"
+      ],
+      "applies_to": [
+        "cement"
+      ]
+    },
+    {
+      "code": "BS 4449",
+      "full_name": "Carbon Steel Bars for the Reinforcement of Concrete",
+      "aliases": [
+        "BS 4449",
+        "BS4449"
+      ],
+      "applies_to": [
+        "rebar",
+        "TMT"
+      ]
+    },
+    {
+      "code": "BS 1387",
+      "full_name": "Steel Tubes for Conduit and Water Mains",
+      "aliases": [
+        "BS 1387",
+        "BS1387"
+      ],
+      "applies_to": [
+        "GI pipe",
+        "steel tube"
+      ]
+    },
+    {
+      "code": "DIN 1045",
+      "full_name": "Concrete - Reinforced and Prestressed Concrete Structures",
+      "aliases": [
+        "DIN 1045"
+      ],
+      "applies_to": [
+        "concrete"
+      ]
+    },
+    {
+      "code": "EN 206",
+      "full_name": "Concrete - Specification, Performance, Production and Conformity",
+      "aliases": [
+        "EN 206",
+        "BS EN 206"
+      ],
+      "applies_to": [
+        "concrete"
+      ]
+    },
+    {
+      "code": "IS 2386",
+      "full_name": "Methods of Test for Aggregates",
+      "aliases": [
+        "IS2386",
+        "IS-2386"
+      ],
+      "applies_to": [
+        "concrete",
+        "aggregates",
+        "mix design"
+      ]
+    },
+    {
+      "code": "IS 10262",
+      "full_name": "Concrete Mix Proportioning Guidelines",
+      "aliases": [
+        "IS10262",
+        "IS-10262"
+      ],
+      "applies_to": [
+        "concrete",
+        "mix design",
+        "M20",
+        "M25",
+        "M30"
+      ]
+    },
+    {
+      "code": "IS 3370",
+      "full_name": "Code of Practice for Concrete Structures for Storage of Liquids",
+      "aliases": [
+        "IS3370",
+        "IS-3370"
+      ],
+      "applies_to": [
+        "water tank",
+        "RCC",
+        "storage"
+      ]
+    },
+    {
+      "code": "IS 800",
+      "full_name": "General Construction in Steel",
+      "aliases": [
+        "IS800",
+        "IS-800"
+      ],
+      "applies_to": [
+        "steel",
+        "structural steel",
+        "section"
+      ]
+    },
+    {
+      "code": "IS 875 Part 1",
+      "full_name": "Dead Loads",
+      "aliases": [
+        "IS 875-1",
+        "IS875-1"
+      ],
+      "applies_to": [
+        "load",
+        "structure"
+      ]
+    },
+    {
+      "code": "IS 875 Part 2",
+      "full_name": "Imposed Loads",
+      "aliases": [
+        "IS 875-2",
+        "IS875-2"
+      ],
+      "applies_to": [
+        "load",
+        "floor",
+        "live load"
+      ]
+    },
+    {
+      "code": "IS 875 Part 3",
+      "full_name": "Wind Loads",
+      "aliases": [
+        "IS 875-3",
+        "IS875-3"
+      ],
+      "applies_to": [
+        "wind",
+        "structure",
+        "design"
+      ]
+    },
+    {
+      "code": "IS 875 Part 5",
+      "full_name": "Special Loads and Combinations",
+      "aliases": [
+        "IS 875-5",
+        "IS875-5"
+      ],
+      "applies_to": [
+        "load",
+        "seismic",
+        "earthquake"
+      ]
+    }
+  ]
+}

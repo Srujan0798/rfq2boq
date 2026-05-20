@@ -1,0 +1,227 @@
+{
+  "id": "syn_0289",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "electrical",
+  "text": "The scope of work includes cable, light fixture, switch for the Shopping Mall at Outer Ring Road project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix SWR pipe 16mm thick  452  ltr  690  49796\n2  Apply MS door  390  kg  532  25207\n3  Supply and fix M20 M25 concrete 150 x 150mm  500  ltr  254  89510\n4  Supply and fix Class 1 tile  157  sqm  323  53915\n5  Supply and install light fixture  62  ls  4923  75237\n6  Supply and lay Fe415 MS plate 20mm thick  450  ltr  4354  19435\n7  Install Class A AAC block  79  nos  2001  77953\n8  Plaster membrane 300mm thick  100  cum  325  13531\n9  Install SWR pipe 25mm thick  48  sqm  2612  28403\n10  Provide and install aluminum window 16mm diameter  126  rmt  1056  29138\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes cable, light fixture, switch for the Shopping Mall at Outer Ring Road project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and fix SWR pipe 16mm thick Apply MS door Supply and fix M20 M25 concrete 150 x 150mm Supply and fix Class 1 tile Supply and install light fixture Supply and lay Fe415 MS plate 20mm thick Install Class A AAC block Plaster membrane 300mm thick Install SWR pipe 25mm thick Provide and install aluminum window 16mm diameter",
+  "sections": {
+    "scope": "The scope of work includes cable, light fixture, switch for the Shopping Mall at Outer Ring Road project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix SWR pipe 16mm thick",
+        "452",
+        "ltr",
+        "690",
+        "49796"
+      ],
+      [
+        "2",
+        "Apply MS door",
+        "390",
+        "kg",
+        "532",
+        "25207"
+      ],
+      [
+        "3",
+        "Supply and fix M20 M25 concrete 150 x 150mm",
+        "500",
+        "ltr",
+        "254",
+        "89510"
+      ],
+      [
+        "4",
+        "Supply and fix Class 1 tile",
+        "157",
+        "sqm",
+        "323",
+        "53915"
+      ],
+      [
+        "5",
+        "Supply and install light fixture",
+        "62",
+        "ls",
+        "4923",
+        "75237"
+      ],
+      [
+        "6",
+        "Supply and lay Fe415 MS plate 20mm thick",
+        "450",
+        "ltr",
+        "4354",
+        "19435"
+      ],
+      [
+        "7",
+        "Install Class A AAC block",
+        "79",
+        "nos",
+        "2001",
+        "77953"
+      ],
+      [
+        "8",
+        "Plaster membrane 300mm thick",
+        "100",
+        "cum",
+        "325",
+        "13531"
+      ],
+      [
+        "9",
+        "Install SWR pipe 25mm thick",
+        "48",
+        "sqm",
+        "2612",
+        "28403"
+      ],
+      [
+        "10",
+        "Provide and install aluminum window 16mm diameter",
+        "126",
+        "rmt",
+        "1056",
+        "29138"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 452,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 390,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "150 x 150mm",
+        "quantity": 500,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 157,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 62,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "20mm thick",
+        "quantity": 450,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 79,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Plaster",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 100,
+        "unit": "m^3",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 48,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 126,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

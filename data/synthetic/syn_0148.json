@@ -1,0 +1,147 @@
+{
+  "id": "syn_0148",
+  "project_name": "Hotel at Airport Road",
+  "category": "brickwork",
+  "text": "Supply and installation of AAC block, brick masonry, hollow block for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install flush door 16mm thick  171  kg  1437  56611\n2  Supply Class 1 tile 100mm thick  480  kg  3701  17136\n3  Fabricate and erect Class A hollow block 10mm diameter  454  kg  3370  27035\n4  Cast Fe500 MS plate  427  sqm  4250  76799\n5  Supply and fix DB  397  kg  3035  99262\n6  Provide and install integral waterproofing 200 x 200mm  117  sqm  2191  67680\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of AAC block, brick masonry, hollow block for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install flush door 16mm thick Supply Class 1 tile 100mm thick Fabricate and erect Class A hollow block 10mm diameter Cast Fe500 MS plate Supply and fix DB Provide and install integral waterproofing 200 x 200mm",
+  "sections": {
+    "scope": "Supply and installation of AAC block, brick masonry, hollow block for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install flush door 16mm thick",
+        "171",
+        "kg",
+        "1437",
+        "56611"
+      ],
+      [
+        "2",
+        "Supply Class 1 tile 100mm thick",
+        "480",
+        "kg",
+        "3701",
+        "17136"
+      ],
+      [
+        "3",
+        "Fabricate and erect Class A hollow block 10mm diameter",
+        "454",
+        "kg",
+        "3370",
+        "27035"
+      ],
+      [
+        "4",
+        "Cast Fe500 MS plate",
+        "427",
+        "sqm",
+        "4250",
+        "76799"
+      ],
+      [
+        "5",
+        "Supply and fix DB",
+        "397",
+        "kg",
+        "3035",
+        "99262"
+      ],
+      [
+        "6",
+        "Provide and install integral waterproofing 200 x 200mm",
+        "117",
+        "sqm",
+        "2191",
+        "67680"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 171,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "100mm thick",
+        "quantity": 480,
+        "unit": "kg",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "10mm diameter",
+        "quantity": 454,
+        "unit": "kg",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 427,
+        "unit": "m^2",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "DB",
+        "grade": "",
+        "dimension": "",
+        "quantity": 397,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 117,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

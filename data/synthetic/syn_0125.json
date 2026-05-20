@@ -1,0 +1,187 @@
+{
+  "id": "syn_0125",
+  "project_name": "Warehouse at Peenya",
+  "category": "concrete",
+  "text": "The scope of work includes RCC, PCC, M20 concrete for the Warehouse at Peenya project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply integral waterproofing 16mm thick  489  cum  650  1004\n2  Lay GI conduit  59  kg  301  67296\n3  Supply and install M35 M35 concrete  484  sqm  1607  31792\n4  Install Fe500 rebar 230mm thick  323  set  1298  84387\n5  Supply and fix Class 1 cement plaster  429  kg  4578  27260\n6  Provide and lay glass 12mm diameter  158  sqm  2354  52273\n7  Fabricate and erect CI pipe  223  ltr  3844  16745\n8  Cast Class A hollow block 10mm diameter  165  cum  3005  19258\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes RCC, PCC, M20 concrete for the Warehouse at Peenya project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below. Apply integral waterproofing 16mm thick Lay GI conduit Supply and install M35 M35 concrete Install Fe500 rebar 230mm thick Supply and fix Class 1 cement plaster Provide and lay glass 12mm diameter Fabricate and erect CI pipe Cast Class A hollow block 10mm diameter",
+  "sections": {
+    "scope": "The scope of work includes RCC, PCC, M20 concrete for the Warehouse at Peenya project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply integral waterproofing 16mm thick",
+        "489",
+        "cum",
+        "650",
+        "1004"
+      ],
+      [
+        "2",
+        "Lay GI conduit",
+        "59",
+        "kg",
+        "301",
+        "67296"
+      ],
+      [
+        "3",
+        "Supply and install M35 M35 concrete",
+        "484",
+        "sqm",
+        "1607",
+        "31792"
+      ],
+      [
+        "4",
+        "Install Fe500 rebar 230mm thick",
+        "323",
+        "set",
+        "1298",
+        "84387"
+      ],
+      [
+        "5",
+        "Supply and fix Class 1 cement plaster",
+        "429",
+        "kg",
+        "4578",
+        "27260"
+      ],
+      [
+        "6",
+        "Provide and lay glass 12mm diameter",
+        "158",
+        "sqm",
+        "2354",
+        "52273"
+      ],
+      [
+        "7",
+        "Fabricate and erect CI pipe",
+        "223",
+        "ltr",
+        "3844",
+        "16745"
+      ],
+      [
+        "8",
+        "Cast Class A hollow block 10mm diameter",
+        "165",
+        "cum",
+        "3005",
+        "19258"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 489,
+        "unit": "m^3",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 59,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 484,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "230mm thick",
+        "quantity": 323,
+        "unit": "set",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 429,
+        "unit": "kg",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 158,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fabricate and erect",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 223,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "10mm diameter",
+        "quantity": 165,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

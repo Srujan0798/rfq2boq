@@ -1,0 +1,167 @@
+{
+  "id": "syn_0201",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "waterproofing",
+  "text": "Supply and installation of integral waterproofing, brickbat coba, membrane for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install switch 100mm thick  414  sqm  4760  79145\n2  Fix integral waterproofing 230mm thick  365  set  3816  16551\n3  Provide and install Class B AAC block 200 x 200mm  227  ls  2614  18083\n4  Provide and lay aluminum window 300mm thick  492  sqm  1253  64157\n5  Supply and lay M35 M20 concrete 12mm diameter  195  rmt  594  22804\n6  Supply and install Fe550 rebar 100mm thick  236  sqm  1969  18037\n7  Lay Class 2 POP 25mm thick  342  sqm  162  30076\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of integral waterproofing, brickbat coba, membrane for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install switch 100mm thick Fix integral waterproofing 230mm thick Provide and install Class B AAC block 200 x 200mm Provide and lay aluminum window 300mm thick Supply and lay M35 M20 concrete 12mm diameter Supply and install Fe550 rebar 100mm thick Lay Class 2 POP 25mm thick",
+  "sections": {
+    "scope": "Supply and installation of integral waterproofing, brickbat coba, membrane for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install switch 100mm thick",
+        "414",
+        "sqm",
+        "4760",
+        "79145"
+      ],
+      [
+        "2",
+        "Fix integral waterproofing 230mm thick",
+        "365",
+        "set",
+        "3816",
+        "16551"
+      ],
+      [
+        "3",
+        "Provide and install Class B AAC block 200 x 200mm",
+        "227",
+        "ls",
+        "2614",
+        "18083"
+      ],
+      [
+        "4",
+        "Provide and lay aluminum window 300mm thick",
+        "492",
+        "sqm",
+        "1253",
+        "64157"
+      ],
+      [
+        "5",
+        "Supply and lay M35 M20 concrete 12mm diameter",
+        "195",
+        "rmt",
+        "594",
+        "22804"
+      ],
+      [
+        "6",
+        "Supply and install Fe550 rebar 100mm thick",
+        "236",
+        "sqm",
+        "1969",
+        "18037"
+      ],
+      [
+        "7",
+        "Lay Class 2 POP 25mm thick",
+        "342",
+        "sqm",
+        "162",
+        "30076"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 414,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 365,
+        "unit": "set",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "200 x 200mm",
+        "quantity": 227,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 492,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "12mm diameter",
+        "quantity": 195,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "100mm thick",
+        "quantity": 236,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "25mm thick",
+        "quantity": 342,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0074",
+  "project_name": "Commercial Building at MG Road",
+  "category": "steel",
+  "text": "Supply and installation of GI sheet, structural steel, MS plate for Commercial Building at MG Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect light fixture  466  kg  4068  8122\n2  Provide and install CI pipe  485  set  1217  60996\n3  Provide and lay aluminum window  113  ls  2398  18891\n4  Fabricate and erect Fe500 TMT steel 20mm thick  224  rmt  1384  84623\n5  Lay Class C AAC block  447  kg  4107  29369\n6  Install M35 PCC  246  nos  2120  33483\n7  Cast integral waterproofing 100mm thick  123  rmt  462  6250\n8  Erect Class 1 paint 230mm thick  281  ltr  4157  32524\n9  Apply cable 300mm thick  384  ltr  2523  32334\n10  Fabricate and erect GI pipe  352  nos  4772  98948\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI sheet, structural steel, MS plate for Commercial Building at MG Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Erect light fixture Provide and install CI pipe Provide and lay aluminum window Fabricate and erect Fe500 TMT steel 20mm thick Lay Class C AAC block Install M35 PCC Cast integral waterproofing 100mm thick Erect Class 1 paint 230mm thick Apply cable 300mm thick Fabricate and erect GI pipe",
+  "sections": {
+    "scope": "Supply and installation of GI sheet, structural steel, MS plate for Commercial Building at MG Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect light fixture",
+        "466",
+        "kg",
+        "4068",
+        "8122"
+      ],
+      [
+        "2",
+        "Provide and install CI pipe",
+        "485",
+        "set",
+        "1217",
+        "60996"
+      ],
+      [
+        "3",
+        "Provide and lay aluminum window",
+        "113",
+        "ls",
+        "2398",
+        "18891"
+      ],
+      [
+        "4",
+        "Fabricate and erect Fe500 TMT steel 20mm thick",
+        "224",
+        "rmt",
+        "1384",
+        "84623"
+      ],
+      [
+        "5",
+        "Lay Class C AAC block",
+        "447",
+        "kg",
+        "4107",
+        "29369"
+      ],
+      [
+        "6",
+        "Install M35 PCC",
+        "246",
+        "nos",
+        "2120",
+        "33483"
+      ],
+      [
+        "7",
+        "Cast integral waterproofing 100mm thick",
+        "123",
+        "rmt",
+        "462",
+        "6250"
+      ],
+      [
+        "8",
+        "Erect Class 1 paint 230mm thick",
+        "281",
+        "ltr",
+        "4157",
+        "32524"
+      ],
+      [
+        "9",
+        "Apply cable 300mm thick",
+        "384",
+        "ltr",
+        "2523",
+        "32334"
+      ],
+      [
+        "10",
+        "Fabricate and erect GI pipe",
+        "352",
+        "nos",
+        "4772",
+        "98948"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 466,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 485,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 113,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "20mm thick",
+        "quantity": 224,
+        "unit": "rmt",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 447,
+        "unit": "kg",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "PCC",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 246,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 123,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 281,
+        "unit": "ltr",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Apply",
+        "material": "cable",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 384,
+        "unit": "ltr",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fabricate and erect",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 352,
+        "unit": "no.",
+        "standard": [
+          "IS 4985"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

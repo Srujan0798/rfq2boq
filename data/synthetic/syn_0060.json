@@ -1,0 +1,247 @@
+{
+  "id": "syn_0060",
+  "project_name": "IT Park Phase 2",
+  "category": "waterproofing",
+  "text": "The scope of work includes integral waterproofing, DPC, membrane for the IT Park Phase 2 project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay M25 RCC 150 x 150mm  317  set  2759  49722\n2  Install glass 16mm thick  381  ls  4607  98593\n3  Fabricate and erect Class B fly ash brick  239  ltr  2430  79087\n4  Supply Class 1 cement plaster 20mm thick  164  cum  2679  3844\n5  Supply and lay HDPE pipe 300mm thick  29  set  3107  77304\n6  Provide and lay membrane  425  nos  4761  29499\n7  Fix cable 230mm thick  257  rmt  2560  5898\n8  Supply and lay Fe500 rebar 150 x 150mm  409  cum  3657  55594\n9  Apply M25 M20 concrete 6mm diameter  344  cum  2596  69731\n10  Lay flush door 20mm thick  299  rmt  513  89294\n11  Fix Class B hollow block  314  sqm  3330  20400\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes integral waterproofing, DPC, membrane for the IT Park Phase 2 project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below. Lay M25 RCC 150 x 150mm Install glass 16mm thick Fabricate and erect Class B fly ash brick Supply Class 1 cement plaster 20mm thick Supply and lay HDPE pipe 300mm thick Provide and lay membrane Fix cable 230mm thick Supply and lay Fe500 rebar 150 x 150mm Apply M25 M20 concrete 6mm diameter Lay flush door 20mm thick Fix Class B hollow block",
+  "sections": {
+    "scope": "The scope of work includes integral waterproofing, DPC, membrane for the IT Park Phase 2 project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay M25 RCC 150 x 150mm",
+        "317",
+        "set",
+        "2759",
+        "49722"
+      ],
+      [
+        "2",
+        "Install glass 16mm thick",
+        "381",
+        "ls",
+        "4607",
+        "98593"
+      ],
+      [
+        "3",
+        "Fabricate and erect Class B fly ash brick",
+        "239",
+        "ltr",
+        "2430",
+        "79087"
+      ],
+      [
+        "4",
+        "Supply Class 1 cement plaster 20mm thick",
+        "164",
+        "cum",
+        "2679",
+        "3844"
+      ],
+      [
+        "5",
+        "Supply and lay HDPE pipe 300mm thick",
+        "29",
+        "set",
+        "3107",
+        "77304"
+      ],
+      [
+        "6",
+        "Provide and lay membrane",
+        "425",
+        "nos",
+        "4761",
+        "29499"
+      ],
+      [
+        "7",
+        "Fix cable 230mm thick",
+        "257",
+        "rmt",
+        "2560",
+        "5898"
+      ],
+      [
+        "8",
+        "Supply and lay Fe500 rebar 150 x 150mm",
+        "409",
+        "cum",
+        "3657",
+        "55594"
+      ],
+      [
+        "9",
+        "Apply M25 M20 concrete 6mm diameter",
+        "344",
+        "cum",
+        "2596",
+        "69731"
+      ],
+      [
+        "10",
+        "Lay flush door 20mm thick",
+        "299",
+        "rmt",
+        "513",
+        "89294"
+      ],
+      [
+        "11",
+        "Fix Class B hollow block",
+        "314",
+        "sqm",
+        "3330",
+        "20400"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "RCC",
+        "grade": "M25",
+        "dimension": "150 x 150mm",
+        "quantity": 317,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 381,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 239,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "20mm thick",
+        "quantity": 164,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 29,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 425,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 257,
+        "unit": "rmt",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "150 x 150mm",
+        "quantity": 409,
+        "unit": "m^3",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Apply",
+        "material": "M20 concrete",
+        "grade": "M25",
+        "dimension": "6mm diameter",
+        "quantity": 344,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 299,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Fix",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 314,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

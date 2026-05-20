@@ -1,0 +1,48 @@
+{
+  "project": "Sample Building Construction - Phase 1",
+  "location": "New Delhi",
+  "date": "January 15, 2026",
+  "total_items": 6,
+  "items": [
+    {
+      "item_no": 1,
+      "description": "grade concrete for foundation 50",
+      "quantity": "50",
+      "unit": "m\u00b3"
+    },
+    {
+      "item_no": 2,
+      "description": "grade concrete for columns 30",
+      "quantity": "30",
+      "unit": "m\u00b3"
+    },
+    {
+      "item_no": 3,
+      "description": "TMT steel bars 10mm dia 2500",
+      "quantity": "2500",
+      "unit": "kg"
+    },
+    {
+      "item_no": 4,
+      "description": "TMT steel bars 8mm dia 1500",
+      "quantity": "1500",
+      "unit": "kg"
+    },
+    {
+      "item_no": 5,
+      "description": "First class brickwork for walls 200",
+      "quantity": "200",
+      "unit": "m\u00b3"
+    },
+    {
+      "item_no": 6,
+      "description": "External plastering with CPVC 500",
+      "quantity": "500",
+      "unit": "m\u00b2"
+    }
+  ],
+  "extraction_summary": {
+    "source_file": "sample_rfq_simple.pdf",
+    "total_entities": 33
+  }
+}

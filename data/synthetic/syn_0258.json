@@ -1,0 +1,167 @@
+{
+  "id": "syn_0258",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "waterproofing",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply Fe550 GI sheet 16mm diameter  25  nos  4944  90053\n2  Supply and install M25 M25 concrete 20mm thick  365  ls  149  46462\n3  Lay Class C brick masonry 8mm diameter  493  rmt  786  43909\n4  Provide and lay glass 150 x 150mm  407  cum  3788  8572\n5  Fabricate and erect DPC 12mm thick  373  ls  730  77899\n6  Install cable  410  nos  4006  28532\n7  Fabricate and erect CI pipe  383  kg  1542  23995\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications. Apply Fe550 GI sheet 16mm diameter Supply and install M25 M25 concrete 20mm thick Lay Class C brick masonry 8mm diameter Provide and lay glass 150 x 150mm Fabricate and erect DPC 12mm thick Install cable Fabricate and erect CI pipe",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply Fe550 GI sheet 16mm diameter",
+        "25",
+        "nos",
+        "4944",
+        "90053"
+      ],
+      [
+        "2",
+        "Supply and install M25 M25 concrete 20mm thick",
+        "365",
+        "ls",
+        "149",
+        "46462"
+      ],
+      [
+        "3",
+        "Lay Class C brick masonry 8mm diameter",
+        "493",
+        "rmt",
+        "786",
+        "43909"
+      ],
+      [
+        "4",
+        "Provide and lay glass 150 x 150mm",
+        "407",
+        "cum",
+        "3788",
+        "8572"
+      ],
+      [
+        "5",
+        "Fabricate and erect DPC 12mm thick",
+        "373",
+        "ls",
+        "730",
+        "77899"
+      ],
+      [
+        "6",
+        "Install cable",
+        "410",
+        "nos",
+        "4006",
+        "28532"
+      ],
+      [
+        "7",
+        "Fabricate and erect CI pipe",
+        "383",
+        "kg",
+        "1542",
+        "23995"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "16mm diameter",
+        "quantity": 25,
+        "unit": "no.",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "M25 concrete",
+        "grade": "M25",
+        "dimension": "20mm thick",
+        "quantity": 365,
+        "unit": "ls",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "8mm diameter",
+        "quantity": 493,
+        "unit": "rmt",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 407,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 373,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 410,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fabricate and erect",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 383,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

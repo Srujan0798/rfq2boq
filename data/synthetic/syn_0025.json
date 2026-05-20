@@ -1,0 +1,267 @@
+{
+  "id": "syn_0025",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "piping",
+  "text": "Supply and installation of GI pipe, HDPE pipe, SWR pipe for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install Class 2 POP  228  ls  881  25219\n2  Provide and fix GI conduit  489  kg  2029  59554\n3  Provide and lay integral waterproofing  308  cum  2035  9142\n4  Provide and lay Class B brick masonry 100 x 100mm  91  ltr  1061  84717\n5  Cast M30 M30 concrete 12mm diameter  123  kg  3827  99007\n6  Erect Fe500 rebar 16mm thick  369  set  4980  11730\n7  Supply and lay glass  479  sqm  4791  71341\n8  Provide and fix PVC pipe  447  set  4877  65071\n9  Fix Class 2 cement plaster  38  set  3842  74912\n10  Plaster cable 6mm diameter  423  nos  124  98754\n11  Supply and install membrane 150mm thick  226  ls  3967  5159\n12  Supply and fix Class B fly ash brick 8mm diameter  403  rmt  3233  59790\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI pipe, HDPE pipe, SWR pipe for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install Class 2 POP Provide and fix GI conduit Provide and lay integral waterproofing Provide and lay Class B brick masonry 100 x 100mm Cast M30 M30 concrete 12mm diameter Erect Fe500 rebar 16mm thick Supply and lay glass Provide and fix PVC pipe Fix Class 2 cement plaster Plaster cable 6mm diameter Supply and install membrane 150mm thick Supply and fix Class B fly ash brick 8mm diameter",
+  "sections": {
+    "scope": "Supply and installation of GI pipe, HDPE pipe, SWR pipe for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install Class 2 POP",
+        "228",
+        "ls",
+        "881",
+        "25219"
+      ],
+      [
+        "2",
+        "Provide and fix GI conduit",
+        "489",
+        "kg",
+        "2029",
+        "59554"
+      ],
+      [
+        "3",
+        "Provide and lay integral waterproofing",
+        "308",
+        "cum",
+        "2035",
+        "9142"
+      ],
+      [
+        "4",
+        "Provide and lay Class B brick masonry 100 x 100mm",
+        "91",
+        "ltr",
+        "1061",
+        "84717"
+      ],
+      [
+        "5",
+        "Cast M30 M30 concrete 12mm diameter",
+        "123",
+        "kg",
+        "3827",
+        "99007"
+      ],
+      [
+        "6",
+        "Erect Fe500 rebar 16mm thick",
+        "369",
+        "set",
+        "4980",
+        "11730"
+      ],
+      [
+        "7",
+        "Supply and lay glass",
+        "479",
+        "sqm",
+        "4791",
+        "71341"
+      ],
+      [
+        "8",
+        "Provide and fix PVC pipe",
+        "447",
+        "set",
+        "4877",
+        "65071"
+      ],
+      [
+        "9",
+        "Fix Class 2 cement plaster",
+        "38",
+        "set",
+        "3842",
+        "74912"
+      ],
+      [
+        "10",
+        "Plaster cable 6mm diameter",
+        "423",
+        "nos",
+        "124",
+        "98754"
+      ],
+      [
+        "11",
+        "Supply and install membrane 150mm thick",
+        "226",
+        "ls",
+        "3967",
+        "5159"
+      ],
+      [
+        "12",
+        "Supply and fix Class B fly ash brick 8mm diameter",
+        "403",
+        "rmt",
+        "3233",
+        "59790"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 228,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 489,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 308,
+        "unit": "m^3",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "100 x 100mm",
+        "quantity": 91,
+        "unit": "ltr",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "12mm diameter",
+        "quantity": 123,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "16mm thick",
+        "quantity": 369,
+        "unit": "set",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 479,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 447,
+        "unit": "set",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fix",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 38,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Plaster",
+        "material": "cable",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 423,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 226,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Supply and fix",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "8mm diameter",
+        "quantity": 403,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

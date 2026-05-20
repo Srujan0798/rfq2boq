@@ -1,0 +1,167 @@
+{
+  "id": "syn_0132",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "waterproofing",
+  "text": "The work comprises integral waterproofing, membrane, DPC for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay DB  187  nos  2343  64784\n2  Supply CI pipe 25mm thick  96  nos  969  31366\n3  Supply and lay Class A fly ash brick  115  rmt  4522  71505\n4  Fabricate and erect Class 1 POP 100 x 100mm  436  cum  3593  96956\n5  Supply and fix Fe550 GI sheet  435  set  1082  59249\n6  Provide and lay glass 230mm thick  54  rmt  747  98553\n7  Provide and fix membrane  90  ls  4301  89091\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises integral waterproofing, membrane, DPC for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Supply and lay DB Supply CI pipe 25mm thick Supply and lay Class A fly ash brick Fabricate and erect Class 1 POP 100 x 100mm Supply and fix Fe550 GI sheet Provide and lay glass 230mm thick Provide and fix membrane",
+  "sections": {
+    "scope": "The work comprises integral waterproofing, membrane, DPC for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay DB",
+        "187",
+        "nos",
+        "2343",
+        "64784"
+      ],
+      [
+        "2",
+        "Supply CI pipe 25mm thick",
+        "96",
+        "nos",
+        "969",
+        "31366"
+      ],
+      [
+        "3",
+        "Supply and lay Class A fly ash brick",
+        "115",
+        "rmt",
+        "4522",
+        "71505"
+      ],
+      [
+        "4",
+        "Fabricate and erect Class 1 POP 100 x 100mm",
+        "436",
+        "cum",
+        "3593",
+        "96956"
+      ],
+      [
+        "5",
+        "Supply and fix Fe550 GI sheet",
+        "435",
+        "set",
+        "1082",
+        "59249"
+      ],
+      [
+        "6",
+        "Provide and lay glass 230mm thick",
+        "54",
+        "rmt",
+        "747",
+        "98553"
+      ],
+      [
+        "7",
+        "Provide and fix membrane",
+        "90",
+        "ls",
+        "4301",
+        "89091"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "",
+        "quantity": 187,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 96,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 115,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "100 x 100mm",
+        "quantity": 436,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 435,
+        "unit": "set",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 54,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 90,
+        "unit": "ls",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

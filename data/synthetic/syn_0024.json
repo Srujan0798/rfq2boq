@@ -1,0 +1,207 @@
+{
+  "id": "syn_0024",
+  "project_name": "IT Park Phase 2",
+  "category": "electrical",
+  "text": "The work comprises DB, switch, light fixture for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply Class 1 tile 200 x 200mm  370  set  2340  38721\n2  Supply flush door 300mm thick  212  ls  444  38700\n3  Provide and fix M20 RCC 12mm diameter  483  set  1755  71592\n4  Supply and fix HDPE pipe  65  kg  4450  30579\n5  Supply and lay Class A AAC block 230mm thick  221  ls  1226  1679\n6  Plaster membrane 16mm thick  488  set  2731  38409\n7  Plaster Fe415 TMT steel 150mm thick  303  kg  3523  24040\n8  Fix cable 100 x 100mm  263  rmt  175  40110\n9  Supply Class 1 putty 16mm diameter  181  nos  1199  67088\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises DB, switch, light fixture for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards. Apply Class 1 tile 200 x 200mm Supply flush door 300mm thick Provide and fix M20 RCC 12mm diameter Supply and fix HDPE pipe Supply and lay Class A AAC block 230mm thick Plaster membrane 16mm thick Plaster Fe415 TMT steel 150mm thick Fix cable 100 x 100mm Supply Class 1 putty 16mm diameter",
+  "sections": {
+    "scope": "The work comprises DB, switch, light fixture for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply Class 1 tile 200 x 200mm",
+        "370",
+        "set",
+        "2340",
+        "38721"
+      ],
+      [
+        "2",
+        "Supply flush door 300mm thick",
+        "212",
+        "ls",
+        "444",
+        "38700"
+      ],
+      [
+        "3",
+        "Provide and fix M20 RCC 12mm diameter",
+        "483",
+        "set",
+        "1755",
+        "71592"
+      ],
+      [
+        "4",
+        "Supply and fix HDPE pipe",
+        "65",
+        "kg",
+        "4450",
+        "30579"
+      ],
+      [
+        "5",
+        "Supply and lay Class A AAC block 230mm thick",
+        "221",
+        "ls",
+        "1226",
+        "1679"
+      ],
+      [
+        "6",
+        "Plaster membrane 16mm thick",
+        "488",
+        "set",
+        "2731",
+        "38409"
+      ],
+      [
+        "7",
+        "Plaster Fe415 TMT steel 150mm thick",
+        "303",
+        "kg",
+        "3523",
+        "24040"
+      ],
+      [
+        "8",
+        "Fix cable 100 x 100mm",
+        "263",
+        "rmt",
+        "175",
+        "40110"
+      ],
+      [
+        "9",
+        "Supply Class 1 putty 16mm diameter",
+        "181",
+        "nos",
+        "1199",
+        "67088"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "200 x 200mm",
+        "quantity": 370,
+        "unit": "set",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 212,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "12mm diameter",
+        "quantity": 483,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 65,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "230mm thick",
+        "quantity": 221,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 488,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Plaster",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "150mm thick",
+        "quantity": 303,
+        "unit": "kg",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 263,
+        "unit": "rmt",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "16mm diameter",
+        "quantity": 181,
+        "unit": "no.",
+        "standard": [
+          "IS 101"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

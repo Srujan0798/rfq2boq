@@ -1,0 +1,167 @@
+{
+  "id": "syn_0172",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "finishes",
+  "text": "Supply and installation of paint, putty, tile for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay flush door 300mm thick  297  sqm  3127  37357\n2  Fabricate and erect Fe500 GI sheet 150 x 150mm  342  ls  3949  68035\n3  Fix M35 M35 concrete 200mm thick  456  rmt  4111  45880\n4  Provide and lay DB 100 x 100mm  332  nos  4306  30863\n5  Supply Class B fly ash brick 100 x 100mm  132  kg  2844  68852\n6  Provide and lay DPC 16mm thick  316  ltr  1240  91221\n7  Plaster HDPE pipe 150 x 150mm  361  ls  3890  77251\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of paint, putty, tile for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and lay flush door 300mm thick Fabricate and erect Fe500 GI sheet 150 x 150mm Fix M35 M35 concrete 200mm thick Provide and lay DB 100 x 100mm Supply Class B fly ash brick 100 x 100mm Provide and lay DPC 16mm thick Plaster HDPE pipe 150 x 150mm",
+  "sections": {
+    "scope": "Supply and installation of paint, putty, tile for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay flush door 300mm thick",
+        "297",
+        "sqm",
+        "3127",
+        "37357"
+      ],
+      [
+        "2",
+        "Fabricate and erect Fe500 GI sheet 150 x 150mm",
+        "342",
+        "ls",
+        "3949",
+        "68035"
+      ],
+      [
+        "3",
+        "Fix M35 M35 concrete 200mm thick",
+        "456",
+        "rmt",
+        "4111",
+        "45880"
+      ],
+      [
+        "4",
+        "Provide and lay DB 100 x 100mm",
+        "332",
+        "nos",
+        "4306",
+        "30863"
+      ],
+      [
+        "5",
+        "Supply Class B fly ash brick 100 x 100mm",
+        "132",
+        "kg",
+        "2844",
+        "68852"
+      ],
+      [
+        "6",
+        "Provide and lay DPC 16mm thick",
+        "316",
+        "ltr",
+        "1240",
+        "91221"
+      ],
+      [
+        "7",
+        "Plaster HDPE pipe 150 x 150mm",
+        "361",
+        "ls",
+        "3890",
+        "77251"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 297,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "150 x 150mm",
+        "quantity": 342,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "200mm thick",
+        "quantity": 456,
+        "unit": "rmt",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 332,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "100 x 100mm",
+        "quantity": 132,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 316,
+        "unit": "ltr",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Plaster",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 361,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

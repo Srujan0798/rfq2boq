@@ -1,0 +1,267 @@
+{
+  "id": "syn_0184",
+  "project_name": "IT Park Phase 2",
+  "category": "electrical",
+  "text": "Supply and installation of light fixture, GI conduit, cable for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay Class C fly ash brick  363  sqm  4331  41660\n2  Supply and lay Class 1 paint  300  sqm  2165  33020\n3  Install M40 RCC 16mm diameter  324  rmt  1321  3565\n4  Cast switch 12mm thick  184  cum  2609  95487\n5  Apply glass 6mm diameter  421  nos  887  50797\n6  Supply CI pipe  135  ls  3023  62785\n7  Provide and fix Fe550 MS plate 100mm thick  262  kg  724  14525\n8  Erect membrane  453  cum  4482  97811\n9  Plaster Class A brick masonry 20mm thick  290  set  1857  29635\n10  Supply and install Class 1 tile 8mm diameter  141  cum  2397  85281\n11  Supply M35 PCC 20mm thick  117  sqm  1073  13256\n12  Supply and install switch 100mm thick  253  nos  1872  54976\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of light fixture, GI conduit, cable for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice. Provide and lay Class C fly ash brick Supply and lay Class 1 paint Install M40 RCC 16mm diameter Cast switch 12mm thick Apply glass 6mm diameter Supply CI pipe Provide and fix Fe550 MS plate 100mm thick Erect membrane Plaster Class A brick masonry 20mm thick Supply and install Class 1 tile 8mm diameter Supply M35 PCC 20mm thick Supply and install switch 100mm thick",
+  "sections": {
+    "scope": "Supply and installation of light fixture, GI conduit, cable for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay Class C fly ash brick",
+        "363",
+        "sqm",
+        "4331",
+        "41660"
+      ],
+      [
+        "2",
+        "Supply and lay Class 1 paint",
+        "300",
+        "sqm",
+        "2165",
+        "33020"
+      ],
+      [
+        "3",
+        "Install M40 RCC 16mm diameter",
+        "324",
+        "rmt",
+        "1321",
+        "3565"
+      ],
+      [
+        "4",
+        "Cast switch 12mm thick",
+        "184",
+        "cum",
+        "2609",
+        "95487"
+      ],
+      [
+        "5",
+        "Apply glass 6mm diameter",
+        "421",
+        "nos",
+        "887",
+        "50797"
+      ],
+      [
+        "6",
+        "Supply CI pipe",
+        "135",
+        "ls",
+        "3023",
+        "62785"
+      ],
+      [
+        "7",
+        "Provide and fix Fe550 MS plate 100mm thick",
+        "262",
+        "kg",
+        "724",
+        "14525"
+      ],
+      [
+        "8",
+        "Erect membrane",
+        "453",
+        "cum",
+        "4482",
+        "97811"
+      ],
+      [
+        "9",
+        "Plaster Class A brick masonry 20mm thick",
+        "290",
+        "set",
+        "1857",
+        "29635"
+      ],
+      [
+        "10",
+        "Supply and install Class 1 tile 8mm diameter",
+        "141",
+        "cum",
+        "2397",
+        "85281"
+      ],
+      [
+        "11",
+        "Supply M35 PCC 20mm thick",
+        "117",
+        "sqm",
+        "1073",
+        "13256"
+      ],
+      [
+        "12",
+        "Supply and install switch 100mm thick",
+        "253",
+        "nos",
+        "1872",
+        "54976"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 363,
+        "unit": "m^2",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 300,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "16mm diameter",
+        "quantity": 324,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "switch",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 184,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 421,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 135,
+        "unit": "ls",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and fix",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "100mm thick",
+        "quantity": 262,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 453,
+        "unit": "m^3",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Plaster",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "20mm thick",
+        "quantity": 290,
+        "unit": "set",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and install",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "8mm diameter",
+        "quantity": 141,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply",
+        "material": "PCC",
+        "grade": "M35",
+        "dimension": "20mm thick",
+        "quantity": 117,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Supply and install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 253,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

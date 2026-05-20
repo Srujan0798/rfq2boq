@@ -1,0 +1,33 @@
+Items described in the Bill of Quantities are to be supplied and installed at kitchen for the IT Park Phase 2 project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and install integral waterproofing  295  kg  883  82123
+2  Lay Fe550 structural steel 16mm thick  122  set  534  26391
+3  Plaster cable 12mm thick  442  set  453  8081
+4  Provide and lay M30 RCC  117  ltr  3812  6677
+5  Supply GI pipe  285  rmt  4073  68489
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

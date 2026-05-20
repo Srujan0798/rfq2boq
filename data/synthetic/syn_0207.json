@@ -1,0 +1,127 @@
+{
+  "id": "syn_0207",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "concrete",
+  "text": "The work comprises M25 concrete, M30 concrete, PCC for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix M20 M35 concrete  414  ltr  2645  42254\n2  Fabricate and erect light fixture 100mm thick  397  set  3791  41438\n3  Provide and install Fe415 structural steel 20mm thick  410  cum  2214  54010\n4  Install glass 150 x 150mm  334  rmt  543  15208\n5  Provide and fix Class C hollow block  319  ls  175  92067\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises M25 concrete, M30 concrete, PCC for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards. Provide and fix M20 M35 concrete Fabricate and erect light fixture 100mm thick Provide and install Fe415 structural steel 20mm thick Install glass 150 x 150mm Provide and fix Class C hollow block",
+  "sections": {
+    "scope": "The work comprises M25 concrete, M30 concrete, PCC for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix M20 M35 concrete",
+        "414",
+        "ltr",
+        "2645",
+        "42254"
+      ],
+      [
+        "2",
+        "Fabricate and erect light fixture 100mm thick",
+        "397",
+        "set",
+        "3791",
+        "41438"
+      ],
+      [
+        "3",
+        "Provide and install Fe415 structural steel 20mm thick",
+        "410",
+        "cum",
+        "2214",
+        "54010"
+      ],
+      [
+        "4",
+        "Install glass 150 x 150mm",
+        "334",
+        "rmt",
+        "543",
+        "15208"
+      ],
+      [
+        "5",
+        "Provide and fix Class C hollow block",
+        "319",
+        "ls",
+        "175",
+        "92067"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "M35 concrete",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 414,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 397,
+        "unit": "set",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "20mm thick",
+        "quantity": 410,
+        "unit": "m^3",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 334,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 319,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

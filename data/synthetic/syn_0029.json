@@ -1,0 +1,127 @@
+{
+  "id": "syn_0029",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "brickwork",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fabricate and erect Fe500 MS plate  295  ltr  2999  73642\n2  Install cable  207  cum  793  96006\n3  Plaster membrane  204  rmt  2298  65634\n4  Supply and fix M20 M25 concrete 12mm diameter  232  nos  3058  33990\n5  Cast aluminum window 300mm thick  325  kg  155  52864\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the Apartment Block at HSR Layout project. All work to be carried out as per specifications. Fabricate and erect Fe500 MS plate Install cable Plaster membrane Supply and fix M20 M25 concrete 12mm diameter Cast aluminum window 300mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fabricate and erect Fe500 MS plate",
+        "295",
+        "ltr",
+        "2999",
+        "73642"
+      ],
+      [
+        "2",
+        "Install cable",
+        "207",
+        "cum",
+        "793",
+        "96006"
+      ],
+      [
+        "3",
+        "Plaster membrane",
+        "204",
+        "rmt",
+        "2298",
+        "65634"
+      ],
+      [
+        "4",
+        "Supply and fix M20 M25 concrete 12mm diameter",
+        "232",
+        "nos",
+        "3058",
+        "33990"
+      ],
+      [
+        "5",
+        "Cast aluminum window 300mm thick",
+        "325",
+        "kg",
+        "155",
+        "52864"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fabricate and erect",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 295,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 207,
+        "unit": "m^3",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 204,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "12mm diameter",
+        "quantity": 232,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 325,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

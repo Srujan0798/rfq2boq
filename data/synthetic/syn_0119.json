@@ -1,0 +1,207 @@
+{
+  "id": "syn_0119",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "finishes",
+  "text": "The work comprises POP, putty, tile for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply GI pipe  315  sqm  2246  24675\n2  Fabricate and erect Class 1 cement plaster 16mm thick  442  ls  924  65361\n3  Supply and lay brickbat coba  259  sqm  3174  42102\n4  Supply and fix glass 150mm thick  162  cum  2908  46453\n5  Cast Fe550 GI sheet  289  cum  2184  16937\n6  Lay GI conduit  21  rmt  1040  29437\n7  Supply and fix Class B brick masonry 300mm thick  122  sqm  2341  64120\n8  Provide and fix M20 M25 concrete 12mm diameter  372  nos  4299  53421\n9  Supply and fix PVC pipe 230mm thick  111  nos  4913  41840\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises POP, putty, tile for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards. Supply GI pipe Fabricate and erect Class 1 cement plaster 16mm thick Supply and lay brickbat coba Supply and fix glass 150mm thick Cast Fe550 GI sheet Lay GI conduit Supply and fix Class B brick masonry 300mm thick Provide and fix M20 M25 concrete 12mm diameter Supply and fix PVC pipe 230mm thick",
+  "sections": {
+    "scope": "The work comprises POP, putty, tile for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply GI pipe",
+        "315",
+        "sqm",
+        "2246",
+        "24675"
+      ],
+      [
+        "2",
+        "Fabricate and erect Class 1 cement plaster 16mm thick",
+        "442",
+        "ls",
+        "924",
+        "65361"
+      ],
+      [
+        "3",
+        "Supply and lay brickbat coba",
+        "259",
+        "sqm",
+        "3174",
+        "42102"
+      ],
+      [
+        "4",
+        "Supply and fix glass 150mm thick",
+        "162",
+        "cum",
+        "2908",
+        "46453"
+      ],
+      [
+        "5",
+        "Cast Fe550 GI sheet",
+        "289",
+        "cum",
+        "2184",
+        "16937"
+      ],
+      [
+        "6",
+        "Lay GI conduit",
+        "21",
+        "rmt",
+        "1040",
+        "29437"
+      ],
+      [
+        "7",
+        "Supply and fix Class B brick masonry 300mm thick",
+        "122",
+        "sqm",
+        "2341",
+        "64120"
+      ],
+      [
+        "8",
+        "Provide and fix M20 M25 concrete 12mm diameter",
+        "372",
+        "nos",
+        "4299",
+        "53421"
+      ],
+      [
+        "9",
+        "Supply and fix PVC pipe 230mm thick",
+        "111",
+        "nos",
+        "4913",
+        "41840"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 315,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "16mm thick",
+        "quantity": 442,
+        "unit": "ls",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 259,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 162,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 289,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 21,
+        "unit": "rmt",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "300mm thick",
+        "quantity": 122,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "12mm diameter",
+        "quantity": 372,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 111,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

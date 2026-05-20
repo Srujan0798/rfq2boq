@@ -1,0 +1,127 @@
+{
+  "id": "syn_0114",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "electrical",
+  "text": "The scope of work includes cable, switch, DB for the Residential Complex at Whitefield project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix M30 RCC 16mm diameter  369  sqm  4213  20685\n2  Fabricate and erect cable  310  cum  3893  11322\n3  Supply GI pipe 12mm thick  120  rmt  4329  96514\n4  Lay Fe550 rebar 300mm thick  486  ls  2482  48227\n5  Supply and install Class 2 putty  466  ltr  714  20975\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes cable, switch, DB for the Residential Complex at Whitefield project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and fix M30 RCC 16mm diameter Fabricate and erect cable Supply GI pipe 12mm thick Lay Fe550 rebar 300mm thick Supply and install Class 2 putty",
+  "sections": {
+    "scope": "The scope of work includes cable, switch, DB for the Residential Complex at Whitefield project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix M30 RCC 16mm diameter",
+        "369",
+        "sqm",
+        "4213",
+        "20685"
+      ],
+      [
+        "2",
+        "Fabricate and erect cable",
+        "310",
+        "cum",
+        "3893",
+        "11322"
+      ],
+      [
+        "3",
+        "Supply GI pipe 12mm thick",
+        "120",
+        "rmt",
+        "4329",
+        "96514"
+      ],
+      [
+        "4",
+        "Lay Fe550 rebar 300mm thick",
+        "486",
+        "ls",
+        "2482",
+        "48227"
+      ],
+      [
+        "5",
+        "Supply and install Class 2 putty",
+        "466",
+        "ltr",
+        "714",
+        "20975"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "RCC",
+        "grade": "M30",
+        "dimension": "16mm diameter",
+        "quantity": 369,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 310,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 120,
+        "unit": "rmt",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "300mm thick",
+        "quantity": 486,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 466,
+        "unit": "ltr",
+        "standard": [
+          "IS 15622"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

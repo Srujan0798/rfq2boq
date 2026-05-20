@@ -1,0 +1,267 @@
+{
+  "id": "syn_0059",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "electrical",
+  "text": "Supply and installation of switch, cable, light fixture for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix membrane 200 x 200mm  259  kg  1680  3798\n2  Apply light fixture 12mm diameter  78  nos  3684  74272\n3  Provide and install Class 2 tile 150 x 150mm  300  rmt  3937  37087\n4  Supply and fix M40 PCC 25mm thick  45  rmt  3107  60517\n5  Lay Class C brick masonry 200 x 200mm  204  rmt  2056  43034\n6  Provide and install GI pipe 300mm thick  278  set  2419  43283\n7  Supply and lay glass  59  sqm  1563  5099\n8  Fabricate and erect Fe415 MS plate  108  sqm  3283  87235\n9  Supply and install DPC 200mm thick  197  kg  1809  86950\n10  Fabricate and erect light fixture 8mm diameter  420  cum  577  81862\n11  Apply Class 1 tile  46  nos  4355  13729\n12  Lay M25 M20 concrete  207  kg  2137  75714\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of switch, cable, light fixture for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and fix membrane 200 x 200mm Apply light fixture 12mm diameter Provide and install Class 2 tile 150 x 150mm Supply and fix M40 PCC 25mm thick Lay Class C brick masonry 200 x 200mm Provide and install GI pipe 300mm thick Supply and lay glass Fabricate and erect Fe415 MS plate Supply and install DPC 200mm thick Fabricate and erect light fixture 8mm diameter Apply Class 1 tile Lay M25 M20 concrete",
+  "sections": {
+    "scope": "Supply and installation of switch, cable, light fixture for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix membrane 200 x 200mm",
+        "259",
+        "kg",
+        "1680",
+        "3798"
+      ],
+      [
+        "2",
+        "Apply light fixture 12mm diameter",
+        "78",
+        "nos",
+        "3684",
+        "74272"
+      ],
+      [
+        "3",
+        "Provide and install Class 2 tile 150 x 150mm",
+        "300",
+        "rmt",
+        "3937",
+        "37087"
+      ],
+      [
+        "4",
+        "Supply and fix M40 PCC 25mm thick",
+        "45",
+        "rmt",
+        "3107",
+        "60517"
+      ],
+      [
+        "5",
+        "Lay Class C brick masonry 200 x 200mm",
+        "204",
+        "rmt",
+        "2056",
+        "43034"
+      ],
+      [
+        "6",
+        "Provide and install GI pipe 300mm thick",
+        "278",
+        "set",
+        "2419",
+        "43283"
+      ],
+      [
+        "7",
+        "Supply and lay glass",
+        "59",
+        "sqm",
+        "1563",
+        "5099"
+      ],
+      [
+        "8",
+        "Fabricate and erect Fe415 MS plate",
+        "108",
+        "sqm",
+        "3283",
+        "87235"
+      ],
+      [
+        "9",
+        "Supply and install DPC 200mm thick",
+        "197",
+        "kg",
+        "1809",
+        "86950"
+      ],
+      [
+        "10",
+        "Fabricate and erect light fixture 8mm diameter",
+        "420",
+        "cum",
+        "577",
+        "81862"
+      ],
+      [
+        "11",
+        "Apply Class 1 tile",
+        "46",
+        "nos",
+        "4355",
+        "13729"
+      ],
+      [
+        "12",
+        "Lay M25 M20 concrete",
+        "207",
+        "kg",
+        "2137",
+        "75714"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 259,
+        "unit": "kg",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 78,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "150 x 150mm",
+        "quantity": 300,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "PCC",
+        "grade": "M40",
+        "dimension": "25mm thick",
+        "quantity": 45,
+        "unit": "rmt",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "200 x 200mm",
+        "quantity": 204,
+        "unit": "rmt",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 278,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 59,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fabricate and erect",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 108,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 197,
+        "unit": "kg",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fabricate and erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 420,
+        "unit": "m^3",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Apply",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 46,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Lay",
+        "material": "M20 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 207,
+        "unit": "kg",
+        "standard": [
+          "IS 269"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

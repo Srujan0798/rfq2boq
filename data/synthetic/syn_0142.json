@@ -1,0 +1,267 @@
+{
+  "id": "syn_0142",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "finishes",
+  "text": "The scope of work includes paint, POP, putty for the Apartment Block at HSR Layout project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast Class 1 POP 150 x 150mm  157  set  3287  63338\n2  Provide and fix SWR pipe 10mm diameter  184  ls  3884  98330\n3  Lay Class A hollow block 25mm thick  367  rmt  364  87599\n4  Lay brickbat coba  186  sqm  3124  40850\n5  Fabricate and erect switch  355  set  4891  22854\n6  Cast Fe500 rebar 100mm thick  230  ltr  4658  98524\n7  Erect M25 M35 concrete 230mm thick  481  rmt  3341  29613\n8  Cast aluminum window 6mm diameter  158  rmt  2983  99471\n9  Supply Class 2 POP 200 x 200mm  316  nos  965  88062\n10  Provide and install HDPE pipe 10mm diameter  449  ltr  3781  21574\n11  Provide and lay Class B AAC block 12mm thick  11  ls  905  51246\n12  Erect DPC 300mm thick  106  cum  4223  11552\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes paint, POP, putty for the Apartment Block at HSR Layout project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below. Cast Class 1 POP 150 x 150mm Provide and fix SWR pipe 10mm diameter Lay Class A hollow block 25mm thick Lay brickbat coba Fabricate and erect switch Cast Fe500 rebar 100mm thick Erect M25 M35 concrete 230mm thick Cast aluminum window 6mm diameter Supply Class 2 POP 200 x 200mm Provide and install HDPE pipe 10mm diameter Provide and lay Class B AAC block 12mm thick Erect DPC 300mm thick",
+  "sections": {
+    "scope": "The scope of work includes paint, POP, putty for the Apartment Block at HSR Layout project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast Class 1 POP 150 x 150mm",
+        "157",
+        "set",
+        "3287",
+        "63338"
+      ],
+      [
+        "2",
+        "Provide and fix SWR pipe 10mm diameter",
+        "184",
+        "ls",
+        "3884",
+        "98330"
+      ],
+      [
+        "3",
+        "Lay Class A hollow block 25mm thick",
+        "367",
+        "rmt",
+        "364",
+        "87599"
+      ],
+      [
+        "4",
+        "Lay brickbat coba",
+        "186",
+        "sqm",
+        "3124",
+        "40850"
+      ],
+      [
+        "5",
+        "Fabricate and erect switch",
+        "355",
+        "set",
+        "4891",
+        "22854"
+      ],
+      [
+        "6",
+        "Cast Fe500 rebar 100mm thick",
+        "230",
+        "ltr",
+        "4658",
+        "98524"
+      ],
+      [
+        "7",
+        "Erect M25 M35 concrete 230mm thick",
+        "481",
+        "rmt",
+        "3341",
+        "29613"
+      ],
+      [
+        "8",
+        "Cast aluminum window 6mm diameter",
+        "158",
+        "rmt",
+        "2983",
+        "99471"
+      ],
+      [
+        "9",
+        "Supply Class 2 POP 200 x 200mm",
+        "316",
+        "nos",
+        "965",
+        "88062"
+      ],
+      [
+        "10",
+        "Provide and install HDPE pipe 10mm diameter",
+        "449",
+        "ltr",
+        "3781",
+        "21574"
+      ],
+      [
+        "11",
+        "Provide and lay Class B AAC block 12mm thick",
+        "11",
+        "ls",
+        "905",
+        "51246"
+      ],
+      [
+        "12",
+        "Erect DPC 300mm thick",
+        "106",
+        "cum",
+        "4223",
+        "11552"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "150 x 150mm",
+        "quantity": 157,
+        "unit": "set",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 184,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "25mm thick",
+        "quantity": 367,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 186,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "switch",
+        "grade": "",
+        "dimension": "",
+        "quantity": 355,
+        "unit": "set",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "100mm thick",
+        "quantity": 230,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Erect",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "230mm thick",
+        "quantity": 481,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 158,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "200 x 200mm",
+        "quantity": 316,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and install",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 449,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and lay",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "12mm thick",
+        "quantity": 11,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Erect",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 106,
+        "unit": "m^3",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

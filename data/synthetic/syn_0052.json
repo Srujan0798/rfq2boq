@@ -1,0 +1,127 @@
+{
+  "id": "syn_0052",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "waterproofing",
+  "text": "The work comprises integral waterproofing, membrane, DPC for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix membrane 230mm thick  90  ls  1986  55344\n2  Fabricate and erect HDPE pipe 12mm thick  355  set  3466  3942\n3  Supply and fix GI conduit  303  rmt  421  76008\n4  Supply and fix M20 M25 concrete 6mm diameter  142  rmt  4717  84574\n5  Supply and lay flush door 12mm diameter  120  set  1497  29752\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises integral waterproofing, membrane, DPC for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards. Supply and fix membrane 230mm thick Fabricate and erect HDPE pipe 12mm thick Supply and fix GI conduit Supply and fix M20 M25 concrete 6mm diameter Supply and lay flush door 12mm diameter",
+  "sections": {
+    "scope": "The work comprises integral waterproofing, membrane, DPC for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix membrane 230mm thick",
+        "90",
+        "ls",
+        "1986",
+        "55344"
+      ],
+      [
+        "2",
+        "Fabricate and erect HDPE pipe 12mm thick",
+        "355",
+        "set",
+        "3466",
+        "3942"
+      ],
+      [
+        "3",
+        "Supply and fix GI conduit",
+        "303",
+        "rmt",
+        "421",
+        "76008"
+      ],
+      [
+        "4",
+        "Supply and fix M20 M25 concrete 6mm diameter",
+        "142",
+        "rmt",
+        "4717",
+        "84574"
+      ],
+      [
+        "5",
+        "Supply and lay flush door 12mm diameter",
+        "120",
+        "set",
+        "1497",
+        "29752"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 90,
+        "unit": "ls",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 355,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 303,
+        "unit": "rmt",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "6mm diameter",
+        "quantity": 142,
+        "unit": "rmt",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 120,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

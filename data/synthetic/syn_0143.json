@@ -1,0 +1,267 @@
+{
+  "id": "syn_0143",
+  "project_name": "Hotel at Airport Road",
+  "category": "waterproofing",
+  "text": "The scope of work includes integral waterproofing, DPC, brickbat coba for the Hotel at Airport Road project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix GI conduit  380  kg  1736  43300\n2  Supply and lay aluminum window  467  cum  3861  33118\n3  Fix DPC 230mm thick  100  set  2813  21875\n4  Apply Class 2 POP 8mm diameter  45  cum  3951  51504\n5  Provide and lay GI pipe 100mm thick  462  sqm  4038  96162\n6  Fix M30 M20 concrete 16mm diameter  213  cum  3704  57175\n7  Supply and fix Class A brick masonry 230mm thick  443  nos  1484  49033\n8  Provide and fix Fe550 GI sheet 16mm thick  82  kg  895  44257\n9  Supply cable 25mm thick  373  set  2519  91334\n10  Fix glass 150mm thick  240  nos  1312  69390\n11  Provide and install integral waterproofing 100 x 100mm  460  ls  1396  75401\n12  Apply Class 2 tile  235  nos  1153  20205\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes integral waterproofing, DPC, brickbat coba for the Hotel at Airport Road project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and fix GI conduit Supply and lay aluminum window Fix DPC 230mm thick Apply Class 2 POP 8mm diameter Provide and lay GI pipe 100mm thick Fix M30 M20 concrete 16mm diameter Supply and fix Class A brick masonry 230mm thick Provide and fix Fe550 GI sheet 16mm thick Supply cable 25mm thick Fix glass 150mm thick Provide and install integral waterproofing 100 x 100mm Apply Class 2 tile",
+  "sections": {
+    "scope": "The scope of work includes integral waterproofing, DPC, brickbat coba for the Hotel at Airport Road project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix GI conduit",
+        "380",
+        "kg",
+        "1736",
+        "43300"
+      ],
+      [
+        "2",
+        "Supply and lay aluminum window",
+        "467",
+        "cum",
+        "3861",
+        "33118"
+      ],
+      [
+        "3",
+        "Fix DPC 230mm thick",
+        "100",
+        "set",
+        "2813",
+        "21875"
+      ],
+      [
+        "4",
+        "Apply Class 2 POP 8mm diameter",
+        "45",
+        "cum",
+        "3951",
+        "51504"
+      ],
+      [
+        "5",
+        "Provide and lay GI pipe 100mm thick",
+        "462",
+        "sqm",
+        "4038",
+        "96162"
+      ],
+      [
+        "6",
+        "Fix M30 M20 concrete 16mm diameter",
+        "213",
+        "cum",
+        "3704",
+        "57175"
+      ],
+      [
+        "7",
+        "Supply and fix Class A brick masonry 230mm thick",
+        "443",
+        "nos",
+        "1484",
+        "49033"
+      ],
+      [
+        "8",
+        "Provide and fix Fe550 GI sheet 16mm thick",
+        "82",
+        "kg",
+        "895",
+        "44257"
+      ],
+      [
+        "9",
+        "Supply cable 25mm thick",
+        "373",
+        "set",
+        "2519",
+        "91334"
+      ],
+      [
+        "10",
+        "Fix glass 150mm thick",
+        "240",
+        "nos",
+        "1312",
+        "69390"
+      ],
+      [
+        "11",
+        "Provide and install integral waterproofing 100 x 100mm",
+        "460",
+        "ls",
+        "1396",
+        "75401"
+      ],
+      [
+        "12",
+        "Apply Class 2 tile",
+        "235",
+        "nos",
+        "1153",
+        "20205"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 380,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 467,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 100,
+        "unit": "set",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "8mm diameter",
+        "quantity": 45,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 462,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "M20 concrete",
+        "grade": "M30",
+        "dimension": "16mm diameter",
+        "quantity": 213,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "230mm thick",
+        "quantity": 443,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "16mm thick",
+        "quantity": 82,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "cable",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 373,
+        "unit": "set",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 240,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and install",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 460,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Apply",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 235,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

@@ -1,0 +1,39 @@
+Supply and installation of cable, DB, switch for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Plaster Class A brick masonry 100mm thick  108  ls  642  50177
+2  Cast DB  341  nos  699  97695
+3  Fabricate and erect Fe415 structural steel 16mm diameter  218  rmt  4871  59106
+4  Supply and install CI pipe  383  ls  2312  3204
+5  Fabricate and erect glass 150mm thick  316  nos  1244  96161
+6  Plaster M35 M35 concrete 200mm thick  76  rmt  4131  96025
+7  Supply Class 2 paint 200mm thick  34  rmt  286  53072
+8  Provide and install integral waterproofing 200mm thick  111  kg  2673  47907
+9  Provide and fix Class A AAC block  478  ltr  748  61850
+10  Install cable 200mm thick  470  rmt  1438  1060
+11  Provide and install Fe415 GI sheet  394  ltr  2703  18348
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

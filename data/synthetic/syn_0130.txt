@@ -1,0 +1,39 @@
+Supply and installation of rebar, structural steel, MS plate for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay DB 12mm thick  167  ls  3890  3263
+2  Fabricate and erect Fe415 GI sheet 16mm thick  28  ls  579  76965
+3  Supply Class 2 cement plaster 10mm diameter  322  ls  2213  37194
+4  Supply and fix integral waterproofing  126  rmt  506  31496
+5  Supply and fix flush door 150mm thick  360  set  598  94657
+6  Supply and install Class B fly ash brick 150mm thick  357  ls  2022  46839
+7  Lay GI pipe 20mm thick  237  sqm  2768  75758
+8  Supply and lay M35 M30 concrete 300mm thick  338  ltr  2775  80556
+9  Erect switch 100 x 100mm  469  ls  355  22012
+10  Provide and lay Fe415 structural steel 100mm thick  486  rmt  1832  42039
+11  Provide and install Class 2 putty 300mm thick  203  cum  742  11133
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

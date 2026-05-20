@@ -1,0 +1,127 @@
+{
+  "id": "syn_0254",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "finishes",
+  "text": "The scope of work includes putty, paint, tile for the Residential Complex at Whitefield project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install glass 10mm diameter  64  set  473  99201\n2  Supply cable 200 x 200mm  484  rmt  517  95602\n3  Supply and lay Class 2 putty 10mm diameter  307  nos  2792  48796\n4  Supply and lay GI pipe 150 x 150mm  115  set  1456  93558\n5  Fabricate and erect brickbat coba 10mm diameter  482  rmt  128  62823\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes putty, paint, tile for the Residential Complex at Whitefield project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and install glass 10mm diameter Supply cable 200 x 200mm Supply and lay Class 2 putty 10mm diameter Supply and lay GI pipe 150 x 150mm Fabricate and erect brickbat coba 10mm diameter",
+  "sections": {
+    "scope": "The scope of work includes putty, paint, tile for the Residential Complex at Whitefield project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install glass 10mm diameter",
+        "64",
+        "set",
+        "473",
+        "99201"
+      ],
+      [
+        "2",
+        "Supply cable 200 x 200mm",
+        "484",
+        "rmt",
+        "517",
+        "95602"
+      ],
+      [
+        "3",
+        "Supply and lay Class 2 putty 10mm diameter",
+        "307",
+        "nos",
+        "2792",
+        "48796"
+      ],
+      [
+        "4",
+        "Supply and lay GI pipe 150 x 150mm",
+        "115",
+        "set",
+        "1456",
+        "93558"
+      ],
+      [
+        "5",
+        "Fabricate and erect brickbat coba 10mm diameter",
+        "482",
+        "rmt",
+        "128",
+        "62823"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 64,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "cable",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 484,
+        "unit": "rmt",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "10mm diameter",
+        "quantity": 307,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 115,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 482,
+        "unit": "rmt",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

@@ -1,0 +1,1095 @@
+{
+  "version": "1.0",
+  "created": "2026-05-17T05:35:17.114296",
+  "total_pdfs": 117,
+  "source_breakdown": {
+    "ireps": 2,
+    "cpwd": 1,
+    "delhi_pwd": 1,
+    "synthetic_building": 26,
+    "synthetic_road": 14,
+    "synthetic_bridge": 23,
+    "synthetic_electrical": 24,
+    "synthetic_plumbing": 23,
+    "unknown": 3
+  },
+  "provenance": {
+    "ireps": "IREPS (Indian Railway Electronic Procurement System) - real government tenders",
+    "cpwd": "CPWD (Central Public Works Department) - real government tenders",
+    "delhi_pwd": "Delhi PWD - real government tenders",
+    "synthetic_building": "Synthetic building construction RFQs",
+    "synthetic_road": "Synthetic road construction RFQs",
+    "synthetic_bridge": "Synthetic bridge construction RFQs",
+    "synthetic_electrical": "Synthetic electrical RFQs",
+    "synthetic_plumbing": "Synthetic plumbing RFQs"
+  },
+  "files": [
+    {
+      "filename": "ireps_bc341034058b.pdf",
+      "category": "ireps",
+      "is_real": true,
+      "is_synthetic": false,
+      "pages": 17,
+      "chars": 20214,
+      "is_scanned": false
+    },
+    {
+      "filename": "ireps_2724bb1eff78.pdf",
+      "category": "ireps",
+      "is_real": true,
+      "is_synthetic": false,
+      "pages": 12,
+      "chars": 30228,
+      "is_scanned": false
+    },
+    {
+      "filename": "cpwd_Guidelines_for_Hassle_Free_Bid_Submission_1778959268.pdf",
+      "category": "cpwd",
+      "is_real": true,
+      "is_synthetic": false,
+      "pages": 3,
+      "chars": 6365,
+      "is_scanned": false
+    },
+    {
+      "filename": "delhi_pwd_Tender_1778958751.pdf",
+      "category": "delhi_pwd",
+      "is_real": true,
+      "is_synthetic": false,
+      "pages": 0,
+      "chars": 0,
+      "is_scanned": true
+    },
+    {
+      "filename": "rfq_building_RFQ5521_010.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1228,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ6053_038.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1175,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ6591_008.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1277,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ1697_021.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1185,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ8237_020.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1256,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ1138_005.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1134,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ9899_041.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1192,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ7711_001.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1203,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ3367_018.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1081,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ6742_039.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1078,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ6128_002.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1284,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ9602_006.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1344,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ7385_028.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1378,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ4629_025.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1129,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ1398_017.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1244,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ7462_017.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1178,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ1812_024.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1360,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ5392_027.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1313,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ1218_022.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1242,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ1198_047.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1252,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ5532_036.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1090,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ4043_035.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1125,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ8829_009.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1223,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ7186_046.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1287,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ7728_028.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1194,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_building_RFQ7180_014.pdf",
+      "category": "synthetic_building",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1378,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ9740_050.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1068,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ4096_010.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1145,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ7763_008.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1144,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ6835_043.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1103,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ4678_003.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1138,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ9884_030.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1145,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ7061_020.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1107,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ4410_011.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1111,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ3664_005.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1068,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ8089_034.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1151,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ5236_025.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1137,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ1375_044.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1074,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ1373_003.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1067,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_road_RFQ6821_023.pdf",
+      "category": "synthetic_road",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1139,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ1904_047.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1063,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ7102_004.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1067,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ2351_016.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1082,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ7605_037.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1075,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ6090_006.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1066,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ3574_024.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1093,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ5817_015.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1077,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ5594_026.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1078,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ8107_022.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1076,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ7132_008.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1073,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ4792_029.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1074,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ5418_049.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1073,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ3836_033.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1076,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ7828_032.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1068,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ6274_007.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1072,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ4762_013.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1078,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ4412_019.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1075,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ3868_019.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1080,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ9164_036.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1074,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ1900_045.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1073,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ4996_040.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1077,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ6304_048.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1095,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_bridge_RFQ3333_049.pdf",
+      "category": "synthetic_bridge",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1092,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ6187_040.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1155,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ1955_004.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1160,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ2728_034.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1156,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ9889_042.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1118,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ9066_016.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1170,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ8591_001.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1080,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ7247_033.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1158,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ8210_002.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1154,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ6524_018.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1158,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ9384_050.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1151,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ9345_026.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1158,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ1791_021.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1144,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ6575_038.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1094,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ8470_001.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1072,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ6777_046.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1154,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ8519_006.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1172,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ3975_004.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1179,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ6777_043.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1129,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ7974_044.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1071,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ9414_007.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1153,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ9434_041.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1157,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ1186_012.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1122,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ1749_023.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1168,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_electrical_RFQ2320_032.pdf",
+      "category": "synthetic_electrical",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1151,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ2916_014.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1099,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ7457_031.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1132,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ7005_030.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1133,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ1556_039.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1076,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ8771_015.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1049,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ2013_011.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1130,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ1782_007.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1096,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ6124_037.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1149,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ7292_029.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1154,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ5077_031.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1100,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ6050_009.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1129,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ2132_003.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1123,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ7857_013.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1088,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ1499_048.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1141,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ4717_042.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1136,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ9017_027.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1149,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ4319_035.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1125,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ2457_010.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1133,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ2425_005.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1057,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ6752_045.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1128,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ6950_002.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1059,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ8090_012.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1064,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_plumbing_RFQ6370_009.pdf",
+      "category": "synthetic_plumbing",
+      "is_real": false,
+      "is_synthetic": true,
+      "pages": 1,
+      "chars": 1153,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_sample_simple.pdf",
+      "category": "unknown",
+      "is_real": false,
+      "is_synthetic": false,
+      "pages": 2,
+      "chars": 1231,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_sample_complex.pdf",
+      "category": "unknown",
+      "is_real": false,
+      "is_synthetic": false,
+      "pages": 6,
+      "chars": 3134,
+      "is_scanned": false
+    },
+    {
+      "filename": "rfq_sample_medium.pdf",
+      "category": "unknown",
+      "is_real": false,
+      "is_synthetic": false,
+      "pages": 3,
+      "chars": 2030,
+      "is_scanned": false
+    }
+  ],
+  "notes": {
+    "real_tenders": [
+      "ireps",
+      "cpwd",
+      "delhi_pwd"
+    ],
+    "synthetic_tenders": [
+      "synthetic_building",
+      "synthetic_road",
+      "synthetic_bridge",
+      "synthetic_electrical",
+      "synthetic_plumbing"
+    ]
+  }
+}

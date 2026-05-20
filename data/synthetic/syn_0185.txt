@@ -1,0 +1,33 @@
+The scope of work includes rebar, MS plate, structural steel for the Warehouse at Peenya project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay Fe550 TMT steel 16mm thick  331  cum  1385  31699
+2  Apply M20 RCC 16mm thick  101  kg  2516  61405
+3  Provide and install GI pipe  326  rmt  1772  49056
+4  Supply and fix Class 2 tile 12mm thick  362  sqm  3197  1999
+5  Supply and install GI conduit 8mm diameter  282  rmt  794  21648
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

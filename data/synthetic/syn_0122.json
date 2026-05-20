@@ -1,0 +1,267 @@
+{
+  "id": "syn_0122",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "brickwork",
+  "text": "The scope of work includes AAC block, brick masonry, hollow block for the Office Building at Manyata Tech Park project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install aluminum window  305  sqm  1002  32531\n2  Supply and fix Class B brick masonry 16mm diameter  146  cum  2983  35809\n3  Provide and fix GI pipe  230  kg  3629  67574\n4  Fabricate and erect M20 M30 concrete  149  ls  3233  96944\n5  Provide and lay Fe415 GI sheet  106  ltr  4438  80619\n6  Supply and lay light fixture 230mm thick  358  cum  1043  7964\n7  Provide and install brickbat coba  43  sqm  3414  52368\n8  Provide and install Class 1 paint 12mm thick  385  nos  2947  84479\n9  Apply MS door  11  sqm  2601  91169\n10  Provide and fix Class A AAC block  358  sqm  3829  19590\n11  Erect GI pipe  181  cum  730  23377\n12  Cast M20 RCC 12mm diameter  190  set  3971  15337\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes AAC block, brick masonry, hollow block for the Office Building at Manyata Tech Park project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Install aluminum window Supply and fix Class B brick masonry 16mm diameter Provide and fix GI pipe Fabricate and erect M20 M30 concrete Provide and lay Fe415 GI sheet Supply and lay light fixture 230mm thick Provide and install brickbat coba Provide and install Class 1 paint 12mm thick Apply MS door Provide and fix Class A AAC block Erect GI pipe Cast M20 RCC 12mm diameter",
+  "sections": {
+    "scope": "The scope of work includes AAC block, brick masonry, hollow block for the Office Building at Manyata Tech Park project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install aluminum window",
+        "305",
+        "sqm",
+        "1002",
+        "32531"
+      ],
+      [
+        "2",
+        "Supply and fix Class B brick masonry 16mm diameter",
+        "146",
+        "cum",
+        "2983",
+        "35809"
+      ],
+      [
+        "3",
+        "Provide and fix GI pipe",
+        "230",
+        "kg",
+        "3629",
+        "67574"
+      ],
+      [
+        "4",
+        "Fabricate and erect M20 M30 concrete",
+        "149",
+        "ls",
+        "3233",
+        "96944"
+      ],
+      [
+        "5",
+        "Provide and lay Fe415 GI sheet",
+        "106",
+        "ltr",
+        "4438",
+        "80619"
+      ],
+      [
+        "6",
+        "Supply and lay light fixture 230mm thick",
+        "358",
+        "cum",
+        "1043",
+        "7964"
+      ],
+      [
+        "7",
+        "Provide and install brickbat coba",
+        "43",
+        "sqm",
+        "3414",
+        "52368"
+      ],
+      [
+        "8",
+        "Provide and install Class 1 paint 12mm thick",
+        "385",
+        "nos",
+        "2947",
+        "84479"
+      ],
+      [
+        "9",
+        "Apply MS door",
+        "11",
+        "sqm",
+        "2601",
+        "91169"
+      ],
+      [
+        "10",
+        "Provide and fix Class A AAC block",
+        "358",
+        "sqm",
+        "3829",
+        "19590"
+      ],
+      [
+        "11",
+        "Erect GI pipe",
+        "181",
+        "cum",
+        "730",
+        "23377"
+      ],
+      [
+        "12",
+        "Cast M20 RCC 12mm diameter",
+        "190",
+        "set",
+        "3971",
+        "15337"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 305,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "16mm diameter",
+        "quantity": 146,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 230,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "M30 concrete",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 149,
+        "unit": "ls",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 106,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 358,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 43,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 385,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Apply",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 11,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and fix",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 358,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Erect",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 181,
+        "unit": "m^3",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Cast",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "12mm diameter",
+        "quantity": 190,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

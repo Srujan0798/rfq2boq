@@ -1,0 +1,36 @@
+Items described in the Bill of Quantities are to be supplied and installed at roof level for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Fix GI conduit 300mm thick  398  ltr  4136  59903
+2  Provide and install CI pipe 16mm diameter  114  sqm  376  53222
+3  Apply glass 10mm diameter  254  cum  1798  74205
+4  Provide and install Class A fly ash brick 150 x 150mm  203  cum  4224  40876
+5  Supply and lay Class 2 POP 100 x 100mm  382  cum  539  18337
+6  Supply and install DPC 200 x 200mm  355  ltr  1468  57102
+7  Supply and fix M35 M35 concrete 8mm diameter  200  cum  212  6244
+8  Erect Fe550 MS plate 6mm diameter  107  ls  3472  96542
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

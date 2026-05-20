@@ -1,0 +1,187 @@
+{
+  "id": "syn_0126",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "electrical",
+  "text": "The work comprises cable, GI conduit, light fixture for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply Fe550 structural steel 300mm thick  298  ls  2581  52633\n2  Fabricate and erect Class C brick masonry 12mm thick  202  set  4253  87364\n3  Apply integral waterproofing 6mm diameter  175  ls  468  4869\n4  Provide and install M25 RCC 12mm diameter  59  sqm  1996  97029\n5  Supply Class 1 POP 6mm diameter  460  rmt  627  9116\n6  Supply and lay SWR pipe 200 x 200mm  29  sqm  341  23815\n7  Apply switch  240  ltr  4800  73937\n8  Provide and lay aluminum window 20mm thick  261  set  1427  57893\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises cable, GI conduit, light fixture for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards. Apply Fe550 structural steel 300mm thick Fabricate and erect Class C brick masonry 12mm thick Apply integral waterproofing 6mm diameter Provide and install M25 RCC 12mm diameter Supply Class 1 POP 6mm diameter Supply and lay SWR pipe 200 x 200mm Apply switch Provide and lay aluminum window 20mm thick",
+  "sections": {
+    "scope": "The work comprises cable, GI conduit, light fixture for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply Fe550 structural steel 300mm thick",
+        "298",
+        "ls",
+        "2581",
+        "52633"
+      ],
+      [
+        "2",
+        "Fabricate and erect Class C brick masonry 12mm thick",
+        "202",
+        "set",
+        "4253",
+        "87364"
+      ],
+      [
+        "3",
+        "Apply integral waterproofing 6mm diameter",
+        "175",
+        "ls",
+        "468",
+        "4869"
+      ],
+      [
+        "4",
+        "Provide and install M25 RCC 12mm diameter",
+        "59",
+        "sqm",
+        "1996",
+        "97029"
+      ],
+      [
+        "5",
+        "Supply Class 1 POP 6mm diameter",
+        "460",
+        "rmt",
+        "627",
+        "9116"
+      ],
+      [
+        "6",
+        "Supply and lay SWR pipe 200 x 200mm",
+        "29",
+        "sqm",
+        "341",
+        "23815"
+      ],
+      [
+        "7",
+        "Apply switch",
+        "240",
+        "ltr",
+        "4800",
+        "73937"
+      ],
+      [
+        "8",
+        "Provide and lay aluminum window 20mm thick",
+        "261",
+        "set",
+        "1427",
+        "57893"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "300mm thick",
+        "quantity": 298,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "12mm thick",
+        "quantity": 202,
+        "unit": "set",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 175,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and install",
+        "material": "RCC",
+        "grade": "M25",
+        "dimension": "12mm diameter",
+        "quantity": 59,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "6mm diameter",
+        "quantity": 460,
+        "unit": "rmt",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 29,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "switch",
+        "grade": "",
+        "dimension": "",
+        "quantity": 240,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 261,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

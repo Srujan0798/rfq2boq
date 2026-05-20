@@ -1,0 +1,267 @@
+{
+  "id": "syn_0203",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "concrete",
+  "text": "The work comprises M25 concrete, RCC, M35 concrete for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay Fe550 structural steel 12mm diameter  278  kg  362  8547\n2  Erect Class B fly ash brick 150 x 150mm  227  sqm  4927  4268\n3  Supply and install M20 M20 concrete 230mm thick  238  set  405  3575\n4  Lay switch 25mm thick  403  sqm  124  42293\n5  Provide and fix aluminum window  411  rmt  4930  40010\n6  Supply Class 2 putty 16mm diameter  477  ltr  1932  85938\n7  Fabricate and erect brickbat coba 8mm diameter  312  set  4659  99291\n8  Erect HDPE pipe 300mm thick  474  ltr  4072  38572\n9  Fabricate and erect Fe500 TMT steel  302  nos  2740  58264\n10  Apply Class A AAC block 230mm thick  362  nos  3754  2921\n11  Supply and fix M30 M20 concrete 300mm thick  462  ltr  1855  62245\n12  Install cable  472  rmt  549  21756\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises M25 concrete, RCC, M35 concrete for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Supply and lay Fe550 structural steel 12mm diameter Erect Class B fly ash brick 150 x 150mm Supply and install M20 M20 concrete 230mm thick Lay switch 25mm thick Provide and fix aluminum window Supply Class 2 putty 16mm diameter Fabricate and erect brickbat coba 8mm diameter Erect HDPE pipe 300mm thick Fabricate and erect Fe500 TMT steel Apply Class A AAC block 230mm thick Supply and fix M30 M20 concrete 300mm thick Install cable",
+  "sections": {
+    "scope": "The work comprises M25 concrete, RCC, M35 concrete for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay Fe550 structural steel 12mm diameter",
+        "278",
+        "kg",
+        "362",
+        "8547"
+      ],
+      [
+        "2",
+        "Erect Class B fly ash brick 150 x 150mm",
+        "227",
+        "sqm",
+        "4927",
+        "4268"
+      ],
+      [
+        "3",
+        "Supply and install M20 M20 concrete 230mm thick",
+        "238",
+        "set",
+        "405",
+        "3575"
+      ],
+      [
+        "4",
+        "Lay switch 25mm thick",
+        "403",
+        "sqm",
+        "124",
+        "42293"
+      ],
+      [
+        "5",
+        "Provide and fix aluminum window",
+        "411",
+        "rmt",
+        "4930",
+        "40010"
+      ],
+      [
+        "6",
+        "Supply Class 2 putty 16mm diameter",
+        "477",
+        "ltr",
+        "1932",
+        "85938"
+      ],
+      [
+        "7",
+        "Fabricate and erect brickbat coba 8mm diameter",
+        "312",
+        "set",
+        "4659",
+        "99291"
+      ],
+      [
+        "8",
+        "Erect HDPE pipe 300mm thick",
+        "474",
+        "ltr",
+        "4072",
+        "38572"
+      ],
+      [
+        "9",
+        "Fabricate and erect Fe500 TMT steel",
+        "302",
+        "nos",
+        "2740",
+        "58264"
+      ],
+      [
+        "10",
+        "Apply Class A AAC block 230mm thick",
+        "362",
+        "nos",
+        "3754",
+        "2921"
+      ],
+      [
+        "11",
+        "Supply and fix M30 M20 concrete 300mm thick",
+        "462",
+        "ltr",
+        "1855",
+        "62245"
+      ],
+      [
+        "12",
+        "Install cable",
+        "472",
+        "rmt",
+        "549",
+        "21756"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "12mm diameter",
+        "quantity": 278,
+        "unit": "kg",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "150 x 150mm",
+        "quantity": 227,
+        "unit": "m^2",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "M20 concrete",
+        "grade": "M20",
+        "dimension": "230mm thick",
+        "quantity": 238,
+        "unit": "set",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "switch",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 403,
+        "unit": "m^2",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 411,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "16mm diameter",
+        "quantity": 477,
+        "unit": "ltr",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fabricate and erect",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 312,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 474,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fabricate and erect",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 302,
+        "unit": "no.",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Apply",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "230mm thick",
+        "quantity": 362,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and fix",
+        "material": "M20 concrete",
+        "grade": "M30",
+        "dimension": "300mm thick",
+        "quantity": 462,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 472,
+        "unit": "rmt",
+        "standard": [
+          "IS 9537"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

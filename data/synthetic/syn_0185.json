@@ -1,0 +1,127 @@
+{
+  "id": "syn_0185",
+  "project_name": "Warehouse at Peenya",
+  "category": "steel",
+  "text": "The scope of work includes rebar, MS plate, structural steel for the Warehouse at Peenya project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay Fe550 TMT steel 16mm thick  331  cum  1385  31699\n2  Apply M20 RCC 16mm thick  101  kg  2516  61405\n3  Provide and install GI pipe  326  rmt  1772  49056\n4  Supply and fix Class 2 tile 12mm thick  362  sqm  3197  1999\n5  Supply and install GI conduit 8mm diameter  282  rmt  794  21648\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes rebar, MS plate, structural steel for the Warehouse at Peenya project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and lay Fe550 TMT steel 16mm thick Apply M20 RCC 16mm thick Provide and install GI pipe Supply and fix Class 2 tile 12mm thick Supply and install GI conduit 8mm diameter",
+  "sections": {
+    "scope": "The scope of work includes rebar, MS plate, structural steel for the Warehouse at Peenya project located at basement. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay Fe550 TMT steel 16mm thick",
+        "331",
+        "cum",
+        "1385",
+        "31699"
+      ],
+      [
+        "2",
+        "Apply M20 RCC 16mm thick",
+        "101",
+        "kg",
+        "2516",
+        "61405"
+      ],
+      [
+        "3",
+        "Provide and install GI pipe",
+        "326",
+        "rmt",
+        "1772",
+        "49056"
+      ],
+      [
+        "4",
+        "Supply and fix Class 2 tile 12mm thick",
+        "362",
+        "sqm",
+        "3197",
+        "1999"
+      ],
+      [
+        "5",
+        "Supply and install GI conduit 8mm diameter",
+        "282",
+        "rmt",
+        "794",
+        "21648"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "16mm thick",
+        "quantity": 331,
+        "unit": "m^3",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "16mm thick",
+        "quantity": 101,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 326,
+        "unit": "rmt",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "12mm thick",
+        "quantity": 362,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 282,
+        "unit": "rmt",
+        "standard": [
+          "IS 694"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

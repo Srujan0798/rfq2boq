@@ -1,0 +1,37 @@
+Items described in the Bill of Quantities are to be supplied and installed at second floor for the Commercial Building at MG Road project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Fabricate and erect M30 PCC 12mm diameter  97  ls  4777  46682
+2  Lay Fe415 rebar 150mm thick  389  sqm  1275  10366
+3  Apply Class 2 paint 100 x 100mm  285  sqm  4527  25580
+4  Supply DB  51  set  4856  70352
+5  Supply HDPE pipe 16mm thick  178  sqm  4166  21955
+6  Supply and lay glass 16mm thick  103  kg  3658  71303
+7  Cast Class A brick masonry 200mm thick  135  set  2857  76554
+8  Apply brickbat coba 10mm diameter  417  rmt  4827  7159
+9  Supply and fix M30 M30 concrete 16mm thick  296  ltr  3161  12721
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

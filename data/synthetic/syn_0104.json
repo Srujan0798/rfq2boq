@@ -1,0 +1,247 @@
+{
+  "id": "syn_0104",
+  "project_name": "Hotel at Airport Road",
+  "category": "finishes",
+  "text": "The scope of work includes putty, tile, cement plaster for the Hotel at Airport Road project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix MS door 20mm thick  357  rmt  3338  2204\n2  Supply and fix DPC 12mm diameter  427  nos  3833  20323\n3  Supply and fix Class 2 putty 100 x 100mm  392  cum  1111  36841\n4  Plaster Fe500 rebar 6mm diameter  434  kg  2829  21014\n5  Apply PVC pipe 12mm thick  386  cum  3309  40203\n6  Lay GI conduit 12mm diameter  210  ls  3306  52257\n7  Apply Class C brick masonry 16mm thick  154  nos  4589  52612\n8  Provide and fix M25 M20 concrete 100 x 100mm  395  cum  1440  76649\n9  Apply aluminum window 16mm thick  257  nos  1702  97379\n10  Apply brickbat coba 300mm thick  448  sqm  3598  90056\n11  Supply and lay Class 1 POP  192  set  1061  68559\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes putty, tile, cement plaster for the Hotel at Airport Road project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Fix MS door 20mm thick Supply and fix DPC 12mm diameter Supply and fix Class 2 putty 100 x 100mm Plaster Fe500 rebar 6mm diameter Apply PVC pipe 12mm thick Lay GI conduit 12mm diameter Apply Class C brick masonry 16mm thick Provide and fix M25 M20 concrete 100 x 100mm Apply aluminum window 16mm thick Apply brickbat coba 300mm thick Supply and lay Class 1 POP",
+  "sections": {
+    "scope": "The scope of work includes putty, tile, cement plaster for the Hotel at Airport Road project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix MS door 20mm thick",
+        "357",
+        "rmt",
+        "3338",
+        "2204"
+      ],
+      [
+        "2",
+        "Supply and fix DPC 12mm diameter",
+        "427",
+        "nos",
+        "3833",
+        "20323"
+      ],
+      [
+        "3",
+        "Supply and fix Class 2 putty 100 x 100mm",
+        "392",
+        "cum",
+        "1111",
+        "36841"
+      ],
+      [
+        "4",
+        "Plaster Fe500 rebar 6mm diameter",
+        "434",
+        "kg",
+        "2829",
+        "21014"
+      ],
+      [
+        "5",
+        "Apply PVC pipe 12mm thick",
+        "386",
+        "cum",
+        "3309",
+        "40203"
+      ],
+      [
+        "6",
+        "Lay GI conduit 12mm diameter",
+        "210",
+        "ls",
+        "3306",
+        "52257"
+      ],
+      [
+        "7",
+        "Apply Class C brick masonry 16mm thick",
+        "154",
+        "nos",
+        "4589",
+        "52612"
+      ],
+      [
+        "8",
+        "Provide and fix M25 M20 concrete 100 x 100mm",
+        "395",
+        "cum",
+        "1440",
+        "76649"
+      ],
+      [
+        "9",
+        "Apply aluminum window 16mm thick",
+        "257",
+        "nos",
+        "1702",
+        "97379"
+      ],
+      [
+        "10",
+        "Apply brickbat coba 300mm thick",
+        "448",
+        "sqm",
+        "3598",
+        "90056"
+      ],
+      [
+        "11",
+        "Supply and lay Class 1 POP",
+        "192",
+        "set",
+        "1061",
+        "68559"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 357,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 427,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "100 x 100mm",
+        "quantity": 392,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "6mm diameter",
+        "quantity": 434,
+        "unit": "kg",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 386,
+        "unit": "m^3",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 210,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "16mm thick",
+        "quantity": 154,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "M20 concrete",
+        "grade": "M25",
+        "dimension": "100 x 100mm",
+        "quantity": 395,
+        "unit": "m^3",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Apply",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 257,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Apply",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 448,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and lay",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 192,
+        "unit": "set",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

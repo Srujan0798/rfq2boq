@@ -1,0 +1,167 @@
+{
+  "id": "syn_0214",
+  "project_name": "School Building at Electronic City",
+  "category": "piping",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the School Building at Electronic City project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix brickbat coba 6mm diameter  33  rmt  1600  10007\n2  Provide and install glass 16mm diameter  461  ls  2863  20842\n3  Erect Class 1 paint 8mm diameter  451  nos  3616  59694\n4  Lay M40 M25 concrete 16mm diameter  122  nos  4582  40798\n5  Fix PVC pipe 100 x 100mm  126  ltr  1229  71804\n6  Provide and fix Class B brick masonry 25mm thick  37  set  510  52573\n7  Cast Fe500 structural steel  181  ls  1406  27999\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the School Building at Electronic City project. All work to be carried out as per specifications. Provide and fix brickbat coba 6mm diameter Provide and install glass 16mm diameter Erect Class 1 paint 8mm diameter Lay M40 M25 concrete 16mm diameter Fix PVC pipe 100 x 100mm Provide and fix Class B brick masonry 25mm thick Cast Fe500 structural steel",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the School Building at Electronic City project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix brickbat coba 6mm diameter",
+        "33",
+        "rmt",
+        "1600",
+        "10007"
+      ],
+      [
+        "2",
+        "Provide and install glass 16mm diameter",
+        "461",
+        "ls",
+        "2863",
+        "20842"
+      ],
+      [
+        "3",
+        "Erect Class 1 paint 8mm diameter",
+        "451",
+        "nos",
+        "3616",
+        "59694"
+      ],
+      [
+        "4",
+        "Lay M40 M25 concrete 16mm diameter",
+        "122",
+        "nos",
+        "4582",
+        "40798"
+      ],
+      [
+        "5",
+        "Fix PVC pipe 100 x 100mm",
+        "126",
+        "ltr",
+        "1229",
+        "71804"
+      ],
+      [
+        "6",
+        "Provide and fix Class B brick masonry 25mm thick",
+        "37",
+        "set",
+        "510",
+        "52573"
+      ],
+      [
+        "7",
+        "Cast Fe500 structural steel",
+        "181",
+        "ls",
+        "1406",
+        "27999"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 33,
+        "unit": "rmt",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 461,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "8mm diameter",
+        "quantity": 451,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "M25 concrete",
+        "grade": "M40",
+        "dimension": "16mm diameter",
+        "quantity": 122,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 126,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "25mm thick",
+        "quantity": 37,
+        "unit": "set",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 181,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

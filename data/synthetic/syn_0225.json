@@ -1,0 +1,167 @@
+{
+  "id": "syn_0225",
+  "project_name": "Commercial Building at MG Road",
+  "category": "piping",
+  "text": "The work comprises PVC pipe, HDPE pipe, CI pipe for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install PVC pipe 20mm thick  200  cum  4022  33065\n2  Lay brickbat coba 12mm diameter  38  nos  956  31974\n3  Plaster M35 M20 concrete 100 x 100mm  171  kg  4701  43461\n4  Supply Class 1 POP  347  sqm  1529  53598\n5  Plaster cable 12mm diameter  214  kg  3093  51609\n6  Apply flush door  151  set  2159  75537\n7  Supply Fe415 TMT steel 8mm diameter  330  sqm  2292  10439\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises PVC pipe, HDPE pipe, CI pipe for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Provide and install PVC pipe 20mm thick Lay brickbat coba 12mm diameter Plaster M35 M20 concrete 100 x 100mm Supply Class 1 POP Plaster cable 12mm diameter Apply flush door Supply Fe415 TMT steel 8mm diameter",
+  "sections": {
+    "scope": "The work comprises PVC pipe, HDPE pipe, CI pipe for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install PVC pipe 20mm thick",
+        "200",
+        "cum",
+        "4022",
+        "33065"
+      ],
+      [
+        "2",
+        "Lay brickbat coba 12mm diameter",
+        "38",
+        "nos",
+        "956",
+        "31974"
+      ],
+      [
+        "3",
+        "Plaster M35 M20 concrete 100 x 100mm",
+        "171",
+        "kg",
+        "4701",
+        "43461"
+      ],
+      [
+        "4",
+        "Supply Class 1 POP",
+        "347",
+        "sqm",
+        "1529",
+        "53598"
+      ],
+      [
+        "5",
+        "Plaster cable 12mm diameter",
+        "214",
+        "kg",
+        "3093",
+        "51609"
+      ],
+      [
+        "6",
+        "Apply flush door",
+        "151",
+        "set",
+        "2159",
+        "75537"
+      ],
+      [
+        "7",
+        "Supply Fe415 TMT steel 8mm diameter",
+        "330",
+        "sqm",
+        "2292",
+        "10439"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 200,
+        "unit": "m^3",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 38,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "100 x 100mm",
+        "quantity": 171,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 347,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Plaster",
+        "material": "cable",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 214,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 151,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "8mm diameter",
+        "quantity": 330,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

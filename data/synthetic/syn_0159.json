@@ -1,0 +1,147 @@
+{
+  "id": "syn_0159",
+  "project_name": "Hotel at Airport Road",
+  "category": "piping",
+  "text": "Supply and installation of PVC pipe, HDPE pipe, GI pipe for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix MS door 100mm thick  471  sqm  128  74755\n2  Fix Class 2 cement plaster 150mm thick  300  sqm  4569  10689\n3  Install Class C brick masonry 6mm diameter  476  set  3268  59939\n4  Fabricate and erect Fe550 MS plate 10mm diameter  323  nos  1354  60535\n5  Provide and install M30 PCC 12mm thick  83  nos  2207  22013\n6  Erect switch  422  nos  3461  94151\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of PVC pipe, HDPE pipe, GI pipe for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and fix MS door 100mm thick Fix Class 2 cement plaster 150mm thick Install Class C brick masonry 6mm diameter Fabricate and erect Fe550 MS plate 10mm diameter Provide and install M30 PCC 12mm thick Erect switch",
+  "sections": {
+    "scope": "Supply and installation of PVC pipe, HDPE pipe, GI pipe for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix MS door 100mm thick",
+        "471",
+        "sqm",
+        "128",
+        "74755"
+      ],
+      [
+        "2",
+        "Fix Class 2 cement plaster 150mm thick",
+        "300",
+        "sqm",
+        "4569",
+        "10689"
+      ],
+      [
+        "3",
+        "Install Class C brick masonry 6mm diameter",
+        "476",
+        "set",
+        "3268",
+        "59939"
+      ],
+      [
+        "4",
+        "Fabricate and erect Fe550 MS plate 10mm diameter",
+        "323",
+        "nos",
+        "1354",
+        "60535"
+      ],
+      [
+        "5",
+        "Provide and install M30 PCC 12mm thick",
+        "83",
+        "nos",
+        "2207",
+        "22013"
+      ],
+      [
+        "6",
+        "Erect switch",
+        "422",
+        "nos",
+        "3461",
+        "94151"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 471,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "150mm thick",
+        "quantity": 300,
+        "unit": "m^2",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "6mm diameter",
+        "quantity": 476,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "10mm diameter",
+        "quantity": 323,
+        "unit": "no.",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "PCC",
+        "grade": "M30",
+        "dimension": "12mm thick",
+        "quantity": 83,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "switch",
+        "grade": "",
+        "dimension": "",
+        "quantity": 422,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "version": "2023",
+  "region": "average_india",
+  "currency": "INR",
+  "items": [
+    {
+      "code": "C-1.1",
+      "description": "M20 concrete in foundation",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "cum",
+      "rate": 5800,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "C-1.2",
+      "description": "M25 concrete in RCC",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "cum",
+      "rate": 6200,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "S-2.1",
+      "description": "TMT steel Fe500D",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate": 75,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "S-2.2",
+      "description": "TMT steel Fe415",
+      "material": "steel",
+      "grade": "Fe415",
+      "unit": "kg",
+      "rate": 72,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "B-3.1",
+      "description": "First class brickwork in superstructure",
+      "material": "brick",
+      "grade": "first",
+      "unit": "cum",
+      "rate": 5500,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "B-3.2",
+      "description": "AAC block masonry",
+      "material": "aac_block",
+      "grade": "standard",
+      "unit": "cum",
+      "rate": 4800,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "P-4.1",
+      "description": "12mm cement plaster",
+      "material": "cement_plaster",
+      "grade": "standard",
+      "unit": "sqm",
+      "rate": 220,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "P-4.2",
+      "description": "20mm cement plaster",
+      "material": "cement_plaster",
+      "grade": "standard",
+      "unit": "sqm",
+      "rate": 280,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "F-5.1",
+      "description": "Granite flooring 600x600mm",
+      "material": "granite",
+      "grade": "standard",
+      "unit": "sqm",
+      "rate": 1500,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "F-5.2",
+      "description": "Vitrified tile flooring",
+      "material": "tile",
+      "grade": "standard",
+      "unit": "sqm",
+      "rate": 650,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "GL-6.1",
+      "description": "GI pipe 50mm diameter",
+      "material": "gi_pipe",
+      "grade": "standard",
+      "unit": "m",
+      "rate": 350,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "GL-6.2",
+      "description": "GI pipe 25mm diameter",
+      "material": "gi_pipe",
+      "grade": "standard",
+      "unit": "m",
+      "rate": 220,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "WP-7.1",
+      "description": "Waterproofing membrane 2mm",
+      "material": "waterproofing",
+      "grade": "standard",
+      "unit": "sqm",
+      "rate": 450,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    },
+    {
+      "code": "R-8.1",
+      "description": "TMT steel bars for reinforcement",
+      "material": "steel",
+      "grade": "Fe500",
+      "unit": "kg",
+      "rate": 78,
+      "rate_year": 2023,
+      "source": "CPWD DSR 2023"
+    }
+  ]
+}

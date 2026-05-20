@@ -1,0 +1,247 @@
+{
+  "id": "syn_0058",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "piping",
+  "text": "Supply and installation of GI pipe, HDPE pipe, SWR pipe for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster Class B brick masonry  132  nos  4457  36235\n2  Install glass  45  rmt  3830  81967\n3  Apply M30 M35 concrete  328  set  1346  7505\n4  Supply and fix SWR pipe  62  nos  3691  96303\n5  Supply and lay Class 1 cement plaster 150 x 150mm  87  cum  2652  66325\n6  Apply switch 300mm thick  415  cum  2283  52435\n7  Fabricate and erect Fe550 TMT steel 25mm thick  102  kg  203  16985\n8  Fix membrane 150mm thick  236  kg  3875  97380\n9  Plaster Class C brick masonry 100 x 100mm  116  set  1399  83465\n10  Provide and lay flush door  256  nos  1884  15801\n11  Provide and fix M35 M25 concrete 230mm thick  17  rmt  2091  2170\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI pipe, HDPE pipe, SWR pipe for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice. Plaster Class B brick masonry Install glass Apply M30 M35 concrete Supply and fix SWR pipe Supply and lay Class 1 cement plaster 150 x 150mm Apply switch 300mm thick Fabricate and erect Fe550 TMT steel 25mm thick Fix membrane 150mm thick Plaster Class C brick masonry 100 x 100mm Provide and lay flush door Provide and fix M35 M25 concrete 230mm thick",
+  "sections": {
+    "scope": "Supply and installation of GI pipe, HDPE pipe, SWR pipe for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster Class B brick masonry",
+        "132",
+        "nos",
+        "4457",
+        "36235"
+      ],
+      [
+        "2",
+        "Install glass",
+        "45",
+        "rmt",
+        "3830",
+        "81967"
+      ],
+      [
+        "3",
+        "Apply M30 M35 concrete",
+        "328",
+        "set",
+        "1346",
+        "7505"
+      ],
+      [
+        "4",
+        "Supply and fix SWR pipe",
+        "62",
+        "nos",
+        "3691",
+        "96303"
+      ],
+      [
+        "5",
+        "Supply and lay Class 1 cement plaster 150 x 150mm",
+        "87",
+        "cum",
+        "2652",
+        "66325"
+      ],
+      [
+        "6",
+        "Apply switch 300mm thick",
+        "415",
+        "cum",
+        "2283",
+        "52435"
+      ],
+      [
+        "7",
+        "Fabricate and erect Fe550 TMT steel 25mm thick",
+        "102",
+        "kg",
+        "203",
+        "16985"
+      ],
+      [
+        "8",
+        "Fix membrane 150mm thick",
+        "236",
+        "kg",
+        "3875",
+        "97380"
+      ],
+      [
+        "9",
+        "Plaster Class C brick masonry 100 x 100mm",
+        "116",
+        "set",
+        "1399",
+        "83465"
+      ],
+      [
+        "10",
+        "Provide and lay flush door",
+        "256",
+        "nos",
+        "1884",
+        "15801"
+      ],
+      [
+        "11",
+        "Provide and fix M35 M25 concrete 230mm thick",
+        "17",
+        "rmt",
+        "2091",
+        "2170"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 132,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 45,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "M35 concrete",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 328,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 62,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "150 x 150mm",
+        "quantity": 87,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "switch",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 415,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fabricate and erect",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "25mm thick",
+        "quantity": 102,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 236,
+        "unit": "kg",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Plaster",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "100 x 100mm",
+        "quantity": 116,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 256,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and fix",
+        "material": "M25 concrete",
+        "grade": "M35",
+        "dimension": "230mm thick",
+        "quantity": 17,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "id": "syn_0178",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "finishes",
+  "text": "The scope of work includes paint, putty, POP for the Hospital Building at Hebbal project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install membrane 20mm thick  411  kg  1355  13923\n2  Erect SWR pipe 150 x 150mm  390  ltr  764  32784\n3  Fabricate and erect Fe550 MS plate 150mm thick  495  sqm  3425  57645\n4  Fabricate and erect Class B AAC block 230mm thick  25  ls  2030  64769\n5  Cast M35 M35 concrete 20mm thick  119  ltr  2092  81028\n6  Supply and fix Class 2 POP 200mm thick  316  ls  772  11788\n7  Lay flush door 300mm thick  229  set  117  62762\n8  Supply and fix GI conduit 200 x 200mm  159  ls  4785  12471\n9  Supply brickbat coba  168  ls  774  6179\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes paint, putty, POP for the Hospital Building at Hebbal project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Install membrane 20mm thick Erect SWR pipe 150 x 150mm Fabricate and erect Fe550 MS plate 150mm thick Fabricate and erect Class B AAC block 230mm thick Cast M35 M35 concrete 20mm thick Supply and fix Class 2 POP 200mm thick Lay flush door 300mm thick Supply and fix GI conduit 200 x 200mm Supply brickbat coba",
+  "sections": {
+    "scope": "The scope of work includes paint, putty, POP for the Hospital Building at Hebbal project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install membrane 20mm thick",
+        "411",
+        "kg",
+        "1355",
+        "13923"
+      ],
+      [
+        "2",
+        "Erect SWR pipe 150 x 150mm",
+        "390",
+        "ltr",
+        "764",
+        "32784"
+      ],
+      [
+        "3",
+        "Fabricate and erect Fe550 MS plate 150mm thick",
+        "495",
+        "sqm",
+        "3425",
+        "57645"
+      ],
+      [
+        "4",
+        "Fabricate and erect Class B AAC block 230mm thick",
+        "25",
+        "ls",
+        "2030",
+        "64769"
+      ],
+      [
+        "5",
+        "Cast M35 M35 concrete 20mm thick",
+        "119",
+        "ltr",
+        "2092",
+        "81028"
+      ],
+      [
+        "6",
+        "Supply and fix Class 2 POP 200mm thick",
+        "316",
+        "ls",
+        "772",
+        "11788"
+      ],
+      [
+        "7",
+        "Lay flush door 300mm thick",
+        "229",
+        "set",
+        "117",
+        "62762"
+      ],
+      [
+        "8",
+        "Supply and fix GI conduit 200 x 200mm",
+        "159",
+        "ls",
+        "4785",
+        "12471"
+      ],
+      [
+        "9",
+        "Supply brickbat coba",
+        "168",
+        "ls",
+        "774",
+        "6179"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 411,
+        "unit": "kg",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 390,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "150mm thick",
+        "quantity": 495,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "230mm thick",
+        "quantity": 25,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "20mm thick",
+        "quantity": 119,
+        "unit": "ltr",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "200mm thick",
+        "quantity": 316,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 229,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and fix",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 159,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 168,
+        "unit": "ls",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

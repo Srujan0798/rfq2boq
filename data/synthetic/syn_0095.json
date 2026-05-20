@@ -1,0 +1,127 @@
+{
+  "id": "syn_0095",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "electrical",
+  "text": "The work comprises DB, light fixture, switch for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply Class B fly ash brick 200 x 200mm  203  rmt  4610  12109\n2  Provide and lay M20 M25 concrete  237  ls  3911  68143\n3  Erect SWR pipe 200 x 200mm  240  set  2697  36785\n4  Supply and fix glass  236  kg  3041  11802\n5  Fix switch  151  kg  3051  6017\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises DB, light fixture, switch for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards. Supply Class B fly ash brick 200 x 200mm Provide and lay M20 M25 concrete Erect SWR pipe 200 x 200mm Supply and fix glass Fix switch",
+  "sections": {
+    "scope": "The work comprises DB, light fixture, switch for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply Class B fly ash brick 200 x 200mm",
+        "203",
+        "rmt",
+        "4610",
+        "12109"
+      ],
+      [
+        "2",
+        "Provide and lay M20 M25 concrete",
+        "237",
+        "ls",
+        "3911",
+        "68143"
+      ],
+      [
+        "3",
+        "Erect SWR pipe 200 x 200mm",
+        "240",
+        "set",
+        "2697",
+        "36785"
+      ],
+      [
+        "4",
+        "Supply and fix glass",
+        "236",
+        "kg",
+        "3041",
+        "11802"
+      ],
+      [
+        "5",
+        "Fix switch",
+        "151",
+        "kg",
+        "3051",
+        "6017"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "200 x 200mm",
+        "quantity": 203,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 237,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 240,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 236,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "",
+        "quantity": 151,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

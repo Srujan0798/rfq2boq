@@ -1,0 +1,207 @@
+{
+  "id": "syn_0261",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "electrical",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Hospital Building at Hebbal project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast integral waterproofing 230mm thick  114  set  1184  24699\n2  Supply and lay Class 2 paint  369  kg  2001  95705\n3  Erect light fixture 300mm thick  447  nos  4267  83517\n4  Erect CI pipe 8mm diameter  62  rmt  3774  30958\n5  Cast M20 M20 concrete 25mm thick  313  rmt  1225  36452\n6  Supply and fix Fe415 TMT steel  371  sqm  1986  44498\n7  Provide and fix Class A fly ash brick  58  nos  922  77269\n8  Provide and install flush door 10mm diameter  351  cum  4943  61423\n9  Fabricate and erect membrane 25mm thick  319  rmt  1356  13245\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Hospital Building at Hebbal project. All work to be carried out as per specifications. Cast integral waterproofing 230mm thick Supply and lay Class 2 paint Erect light fixture 300mm thick Erect CI pipe 8mm diameter Cast M20 M20 concrete 25mm thick Supply and fix Fe415 TMT steel Provide and fix Class A fly ash brick Provide and install flush door 10mm diameter Fabricate and erect membrane 25mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Hospital Building at Hebbal project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast integral waterproofing 230mm thick",
+        "114",
+        "set",
+        "1184",
+        "24699"
+      ],
+      [
+        "2",
+        "Supply and lay Class 2 paint",
+        "369",
+        "kg",
+        "2001",
+        "95705"
+      ],
+      [
+        "3",
+        "Erect light fixture 300mm thick",
+        "447",
+        "nos",
+        "4267",
+        "83517"
+      ],
+      [
+        "4",
+        "Erect CI pipe 8mm diameter",
+        "62",
+        "rmt",
+        "3774",
+        "30958"
+      ],
+      [
+        "5",
+        "Cast M20 M20 concrete 25mm thick",
+        "313",
+        "rmt",
+        "1225",
+        "36452"
+      ],
+      [
+        "6",
+        "Supply and fix Fe415 TMT steel",
+        "371",
+        "sqm",
+        "1986",
+        "44498"
+      ],
+      [
+        "7",
+        "Provide and fix Class A fly ash brick",
+        "58",
+        "nos",
+        "922",
+        "77269"
+      ],
+      [
+        "8",
+        "Provide and install flush door 10mm diameter",
+        "351",
+        "cum",
+        "4943",
+        "61423"
+      ],
+      [
+        "9",
+        "Fabricate and erect membrane 25mm thick",
+        "319",
+        "rmt",
+        "1356",
+        "13245"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 114,
+        "unit": "set",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 369,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 447,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 62,
+        "unit": "rmt",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "M20 concrete",
+        "grade": "M20",
+        "dimension": "25mm thick",
+        "quantity": 313,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 371,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and fix",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 58,
+        "unit": "no.",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 351,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fabricate and erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 319,
+        "unit": "rmt",
+        "standard": [
+          "IS 3144"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

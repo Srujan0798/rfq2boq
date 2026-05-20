@@ -1,0 +1,207 @@
+{
+  "id": "syn_0238",
+  "project_name": "Warehouse at Peenya",
+  "category": "finishes",
+  "text": "The scope of work includes tile, paint, POP for the Warehouse at Peenya project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay M20 PCC 100mm thick  399  set  1069  70575\n2  Erect glass  459  cum  3603  49806\n3  Provide and install Fe415 TMT steel 25mm thick  148  nos  4976  6670\n4  Provide and lay Class B hollow block 6mm diameter  350  ls  1450  40437\n5  Supply and fix GI pipe  413  rmt  4993  58172\n6  Provide and fix light fixture 12mm thick  487  ltr  1123  80821\n7  Provide and install brickbat coba 100mm thick  120  nos  4187  41278\n8  Provide and lay Class 2 paint 150 x 150mm  287  nos  4992  30207\n9  Provide and fix M35 PCC 20mm thick  97  sqm  1945  41965\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes tile, paint, POP for the Warehouse at Peenya project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below. Lay M20 PCC 100mm thick Erect glass Provide and install Fe415 TMT steel 25mm thick Provide and lay Class B hollow block 6mm diameter Supply and fix GI pipe Provide and fix light fixture 12mm thick Provide and install brickbat coba 100mm thick Provide and lay Class 2 paint 150 x 150mm Provide and fix M35 PCC 20mm thick",
+  "sections": {
+    "scope": "The scope of work includes tile, paint, POP for the Warehouse at Peenya project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay M20 PCC 100mm thick",
+        "399",
+        "set",
+        "1069",
+        "70575"
+      ],
+      [
+        "2",
+        "Erect glass",
+        "459",
+        "cum",
+        "3603",
+        "49806"
+      ],
+      [
+        "3",
+        "Provide and install Fe415 TMT steel 25mm thick",
+        "148",
+        "nos",
+        "4976",
+        "6670"
+      ],
+      [
+        "4",
+        "Provide and lay Class B hollow block 6mm diameter",
+        "350",
+        "ls",
+        "1450",
+        "40437"
+      ],
+      [
+        "5",
+        "Supply and fix GI pipe",
+        "413",
+        "rmt",
+        "4993",
+        "58172"
+      ],
+      [
+        "6",
+        "Provide and fix light fixture 12mm thick",
+        "487",
+        "ltr",
+        "1123",
+        "80821"
+      ],
+      [
+        "7",
+        "Provide and install brickbat coba 100mm thick",
+        "120",
+        "nos",
+        "4187",
+        "41278"
+      ],
+      [
+        "8",
+        "Provide and lay Class 2 paint 150 x 150mm",
+        "287",
+        "nos",
+        "4992",
+        "30207"
+      ],
+      [
+        "9",
+        "Provide and fix M35 PCC 20mm thick",
+        "97",
+        "sqm",
+        "1945",
+        "41965"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "100mm thick",
+        "quantity": 399,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 459,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "25mm thick",
+        "quantity": 148,
+        "unit": "no.",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "6mm diameter",
+        "quantity": 350,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 413,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 487,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 120,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and lay",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "150 x 150mm",
+        "quantity": 287,
+        "unit": "no.",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "PCC",
+        "grade": "M35",
+        "dimension": "20mm thick",
+        "quantity": 97,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

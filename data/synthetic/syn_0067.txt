@@ -1,0 +1,36 @@
+Items described in the Bill of Quantities are to be supplied and installed at kitchen for the Commercial Building at MG Road project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Lay glass  365  kg  4803  64783
+2  Cast Fe550 TMT steel 10mm diameter  247  ls  2623  54188
+3  Plaster GI pipe 150mm thick  426  ltr  1882  19208
+4  Fix DB 100 x 100mm  85  rmt  4834  59610
+5  Plaster M25 M25 concrete  459  ls  2594  57980
+6  Cast integral waterproofing 100 x 100mm  14  ltr  3124  72943
+7  Apply Class 1 cement plaster  296  ls  355  31833
+8  Cast Class C hollow block 6mm diameter  211  ls  3665  72449
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

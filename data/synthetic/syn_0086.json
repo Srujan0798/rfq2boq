@@ -1,0 +1,187 @@
+{
+  "id": "syn_0086",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "steel",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at second floor for the Residential Complex at Whitefield project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay MS door 100 x 100mm  162  set  3041  88231\n2  Lay Class B brick masonry 6mm diameter  112  set  2299  74801\n3  Supply and lay Class 2 putty 12mm thick  397  ltr  3589  13182\n4  Fabricate and erect GI pipe 300mm thick  356  kg  4419  83517\n5  Provide and lay Fe415 rebar  249  ltr  2560  20478\n6  Install GI conduit  137  ltr  4613  11031\n7  Supply and lay M40 M20 concrete 10mm diameter  271  ltr  4756  34211\n8  Cast integral waterproofing  51  cum  3891  24534\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at second floor for the Residential Complex at Whitefield project. All work to be carried out as per specifications. Supply and lay MS door 100 x 100mm Lay Class B brick masonry 6mm diameter Supply and lay Class 2 putty 12mm thick Fabricate and erect GI pipe 300mm thick Provide and lay Fe415 rebar Install GI conduit Supply and lay M40 M20 concrete 10mm diameter Cast integral waterproofing",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at second floor for the Residential Complex at Whitefield project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay MS door 100 x 100mm",
+        "162",
+        "set",
+        "3041",
+        "88231"
+      ],
+      [
+        "2",
+        "Lay Class B brick masonry 6mm diameter",
+        "112",
+        "set",
+        "2299",
+        "74801"
+      ],
+      [
+        "3",
+        "Supply and lay Class 2 putty 12mm thick",
+        "397",
+        "ltr",
+        "3589",
+        "13182"
+      ],
+      [
+        "4",
+        "Fabricate and erect GI pipe 300mm thick",
+        "356",
+        "kg",
+        "4419",
+        "83517"
+      ],
+      [
+        "5",
+        "Provide and lay Fe415 rebar",
+        "249",
+        "ltr",
+        "2560",
+        "20478"
+      ],
+      [
+        "6",
+        "Install GI conduit",
+        "137",
+        "ltr",
+        "4613",
+        "11031"
+      ],
+      [
+        "7",
+        "Supply and lay M40 M20 concrete 10mm diameter",
+        "271",
+        "ltr",
+        "4756",
+        "34211"
+      ],
+      [
+        "8",
+        "Cast integral waterproofing",
+        "51",
+        "cum",
+        "3891",
+        "24534"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 162,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "6mm diameter",
+        "quantity": 112,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "12mm thick",
+        "quantity": 397,
+        "unit": "ltr",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 356,
+        "unit": "kg",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 249,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 137,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "M20 concrete",
+        "grade": "M40",
+        "dimension": "10mm diameter",
+        "quantity": 271,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 51,
+        "unit": "m^3",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

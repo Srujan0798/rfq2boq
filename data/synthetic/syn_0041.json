@@ -1,0 +1,147 @@
+{
+  "id": "syn_0041",
+  "project_name": "IT Park Phase 2",
+  "category": "brickwork",
+  "text": "Supply and installation of AAC block, brick masonry, fly ash brick for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay Class 2 cement plaster 16mm diameter  213  ls  201  92804\n2  Lay M40 PCC  410  ltr  1314  75264\n3  Supply SWR pipe 200 x 200mm  64  sqm  2263  51206\n4  Cast Class C hollow block  252  cum  1278  82034\n5  Supply and install DB 150mm thick  212  ls  3992  36203\n6  Provide and fix MS door 12mm diameter  428  nos  1967  18614\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of AAC block, brick masonry, fly ash brick for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice. Lay Class 2 cement plaster 16mm diameter Lay M40 PCC Supply SWR pipe 200 x 200mm Cast Class C hollow block Supply and install DB 150mm thick Provide and fix MS door 12mm diameter",
+  "sections": {
+    "scope": "Supply and installation of AAC block, brick masonry, fly ash brick for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay Class 2 cement plaster 16mm diameter",
+        "213",
+        "ls",
+        "201",
+        "92804"
+      ],
+      [
+        "2",
+        "Lay M40 PCC",
+        "410",
+        "ltr",
+        "1314",
+        "75264"
+      ],
+      [
+        "3",
+        "Supply SWR pipe 200 x 200mm",
+        "64",
+        "sqm",
+        "2263",
+        "51206"
+      ],
+      [
+        "4",
+        "Cast Class C hollow block",
+        "252",
+        "cum",
+        "1278",
+        "82034"
+      ],
+      [
+        "5",
+        "Supply and install DB 150mm thick",
+        "212",
+        "ls",
+        "3992",
+        "36203"
+      ],
+      [
+        "6",
+        "Provide and fix MS door 12mm diameter",
+        "428",
+        "nos",
+        "1967",
+        "18614"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "16mm diameter",
+        "quantity": 213,
+        "unit": "ls",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "PCC",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 410,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 64,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 252,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "DB",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 212,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 428,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

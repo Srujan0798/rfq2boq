@@ -1,0 +1,247 @@
+{
+  "id": "syn_0039",
+  "project_name": "Commercial Building at MG Road",
+  "category": "doors_windows",
+  "text": "The work comprises MS door, flush door, glass for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply CI pipe  362  nos  114  93013\n2  Install Class 2 putty  404  cum  1909  84839\n3  Supply M20 PCC 200mm thick  264  rmt  2941  42879\n4  Install membrane 25mm thick  372  ls  2144  91855\n5  Provide and lay Fe500 TMT steel 150mm thick  412  sqm  3689  97021\n6  Supply Class A hollow block 200 x 200mm  221  set  3174  14294\n7  Supply and fix glass 150mm thick  241  sqm  264  42774\n8  Supply and lay switch 12mm thick  185  rmt  714  72702\n9  Cast GI pipe 8mm diameter  324  set  1451  80602\n10  Supply and install Class 1 paint  61  ls  3452  92382\n11  Provide and lay M40 PCC  348  nos  506  52498\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises MS door, flush door, glass for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Apply CI pipe Install Class 2 putty Supply M20 PCC 200mm thick Install membrane 25mm thick Provide and lay Fe500 TMT steel 150mm thick Supply Class A hollow block 200 x 200mm Supply and fix glass 150mm thick Supply and lay switch 12mm thick Cast GI pipe 8mm diameter Supply and install Class 1 paint Provide and lay M40 PCC",
+  "sections": {
+    "scope": "The work comprises MS door, flush door, glass for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply CI pipe",
+        "362",
+        "nos",
+        "114",
+        "93013"
+      ],
+      [
+        "2",
+        "Install Class 2 putty",
+        "404",
+        "cum",
+        "1909",
+        "84839"
+      ],
+      [
+        "3",
+        "Supply M20 PCC 200mm thick",
+        "264",
+        "rmt",
+        "2941",
+        "42879"
+      ],
+      [
+        "4",
+        "Install membrane 25mm thick",
+        "372",
+        "ls",
+        "2144",
+        "91855"
+      ],
+      [
+        "5",
+        "Provide and lay Fe500 TMT steel 150mm thick",
+        "412",
+        "sqm",
+        "3689",
+        "97021"
+      ],
+      [
+        "6",
+        "Supply Class A hollow block 200 x 200mm",
+        "221",
+        "set",
+        "3174",
+        "14294"
+      ],
+      [
+        "7",
+        "Supply and fix glass 150mm thick",
+        "241",
+        "sqm",
+        "264",
+        "42774"
+      ],
+      [
+        "8",
+        "Supply and lay switch 12mm thick",
+        "185",
+        "rmt",
+        "714",
+        "72702"
+      ],
+      [
+        "9",
+        "Cast GI pipe 8mm diameter",
+        "324",
+        "set",
+        "1451",
+        "80602"
+      ],
+      [
+        "10",
+        "Supply and install Class 1 paint",
+        "61",
+        "ls",
+        "3452",
+        "92382"
+      ],
+      [
+        "11",
+        "Provide and lay M40 PCC",
+        "348",
+        "nos",
+        "506",
+        "52498"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 362,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 404,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "200mm thick",
+        "quantity": 264,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 372,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "150mm thick",
+        "quantity": 412,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "200 x 200mm",
+        "quantity": 221,
+        "unit": "set",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 241,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "switch",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 185,
+        "unit": "rmt",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Cast",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 324,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and install",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 61,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and lay",
+        "material": "PCC",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 348,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

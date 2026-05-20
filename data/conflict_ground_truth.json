@@ -1,0 +1,358 @@
+{
+  "description": "Ground truth for entity conflict resolution. 30+ scenarios covering all 8 entity types.",
+  "cases": [
+    {
+      "id": 1,
+      "sentence": "Supply 500 kg cement at site",
+      "candidates": [
+        {"type": "QUANTITY", "text": "500", "confidence": 0.55, "source": "bert"},
+        {"type": "QUANTITY", "text": "500", "confidence": 0.95, "source": "pattern"}
+      ],
+      "expected_type": "QUANTITY",
+      "expected_text": "500",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 2,
+      "sentence": "Use M20 grade concrete for foundation",
+      "candidates": [
+        {"type": "GRADE", "text": "M20", "confidence": 0.72, "source": "bert"},
+        {"type": "GRADE", "text": "M20", "confidence": 0.90, "source": "pattern"}
+      ],
+      "expected_type": "GRADE",
+      "expected_text": "M20",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 3,
+      "sentence": "Provide 10 cum brick bat coba waterproofing",
+      "candidates": [
+        {"type": "UNIT", "text": "cum", "confidence": 0.88, "source": "pattern"},
+        {"type": "UNIT", "text": "cubic meter", "confidence": 0.65, "source": "bert"}
+      ],
+      "expected_type": "UNIT",
+      "expected_text": "cum",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 4,
+      "sentence": "Apply 2 coats of Asian paint",
+      "candidates": [
+        {"type": "MATERIAL", "text": "Asian paint", "confidence": 0.75, "source": "bert"},
+        {"type": "MATERIAL", "text": "paint", "confidence": 0.80, "source": "pattern"}
+      ],
+      "expected_type": "MATERIAL",
+      "expected_text": "Asian paint",
+      "expected_source": "bert"
+    },
+    {
+      "id": 5,
+      "sentence": "Foundation pit excavation in ordinary soil",
+      "candidates": [
+        {"type": "LOCATION", "text": "foundation pit", "confidence": 0.78, "source": "bert"},
+        {"type": "LOCATION", "text": "site", "confidence": 0.85, "source": "dictionary"}
+      ],
+      "expected_type": "LOCATION",
+      "expected_text": "foundation pit",
+      "expected_source": "bert"
+    },
+    {
+      "id": 6,
+      "sentence": "Supply TMT Fe500D reinforcement steel",
+      "candidates": [
+        {"type": "GRADE", "text": "Fe500D", "confidence": 0.92, "source": "pattern"},
+        {"type": "GRADE", "text": "500D", "confidence": 0.60, "source": "bert"}
+      ],
+      "expected_type": "GRADE",
+      "expected_text": "Fe500D",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 7,
+      "sentence": "Walls to be of Fly ash brick masonry",
+      "candidates": [
+        {"type": "MATERIAL", "text": "Fly ash brick", "confidence": 0.81, "source": "bert"},
+        {"type": "MATERIAL", "text": "brick", "confidence": 0.75, "source": "pattern"}
+      ],
+      "expected_type": "MATERIAL",
+      "expected_text": "Fly ash brick",
+      "expected_source": "bert"
+    },
+    {
+      "id": 8,
+      "sentence": "12mm thick cement plaster 1:4",
+      "candidates": [
+        {"type": "DIMENSION", "text": "12mm", "confidence": 0.90, "source": "pattern"},
+        {"type": "DIMENSION", "text": "12", "confidence": 0.55, "source": "bert"}
+      ],
+      "expected_type": "DIMENSION",
+      "expected_text": "12mm",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 9,
+      "sentence": "Provide IS 2062 structural steel",
+      "candidates": [
+        {"type": "STANDARD", "text": "IS 2062", "confidence": 0.98, "source": "pattern"},
+        {"type": "STANDARD", "text": "IS 2062", "confidence": 0.70, "source": "bert"}
+      ],
+      "expected_type": "STANDARD",
+      "expected_text": "IS 2062",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 10,
+      "sentence": "Earthwork in excavation to reduce levels",
+      "candidates": [
+        {"type": "ACTION", "text": "excavation", "confidence": 0.83, "source": "bert"},
+        {"type": "ACTION", "text": "earthwork", "confidence": 0.79, "source": "pattern"}
+      ],
+      "expected_type": "ACTION",
+      "expected_text": "excavation",
+      "expected_source": "bert"
+    },
+    {
+      "id": 11,
+      "sentence": "250 sqm flooring with 25mm thick marble",
+      "candidates": [
+        {"type": "QUANTITY", "text": "250", "confidence": 0.92, "source": "pattern"},
+        {"type": "QUANTITY", "text": "250", "confidence": 0.60, "source": "bert"}
+      ],
+      "expected_type": "QUANTITY",
+      "expected_text": "250",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 12,
+      "sentence": "Door frame teak wood 75mm x 50mm",
+      "candidates": [
+        {"type": "DIMENSION", "text": "75mm x 50mm", "confidence": 0.89, "source": "pattern"},
+        {"type": "DIMENSION", "text": "75", "confidence": 0.50, "source": "bert"}
+      ],
+      "expected_type": "DIMENSION",
+      "expected_text": "75mm x 50mm",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 13,
+      "sentence": "RCC work in columns M25 grade",
+      "candidates": [
+        {"type": "GRADE", "text": "M25", "confidence": 0.91, "source": "pattern"},
+        {"type": "GRADE", "text": "M25", "confidence": 0.65, "source": "bert"}
+      ],
+      "expected_type": "GRADE",
+      "expected_text": "M25",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 14,
+      "sentence": "Painting two coats with primer",
+      "candidates": [
+        {"type": "ACTION", "text": "painting", "confidence": 0.85, "source": "bert"},
+        {"type": "ACTION", "text": "apply", "confidence": 0.70, "source": "dictionary"}
+      ],
+      "expected_type": "ACTION",
+      "expected_text": "painting",
+      "expected_source": "bert"
+    },
+    {
+      "id": 15,
+      "sentence": "Aggregate 20mm nominal size",
+      "candidates": [
+        {"type": "DIMENSION", "text": "20mm", "confidence": 0.93, "source": "pattern"},
+        {"type": "DIMENSION", "text": "20", "confidence": 0.52, "source": "bert"}
+      ],
+      "expected_type": "DIMENSION",
+      "expected_text": "20mm",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 16,
+      "sentence": "Supply PPC cement 43 grade",
+      "candidates": [
+        {"type": "GRADE", "text": "43", "confidence": 0.78, "source": "bert"},
+        {"type": "GRADE", "text": "43 grade", "confidence": 0.95, "source": "pattern"}
+      ],
+      "expected_type": "GRADE",
+      "expected_text": "43 grade",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 17,
+      "sentence": "PVC pipe 100mm dia water supply",
+      "candidates": [
+        {"type": "DIMENSION", "text": "100mm", "confidence": 0.91, "source": "pattern"},
+        {"type": "DIMENSION", "text": "100", "confidence": 0.58, "source": "bert"}
+      ],
+      "expected_type": "DIMENSION",
+      "expected_text": "100mm",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 18,
+      "sentence": "Centre line method for earthwork",
+      "candidates": [
+        {"type": "ACTION", "text": "centre line method", "confidence": 0.80, "source": "bert"},
+        {"type": "ACTION", "text": "method", "confidence": 0.65, "source": "pattern"}
+      ],
+      "expected_type": "ACTION",
+      "expected_text": "centre line method",
+      "expected_source": "bert"
+    },
+    {
+      "id": 19,
+      "sentence": "Shuttering for RCC slab 125mm thick",
+      "candidates": [
+        {"type": "DIMENSION", "text": "125mm", "confidence": 0.88, "source": "pattern"},
+        {"type": "DIMENSION", "text": "125", "confidence": 0.55, "source": "bert"}
+      ],
+      "expected_type": "DIMENSION",
+      "expected_text": "125mm",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 20,
+      "sentence": "Granite counter top per IS 14286",
+      "candidates": [
+        {"type": "STANDARD", "text": "IS 14286", "confidence": 0.99, "source": "pattern"},
+        {"type": "STANDARD", "text": "IS 14286", "confidence": 0.72, "source": "bert"}
+      ],
+      "expected_type": "STANDARD",
+      "expected_text": "IS 14286",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 21,
+      "sentence": "Sand filling in plinth",
+      "candidates": [
+        {"type": "MATERIAL", "text": "sand", "confidence": 0.86, "source": "bert"},
+        {"type": "MATERIAL", "text": "sand filling", "confidence": 0.80, "source": "pattern"}
+      ],
+      "expected_type": "MATERIAL",
+      "expected_text": "sand",
+      "expected_source": "bert"
+    },
+    {
+      "id": 22,
+      "sentence": "Fixing C.I. pipe 150mm diameter",
+      "candidates": [
+        {"type": "DIMENSION", "text": "150mm", "confidence": 0.90, "source": "pattern"},
+        {"type": "DIMENSION", "text": "150", "confidence": 0.53, "source": "bert"}
+      ],
+      "expected_type": "DIMENSION",
+      "expected_text": "150mm",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 23,
+      "sentence": "Acrow sheet scaffolding",
+      "candidates": [
+        {"type": "MATERIAL", "text": "Acrow sheet", "confidence": 0.77, "source": "bert"},
+        {"type": "MATERIAL", "text": "scaffolding", "confidence": 0.82, "source": "pattern"}
+      ],
+      "expected_type": "MATERIAL",
+      "expected_text": "Acrow sheet",
+      "expected_source": "bert"
+    },
+    {
+      "id": 24,
+      "sentence": "25mm dia MS steel bar",
+      "candidates": [
+        {"type": "DIMENSION", "text": "25mm", "confidence": 0.92, "source": "pattern"},
+        {"type": "DIMENSION", "text": "25", "confidence": 0.50, "source": "bert"}
+      ],
+      "expected_type": "DIMENSION",
+      "expected_text": "25mm",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 25,
+      "sentence": "Dado with ceramic tiles 1st quality",
+      "candidates": [
+        {"type": "GRADE", "text": "1st quality", "confidence": 0.87, "source": "pattern"},
+        {"type": "GRADE", "text": "quality", "confidence": 0.60, "source": "bert"}
+      ],
+      "expected_type": "GRADE",
+      "expected_text": "1st quality",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 26,
+      "sentence": "WC pan white glazed earthenware",
+      "candidates": [
+        {"type": "MATERIAL", "text": "WC pan", "confidence": 0.83, "source": "bert"},
+        {"type": "MATERIAL", "text": "earthenware", "confidence": 0.79, "source": "dictionary"}
+      ],
+      "expected_type": "MATERIAL",
+      "expected_text": "WC pan",
+      "expected_source": "bert"
+    },
+    {
+      "id": 27,
+      "sentence": "3m x 1.2m flush door with sal wood",
+      "candidates": [
+        {"type": "DIMENSION", "text": "3m x 1.2m", "confidence": 0.91, "source": "pattern"},
+        {"type": "DIMENSION", "text": "3", "confidence": 0.49, "source": "bert"}
+      ],
+      "expected_type": "DIMENSION",
+      "expected_text": "3m x 1.2m",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 28,
+      "sentence": "Vitrified tile flooring 600mm x 600mm",
+      "candidates": [
+        {"type": "MATERIAL", "text": "vitrified tile", "confidence": 0.80, "source": "bert"},
+        {"type": "MATERIAL", "text": "tile", "confidence": 0.75, "source": "pattern"}
+      ],
+      "expected_type": "MATERIAL",
+      "expected_text": "vitrified tile",
+      "expected_source": "bert"
+    },
+    {
+      "id": 29,
+      "sentence": "Chequered tile for staircase",
+      "candidates": [
+        {"type": "LOCATION", "text": "staircase", "confidence": 0.84, "source": "bert"},
+        {"type": "LOCATION", "text": "staircase", "confidence": 0.88, "source": "pattern"}
+      ],
+      "expected_type": "LOCATION",
+      "expected_text": "staircase",
+      "expected_source": "bert",
+      "reason": "ModelFirstStrategy picks model when confidence >= 0.6 (0.84 >= 0.6)"
+    },
+    {
+      "id": 30,
+      "sentence": "Distemper two coats on wall surface",
+      "candidates": [
+        {"type": "ACTION", "text": "distemper", "confidence": 0.81, "source": "bert"},
+        {"type": "ACTION", "text": "apply distemper", "confidence": 0.77, "source": "pattern"}
+      ],
+      "expected_type": "ACTION",
+      "expected_text": "distemper",
+      "expected_source": "bert"
+    },
+    {
+      "id": 31,
+      "sentence": "150 cum rubble soling",
+      "candidates": [
+        {"type": "QUANTITY", "text": "150", "confidence": 0.93, "source": "pattern"},
+        {"type": "QUANTITY", "text": "150", "confidence": 0.61, "source": "bert"}
+      ],
+      "expected_type": "QUANTITY",
+      "expected_text": "150",
+      "expected_source": "pattern"
+    },
+    {
+      "id": 32,
+      "sentence": "Provide SS 304 grade hardware",
+      "candidates": [
+        {"type": "GRADE", "text": "SS 304", "confidence": 0.96, "source": "pattern"},
+        {"type": "GRADE", "text": "304", "confidence": 0.58, "source": "bert"}
+      ],
+      "expected_type": "GRADE",
+      "expected_text": "SS 304",
+      "expected_source": "pattern"
+    }
+  ]
+}

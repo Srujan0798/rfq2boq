@@ -1,0 +1,38 @@
+Items described in the Bill of Quantities are to be supplied and installed at roof level for the IT Park Phase 2 project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and fix Class 1 tile 12mm diameter  129  ls  906  45743
+2  Supply and fix Class B fly ash brick 10mm diameter  202  cum  1960  97252
+3  Supply and fix CI pipe 200 x 200mm  161  nos  3563  61630
+4  Supply and install DPC 100mm thick  193  sqm  1767  9014
+5  Supply and lay Fe500 rebar 12mm diameter  195  ltr  1983  64065
+6  Provide and install M20 RCC 20mm thick  60  set  230  25341
+7  Install light fixture 150 x 150mm  47  nos  3860  89043
+8  Supply and install aluminum window 6mm diameter  92  rmt  1308  60096
+9  Supply and install Class 2 POP 300mm thick  239  ltr  3748  86551
+10  Provide and install Class C hollow block 16mm thick  83  set  1805  96240
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

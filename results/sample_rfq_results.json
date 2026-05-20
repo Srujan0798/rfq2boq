@@ -1,0 +1,44 @@
+[
+  {
+    "file": "sample_rfq_simple.pdf",
+    "chars": 1210,
+    "entities": 111,
+    "by_type": {
+      "MATERIAL": 21,
+      "QUANTITY": 40,
+      "GRADE": 4,
+      "STANDARD": 7,
+      "DIMENSION": 4,
+      "UNIT": 35
+    },
+    "boq_items": []
+  },
+  {
+    "file": "sample_rfq_medium.pdf",
+    "chars": 2003,
+    "entities": 193,
+    "by_type": {
+      "MATERIAL": 10,
+      "QUANTITY": 72,
+      "GRADE": 2,
+      "STANDARD": 7,
+      "DIMENSION": 13,
+      "UNIT": 89
+    },
+    "boq_items": []
+  },
+  {
+    "file": "sample_rfq_complex.pdf",
+    "chars": 3113,
+    "entities": 403,
+    "by_type": {
+      "MATERIAL": 32,
+      "QUANTITY": 169,
+      "GRADE": 15,
+      "STANDARD": 20,
+      "DIMENSION": 23,
+      "UNIT": 144
+    },
+    "boq_items": []
+  }
+]

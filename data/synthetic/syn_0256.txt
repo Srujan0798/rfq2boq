@@ -1,0 +1,35 @@
+Supply and installation of rebar, structural steel, GI sheet for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and install DPC  255  cum  480  86036
+2  Supply SWR pipe  410  rmt  1021  82265
+3  Cast DB 100 x 100mm  80  nos  640  29887
+4  Provide and lay Class 1 cement plaster 200mm thick  477  sqm  2691  30967
+5  Supply and lay flush door 200 x 200mm  198  sqm  2482  53989
+6  Provide and install M25 RCC  351  ls  843  13251
+7  Supply and install Class B brick masonry 25mm thick  429  sqm  3545  35023
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

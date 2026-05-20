@@ -1,0 +1,127 @@
+{
+  "id": "syn_0220",
+  "project_name": "Commercial Building at MG Road",
+  "category": "finishes",
+  "text": "The scope of work includes paint, putty, cement plaster for the Commercial Building at MG Road project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install M35 M20 concrete 200mm thick  368  ltr  4295  52605\n2  Supply and install switch 25mm thick  165  nos  396  58799\n3  Provide and install Fe500 GI sheet 16mm thick  360  nos  1940  75390\n4  Supply and install DPC  164  ltr  1160  23143\n5  Erect Class A hollow block  461  sqm  2194  29369\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes paint, putty, cement plaster for the Commercial Building at MG Road project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and install M35 M20 concrete 200mm thick Supply and install switch 25mm thick Provide and install Fe500 GI sheet 16mm thick Supply and install DPC Erect Class A hollow block",
+  "sections": {
+    "scope": "The scope of work includes paint, putty, cement plaster for the Commercial Building at MG Road project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install M35 M20 concrete 200mm thick",
+        "368",
+        "ltr",
+        "4295",
+        "52605"
+      ],
+      [
+        "2",
+        "Supply and install switch 25mm thick",
+        "165",
+        "nos",
+        "396",
+        "58799"
+      ],
+      [
+        "3",
+        "Provide and install Fe500 GI sheet 16mm thick",
+        "360",
+        "nos",
+        "1940",
+        "75390"
+      ],
+      [
+        "4",
+        "Supply and install DPC",
+        "164",
+        "ltr",
+        "1160",
+        "23143"
+      ],
+      [
+        "5",
+        "Erect Class A hollow block",
+        "461",
+        "sqm",
+        "2194",
+        "29369"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "200mm thick",
+        "quantity": 368,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 165,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "16mm thick",
+        "quantity": 360,
+        "unit": "no.",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 164,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 461,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

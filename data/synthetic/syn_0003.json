@@ -1,0 +1,127 @@
+{
+  "id": "syn_0003",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "steel",
+  "text": "The work comprises TMT steel, MS plate, structural steel for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay Class 1 tile 16mm thick  131  nos  1183  95811\n2  Fix Class A hollow block  252  ltr  3631  47438\n3  Fabricate and erect CI pipe 230mm thick  452  cum  3398  96448\n4  Provide and install switch 300mm thick  108  kg  1603  37509\n5  Install M25 M35 concrete 230mm thick  482  sqm  4528  2934\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises TMT steel, MS plate, structural steel for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards. Lay Class 1 tile 16mm thick Fix Class A hollow block Fabricate and erect CI pipe 230mm thick Provide and install switch 300mm thick Install M25 M35 concrete 230mm thick",
+  "sections": {
+    "scope": "The work comprises TMT steel, MS plate, structural steel for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay Class 1 tile 16mm thick",
+        "131",
+        "nos",
+        "1183",
+        "95811"
+      ],
+      [
+        "2",
+        "Fix Class A hollow block",
+        "252",
+        "ltr",
+        "3631",
+        "47438"
+      ],
+      [
+        "3",
+        "Fabricate and erect CI pipe 230mm thick",
+        "452",
+        "cum",
+        "3398",
+        "96448"
+      ],
+      [
+        "4",
+        "Provide and install switch 300mm thick",
+        "108",
+        "kg",
+        "1603",
+        "37509"
+      ],
+      [
+        "5",
+        "Install M25 M35 concrete 230mm thick",
+        "482",
+        "sqm",
+        "4528",
+        "2934"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "16mm thick",
+        "quantity": 131,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 252,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 452,
+        "unit": "m^3",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 108,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "230mm thick",
+        "quantity": 482,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

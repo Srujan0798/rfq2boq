@@ -1,0 +1,35 @@
+Items described in the Bill of Quantities are to be supplied and installed at roof level for the Warehouse at Peenya project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and install Fe415 rebar 12mm diameter  137  rmt  1201  85714
+2  Supply and lay Class 2 tile  134  ltr  4450  44003
+3  Apply Class C brick masonry  72  cum  1211  40234
+4  Provide and install PVC pipe 16mm diameter  215  sqm  1784  50691
+5  Supply light fixture  235  sqm  4275  95453
+6  Provide and install glass 150mm thick  190  kg  2835  72375
+7  Supply and lay M35 M30 concrete 20mm thick  197  nos  2838  51572
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

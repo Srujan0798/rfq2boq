@@ -1,0 +1,187 @@
+{
+  "id": "syn_0167",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "waterproofing",
+  "text": "Supply and installation of membrane, integral waterproofing, DPC for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install light fixture  104  sqm  1784  27233\n2  Install SWR pipe 100 x 100mm  363  kg  3899  8126\n3  Supply Fe550 MS plate  462  nos  2638  2620\n4  Install membrane 6mm diameter  180  kg  2781  61015\n5  Fix M40 M35 concrete 100 x 100mm  94  set  2135  11180\n6  Supply Class 1 putty 100mm thick  10  cum  100  40773\n7  Apply Class B hollow block  300  rmt  1863  85642\n8  Apply aluminum window  458  ls  283  39989\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of membrane, integral waterproofing, DPC for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Provide and install light fixture Install SWR pipe 100 x 100mm Supply Fe550 MS plate Install membrane 6mm diameter Fix M40 M35 concrete 100 x 100mm Supply Class 1 putty 100mm thick Apply Class B hollow block Apply aluminum window",
+  "sections": {
+    "scope": "Supply and installation of membrane, integral waterproofing, DPC for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install light fixture",
+        "104",
+        "sqm",
+        "1784",
+        "27233"
+      ],
+      [
+        "2",
+        "Install SWR pipe 100 x 100mm",
+        "363",
+        "kg",
+        "3899",
+        "8126"
+      ],
+      [
+        "3",
+        "Supply Fe550 MS plate",
+        "462",
+        "nos",
+        "2638",
+        "2620"
+      ],
+      [
+        "4",
+        "Install membrane 6mm diameter",
+        "180",
+        "kg",
+        "2781",
+        "61015"
+      ],
+      [
+        "5",
+        "Fix M40 M35 concrete 100 x 100mm",
+        "94",
+        "set",
+        "2135",
+        "11180"
+      ],
+      [
+        "6",
+        "Supply Class 1 putty 100mm thick",
+        "10",
+        "cum",
+        "100",
+        "40773"
+      ],
+      [
+        "7",
+        "Apply Class B hollow block",
+        "300",
+        "rmt",
+        "1863",
+        "85642"
+      ],
+      [
+        "8",
+        "Apply aluminum window",
+        "458",
+        "ls",
+        "283",
+        "39989"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 104,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 363,
+        "unit": "kg",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 462,
+        "unit": "no.",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 180,
+        "unit": "kg",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "M35 concrete",
+        "grade": "M40",
+        "dimension": "100 x 100mm",
+        "quantity": 94,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "100mm thick",
+        "quantity": 10,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 300,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Apply",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 458,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

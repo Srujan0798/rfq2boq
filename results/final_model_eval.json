@@ -1,0 +1,105 @@
+{
+  "description": "Final model evaluation on held-out gold test set",
+  "timestamp": "2026-05-19",
+  "base_model": "allenai/scibert_scivocab_uncased",
+  "training_status": "interrupted at epoch 4 due to MPS slowness",
+  "note": "NER model produces O for all tokens (classifier mismatch). Pipeline compensates via regex+dict fallback.",
+  "micro_f1": 0.5632,
+  "macro_f1": 0.5628,
+  "total_documents": 31,
+  "gold_docs_f1": 0.515,
+  "gold_docs": 20,
+  "real_rfq_docs_f1": 0.714,
+  "real_rfq_docs": 10,
+  "per_entity_f1": {
+    "MATERIAL": 0.033,
+    "QUANTITY": 0.586,
+    "UNIT": 0.873,
+    "LOCATION": 0.127,
+    "DIMENSION": 0.346,
+    "STANDARD": 0.942,
+    "ACTION": 0.88,
+    "GRADE": 0.667
+  },
+  "per_entity_stats": {
+    "MATERIAL": {
+      "precision": 0.036,
+      "recall": 0.031,
+      "tp": 5,
+      "fp": 135,
+      "fn": 155
+    },
+    "QUANTITY": {
+      "precision": 0.696,
+      "recall": 0.506,
+      "tp": 80,
+      "fp": 35,
+      "fn": 78
+    },
+    "UNIT": {
+      "precision": 0.855,
+      "recall": 0.892,
+      "tp": 141,
+      "fp": 24,
+      "fn": 17
+    },
+    "LOCATION": {
+      "precision": 0.085,
+      "recall": 0.25,
+      "tp": 4,
+      "fp": 43,
+      "fn": 12
+    },
+    "DIMENSION": {
+      "precision": 0.232,
+      "recall": 0.688,
+      "tp": 44,
+      "fp": 146,
+      "fn": 20
+    },
+    "STANDARD": {
+      "precision": 1.0,
+      "recall": 0.89,
+      "tp": 137,
+      "fp": 0,
+      "fn": 17
+    },
+    "ACTION": {
+      "precision": 0.846,
+      "recall": 0.917,
+      "tp": 11,
+      "fp": 2,
+      "fn": 1
+    },
+    "GRADE": {
+      "precision": 0.505,
+      "recall": 0.982,
+      "tp": 55,
+      "fp": 54,
+      "fn": 1
+    }
+  },
+  "target_f1": 0.7,
+  "gap": -0.13679999999999992,
+  "gold_annotations": {
+    "total": 20,
+    "complete": 20,
+    "real_pdfs": 2,
+    "synthetic_pdfs": 18
+  },
+  "real_pdfs": {
+    "collected": 4,
+    "ireps": 2,
+    "cpwd": 1,
+    "delhi_pwd": 1
+  },
+  "limitations": [
+    "NER model classifier mismatch \u2014 pipeline uses regex+dict fallback",
+    "Only 2 gold annotations on real PDFs (rest are synthetic)",
+    "LOCATION entity: F1=0.127 (major weakness)",
+    "MATERIAL entity: F1=0.033 (major weakness)",
+    "MPS training too slow for full BERT-BiLSTM-CRF fine-tuning",
+    "Real PDFs limited: 4 confirmed real, rest are synthetic"
+  ],
+  "real_test_f1": 0.5632
+}

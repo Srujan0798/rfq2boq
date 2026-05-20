@@ -1,0 +1,128 @@
+{
+  "region": "dsr_delhi",
+  "description": "Delhi Schedule of Rates - Delhi Development Authority",
+  "source": "DDA (Delhi Development Authority)",
+  "year": 2023,
+  "items": [
+    {
+      "material": "Portland cement",
+      "unit": "tonne",
+      "rate": 8400,
+      "remarks": "OPC 43 grade"
+    },
+    {
+      "material": "Fine aggregate",
+      "unit": "cu.m",
+      "rate": 1800,
+      "remarks": "River sand Zone II"
+    },
+    {
+      "material": "Coarse aggregate 20mm",
+      "unit": "cu.m",
+      "rate": 2050,
+      "remarks": "Crushed stone"
+    },
+    {
+      "material": "M25 concrete",
+      "unit": "cu.m",
+      "rate": 7100,
+      "remarks": "Ready mix concrete"
+    },
+    {
+      "material": "M30 concrete",
+      "unit": "cu.m",
+      "rate": 7800,
+      "remarks": "Ready mix concrete"
+    },
+    {
+      "material": "TMT steel Fe500",
+      "unit": "quintal",
+      "rate": 7750,
+      "remarks": "Conforming to IS 1786"
+    },
+    {
+      "material": "Structural steel",
+      "unit": "quintal",
+      "rate": 7150,
+      "remarks": "Conforming to IS 2062"
+    },
+    {
+      "material": "Brick work 230mm",
+      "unit": "cu.m",
+      "rate": 5400,
+      "remarks": "First class bricks"
+    },
+    {
+      "material": "AAC block 200mm",
+      "unit": "cu.m",
+      "rate": 4100,
+      "remarks": "Autoclaved aerated concrete"
+    },
+    {
+      "material": "Plastering internal",
+      "unit": "sq.m",
+      "rate": 215,
+      "remarks": "12mm thick CM 1:4"
+    },
+    {
+      "material": "Plastering external",
+      "unit": "sq.m",
+      "rate": 275,
+      "remarks": "20mm thick CM 1:4"
+    },
+    {
+      "material": "Vitrified tiles",
+      "unit": "sq.m",
+      "rate": 740,
+      "remarks": "600x600mm"
+    },
+    {
+      "material": "Ceramic tiles",
+      "unit": "sq.m",
+      "rate": 440,
+      "remarks": "Floor tiles"
+    },
+    {
+      "material": "CPVC pipe 25mm",
+      "unit": "rmt",
+      "rate": 175,
+      "remarks": "Hot and cold water"
+    },
+    {
+      "material": "CI pipe 100mm",
+      "unit": "rmt",
+      "rate": 375,
+      "remarks": "Drainage pipe"
+    },
+    {
+      "material": "Electric wire 2.5sqmm",
+      "unit": "rmt",
+      "rate": 115,
+      "remarks": "Copper wire FR grade"
+    },
+    {
+      "material": "LED bulb 9W",
+      "unit": "nos",
+      "rate": 175,
+      "remarks": "BEE rated"
+    },
+    {
+      "material": "GI pipe 25mm",
+      "unit": "rmt",
+      "rate": 275,
+      "remarks": "Water supply"
+    },
+    {
+      "material": "Flush door 35mm",
+      "unit": "nos",
+      "rate": 2750,
+      "remarks": "Commercial flush door"
+    },
+    {
+      "material": "Aluminium window",
+      "unit": "sq.m",
+      "rate": 840,
+      "remarks": "Powder coated"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "id": "syn_0124",
+  "project_name": "Warehouse at Peenya",
+  "category": "piping",
+  "text": "The scope of work includes GI pipe, CI pipe, HDPE pipe for the Warehouse at Peenya project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix M20 M30 concrete 16mm thick  160  cum  4958  17178\n2  Provide and lay flush door 100mm thick  12  ltr  2159  19051\n3  Fix Class 2 tile 25mm thick  449  rmt  1711  57629\n4  Provide and lay Fe415 rebar 200 x 200mm  122  cum  3264  56386\n5  Supply DPC 12mm thick  143  nos  3670  89987\n6  Plaster switch  403  kg  4640  27151\n7  Supply and lay HDPE pipe 6mm diameter  162  set  886  19167\n8  Provide and fix Class C hollow block 8mm diameter  267  ls  3544  54773\n9  Supply M20 M35 concrete 8mm diameter  296  cum  1251  81636\n10  Cast MS door  272  ls  538  52466\n11  Plaster Class 2 POP 16mm diameter  13  set  545  12096\n12  Install Fe500 TMT steel 230mm thick  342  sqm  4732  64106\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes GI pipe, CI pipe, HDPE pipe for the Warehouse at Peenya project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below. Fix M20 M30 concrete 16mm thick Provide and lay flush door 100mm thick Fix Class 2 tile 25mm thick Provide and lay Fe415 rebar 200 x 200mm Supply DPC 12mm thick Plaster switch Supply and lay HDPE pipe 6mm diameter Provide and fix Class C hollow block 8mm diameter Supply M20 M35 concrete 8mm diameter Cast MS door Plaster Class 2 POP 16mm diameter Install Fe500 TMT steel 230mm thick",
+  "sections": {
+    "scope": "The scope of work includes GI pipe, CI pipe, HDPE pipe for the Warehouse at Peenya project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix M20 M30 concrete 16mm thick",
+        "160",
+        "cum",
+        "4958",
+        "17178"
+      ],
+      [
+        "2",
+        "Provide and lay flush door 100mm thick",
+        "12",
+        "ltr",
+        "2159",
+        "19051"
+      ],
+      [
+        "3",
+        "Fix Class 2 tile 25mm thick",
+        "449",
+        "rmt",
+        "1711",
+        "57629"
+      ],
+      [
+        "4",
+        "Provide and lay Fe415 rebar 200 x 200mm",
+        "122",
+        "cum",
+        "3264",
+        "56386"
+      ],
+      [
+        "5",
+        "Supply DPC 12mm thick",
+        "143",
+        "nos",
+        "3670",
+        "89987"
+      ],
+      [
+        "6",
+        "Plaster switch",
+        "403",
+        "kg",
+        "4640",
+        "27151"
+      ],
+      [
+        "7",
+        "Supply and lay HDPE pipe 6mm diameter",
+        "162",
+        "set",
+        "886",
+        "19167"
+      ],
+      [
+        "8",
+        "Provide and fix Class C hollow block 8mm diameter",
+        "267",
+        "ls",
+        "3544",
+        "54773"
+      ],
+      [
+        "9",
+        "Supply M20 M35 concrete 8mm diameter",
+        "296",
+        "cum",
+        "1251",
+        "81636"
+      ],
+      [
+        "10",
+        "Cast MS door",
+        "272",
+        "ls",
+        "538",
+        "52466"
+      ],
+      [
+        "11",
+        "Plaster Class 2 POP 16mm diameter",
+        "13",
+        "set",
+        "545",
+        "12096"
+      ],
+      [
+        "12",
+        "Install Fe500 TMT steel 230mm thick",
+        "342",
+        "sqm",
+        "4732",
+        "64106"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "M30 concrete",
+        "grade": "M20",
+        "dimension": "16mm thick",
+        "quantity": 160,
+        "unit": "m^3",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 12,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "25mm thick",
+        "quantity": 449,
+        "unit": "rmt",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "200 x 200mm",
+        "quantity": 122,
+        "unit": "m^3",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 143,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "switch",
+        "grade": "",
+        "dimension": "",
+        "quantity": 403,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 162,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "8mm diameter",
+        "quantity": 267,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "M35 concrete",
+        "grade": "M20",
+        "dimension": "8mm diameter",
+        "quantity": 296,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Cast",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 272,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Plaster",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "16mm diameter",
+        "quantity": 13,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Install",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "230mm thick",
+        "quantity": 342,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "id": "syn_0282",
+  "project_name": "Warehouse at Peenya",
+  "category": "concrete",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Warehouse at Peenya project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster Class 2 putty 150mm thick  19  ls  3640  1142\n2  Provide and lay aluminum window 200mm thick  85  cum  4445  79704\n3  Lay Fe500 MS plate 100 x 100mm  153  cum  434  30800\n4  Apply Class C brick masonry 8mm diameter  235  set  3070  80909\n5  Plaster integral waterproofing 8mm diameter  168  sqm  2289  91011\n6  Provide and install M25 PCC 150 x 150mm  11  rmt  4359  52961\n7  Supply and lay DB  302  ltr  1900  23061\n8  Apply CI pipe 6mm diameter  339  ls  2393  22724\n9  Install Class 2 paint 16mm thick  256  nos  3732  26227\n10  Erect flush door 200mm thick  103  kg  855  70419\n11  Lay Fe500 TMT steel  266  rmt  3225  48423\n12  Provide and lay Class C fly ash brick 300mm thick  222  cum  1193  61315\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Warehouse at Peenya project. All work to be carried out as per specifications. Plaster Class 2 putty 150mm thick Provide and lay aluminum window 200mm thick Lay Fe500 MS plate 100 x 100mm Apply Class C brick masonry 8mm diameter Plaster integral waterproofing 8mm diameter Provide and install M25 PCC 150 x 150mm Supply and lay DB Apply CI pipe 6mm diameter Install Class 2 paint 16mm thick Erect flush door 200mm thick Lay Fe500 TMT steel Provide and lay Class C fly ash brick 300mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Warehouse at Peenya project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster Class 2 putty 150mm thick",
+        "19",
+        "ls",
+        "3640",
+        "1142"
+      ],
+      [
+        "2",
+        "Provide and lay aluminum window 200mm thick",
+        "85",
+        "cum",
+        "4445",
+        "79704"
+      ],
+      [
+        "3",
+        "Lay Fe500 MS plate 100 x 100mm",
+        "153",
+        "cum",
+        "434",
+        "30800"
+      ],
+      [
+        "4",
+        "Apply Class C brick masonry 8mm diameter",
+        "235",
+        "set",
+        "3070",
+        "80909"
+      ],
+      [
+        "5",
+        "Plaster integral waterproofing 8mm diameter",
+        "168",
+        "sqm",
+        "2289",
+        "91011"
+      ],
+      [
+        "6",
+        "Provide and install M25 PCC 150 x 150mm",
+        "11",
+        "rmt",
+        "4359",
+        "52961"
+      ],
+      [
+        "7",
+        "Supply and lay DB",
+        "302",
+        "ltr",
+        "1900",
+        "23061"
+      ],
+      [
+        "8",
+        "Apply CI pipe 6mm diameter",
+        "339",
+        "ls",
+        "2393",
+        "22724"
+      ],
+      [
+        "9",
+        "Install Class 2 paint 16mm thick",
+        "256",
+        "nos",
+        "3732",
+        "26227"
+      ],
+      [
+        "10",
+        "Erect flush door 200mm thick",
+        "103",
+        "kg",
+        "855",
+        "70419"
+      ],
+      [
+        "11",
+        "Lay Fe500 TMT steel",
+        "266",
+        "rmt",
+        "3225",
+        "48423"
+      ],
+      [
+        "12",
+        "Provide and lay Class C fly ash brick 300mm thick",
+        "222",
+        "cum",
+        "1193",
+        "61315"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "150mm thick",
+        "quantity": 19,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 85,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "100 x 100mm",
+        "quantity": 153,
+        "unit": "m^3",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "8mm diameter",
+        "quantity": 235,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Plaster",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 168,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "PCC",
+        "grade": "M25",
+        "dimension": "150 x 150mm",
+        "quantity": 11,
+        "unit": "rmt",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "",
+        "quantity": 302,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Apply",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 339,
+        "unit": "ls",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Install",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "16mm thick",
+        "quantity": 256,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Erect",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 103,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Lay",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 266,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Provide and lay",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "300mm thick",
+        "quantity": 222,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

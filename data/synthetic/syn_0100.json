@@ -1,0 +1,127 @@
+{
+  "id": "syn_0100",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "finishes",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Hospital Building at Hebbal project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay aluminum window  98  kg  3591  96025\n2  Supply and fix Class B hollow block  379  kg  2139  40728\n3  Plaster HDPE pipe 12mm diameter  113  nos  3045  53198\n4  Fabricate and erect light fixture 8mm diameter  235  ltr  4048  3596\n5  Install M35 M35 concrete 300mm thick  52  nos  1539  34723\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Hospital Building at Hebbal project. All work to be carried out as per specifications. Supply and lay aluminum window Supply and fix Class B hollow block Plaster HDPE pipe 12mm diameter Fabricate and erect light fixture 8mm diameter Install M35 M35 concrete 300mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Hospital Building at Hebbal project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay aluminum window",
+        "98",
+        "kg",
+        "3591",
+        "96025"
+      ],
+      [
+        "2",
+        "Supply and fix Class B hollow block",
+        "379",
+        "kg",
+        "2139",
+        "40728"
+      ],
+      [
+        "3",
+        "Plaster HDPE pipe 12mm diameter",
+        "113",
+        "nos",
+        "3045",
+        "53198"
+      ],
+      [
+        "4",
+        "Fabricate and erect light fixture 8mm diameter",
+        "235",
+        "ltr",
+        "4048",
+        "3596"
+      ],
+      [
+        "5",
+        "Install M35 M35 concrete 300mm thick",
+        "52",
+        "nos",
+        "1539",
+        "34723"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 98,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 379,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 113,
+        "unit": "no.",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 235,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "300mm thick",
+        "quantity": 52,
+        "unit": "no.",
+        "standard": [
+          "IS 269"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "syn_0137",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "doors_windows",
+  "text": "The work comprises glass, flush door, MS door for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay Class B brick masonry  468  cum  3584  88142\n2  Provide and lay light fixture  266  sqm  3190  51532\n3  Provide and lay DPC 16mm thick  439  ls  2375  94237\n4  Lay aluminum window 25mm thick  236  set  4670  58070\n5  Supply and install Fe415 structural steel 200 x 200mm  453  ls  3574  29020\n6  Erect SWR pipe 100mm thick  201  rmt  3721  48315\n7  Supply and install M25 PCC 200 x 200mm  310  nos  4218  2703\n8  Supply and install Class 2 putty 6mm diameter  341  nos  2172  36936\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises glass, flush door, MS door for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards. Supply and lay Class B brick masonry Provide and lay light fixture Provide and lay DPC 16mm thick Lay aluminum window 25mm thick Supply and install Fe415 structural steel 200 x 200mm Erect SWR pipe 100mm thick Supply and install M25 PCC 200 x 200mm Supply and install Class 2 putty 6mm diameter",
+  "sections": {
+    "scope": "The work comprises glass, flush door, MS door for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay Class B brick masonry",
+        "468",
+        "cum",
+        "3584",
+        "88142"
+      ],
+      [
+        "2",
+        "Provide and lay light fixture",
+        "266",
+        "sqm",
+        "3190",
+        "51532"
+      ],
+      [
+        "3",
+        "Provide and lay DPC 16mm thick",
+        "439",
+        "ls",
+        "2375",
+        "94237"
+      ],
+      [
+        "4",
+        "Lay aluminum window 25mm thick",
+        "236",
+        "set",
+        "4670",
+        "58070"
+      ],
+      [
+        "5",
+        "Supply and install Fe415 structural steel 200 x 200mm",
+        "453",
+        "ls",
+        "3574",
+        "29020"
+      ],
+      [
+        "6",
+        "Erect SWR pipe 100mm thick",
+        "201",
+        "rmt",
+        "3721",
+        "48315"
+      ],
+      [
+        "7",
+        "Supply and install M25 PCC 200 x 200mm",
+        "310",
+        "nos",
+        "4218",
+        "2703"
+      ],
+      [
+        "8",
+        "Supply and install Class 2 putty 6mm diameter",
+        "341",
+        "nos",
+        "2172",
+        "36936"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 468,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 266,
+        "unit": "m^2",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 439,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 236,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "200 x 200mm",
+        "quantity": 453,
+        "unit": "ls",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 201,
+        "unit": "rmt",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and install",
+        "material": "PCC",
+        "grade": "M25",
+        "dimension": "200 x 200mm",
+        "quantity": 310,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and install",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "6mm diameter",
+        "quantity": 341,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

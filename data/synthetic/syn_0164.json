@@ -1,0 +1,187 @@
+{
+  "id": "syn_0164",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "waterproofing",
+  "text": "Supply and installation of integral waterproofing, DPC, membrane for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install Class C hollow block  190  sqm  4005  80667\n2  Provide and install M25 M30 concrete 8mm diameter  275  set  206  41371\n3  Plaster Fe500 MS plate 300mm thick  169  ltr  2409  45708\n4  Provide and fix integral waterproofing  299  set  3131  55657\n5  Provide and fix Class 1 POP 150 x 150mm  362  kg  4000  37769\n6  Apply MS door 20mm thick  109  rmt  2140  65040\n7  Supply SWR pipe 230mm thick  19  ls  1315  82737\n8  Lay switch 25mm thick  261  set  3782  52062\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of integral waterproofing, DPC, membrane for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and install Class C hollow block Provide and install M25 M30 concrete 8mm diameter Plaster Fe500 MS plate 300mm thick Provide and fix integral waterproofing Provide and fix Class 1 POP 150 x 150mm Apply MS door 20mm thick Supply SWR pipe 230mm thick Lay switch 25mm thick",
+  "sections": {
+    "scope": "Supply and installation of integral waterproofing, DPC, membrane for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install Class C hollow block",
+        "190",
+        "sqm",
+        "4005",
+        "80667"
+      ],
+      [
+        "2",
+        "Provide and install M25 M30 concrete 8mm diameter",
+        "275",
+        "set",
+        "206",
+        "41371"
+      ],
+      [
+        "3",
+        "Plaster Fe500 MS plate 300mm thick",
+        "169",
+        "ltr",
+        "2409",
+        "45708"
+      ],
+      [
+        "4",
+        "Provide and fix integral waterproofing",
+        "299",
+        "set",
+        "3131",
+        "55657"
+      ],
+      [
+        "5",
+        "Provide and fix Class 1 POP 150 x 150mm",
+        "362",
+        "kg",
+        "4000",
+        "37769"
+      ],
+      [
+        "6",
+        "Apply MS door 20mm thick",
+        "109",
+        "rmt",
+        "2140",
+        "65040"
+      ],
+      [
+        "7",
+        "Supply SWR pipe 230mm thick",
+        "19",
+        "ls",
+        "1315",
+        "82737"
+      ],
+      [
+        "8",
+        "Lay switch 25mm thick",
+        "261",
+        "set",
+        "3782",
+        "52062"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 190,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "M30 concrete",
+        "grade": "M25",
+        "dimension": "8mm diameter",
+        "quantity": 275,
+        "unit": "set",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "300mm thick",
+        "quantity": 169,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 299,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "150 x 150mm",
+        "quantity": 362,
+        "unit": "kg",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 109,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 19,
+        "unit": "ls",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Lay",
+        "material": "switch",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 261,
+        "unit": "set",
+        "standard": [
+          "IS 694"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

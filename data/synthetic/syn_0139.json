@@ -1,0 +1,267 @@
+{
+  "id": "syn_0139",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "piping",
+  "text": "The scope of work includes SWR pipe, PVC pipe, CI pipe for the Shopping Mall at Outer Ring Road project located at roof level. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix Class C hollow block 150mm thick  200  ltr  956  83506\n2  Supply and fix MS door 230mm thick  225  set  3032  41144\n3  Lay Class 2 POP 10mm diameter  105  cum  4818  92029\n4  Erect Fe550 GI sheet  252  kg  2867  64249\n5  Supply and install light fixture 16mm diameter  485  kg  3548  56822\n6  Cast integral waterproofing 100 x 100mm  24  rmt  4393  27012\n7  Supply and fix M25 PCC 150mm thick  349  ls  2633  19541\n8  Erect HDPE pipe  94  set  1741  23553\n9  Supply and lay Class B fly ash brick 8mm diameter  104  kg  2104  21203\n10  Fabricate and erect MS door  91  ls  1840  62906\n11  Apply Class 2 paint 150 x 150mm  134  sqm  3375  43875\n12  Apply Fe550 structural steel 200mm thick  456  ltr  4100  88802\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes SWR pipe, PVC pipe, CI pipe for the Shopping Mall at Outer Ring Road project located at roof level. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and fix Class C hollow block 150mm thick Supply and fix MS door 230mm thick Lay Class 2 POP 10mm diameter Erect Fe550 GI sheet Supply and install light fixture 16mm diameter Cast integral waterproofing 100 x 100mm Supply and fix M25 PCC 150mm thick Erect HDPE pipe Supply and lay Class B fly ash brick 8mm diameter Fabricate and erect MS door Apply Class 2 paint 150 x 150mm Apply Fe550 structural steel 200mm thick",
+  "sections": {
+    "scope": "The scope of work includes SWR pipe, PVC pipe, CI pipe for the Shopping Mall at Outer Ring Road project located at roof level. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix Class C hollow block 150mm thick",
+        "200",
+        "ltr",
+        "956",
+        "83506"
+      ],
+      [
+        "2",
+        "Supply and fix MS door 230mm thick",
+        "225",
+        "set",
+        "3032",
+        "41144"
+      ],
+      [
+        "3",
+        "Lay Class 2 POP 10mm diameter",
+        "105",
+        "cum",
+        "4818",
+        "92029"
+      ],
+      [
+        "4",
+        "Erect Fe550 GI sheet",
+        "252",
+        "kg",
+        "2867",
+        "64249"
+      ],
+      [
+        "5",
+        "Supply and install light fixture 16mm diameter",
+        "485",
+        "kg",
+        "3548",
+        "56822"
+      ],
+      [
+        "6",
+        "Cast integral waterproofing 100 x 100mm",
+        "24",
+        "rmt",
+        "4393",
+        "27012"
+      ],
+      [
+        "7",
+        "Supply and fix M25 PCC 150mm thick",
+        "349",
+        "ls",
+        "2633",
+        "19541"
+      ],
+      [
+        "8",
+        "Erect HDPE pipe",
+        "94",
+        "set",
+        "1741",
+        "23553"
+      ],
+      [
+        "9",
+        "Supply and lay Class B fly ash brick 8mm diameter",
+        "104",
+        "kg",
+        "2104",
+        "21203"
+      ],
+      [
+        "10",
+        "Fabricate and erect MS door",
+        "91",
+        "ls",
+        "1840",
+        "62906"
+      ],
+      [
+        "11",
+        "Apply Class 2 paint 150 x 150mm",
+        "134",
+        "sqm",
+        "3375",
+        "43875"
+      ],
+      [
+        "12",
+        "Apply Fe550 structural steel 200mm thick",
+        "456",
+        "ltr",
+        "4100",
+        "88802"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "150mm thick",
+        "quantity": 200,
+        "unit": "ltr",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 225,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "10mm diameter",
+        "quantity": 105,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 252,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 485,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 24,
+        "unit": "rmt",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "PCC",
+        "grade": "M25",
+        "dimension": "150mm thick",
+        "quantity": 349,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 94,
+        "unit": "set",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and lay",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "8mm diameter",
+        "quantity": 104,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fabricate and erect",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 91,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Apply",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "150 x 150mm",
+        "quantity": 134,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Apply",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "200mm thick",
+        "quantity": 456,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

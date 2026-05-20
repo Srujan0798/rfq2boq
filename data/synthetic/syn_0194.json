@@ -1,0 +1,267 @@
+{
+  "id": "syn_0194",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "electrical",
+  "text": "The work comprises light fixture, cable, DB for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install Class 2 POP  82  ltr  874  57512\n2  Supply and install M30 M30 concrete  131  set  932  53213\n3  Supply light fixture 12mm diameter  82  set  4305  23323\n4  Supply and install membrane 12mm diameter  436  rmt  4492  24906\n5  Provide and install Class C brick masonry  143  ltr  2886  97278\n6  Provide and install CI pipe 20mm thick  398  ltr  2090  16071\n7  Erect aluminum window  24  ls  287  65595\n8  Apply Fe550 rebar 230mm thick  335  ltr  4018  92765\n9  Install Class 2 cement plaster  490  set  4345  20207\n10  Fix M30 M20 concrete 200mm thick  11  ltr  1500  24651\n11  Provide and fix GI conduit  355  rmt  3098  2944\n12  Supply integral waterproofing 300mm thick  63  nos  696  69529\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises light fixture, cable, DB for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards. Supply and install Class 2 POP Supply and install M30 M30 concrete Supply light fixture 12mm diameter Supply and install membrane 12mm diameter Provide and install Class C brick masonry Provide and install CI pipe 20mm thick Erect aluminum window Apply Fe550 rebar 230mm thick Install Class 2 cement plaster Fix M30 M20 concrete 200mm thick Provide and fix GI conduit Supply integral waterproofing 300mm thick",
+  "sections": {
+    "scope": "The work comprises light fixture, cable, DB for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install Class 2 POP",
+        "82",
+        "ltr",
+        "874",
+        "57512"
+      ],
+      [
+        "2",
+        "Supply and install M30 M30 concrete",
+        "131",
+        "set",
+        "932",
+        "53213"
+      ],
+      [
+        "3",
+        "Supply light fixture 12mm diameter",
+        "82",
+        "set",
+        "4305",
+        "23323"
+      ],
+      [
+        "4",
+        "Supply and install membrane 12mm diameter",
+        "436",
+        "rmt",
+        "4492",
+        "24906"
+      ],
+      [
+        "5",
+        "Provide and install Class C brick masonry",
+        "143",
+        "ltr",
+        "2886",
+        "97278"
+      ],
+      [
+        "6",
+        "Provide and install CI pipe 20mm thick",
+        "398",
+        "ltr",
+        "2090",
+        "16071"
+      ],
+      [
+        "7",
+        "Erect aluminum window",
+        "24",
+        "ls",
+        "287",
+        "65595"
+      ],
+      [
+        "8",
+        "Apply Fe550 rebar 230mm thick",
+        "335",
+        "ltr",
+        "4018",
+        "92765"
+      ],
+      [
+        "9",
+        "Install Class 2 cement plaster",
+        "490",
+        "set",
+        "4345",
+        "20207"
+      ],
+      [
+        "10",
+        "Fix M30 M20 concrete 200mm thick",
+        "11",
+        "ltr",
+        "1500",
+        "24651"
+      ],
+      [
+        "11",
+        "Provide and fix GI conduit",
+        "355",
+        "rmt",
+        "3098",
+        "2944"
+      ],
+      [
+        "12",
+        "Supply integral waterproofing 300mm thick",
+        "63",
+        "nos",
+        "696",
+        "69529"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 82,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 131,
+        "unit": "set",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 82,
+        "unit": "set",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 436,
+        "unit": "rmt",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 143,
+        "unit": "ltr",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 398,
+        "unit": "ltr",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Erect",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 24,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Apply",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "230mm thick",
+        "quantity": 335,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Install",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 490,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fix",
+        "material": "M20 concrete",
+        "grade": "M30",
+        "dimension": "200mm thick",
+        "quantity": 11,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and fix",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 355,
+        "unit": "rmt",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Supply",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 63,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

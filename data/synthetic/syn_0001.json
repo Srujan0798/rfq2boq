@@ -1,0 +1,147 @@
+{
+  "id": "syn_0001",
+  "project_name": "Commercial Building at MG Road",
+  "category": "concrete",
+  "text": "The work comprises M25 concrete, RCC, PCC for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay GI conduit  111  ltr  2378  1851\n2  Erect Class C AAC block  184  nos  937  13156\n3  Provide and fix glass 150mm thick  443  ls  4492  17361\n4  Lay DPC 200mm thick  160  ls  1966  38930\n5  Install M25 M20 concrete  61  ltr  3088  22319\n6  Provide and install Class 2 tile 200mm thick  353  nos  1501  71010\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises M25 concrete, RCC, PCC for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Lay GI conduit Erect Class C AAC block Provide and fix glass 150mm thick Lay DPC 200mm thick Install M25 M20 concrete Provide and install Class 2 tile 200mm thick",
+  "sections": {
+    "scope": "The work comprises M25 concrete, RCC, PCC for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay GI conduit",
+        "111",
+        "ltr",
+        "2378",
+        "1851"
+      ],
+      [
+        "2",
+        "Erect Class C AAC block",
+        "184",
+        "nos",
+        "937",
+        "13156"
+      ],
+      [
+        "3",
+        "Provide and fix glass 150mm thick",
+        "443",
+        "ls",
+        "4492",
+        "17361"
+      ],
+      [
+        "4",
+        "Lay DPC 200mm thick",
+        "160",
+        "ls",
+        "1966",
+        "38930"
+      ],
+      [
+        "5",
+        "Install M25 M20 concrete",
+        "61",
+        "ltr",
+        "3088",
+        "22319"
+      ],
+      [
+        "6",
+        "Provide and install Class 2 tile 200mm thick",
+        "353",
+        "nos",
+        "1501",
+        "71010"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 111,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 184,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 443,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 160,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "M20 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 61,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "200mm thick",
+        "quantity": 353,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

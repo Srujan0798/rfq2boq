@@ -1,0 +1,227 @@
+{
+  "id": "syn_0162",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "doors_windows",
+  "text": "The work comprises glass, aluminum window, MS door for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix DPC 230mm thick  351  ls  1152  15031\n2  Supply and fix M20 M25 concrete  201  sqm  815  10884\n3  Apply flush door 200mm thick  423  ls  4873  83067\n4  Install Class C hollow block 150mm thick  179  sqm  1236  27151\n5  Supply and lay Class 1 cement plaster  377  sqm  2009  28553\n6  Supply and lay Fe550 TMT steel 16mm thick  208  ls  1716  93830\n7  Fabricate and erect light fixture 16mm diameter  157  cum  751  24049\n8  Supply and fix PVC pipe 200mm thick  459  kg  1632  43127\n9  Erect membrane 16mm diameter  335  nos  2438  29607\n10  Install M30 M35 concrete 25mm thick  186  kg  1421  9474\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises glass, aluminum window, MS door for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards. Fix DPC 230mm thick Supply and fix M20 M25 concrete Apply flush door 200mm thick Install Class C hollow block 150mm thick Supply and lay Class 1 cement plaster Supply and lay Fe550 TMT steel 16mm thick Fabricate and erect light fixture 16mm diameter Supply and fix PVC pipe 200mm thick Erect membrane 16mm diameter Install M30 M35 concrete 25mm thick",
+  "sections": {
+    "scope": "The work comprises glass, aluminum window, MS door for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix DPC 230mm thick",
+        "351",
+        "ls",
+        "1152",
+        "15031"
+      ],
+      [
+        "2",
+        "Supply and fix M20 M25 concrete",
+        "201",
+        "sqm",
+        "815",
+        "10884"
+      ],
+      [
+        "3",
+        "Apply flush door 200mm thick",
+        "423",
+        "ls",
+        "4873",
+        "83067"
+      ],
+      [
+        "4",
+        "Install Class C hollow block 150mm thick",
+        "179",
+        "sqm",
+        "1236",
+        "27151"
+      ],
+      [
+        "5",
+        "Supply and lay Class 1 cement plaster",
+        "377",
+        "sqm",
+        "2009",
+        "28553"
+      ],
+      [
+        "6",
+        "Supply and lay Fe550 TMT steel 16mm thick",
+        "208",
+        "ls",
+        "1716",
+        "93830"
+      ],
+      [
+        "7",
+        "Fabricate and erect light fixture 16mm diameter",
+        "157",
+        "cum",
+        "751",
+        "24049"
+      ],
+      [
+        "8",
+        "Supply and fix PVC pipe 200mm thick",
+        "459",
+        "kg",
+        "1632",
+        "43127"
+      ],
+      [
+        "9",
+        "Erect membrane 16mm diameter",
+        "335",
+        "nos",
+        "2438",
+        "29607"
+      ],
+      [
+        "10",
+        "Install M30 M35 concrete 25mm thick",
+        "186",
+        "kg",
+        "1421",
+        "9474"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 351,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 201,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 423,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "150mm thick",
+        "quantity": 179,
+        "unit": "m^2",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 377,
+        "unit": "m^2",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "16mm thick",
+        "quantity": 208,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fabricate and erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 157,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 459,
+        "unit": "kg",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 335,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "M35 concrete",
+        "grade": "M30",
+        "dimension": "25mm thick",
+        "quantity": 186,
+        "unit": "kg",
+        "standard": [
+          "IS 383"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

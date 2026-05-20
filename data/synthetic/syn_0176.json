@@ -1,0 +1,267 @@
+{
+  "id": "syn_0176",
+  "project_name": "IT Park Phase 2",
+  "category": "finishes",
+  "text": "The work comprises putty, tile, POP for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix Class 2 cement plaster 12mm diameter  10  nos  3335  73130\n2  Plaster DPC 6mm diameter  492  ls  4388  54435\n3  Supply and fix GI conduit  422  cum  3110  40117\n4  Erect GI pipe 150 x 150mm  202  nos  1727  99344\n5  Erect Fe415 TMT steel 300mm thick  406  rmt  2573  52951\n6  Supply and install M25 M25 concrete 25mm thick  471  kg  3370  62125\n7  Supply glass  114  set  2110  20075\n8  Provide and fix Class B brick masonry 6mm diameter  37  ls  3650  11239\n9  Provide and fix Class 2 putty  430  set  655  47200\n10  Provide and lay integral waterproofing  482  rmt  1295  98561\n11  Supply and install DB 200 x 200mm  22  kg  3772  53876\n12  Provide and fix HDPE pipe  328  ls  4335  77758\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises putty, tile, POP for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards. Supply and fix Class 2 cement plaster 12mm diameter Plaster DPC 6mm diameter Supply and fix GI conduit Erect GI pipe 150 x 150mm Erect Fe415 TMT steel 300mm thick Supply and install M25 M25 concrete 25mm thick Supply glass Provide and fix Class B brick masonry 6mm diameter Provide and fix Class 2 putty Provide and lay integral waterproofing Supply and install DB 200 x 200mm Provide and fix HDPE pipe",
+  "sections": {
+    "scope": "The work comprises putty, tile, POP for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix Class 2 cement plaster 12mm diameter",
+        "10",
+        "nos",
+        "3335",
+        "73130"
+      ],
+      [
+        "2",
+        "Plaster DPC 6mm diameter",
+        "492",
+        "ls",
+        "4388",
+        "54435"
+      ],
+      [
+        "3",
+        "Supply and fix GI conduit",
+        "422",
+        "cum",
+        "3110",
+        "40117"
+      ],
+      [
+        "4",
+        "Erect GI pipe 150 x 150mm",
+        "202",
+        "nos",
+        "1727",
+        "99344"
+      ],
+      [
+        "5",
+        "Erect Fe415 TMT steel 300mm thick",
+        "406",
+        "rmt",
+        "2573",
+        "52951"
+      ],
+      [
+        "6",
+        "Supply and install M25 M25 concrete 25mm thick",
+        "471",
+        "kg",
+        "3370",
+        "62125"
+      ],
+      [
+        "7",
+        "Supply glass",
+        "114",
+        "set",
+        "2110",
+        "20075"
+      ],
+      [
+        "8",
+        "Provide and fix Class B brick masonry 6mm diameter",
+        "37",
+        "ls",
+        "3650",
+        "11239"
+      ],
+      [
+        "9",
+        "Provide and fix Class 2 putty",
+        "430",
+        "set",
+        "655",
+        "47200"
+      ],
+      [
+        "10",
+        "Provide and lay integral waterproofing",
+        "482",
+        "rmt",
+        "1295",
+        "98561"
+      ],
+      [
+        "11",
+        "Supply and install DB 200 x 200mm",
+        "22",
+        "kg",
+        "3772",
+        "53876"
+      ],
+      [
+        "12",
+        "Provide and fix HDPE pipe",
+        "328",
+        "ls",
+        "4335",
+        "77758"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "12mm diameter",
+        "quantity": 10,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Plaster",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 492,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 422,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 202,
+        "unit": "no.",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "300mm thick",
+        "quantity": 406,
+        "unit": "rmt",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "M25 concrete",
+        "grade": "M25",
+        "dimension": "25mm thick",
+        "quantity": 471,
+        "unit": "kg",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 114,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "6mm diameter",
+        "quantity": 37,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 430,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 482,
+        "unit": "rmt",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and install",
+        "material": "DB",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 22,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Provide and fix",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 328,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "syn_0279",
+  "project_name": "Commercial Building at MG Road",
+  "category": "piping",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Commercial Building at MG Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay M20 PCC  316  ltr  2680  42101\n2  Cast flush door  369  kg  3675  39875\n3  Supply and fix Class A AAC block 25mm thick  391  kg  930  18139\n4  Apply Class 1 cement plaster 230mm thick  290  sqm  2461  74712\n5  Provide and lay integral waterproofing 12mm thick  18  cum  3789  58270\n6  Supply GI conduit 100 x 100mm  108  nos  1423  45696\n7  Apply CI pipe  268  set  4205  69990\n8  Provide and install Fe415 MS plate  240  set  4578  39027\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Commercial Building at MG Road project. All work to be carried out as per specifications. Provide and lay M20 PCC Cast flush door Supply and fix Class A AAC block 25mm thick Apply Class 1 cement plaster 230mm thick Provide and lay integral waterproofing 12mm thick Supply GI conduit 100 x 100mm Apply CI pipe Provide and install Fe415 MS plate",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Commercial Building at MG Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay M20 PCC",
+        "316",
+        "ltr",
+        "2680",
+        "42101"
+      ],
+      [
+        "2",
+        "Cast flush door",
+        "369",
+        "kg",
+        "3675",
+        "39875"
+      ],
+      [
+        "3",
+        "Supply and fix Class A AAC block 25mm thick",
+        "391",
+        "kg",
+        "930",
+        "18139"
+      ],
+      [
+        "4",
+        "Apply Class 1 cement plaster 230mm thick",
+        "290",
+        "sqm",
+        "2461",
+        "74712"
+      ],
+      [
+        "5",
+        "Provide and lay integral waterproofing 12mm thick",
+        "18",
+        "cum",
+        "3789",
+        "58270"
+      ],
+      [
+        "6",
+        "Supply GI conduit 100 x 100mm",
+        "108",
+        "nos",
+        "1423",
+        "45696"
+      ],
+      [
+        "7",
+        "Apply CI pipe",
+        "268",
+        "set",
+        "4205",
+        "69990"
+      ],
+      [
+        "8",
+        "Provide and install Fe415 MS plate",
+        "240",
+        "set",
+        "4578",
+        "39027"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 316,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 369,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "25mm thick",
+        "quantity": 391,
+        "unit": "kg",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 290,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 18,
+        "unit": "m^3",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 108,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 268,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 240,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

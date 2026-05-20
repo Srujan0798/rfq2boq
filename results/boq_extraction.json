@@ -1,0 +1,330 @@
+[
+  {
+    "text": "Supply and install M20 concrete 150 cum at ground floor slab",
+    "entities": [
+      {
+        "type": "ACTION",
+        "text": "Supply",
+        "start": 0,
+        "conf": 0.95,
+        "end": 6
+      },
+      {
+        "type": "ACTION",
+        "text": "install",
+        "start": 11,
+        "conf": 0.95,
+        "end": 18
+      },
+      {
+        "type": "MATERIAL",
+        "text": "M20 concrete",
+        "start": 19,
+        "conf": 1.0,
+        "end": 31
+      },
+      {
+        "type": "QUANTITY",
+        "text": "150",
+        "start": 32,
+        "conf": 0.9,
+        "end": 35
+      },
+      {
+        "type": "UNIT",
+        "text": "cum",
+        "start": 36,
+        "conf": 1.0,
+        "canonical": "m\u00b3",
+        "end": 39
+      },
+      {
+        "type": "LOCATION",
+        "text": "ground floor slab",
+        "start": 43,
+        "conf": 0.9,
+        "end": 60
+      }
+    ],
+    "boq_items": [
+      {
+        "item_no": 1,
+        "action": "supply",
+        "material": "M20 concrete",
+        "grade": "",
+        "dimension": "",
+        "quantity": "150",
+        "unit": "m\u00b3",
+        "location": "ground floor slab",
+        "description_raw": "Supply and install M20 concrete 150 cum at ground floor slab",
+        "confidence": 0.85,
+        "warnings": []
+      }
+    ]
+  },
+  {
+    "text": "Provide and lay GI pipe 100mm diameter for drainage at basement",
+    "entities": [
+      {
+        "type": "ACTION",
+        "text": "Provide",
+        "start": 0,
+        "conf": 0.95,
+        "end": 7
+      },
+      {
+        "type": "ACTION",
+        "text": "lay",
+        "start": 12,
+        "conf": 0.95,
+        "end": 15
+      },
+      {
+        "type": "MATERIAL",
+        "text": "GI pipe",
+        "start": 16,
+        "conf": 1.0,
+        "end": 23
+      },
+      {
+        "type": "DIMENSION",
+        "text": "100mm",
+        "start": 24,
+        "conf": 0.85,
+        "end": 29
+      },
+      {
+        "type": "LOCATION",
+        "text": "drainage",
+        "start": 43,
+        "conf": 0.9,
+        "end": 51
+      },
+      {
+        "type": "LOCATION",
+        "text": "basement",
+        "start": 55,
+        "conf": 0.9,
+        "end": 63
+      }
+    ],
+    "boq_items": [
+      {
+        "item_no": 1,
+        "action": "provide",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "100mm",
+        "quantity": "1",
+        "unit": "nos",
+        "location": "drainage",
+        "description_raw": "Provide and lay GI pipe 100mm diameter for drainage at basement",
+        "confidence": 0.85,
+        "warnings": []
+      }
+    ]
+  },
+  {
+    "text": "Supply TMT steel bars Fe500 500 kg for structural work at first floor",
+    "entities": [
+      {
+        "type": "ACTION",
+        "text": "Supply",
+        "start": 0,
+        "conf": 0.95,
+        "end": 6
+      },
+      {
+        "type": "MATERIAL",
+        "text": "TMT",
+        "start": 7,
+        "conf": 1.0,
+        "end": 10
+      },
+      {
+        "type": "GRADE",
+        "text": "Fe500",
+        "start": 22,
+        "conf": 0.95,
+        "end": 27
+      },
+      {
+        "type": "QUANTITY",
+        "text": "500",
+        "start": 28,
+        "conf": 0.9,
+        "end": 31
+      },
+      {
+        "type": "UNIT",
+        "text": "kg",
+        "start": 32,
+        "conf": 1.0,
+        "canonical": "kg",
+        "end": 34
+      },
+      {
+        "type": "LOCATION",
+        "text": "structural",
+        "start": 39,
+        "conf": 0.9,
+        "end": 49
+      },
+      {
+        "type": "LOCATION",
+        "text": "first floor",
+        "start": 58,
+        "conf": 0.9,
+        "end": 69
+      }
+    ],
+    "boq_items": [
+      {
+        "item_no": 1,
+        "action": "supply",
+        "material": "TMT",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": "500",
+        "unit": "kg",
+        "location": "structural",
+        "description_raw": "Supply TMT steel bars Fe500 500 kg for structural work at first floor",
+        "confidence": 0.85,
+        "warnings": []
+      }
+    ]
+  },
+  {
+    "text": "Install 16mm thick glass panels 50 sqm on balcony area",
+    "entities": [
+      {
+        "type": "ACTION",
+        "text": "Install",
+        "start": 0,
+        "conf": 0.95,
+        "end": 7
+      },
+      {
+        "type": "DIMENSION",
+        "text": "16mm",
+        "start": 8,
+        "conf": 0.85,
+        "end": 12
+      },
+      {
+        "type": "MATERIAL",
+        "text": "glass",
+        "start": 19,
+        "conf": 1.0,
+        "end": 24
+      },
+      {
+        "type": "QUANTITY",
+        "text": "50",
+        "start": 32,
+        "conf": 0.9,
+        "end": 34
+      },
+      {
+        "type": "UNIT",
+        "text": "sqm",
+        "start": 35,
+        "conf": 1.0,
+        "canonical": "m\u00b2",
+        "end": 38
+      },
+      {
+        "type": "LOCATION",
+        "text": "balcony",
+        "start": 42,
+        "conf": 0.9,
+        "end": 49
+      }
+    ],
+    "boq_items": [
+      {
+        "item_no": 1,
+        "action": "install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "16mm",
+        "quantity": "50",
+        "unit": "m\u00b2",
+        "location": "balcony",
+        "description_raw": "Install 16mm thick glass panels 50 sqm on balcony area",
+        "confidence": 0.85,
+        "warnings": []
+      }
+    ]
+  },
+  {
+    "text": "Erect brick masonry using Class A brick 200 cum for compound wall",
+    "entities": [
+      {
+        "type": "ACTION",
+        "text": "Erect",
+        "start": 0,
+        "conf": 0.95,
+        "end": 5
+      },
+      {
+        "type": "MATERIAL",
+        "text": "brick masonry",
+        "start": 6,
+        "conf": 1.0,
+        "end": 19
+      },
+      {
+        "type": "GRADE",
+        "text": "Class A",
+        "start": 26,
+        "conf": 0.95,
+        "end": 33
+      },
+      {
+        "type": "MATERIAL",
+        "text": "brick",
+        "start": 34,
+        "conf": 1.0,
+        "end": 39
+      },
+      {
+        "type": "QUANTITY",
+        "text": "200",
+        "start": 40,
+        "conf": 0.9,
+        "end": 43
+      },
+      {
+        "type": "UNIT",
+        "text": "cum",
+        "start": 44,
+        "conf": 1.0,
+        "canonical": "m\u00b3",
+        "end": 47
+      },
+      {
+        "type": "LOCATION",
+        "text": "compound wall",
+        "start": 52,
+        "conf": 0.9,
+        "end": 65
+      }
+    ],
+    "boq_items": [
+      {
+        "item_no": 1,
+        "action": "erect",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": "200",
+        "unit": "m\u00b3",
+        "location": "compound wall",
+        "description_raw": "Erect brick masonry using Class A brick 200 cum for compound wall",
+        "confidence": 0.85,
+        "warnings": []
+      }
+    ]
+  }
+]

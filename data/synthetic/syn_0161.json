@@ -1,0 +1,187 @@
+{
+  "id": "syn_0161",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "waterproofing",
+  "text": "Supply and installation of DPC, integral waterproofing, membrane for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect DPC 200 x 200mm  254  rmt  4891  75961\n2  Supply Class B AAC block 200 x 200mm  20  set  796  49492\n3  Supply and fix GI pipe 300mm thick  329  nos  1714  84128\n4  Apply M30 M30 concrete 12mm diameter  415  sqm  4935  55753\n5  Install Class 2 POP 16mm diameter  139  kg  4110  42755\n6  Plaster GI conduit  132  nos  2864  6302\n7  Plaster MS door 300mm thick  51  ls  4799  3518\n8  Provide and install Fe500 structural steel 150mm thick  473  set  2314  92338\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of DPC, integral waterproofing, membrane for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Erect DPC 200 x 200mm Supply Class B AAC block 200 x 200mm Supply and fix GI pipe 300mm thick Apply M30 M30 concrete 12mm diameter Install Class 2 POP 16mm diameter Plaster GI conduit Plaster MS door 300mm thick Provide and install Fe500 structural steel 150mm thick",
+  "sections": {
+    "scope": "Supply and installation of DPC, integral waterproofing, membrane for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect DPC 200 x 200mm",
+        "254",
+        "rmt",
+        "4891",
+        "75961"
+      ],
+      [
+        "2",
+        "Supply Class B AAC block 200 x 200mm",
+        "20",
+        "set",
+        "796",
+        "49492"
+      ],
+      [
+        "3",
+        "Supply and fix GI pipe 300mm thick",
+        "329",
+        "nos",
+        "1714",
+        "84128"
+      ],
+      [
+        "4",
+        "Apply M30 M30 concrete 12mm diameter",
+        "415",
+        "sqm",
+        "4935",
+        "55753"
+      ],
+      [
+        "5",
+        "Install Class 2 POP 16mm diameter",
+        "139",
+        "kg",
+        "4110",
+        "42755"
+      ],
+      [
+        "6",
+        "Plaster GI conduit",
+        "132",
+        "nos",
+        "2864",
+        "6302"
+      ],
+      [
+        "7",
+        "Plaster MS door 300mm thick",
+        "51",
+        "ls",
+        "4799",
+        "3518"
+      ],
+      [
+        "8",
+        "Provide and install Fe500 structural steel 150mm thick",
+        "473",
+        "set",
+        "2314",
+        "92338"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 254,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "200 x 200mm",
+        "quantity": 20,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 329,
+        "unit": "no.",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "12mm diameter",
+        "quantity": 415,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "16mm diameter",
+        "quantity": 139,
+        "unit": "kg",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 132,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Plaster",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 51,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "150mm thick",
+        "quantity": 473,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

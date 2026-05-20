@@ -1,0 +1,35 @@
+Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Warehouse at Peenya project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Plaster Class 2 tile 6mm diameter  51  ls  4097  71912
+2  Supply and lay Class C brick masonry 200mm thick  130  nos  906  84066
+3  Supply and fix GI pipe 150mm thick  365  nos  559  39452
+4  Erect M30 M30 concrete 12mm thick  84  kg  1534  11350
+5  Cast Fe500 rebar 300mm thick  359  kg  3877  84611
+6  Provide and lay MS door 10mm diameter  351  cum  4577  21706
+7  Provide and fix cable 8mm diameter  310  nos  2148  60878
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

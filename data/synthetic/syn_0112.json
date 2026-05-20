@@ -1,0 +1,167 @@
+{
+  "id": "syn_0112",
+  "project_name": "Hotel at Airport Road",
+  "category": "doors_windows",
+  "text": "The scope of work includes MS door, flush door, glass for the Hotel at Airport Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast M30 M25 concrete 230mm thick  428  nos  4189  87734\n2  Fix integral waterproofing 300mm thick  474  sqm  1300  42976\n3  Fabricate and erect aluminum window 230mm thick  379  set  2381  19961\n4  Supply and fix Fe500 TMT steel 12mm diameter  103  ltr  4042  91888\n5  Supply and fix light fixture 12mm diameter  420  kg  4472  65566\n6  Erect SWR pipe 20mm thick  52  ltr  814  31827\n7  Provide and install Class 1 tile 12mm diameter  445  cum  1002  8808\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes MS door, flush door, glass for the Hotel at Airport Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below. Cast M30 M25 concrete 230mm thick Fix integral waterproofing 300mm thick Fabricate and erect aluminum window 230mm thick Supply and fix Fe500 TMT steel 12mm diameter Supply and fix light fixture 12mm diameter Erect SWR pipe 20mm thick Provide and install Class 1 tile 12mm diameter",
+  "sections": {
+    "scope": "The scope of work includes MS door, flush door, glass for the Hotel at Airport Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast M30 M25 concrete 230mm thick",
+        "428",
+        "nos",
+        "4189",
+        "87734"
+      ],
+      [
+        "2",
+        "Fix integral waterproofing 300mm thick",
+        "474",
+        "sqm",
+        "1300",
+        "42976"
+      ],
+      [
+        "3",
+        "Fabricate and erect aluminum window 230mm thick",
+        "379",
+        "set",
+        "2381",
+        "19961"
+      ],
+      [
+        "4",
+        "Supply and fix Fe500 TMT steel 12mm diameter",
+        "103",
+        "ltr",
+        "4042",
+        "91888"
+      ],
+      [
+        "5",
+        "Supply and fix light fixture 12mm diameter",
+        "420",
+        "kg",
+        "4472",
+        "65566"
+      ],
+      [
+        "6",
+        "Erect SWR pipe 20mm thick",
+        "52",
+        "ltr",
+        "814",
+        "31827"
+      ],
+      [
+        "7",
+        "Provide and install Class 1 tile 12mm diameter",
+        "445",
+        "cum",
+        "1002",
+        "8808"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "M25 concrete",
+        "grade": "M30",
+        "dimension": "230mm thick",
+        "quantity": 428,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 474,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 379,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "12mm diameter",
+        "quantity": 103,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 420,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 52,
+        "unit": "ltr",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "12mm diameter",
+        "quantity": 445,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

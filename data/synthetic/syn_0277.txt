@@ -1,0 +1,36 @@
+Items described in the Bill of Quantities are to be supplied and installed at basement for the IT Park Phase 2 project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Erect Class 2 putty  260  kg  4024  28879
+2  Cast Class A AAC block  450  ltr  1624  74488
+3  Provide and install PVC pipe 10mm diameter  400  rmt  4963  86556
+4  Supply and fix Fe500 MS plate 12mm thick  234  set  4482  45321
+5  Supply and fix GI conduit  132  rmt  2159  91274
+6  Erect flush door  325  kg  4329  37556
+7  Provide and install integral waterproofing 16mm diameter  162  set  174  89167
+8  Install M30 M35 concrete 25mm thick  174  sqm  2902  17624
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

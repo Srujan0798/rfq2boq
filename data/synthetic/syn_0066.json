@@ -1,0 +1,207 @@
+{
+  "id": "syn_0066",
+  "project_name": "Hotel at Airport Road",
+  "category": "piping",
+  "text": "Supply and installation of HDPE pipe, PVC pipe, GI pipe for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install Fe415 structural steel  500  sqm  4600  42744\n2  Apply switch 12mm thick  421  nos  2650  81381\n3  Supply and install HDPE pipe 150mm thick  76  cum  3242  8051\n4  Erect Class B brick masonry 100 x 100mm  101  set  1723  94441\n5  Supply and lay M40 RCC 200mm thick  482  set  3936  13748\n6  Plaster Class 2 paint 20mm thick  339  set  2213  48638\n7  Apply DPC 150 x 150mm  479  ls  4093  4966\n8  Supply and lay flush door 12mm thick  189  set  2955  80225\n9  Lay Fe415 rebar 230mm thick  62  ltr  4655  86124\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of HDPE pipe, PVC pipe, GI pipe for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and install Fe415 structural steel Apply switch 12mm thick Supply and install HDPE pipe 150mm thick Erect Class B brick masonry 100 x 100mm Supply and lay M40 RCC 200mm thick Plaster Class 2 paint 20mm thick Apply DPC 150 x 150mm Supply and lay flush door 12mm thick Lay Fe415 rebar 230mm thick",
+  "sections": {
+    "scope": "Supply and installation of HDPE pipe, PVC pipe, GI pipe for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install Fe415 structural steel",
+        "500",
+        "sqm",
+        "4600",
+        "42744"
+      ],
+      [
+        "2",
+        "Apply switch 12mm thick",
+        "421",
+        "nos",
+        "2650",
+        "81381"
+      ],
+      [
+        "3",
+        "Supply and install HDPE pipe 150mm thick",
+        "76",
+        "cum",
+        "3242",
+        "8051"
+      ],
+      [
+        "4",
+        "Erect Class B brick masonry 100 x 100mm",
+        "101",
+        "set",
+        "1723",
+        "94441"
+      ],
+      [
+        "5",
+        "Supply and lay M40 RCC 200mm thick",
+        "482",
+        "set",
+        "3936",
+        "13748"
+      ],
+      [
+        "6",
+        "Plaster Class 2 paint 20mm thick",
+        "339",
+        "set",
+        "2213",
+        "48638"
+      ],
+      [
+        "7",
+        "Apply DPC 150 x 150mm",
+        "479",
+        "ls",
+        "4093",
+        "4966"
+      ],
+      [
+        "8",
+        "Supply and lay flush door 12mm thick",
+        "189",
+        "set",
+        "2955",
+        "80225"
+      ],
+      [
+        "9",
+        "Lay Fe415 rebar 230mm thick",
+        "62",
+        "ltr",
+        "4655",
+        "86124"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 500,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "switch",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 421,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 76,
+        "unit": "m^3",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "100 x 100mm",
+        "quantity": 101,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "200mm thick",
+        "quantity": 482,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "20mm thick",
+        "quantity": 339,
+        "unit": "set",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 479,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 189,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Lay",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "230mm thick",
+        "quantity": 62,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

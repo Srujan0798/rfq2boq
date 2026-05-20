@@ -1,0 +1,147 @@
+{
+  "id": "syn_0011",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "finishes",
+  "text": "Supply and installation of tile, cement plaster, putty for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay Fe550 GI sheet 12mm diameter  270  nos  2096  60871\n2  Erect SWR pipe 25mm thick  107  rmt  2884  67550\n3  Provide and lay Class A fly ash brick 12mm diameter  381  nos  3758  71592\n4  Provide and fix glass 150 x 150mm  292  ltr  2056  75946\n5  Install light fixture  407  ltr  3974  93435\n6  Plaster M35 M35 concrete 150mm thick  415  rmt  4214  78356\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of tile, cement plaster, putty for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice. Provide and lay Fe550 GI sheet 12mm diameter Erect SWR pipe 25mm thick Provide and lay Class A fly ash brick 12mm diameter Provide and fix glass 150 x 150mm Install light fixture Plaster M35 M35 concrete 150mm thick",
+  "sections": {
+    "scope": "Supply and installation of tile, cement plaster, putty for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay Fe550 GI sheet 12mm diameter",
+        "270",
+        "nos",
+        "2096",
+        "60871"
+      ],
+      [
+        "2",
+        "Erect SWR pipe 25mm thick",
+        "107",
+        "rmt",
+        "2884",
+        "67550"
+      ],
+      [
+        "3",
+        "Provide and lay Class A fly ash brick 12mm diameter",
+        "381",
+        "nos",
+        "3758",
+        "71592"
+      ],
+      [
+        "4",
+        "Provide and fix glass 150 x 150mm",
+        "292",
+        "ltr",
+        "2056",
+        "75946"
+      ],
+      [
+        "5",
+        "Install light fixture",
+        "407",
+        "ltr",
+        "3974",
+        "93435"
+      ],
+      [
+        "6",
+        "Plaster M35 M35 concrete 150mm thick",
+        "415",
+        "rmt",
+        "4214",
+        "78356"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "12mm diameter",
+        "quantity": 270,
+        "unit": "no.",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 107,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "12mm diameter",
+        "quantity": 381,
+        "unit": "no.",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 292,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 407,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "150mm thick",
+        "quantity": 415,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

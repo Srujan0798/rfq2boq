@@ -1,0 +1,38 @@
+Items described in the Bill of Quantities are to be supplied and installed at second floor for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Provide and lay PVC pipe  324  cum  3685  56492
+2  Fabricate and erect aluminum window  193  cum  691  43912
+3  Provide and lay Class 2 POP  426  ltr  320  81842
+4  Provide and install M25 M25 concrete  407  ls  3339  48250
+5  Supply and fix light fixture 230mm thick  454  ltr  3243  33287
+6  Erect Class A hollow block 200 x 200mm  121  sqm  3224  81260
+7  Cast Fe500 structural steel 12mm diameter  398  rmt  3693  50234
+8  Provide and lay integral waterproofing  321  cum  2749  1325
+9  Provide and fix PVC pipe 25mm thick  42  kg  2195  73001
+10  Supply and fix glass 100 x 100mm  102  kg  2075  31595
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

@@ -1,0 +1,187 @@
+{
+  "id": "syn_0280",
+  "project_name": "Commercial Building at MG Road",
+  "category": "waterproofing",
+  "text": "The scope of work includes DPC, integral waterproofing, brickbat coba for the Commercial Building at MG Road project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast M40 RCC 150 x 150mm  284  nos  3609  91006\n2  Cast DPC  406  ltr  4536  32646\n3  Install Fe550 TMT steel  480  set  1077  7644\n4  Cast Class 1 putty 6mm diameter  460  rmt  1184  1971\n5  Provide and fix Class B brick masonry 16mm diameter  192  ls  2375  44325\n6  Provide and fix glass 200 x 200mm  177  ls  1510  34392\n7  Provide and lay light fixture  12  cum  3756  45247\n8  Fix SWR pipe  281  rmt  3027  10344\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes DPC, integral waterproofing, brickbat coba for the Commercial Building at MG Road project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below. Cast M40 RCC 150 x 150mm Cast DPC Install Fe550 TMT steel Cast Class 1 putty 6mm diameter Provide and fix Class B brick masonry 16mm diameter Provide and fix glass 200 x 200mm Provide and lay light fixture Fix SWR pipe",
+  "sections": {
+    "scope": "The scope of work includes DPC, integral waterproofing, brickbat coba for the Commercial Building at MG Road project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast M40 RCC 150 x 150mm",
+        "284",
+        "nos",
+        "3609",
+        "91006"
+      ],
+      [
+        "2",
+        "Cast DPC",
+        "406",
+        "ltr",
+        "4536",
+        "32646"
+      ],
+      [
+        "3",
+        "Install Fe550 TMT steel",
+        "480",
+        "set",
+        "1077",
+        "7644"
+      ],
+      [
+        "4",
+        "Cast Class 1 putty 6mm diameter",
+        "460",
+        "rmt",
+        "1184",
+        "1971"
+      ],
+      [
+        "5",
+        "Provide and fix Class B brick masonry 16mm diameter",
+        "192",
+        "ls",
+        "2375",
+        "44325"
+      ],
+      [
+        "6",
+        "Provide and fix glass 200 x 200mm",
+        "177",
+        "ls",
+        "1510",
+        "34392"
+      ],
+      [
+        "7",
+        "Provide and lay light fixture",
+        "12",
+        "cum",
+        "3756",
+        "45247"
+      ],
+      [
+        "8",
+        "Fix SWR pipe",
+        "281",
+        "rmt",
+        "3027",
+        "10344"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "150 x 150mm",
+        "quantity": 284,
+        "unit": "no.",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 406,
+        "unit": "ltr",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 480,
+        "unit": "set",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "6mm diameter",
+        "quantity": 460,
+        "unit": "rmt",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "16mm diameter",
+        "quantity": 192,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 177,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 12,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 281,
+        "unit": "rmt",
+        "standard": [
+          "IS 1239"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

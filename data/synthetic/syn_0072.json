@@ -1,0 +1,207 @@
+{
+  "id": "syn_0072",
+  "project_name": "Hotel at Airport Road",
+  "category": "finishes",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hotel at Airport Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install Class C fly ash brick  217  sqm  4385  61079\n2  Supply aluminum window 12mm diameter  46  cum  3960  82051\n3  Apply Fe415 TMT steel  342  rmt  509  41283\n4  Cast brickbat coba 230mm thick  97  sqm  4172  78984\n5  Supply and lay M25 PCC 6mm diameter  421  kg  1089  90664\n6  Provide and fix Class 1 putty 12mm thick  438  kg  617  16826\n7  Fix HDPE pipe 12mm thick  222  rmt  2095  77282\n8  Supply and lay cable 100mm thick  415  ltr  761  1832\n9  Supply Class A brick masonry 12mm diameter  55  nos  1139  28021\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hotel at Airport Road project. All work to be carried out as per specifications. Supply and install Class C fly ash brick Supply aluminum window 12mm diameter Apply Fe415 TMT steel Cast brickbat coba 230mm thick Supply and lay M25 PCC 6mm diameter Provide and fix Class 1 putty 12mm thick Fix HDPE pipe 12mm thick Supply and lay cable 100mm thick Supply Class A brick masonry 12mm diameter",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hotel at Airport Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install Class C fly ash brick",
+        "217",
+        "sqm",
+        "4385",
+        "61079"
+      ],
+      [
+        "2",
+        "Supply aluminum window 12mm diameter",
+        "46",
+        "cum",
+        "3960",
+        "82051"
+      ],
+      [
+        "3",
+        "Apply Fe415 TMT steel",
+        "342",
+        "rmt",
+        "509",
+        "41283"
+      ],
+      [
+        "4",
+        "Cast brickbat coba 230mm thick",
+        "97",
+        "sqm",
+        "4172",
+        "78984"
+      ],
+      [
+        "5",
+        "Supply and lay M25 PCC 6mm diameter",
+        "421",
+        "kg",
+        "1089",
+        "90664"
+      ],
+      [
+        "6",
+        "Provide and fix Class 1 putty 12mm thick",
+        "438",
+        "kg",
+        "617",
+        "16826"
+      ],
+      [
+        "7",
+        "Fix HDPE pipe 12mm thick",
+        "222",
+        "rmt",
+        "2095",
+        "77282"
+      ],
+      [
+        "8",
+        "Supply and lay cable 100mm thick",
+        "415",
+        "ltr",
+        "761",
+        "1832"
+      ],
+      [
+        "9",
+        "Supply Class A brick masonry 12mm diameter",
+        "55",
+        "nos",
+        "1139",
+        "28021"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 217,
+        "unit": "m^2",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 46,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 342,
+        "unit": "rmt",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 97,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "PCC",
+        "grade": "M25",
+        "dimension": "6mm diameter",
+        "quantity": 421,
+        "unit": "kg",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 438,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 222,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "cable",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 415,
+        "unit": "ltr",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "12mm diameter",
+        "quantity": 55,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

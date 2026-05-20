@@ -1,0 +1,227 @@
+{
+  "id": "syn_0107",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "brickwork",
+  "text": "Supply and installation of AAC block, hollow block, fly ash brick for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay Class B fly ash brick 16mm diameter  156  nos  1974  41001\n2  Erect Fe500 TMT steel 200mm thick  404  ls  2066  13272\n3  Supply and install M40 M25 concrete 12mm diameter  53  nos  3573  89740\n4  Fabricate and erect membrane 16mm thick  273  sqm  159  94606\n5  Provide and install light fixture 12mm thick  388  cum  4388  30500\n6  Provide and fix PVC pipe 150mm thick  439  rmt  4159  50688\n7  Supply and lay aluminum window 230mm thick  183  kg  2550  64324\n8  Provide and install Class 2 tile  11  ltr  4323  5643\n9  Install Class C hollow block 10mm diameter  259  cum  2544  47385\n10  Provide and fix Fe415 TMT steel 100mm thick  465  rmt  3629  65493\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of AAC block, hollow block, fly ash brick for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Lay Class B fly ash brick 16mm diameter Erect Fe500 TMT steel 200mm thick Supply and install M40 M25 concrete 12mm diameter Fabricate and erect membrane 16mm thick Provide and install light fixture 12mm thick Provide and fix PVC pipe 150mm thick Supply and lay aluminum window 230mm thick Provide and install Class 2 tile Install Class C hollow block 10mm diameter Provide and fix Fe415 TMT steel 100mm thick",
+  "sections": {
+    "scope": "Supply and installation of AAC block, hollow block, fly ash brick for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay Class B fly ash brick 16mm diameter",
+        "156",
+        "nos",
+        "1974",
+        "41001"
+      ],
+      [
+        "2",
+        "Erect Fe500 TMT steel 200mm thick",
+        "404",
+        "ls",
+        "2066",
+        "13272"
+      ],
+      [
+        "3",
+        "Supply and install M40 M25 concrete 12mm diameter",
+        "53",
+        "nos",
+        "3573",
+        "89740"
+      ],
+      [
+        "4",
+        "Fabricate and erect membrane 16mm thick",
+        "273",
+        "sqm",
+        "159",
+        "94606"
+      ],
+      [
+        "5",
+        "Provide and install light fixture 12mm thick",
+        "388",
+        "cum",
+        "4388",
+        "30500"
+      ],
+      [
+        "6",
+        "Provide and fix PVC pipe 150mm thick",
+        "439",
+        "rmt",
+        "4159",
+        "50688"
+      ],
+      [
+        "7",
+        "Supply and lay aluminum window 230mm thick",
+        "183",
+        "kg",
+        "2550",
+        "64324"
+      ],
+      [
+        "8",
+        "Provide and install Class 2 tile",
+        "11",
+        "ltr",
+        "4323",
+        "5643"
+      ],
+      [
+        "9",
+        "Install Class C hollow block 10mm diameter",
+        "259",
+        "cum",
+        "2544",
+        "47385"
+      ],
+      [
+        "10",
+        "Provide and fix Fe415 TMT steel 100mm thick",
+        "465",
+        "rmt",
+        "3629",
+        "65493"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "16mm diameter",
+        "quantity": 156,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "200mm thick",
+        "quantity": 404,
+        "unit": "ls",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "M25 concrete",
+        "grade": "M40",
+        "dimension": "12mm diameter",
+        "quantity": 53,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 273,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 388,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 439,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 183,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 11,
+        "unit": "ltr",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Install",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "10mm diameter",
+        "quantity": 259,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and fix",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "100mm thick",
+        "quantity": 465,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

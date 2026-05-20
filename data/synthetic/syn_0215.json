@@ -1,0 +1,147 @@
+{
+  "id": "syn_0215",
+  "project_name": "Hotel at Airport Road",
+  "category": "brickwork",
+  "text": "The scope of work includes brick masonry, fly ash brick, AAC block for the Hotel at Airport Road project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay Fe415 MS plate 6mm diameter  61  set  256  19654\n2  Apply integral waterproofing 150mm thick  492  set  1551  23045\n3  Apply GI pipe 150 x 150mm  327  ls  781  90468\n4  Supply GI conduit  52  rmt  4735  47837\n5  Supply and fix Class A brick masonry 150mm thick  450  ltr  2717  15548\n6  Install MS door 200 x 200mm  378  rmt  3705  84062\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes brick masonry, fly ash brick, AAC block for the Hotel at Airport Road project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and lay Fe415 MS plate 6mm diameter Apply integral waterproofing 150mm thick Apply GI pipe 150 x 150mm Supply GI conduit Supply and fix Class A brick masonry 150mm thick Install MS door 200 x 200mm",
+  "sections": {
+    "scope": "The scope of work includes brick masonry, fly ash brick, AAC block for the Hotel at Airport Road project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay Fe415 MS plate 6mm diameter",
+        "61",
+        "set",
+        "256",
+        "19654"
+      ],
+      [
+        "2",
+        "Apply integral waterproofing 150mm thick",
+        "492",
+        "set",
+        "1551",
+        "23045"
+      ],
+      [
+        "3",
+        "Apply GI pipe 150 x 150mm",
+        "327",
+        "ls",
+        "781",
+        "90468"
+      ],
+      [
+        "4",
+        "Supply GI conduit",
+        "52",
+        "rmt",
+        "4735",
+        "47837"
+      ],
+      [
+        "5",
+        "Supply and fix Class A brick masonry 150mm thick",
+        "450",
+        "ltr",
+        "2717",
+        "15548"
+      ],
+      [
+        "6",
+        "Install MS door 200 x 200mm",
+        "378",
+        "rmt",
+        "3705",
+        "84062"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "6mm diameter",
+        "quantity": 61,
+        "unit": "set",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 492,
+        "unit": "set",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 327,
+        "unit": "ls",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 52,
+        "unit": "rmt",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "150mm thick",
+        "quantity": 450,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 378,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

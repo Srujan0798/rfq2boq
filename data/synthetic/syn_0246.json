@@ -1,0 +1,227 @@
+{
+  "id": "syn_0246",
+  "project_name": "Warehouse at Peenya",
+  "category": "concrete",
+  "text": "The scope of work includes M20 concrete, M35 concrete, M25 concrete for the Warehouse at Peenya project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix GI pipe  92  sqm  3218  75235\n2  Lay Class C brick masonry 12mm diameter  251  sqm  1620  16722\n3  Provide and fix brickbat coba 230mm thick  455  nos  1008  75642\n4  Fabricate and erect aluminum window 100 x 100mm  437  cum  3434  8050\n5  Fix Fe415 MS plate 300mm thick  164  nos  3053  19903\n6  Supply and install Class 2 cement plaster  83  ls  2310  11784\n7  Cast GI conduit 10mm diameter  149  nos  1576  50260\n8  Provide and install M20 PCC 200 x 200mm  355  rmt  873  30445\n9  Erect PVC pipe 100 x 100mm  50  set  4664  4159\n10  Provide and fix Class B AAC block 200 x 200mm  433  ls  3231  5856\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes M20 concrete, M35 concrete, M25 concrete for the Warehouse at Peenya project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and fix GI pipe Lay Class C brick masonry 12mm diameter Provide and fix brickbat coba 230mm thick Fabricate and erect aluminum window 100 x 100mm Fix Fe415 MS plate 300mm thick Supply and install Class 2 cement plaster Cast GI conduit 10mm diameter Provide and install M20 PCC 200 x 200mm Erect PVC pipe 100 x 100mm Provide and fix Class B AAC block 200 x 200mm",
+  "sections": {
+    "scope": "The scope of work includes M20 concrete, M35 concrete, M25 concrete for the Warehouse at Peenya project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix GI pipe",
+        "92",
+        "sqm",
+        "3218",
+        "75235"
+      ],
+      [
+        "2",
+        "Lay Class C brick masonry 12mm diameter",
+        "251",
+        "sqm",
+        "1620",
+        "16722"
+      ],
+      [
+        "3",
+        "Provide and fix brickbat coba 230mm thick",
+        "455",
+        "nos",
+        "1008",
+        "75642"
+      ],
+      [
+        "4",
+        "Fabricate and erect aluminum window 100 x 100mm",
+        "437",
+        "cum",
+        "3434",
+        "8050"
+      ],
+      [
+        "5",
+        "Fix Fe415 MS plate 300mm thick",
+        "164",
+        "nos",
+        "3053",
+        "19903"
+      ],
+      [
+        "6",
+        "Supply and install Class 2 cement plaster",
+        "83",
+        "ls",
+        "2310",
+        "11784"
+      ],
+      [
+        "7",
+        "Cast GI conduit 10mm diameter",
+        "149",
+        "nos",
+        "1576",
+        "50260"
+      ],
+      [
+        "8",
+        "Provide and install M20 PCC 200 x 200mm",
+        "355",
+        "rmt",
+        "873",
+        "30445"
+      ],
+      [
+        "9",
+        "Erect PVC pipe 100 x 100mm",
+        "50",
+        "set",
+        "4664",
+        "4159"
+      ],
+      [
+        "10",
+        "Provide and fix Class B AAC block 200 x 200mm",
+        "433",
+        "ls",
+        "3231",
+        "5856"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 92,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "12mm diameter",
+        "quantity": 251,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 455,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 437,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "300mm thick",
+        "quantity": 164,
+        "unit": "no.",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 83,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 149,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "200 x 200mm",
+        "quantity": 355,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Erect",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 50,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and fix",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "200 x 200mm",
+        "quantity": 433,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

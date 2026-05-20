@@ -1,0 +1,33 @@
+Items described in the Bill of Quantities are to be supplied and installed at balcony for the Hospital Building at Hebbal project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay aluminum window  98  kg  3591  96025
+2  Supply and fix Class B hollow block  379  kg  2139  40728
+3  Plaster HDPE pipe 12mm diameter  113  nos  3045  53198
+4  Fabricate and erect light fixture 8mm diameter  235  ltr  4048  3596
+5  Install M35 M35 concrete 300mm thick  52  nos  1539  34723
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

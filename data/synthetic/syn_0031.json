@@ -1,0 +1,167 @@
+{
+  "id": "syn_0031",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "finishes",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix cable 16mm thick  169  ls  4056  46652\n2  Fabricate and erect CI pipe 100 x 100mm  379  set  1042  3960\n3  Supply and lay Fe550 structural steel 20mm thick  356  rmt  1529  73339\n4  Lay Class B AAC block  228  set  1611  25430\n5  Supply and install DPC 8mm diameter  387  kg  136  93371\n6  Provide and lay Class 1 POP 12mm thick  395  sqm  2770  26830\n7  Provide and lay M20 M35 concrete 150 x 150mm  353  set  3283  81125\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications. Provide and fix cable 16mm thick Fabricate and erect CI pipe 100 x 100mm Supply and lay Fe550 structural steel 20mm thick Lay Class B AAC block Supply and install DPC 8mm diameter Provide and lay Class 1 POP 12mm thick Provide and lay M20 M35 concrete 150 x 150mm",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix cable 16mm thick",
+        "169",
+        "ls",
+        "4056",
+        "46652"
+      ],
+      [
+        "2",
+        "Fabricate and erect CI pipe 100 x 100mm",
+        "379",
+        "set",
+        "1042",
+        "3960"
+      ],
+      [
+        "3",
+        "Supply and lay Fe550 structural steel 20mm thick",
+        "356",
+        "rmt",
+        "1529",
+        "73339"
+      ],
+      [
+        "4",
+        "Lay Class B AAC block",
+        "228",
+        "set",
+        "1611",
+        "25430"
+      ],
+      [
+        "5",
+        "Supply and install DPC 8mm diameter",
+        "387",
+        "kg",
+        "136",
+        "93371"
+      ],
+      [
+        "6",
+        "Provide and lay Class 1 POP 12mm thick",
+        "395",
+        "sqm",
+        "2770",
+        "26830"
+      ],
+      [
+        "7",
+        "Provide and lay M20 M35 concrete 150 x 150mm",
+        "353",
+        "set",
+        "3283",
+        "81125"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 169,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 379,
+        "unit": "set",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "20mm thick",
+        "quantity": 356,
+        "unit": "rmt",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 228,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 387,
+        "unit": "kg",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 395,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and lay",
+        "material": "M35 concrete",
+        "grade": "M20",
+        "dimension": "150 x 150mm",
+        "quantity": 353,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

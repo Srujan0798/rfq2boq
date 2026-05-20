@@ -1,0 +1,207 @@
+{
+  "id": "syn_0183",
+  "project_name": "School Building at Electronic City",
+  "category": "piping",
+  "text": "Supply and installation of SWR pipe, GI pipe, HDPE pipe for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install aluminum window 20mm thick  338  sqm  429  31258\n2  Apply PVC pipe  46  ltr  2365  15760\n3  Provide and install Class C brick masonry 100mm thick  377  sqm  976  45742\n4  Supply and fix Fe500 MS plate 150 x 150mm  85  sqm  3202  87444\n5  Fabricate and erect Class 2 putty 300mm thick  349  kg  3288  47291\n6  Fabricate and erect membrane 25mm thick  260  nos  3649  61762\n7  Fix M20 M25 concrete 16mm diameter  465  cum  1769  55185\n8  Supply and fix cable  155  nos  3976  70414\n9  Provide and fix flush door 25mm thick  165  kg  3299  36342\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of SWR pipe, GI pipe, HDPE pipe for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install aluminum window 20mm thick Apply PVC pipe Provide and install Class C brick masonry 100mm thick Supply and fix Fe500 MS plate 150 x 150mm Fabricate and erect Class 2 putty 300mm thick Fabricate and erect membrane 25mm thick Fix M20 M25 concrete 16mm diameter Supply and fix cable Provide and fix flush door 25mm thick",
+  "sections": {
+    "scope": "Supply and installation of SWR pipe, GI pipe, HDPE pipe for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install aluminum window 20mm thick",
+        "338",
+        "sqm",
+        "429",
+        "31258"
+      ],
+      [
+        "2",
+        "Apply PVC pipe",
+        "46",
+        "ltr",
+        "2365",
+        "15760"
+      ],
+      [
+        "3",
+        "Provide and install Class C brick masonry 100mm thick",
+        "377",
+        "sqm",
+        "976",
+        "45742"
+      ],
+      [
+        "4",
+        "Supply and fix Fe500 MS plate 150 x 150mm",
+        "85",
+        "sqm",
+        "3202",
+        "87444"
+      ],
+      [
+        "5",
+        "Fabricate and erect Class 2 putty 300mm thick",
+        "349",
+        "kg",
+        "3288",
+        "47291"
+      ],
+      [
+        "6",
+        "Fabricate and erect membrane 25mm thick",
+        "260",
+        "nos",
+        "3649",
+        "61762"
+      ],
+      [
+        "7",
+        "Fix M20 M25 concrete 16mm diameter",
+        "465",
+        "cum",
+        "1769",
+        "55185"
+      ],
+      [
+        "8",
+        "Supply and fix cable",
+        "155",
+        "nos",
+        "3976",
+        "70414"
+      ],
+      [
+        "9",
+        "Provide and fix flush door 25mm thick",
+        "165",
+        "kg",
+        "3299",
+        "36342"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 338,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 46,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "100mm thick",
+        "quantity": 377,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "150 x 150mm",
+        "quantity": 85,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "300mm thick",
+        "quantity": 349,
+        "unit": "kg",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fabricate and erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 260,
+        "unit": "no.",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "16mm diameter",
+        "quantity": 465,
+        "unit": "m^3",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 155,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 165,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

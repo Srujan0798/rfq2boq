@@ -1,0 +1,267 @@
+{
+  "id": "syn_0204",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "piping",
+  "text": "The scope of work includes SWR pipe, GI pipe, CI pipe for the Residential Complex at Whitefield project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install SWR pipe 6mm diameter  430  sqm  2591  71137\n2  Fix Fe415 MS plate 200 x 200mm  71  set  4303  97658\n3  Lay GI conduit 12mm thick  201  set  310  35013\n4  Fabricate and erect flush door 12mm thick  173  set  3215  74849\n5  Cast Class 2 cement plaster 200mm thick  216  sqm  4285  66494\n6  Cast integral waterproofing 16mm diameter  353  ltr  3895  96185\n7  Plaster M40 M35 concrete 150mm thick  486  set  453  78180\n8  Apply Class A fly ash brick 200mm thick  70  nos  3569  15744\n9  Supply and install HDPE pipe  263  kg  4631  74162\n10  Apply Fe500 MS plate  203  ls  4859  87328\n11  Provide and lay light fixture 8mm diameter  337  cum  2418  80930\n12  Lay glass 8mm diameter  137  nos  2276  60383\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes SWR pipe, GI pipe, CI pipe for the Residential Complex at Whitefield project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Install SWR pipe 6mm diameter Fix Fe415 MS plate 200 x 200mm Lay GI conduit 12mm thick Fabricate and erect flush door 12mm thick Cast Class 2 cement plaster 200mm thick Cast integral waterproofing 16mm diameter Plaster M40 M35 concrete 150mm thick Apply Class A fly ash brick 200mm thick Supply and install HDPE pipe Apply Fe500 MS plate Provide and lay light fixture 8mm diameter Lay glass 8mm diameter",
+  "sections": {
+    "scope": "The scope of work includes SWR pipe, GI pipe, CI pipe for the Residential Complex at Whitefield project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install SWR pipe 6mm diameter",
+        "430",
+        "sqm",
+        "2591",
+        "71137"
+      ],
+      [
+        "2",
+        "Fix Fe415 MS plate 200 x 200mm",
+        "71",
+        "set",
+        "4303",
+        "97658"
+      ],
+      [
+        "3",
+        "Lay GI conduit 12mm thick",
+        "201",
+        "set",
+        "310",
+        "35013"
+      ],
+      [
+        "4",
+        "Fabricate and erect flush door 12mm thick",
+        "173",
+        "set",
+        "3215",
+        "74849"
+      ],
+      [
+        "5",
+        "Cast Class 2 cement plaster 200mm thick",
+        "216",
+        "sqm",
+        "4285",
+        "66494"
+      ],
+      [
+        "6",
+        "Cast integral waterproofing 16mm diameter",
+        "353",
+        "ltr",
+        "3895",
+        "96185"
+      ],
+      [
+        "7",
+        "Plaster M40 M35 concrete 150mm thick",
+        "486",
+        "set",
+        "453",
+        "78180"
+      ],
+      [
+        "8",
+        "Apply Class A fly ash brick 200mm thick",
+        "70",
+        "nos",
+        "3569",
+        "15744"
+      ],
+      [
+        "9",
+        "Supply and install HDPE pipe",
+        "263",
+        "kg",
+        "4631",
+        "74162"
+      ],
+      [
+        "10",
+        "Apply Fe500 MS plate",
+        "203",
+        "ls",
+        "4859",
+        "87328"
+      ],
+      [
+        "11",
+        "Provide and lay light fixture 8mm diameter",
+        "337",
+        "cum",
+        "2418",
+        "80930"
+      ],
+      [
+        "12",
+        "Lay glass 8mm diameter",
+        "137",
+        "nos",
+        "2276",
+        "60383"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 430,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "200 x 200mm",
+        "quantity": 71,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 201,
+        "unit": "set",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 173,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "200mm thick",
+        "quantity": 216,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 353,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Plaster",
+        "material": "M35 concrete",
+        "grade": "M40",
+        "dimension": "150mm thick",
+        "quantity": 486,
+        "unit": "set",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Apply",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "200mm thick",
+        "quantity": 70,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 263,
+        "unit": "kg",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Apply",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 203,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 337,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 137,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

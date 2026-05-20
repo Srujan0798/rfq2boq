@@ -1,0 +1,227 @@
+{
+  "id": "syn_0093",
+  "project_name": "Commercial Building at MG Road",
+  "category": "steel",
+  "text": "The scope of work includes GI sheet, rebar, TMT steel for the Commercial Building at MG Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix Class C fly ash brick 10mm diameter  131  sqm  3757  76882\n2  Supply and install flush door 200mm thick  479  cum  607  58923\n3  Cast cable  330  ltr  557  74303\n4  Install brickbat coba  205  ltr  2009  79587\n5  Fabricate and erect Class 1 putty 230mm thick  206  set  312  60516\n6  Cast M30 PCC  108  sqm  653  78710\n7  Supply and fix Fe550 MS plate 12mm diameter  336  nos  3742  25369\n8  Fix PVC pipe  32  cum  3670  68256\n9  Cast Class B fly ash brick  463  rmt  2909  39150\n10  Lay MS door  310  rmt  3557  46064\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes GI sheet, rebar, TMT steel for the Commercial Building at MG Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below. Fix Class C fly ash brick 10mm diameter Supply and install flush door 200mm thick Cast cable Install brickbat coba Fabricate and erect Class 1 putty 230mm thick Cast M30 PCC Supply and fix Fe550 MS plate 12mm diameter Fix PVC pipe Cast Class B fly ash brick Lay MS door",
+  "sections": {
+    "scope": "The scope of work includes GI sheet, rebar, TMT steel for the Commercial Building at MG Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix Class C fly ash brick 10mm diameter",
+        "131",
+        "sqm",
+        "3757",
+        "76882"
+      ],
+      [
+        "2",
+        "Supply and install flush door 200mm thick",
+        "479",
+        "cum",
+        "607",
+        "58923"
+      ],
+      [
+        "3",
+        "Cast cable",
+        "330",
+        "ltr",
+        "557",
+        "74303"
+      ],
+      [
+        "4",
+        "Install brickbat coba",
+        "205",
+        "ltr",
+        "2009",
+        "79587"
+      ],
+      [
+        "5",
+        "Fabricate and erect Class 1 putty 230mm thick",
+        "206",
+        "set",
+        "312",
+        "60516"
+      ],
+      [
+        "6",
+        "Cast M30 PCC",
+        "108",
+        "sqm",
+        "653",
+        "78710"
+      ],
+      [
+        "7",
+        "Supply and fix Fe550 MS plate 12mm diameter",
+        "336",
+        "nos",
+        "3742",
+        "25369"
+      ],
+      [
+        "8",
+        "Fix PVC pipe",
+        "32",
+        "cum",
+        "3670",
+        "68256"
+      ],
+      [
+        "9",
+        "Cast Class B fly ash brick",
+        "463",
+        "rmt",
+        "2909",
+        "39150"
+      ],
+      [
+        "10",
+        "Lay MS door",
+        "310",
+        "rmt",
+        "3557",
+        "46064"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "10mm diameter",
+        "quantity": 131,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 479,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Cast",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 330,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 205,
+        "unit": "ltr",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 206,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "PCC",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 108,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "12mm diameter",
+        "quantity": 336,
+        "unit": "no.",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 32,
+        "unit": "m^3",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Cast",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 463,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Lay",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 310,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

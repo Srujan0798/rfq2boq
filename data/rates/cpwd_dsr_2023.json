@@ -1,0 +1,4257 @@
+{
+  "version": "DSR 2023",
+  "source": "CPWD Delhi Schedule of Rates 2023",
+  "region": "delhi",
+  "currency": "INR",
+  "year": 2023,
+  "description": "CPWD Delhi Schedule of Rates 2023 - Vol 1 Civil (Public Domain under NDSAP/RTI)",
+  "items": [
+    {
+      "code": "1.1",
+      "description": "Earthwork in excavation by mechanical means in ordinary soil",
+      "chapter": "1 - Earthwork",
+      "material": "earthwork",
+      "unit": "m\u00b3",
+      "rate_inr": 245.5
+    },
+    {
+      "code": "1.2",
+      "description": "Earthwork in excavation by mechanical means in hard soil",
+      "chapter": "1 - Earthwork",
+      "material": "earthwork",
+      "unit": "m\u00b3",
+      "rate_inr": 312.0
+    },
+    {
+      "code": "1.3",
+      "description": "Earthwork in excavation by mechanical means in rock",
+      "chapter": "1 - Earthwork",
+      "material": "rock",
+      "unit": "m\u00b3",
+      "rate_inr": 485.0
+    },
+    {
+      "code": "1.4",
+      "description": "Filling with excavated earth in layers 150mm thick",
+      "chapter": "1 - Earthwork",
+      "material": "filling",
+      "unit": "m\u00b3",
+      "rate_inr": 195.0
+    },
+    {
+      "code": "1.5",
+      "description": "Compacting filled earth with power roller",
+      "chapter": "1 - Earthwork",
+      "material": "compaction",
+      "unit": "m\u00b3",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "1.6",
+      "description": "Surface dressing of ground",
+      "chapter": "1 - Earthwork",
+      "material": "surface_dressing",
+      "unit": "m\u00b2",
+      "rate_inr": 18.0
+    },
+    {
+      "code": "1.7",
+      "description": "Excavation for foundation in ordinary soil",
+      "chapter": "1 - Earthwork",
+      "material": "foundation",
+      "unit": "m\u00b3",
+      "rate_inr": 265.0
+    },
+    {
+      "code": "1.8",
+      "description": "Excavation for foundation in hard soil",
+      "chapter": "1 - Earthwork",
+      "material": "foundation",
+      "unit": "m\u00b3",
+      "rate_inr": 335.0
+    },
+    {
+      "code": "1.9",
+      "description": "Excavation for foundation in rock",
+      "chapter": "1 - Earthwork",
+      "material": "foundation",
+      "unit": "m\u00b3",
+      "rate_inr": 520.0
+    },
+    {
+      "code": "1.10",
+      "description": "Backfilling foundation with excavated earth",
+      "chapter": "1 - Earthwork",
+      "material": "backfill",
+      "unit": "m\u00b3",
+      "rate_inr": 145.0
+    },
+    {
+      "code": "1.11",
+      "description": "Sand filling in plinth",
+      "chapter": "1 - Earthwork",
+      "material": "sand",
+      "unit": "m\u00b3",
+      "rate_inr": 950.0
+    },
+    {
+      "code": "1.12",
+      "description": "Cement sand filling in plinth",
+      "chapter": "1 - Earthwork",
+      "material": "cement_sand",
+      "unit": "m\u00b3",
+      "rate_inr": 1250.0
+    },
+    {
+      "code": "1.13",
+      "description": "Granular sub-base with crusher run",
+      "chapter": "1 - Earthwork",
+      "material": "gsb",
+      "unit": "m\u00b3",
+      "rate_inr": 1100.0
+    },
+    {
+      "code": "1.14",
+      "description": "Soling with brick bats",
+      "chapter": "1 - Earthwork",
+      "material": "soling",
+      "unit": "m\u00b3",
+      "rate_inr": 980.0
+    },
+    {
+      "code": "1.15",
+      "description": "PCC 1:4:8 below foundation",
+      "chapter": "1 - Earthwork",
+      "material": "pcc",
+      "grade": "M10",
+      "unit": "m\u00b3",
+      "rate_inr": 4200.0
+    },
+    {
+      "code": "2.1",
+      "description": "Plain cement concrete 1:2:4 in foundation",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M15",
+      "unit": "m\u00b3",
+      "rate_inr": 4850.0
+    },
+    {
+      "code": "2.2",
+      "description": "Plain cement concrete 1:3:6 in foundation",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M10",
+      "unit": "m\u00b3",
+      "rate_inr": 4500.0
+    },
+    {
+      "code": "2.3",
+      "description": "RCC 1:1.5:3 in beams and lintels",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5600.0
+    },
+    {
+      "code": "2.4",
+      "description": "RCC 1:2:4 in columns",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5800.0
+    },
+    {
+      "code": "2.5",
+      "description": "RCC 1:1.5:3 in slab",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5650.0
+    },
+    {
+      "code": "2.6",
+      "description": "RCC M25 in columns and beams",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6100.0
+    },
+    {
+      "code": "2.7",
+      "description": "RCC M30 in columns and beams",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 6400.0
+    },
+    {
+      "code": "2.8",
+      "description": "RCC M35 in columns and beams",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M35",
+      "unit": "m\u00b3",
+      "rate_inr": 6700.0
+    },
+    {
+      "code": "2.9",
+      "description": "RCC M40 in columns and beams",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M40",
+      "unit": "m\u00b3",
+      "rate_inr": 7000.0
+    },
+    {
+      "code": "2.10",
+      "description": "Concrete for foundation M15",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M15",
+      "unit": "m\u00b3",
+      "rate_inr": 5200.0
+    },
+    {
+      "code": "2.11",
+      "description": "Concrete for foundation M20",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5500.0
+    },
+    {
+      "code": "2.12",
+      "description": "Concrete for foundation M25",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 5900.0
+    },
+    {
+      "code": "2.13",
+      "description": "Lean concrete M10 in floor",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M10",
+      "unit": "m\u00b3",
+      "rate_inr": 4400.0
+    },
+    {
+      "code": "2.14",
+      "description": "Dry lean concrete DLC M15",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M15",
+      "unit": "m\u00b3",
+      "rate_inr": 4700.0
+    },
+    {
+      "code": "2.15",
+      "description": "Plain cement concrete 1:1:2 for flooring",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6000.0
+    },
+    {
+      "code": "2.16",
+      "description": "RCC slab 125mm thick M20",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b2",
+      "rate_inr": 780.0
+    },
+    {
+      "code": "2.17",
+      "description": "RCC slab 150mm thick M20",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b2",
+      "rate_inr": 920.0
+    },
+    {
+      "code": "2.18",
+      "description": "RCC slab 200mm thick M20",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b2",
+      "rate_inr": 1150.0
+    },
+    {
+      "code": "2.19",
+      "description": "RCC beam 230x450mm M20",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m",
+      "rate_inr": 480.0
+    },
+    {
+      "code": "2.20",
+      "description": "RCC column 230x300mm M20",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m",
+      "rate_inr": 420.0
+    },
+    {
+      "code": "3.1",
+      "description": "M20 concrete for flooring",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5450.0
+    },
+    {
+      "code": "3.2",
+      "description": "M25 concrete for flooring",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 5850.0
+    },
+    {
+      "code": "3.3",
+      "description": "M30 concrete for flooring",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 6200.0
+    },
+    {
+      "code": "3.4",
+      "description": "RCC up to plinth beam M20",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5500.0
+    },
+    {
+      "code": "3.5",
+      "description": "RCC up to plinth beam M25",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 5900.0
+    },
+    {
+      "code": "3.6",
+      "description": "RCC in sunshade M20",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5800.0
+    },
+    {
+      "code": "3.7",
+      "description": "RCC chajja M20",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b2",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "3.8",
+      "description": "RCC lintel over opening M20",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5700.0
+    },
+    {
+      "code": "3.9",
+      "description": "RCC for machine foundation M30",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 6500.0
+    },
+    {
+      "code": "3.10",
+      "description": "RCC for retaining wall M25",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6200.0
+    },
+    {
+      "code": "3.11",
+      "description": "RCC for water tank M30",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 6800.0
+    },
+    {
+      "code": "3.12",
+      "description": "RCC for sump M25",
+      "chapter": "3 - RCC Work",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6400.0
+    },
+    {
+      "code": "4.1",
+      "description": "Deformed steel bars for RCC work Fe500",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500",
+      "unit": "kg",
+      "rate_inr": 78.0
+    },
+    {
+      "code": "4.2",
+      "description": "Deformed steel bars for RCC work Fe415",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe415",
+      "unit": "kg",
+      "rate_inr": 75.0
+    },
+    {
+      "code": "4.3",
+      "description": "TMT steel bars Fe500D",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate_inr": 80.0
+    },
+    {
+      "code": "4.4",
+      "description": "TMT steel bars Fe500D 8mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate_inr": 82.0
+    },
+    {
+      "code": "4.5",
+      "description": "TMT steel bars Fe500D 10mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate_inr": 80.0
+    },
+    {
+      "code": "4.6",
+      "description": "TMT steel bars Fe500D 12mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate_inr": 79.0
+    },
+    {
+      "code": "4.7",
+      "description": "TMT steel bars Fe500D 16mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate_inr": 78.0
+    },
+    {
+      "code": "4.8",
+      "description": "TMT steel bars Fe500D 20mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate_inr": 78.0
+    },
+    {
+      "code": "4.9",
+      "description": "TMT steel bars Fe500D 25mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate_inr": 79.0
+    },
+    {
+      "code": "4.10",
+      "description": "TMT steel bars Fe500D 32mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500D",
+      "unit": "kg",
+      "rate_inr": 82.0
+    },
+    {
+      "code": "4.11",
+      "description": "MS binding wire",
+      "chapter": "4 - Reinforcement",
+      "material": "binding_wire",
+      "unit": "kg",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "4.12",
+      "description": "Stirrups 8mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe415",
+      "unit": "kg",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "4.13",
+      "description": "Stirrups 10mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe415",
+      "unit": "kg",
+      "rate_inr": 82.0
+    },
+    {
+      "code": "4.14",
+      "description": "Cage reinforcement for pile",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "Fe500",
+      "unit": "kg",
+      "rate_inr": 90.0
+    },
+    {
+      "code": "5.1",
+      "description": "Brickwork in foundation 1st class",
+      "chapter": "5 - Brickwork",
+      "material": "brick",
+      "grade": "first",
+      "unit": "m\u00b3",
+      "rate_inr": 5400.0
+    },
+    {
+      "code": "5.2",
+      "description": "Brickwork in foundation 2nd class",
+      "chapter": "5 - Brickwork",
+      "material": "brick",
+      "grade": "second",
+      "unit": "m\u00b3",
+      "rate_inr": 4900.0
+    },
+    {
+      "code": "5.3",
+      "description": "Brickwork in superstructure 1st class",
+      "chapter": "5 - Brickwork",
+      "material": "brick",
+      "grade": "first",
+      "unit": "m\u00b3",
+      "rate_inr": 5600.0
+    },
+    {
+      "code": "5.4",
+      "description": "Brickwork in superstructure 2nd class",
+      "chapter": "5 - Brickwork",
+      "material": "brick",
+      "grade": "second",
+      "unit": "m\u00b3",
+      "rate_inr": 5100.0
+    },
+    {
+      "code": "5.5",
+      "description": "AAC block masonry 200mm",
+      "chapter": "5 - Brickwork",
+      "material": "aac_block",
+      "unit": "m\u00b3",
+      "rate_inr": 5200.0
+    },
+    {
+      "code": "5.6",
+      "description": "AAC block masonry 150mm",
+      "chapter": "5 - Brickwork",
+      "material": "aac_block",
+      "unit": "m\u00b3",
+      "rate_inr": 4800.0
+    },
+    {
+      "code": "5.7",
+      "description": "AAC block masonry 100mm",
+      "chapter": "5 - Brickwork",
+      "material": "aac_block",
+      "unit": "m\u00b3",
+      "rate_inr": 4200.0
+    },
+    {
+      "code": "5.8",
+      "description": "CM 1:5 for block masonry",
+      "chapter": "5 - Brickwork",
+      "material": "mortar",
+      "grade": "1:5",
+      "unit": "m\u00b3",
+      "rate_inr": 3800.0
+    },
+    {
+      "code": "5.9",
+      "description": "CM 1:6 for block masonry",
+      "chapter": "5 - Brickwork",
+      "material": "mortar",
+      "grade": "1:6",
+      "unit": "m\u00b3",
+      "rate_inr": 3600.0
+    },
+    {
+      "code": "5.10",
+      "description": "CM 1:4 for brickwork",
+      "chapter": "5 - Brickwork",
+      "material": "mortar",
+      "grade": "1:4",
+      "unit": "m\u00b3",
+      "rate_inr": 4200.0
+    },
+    {
+      "code": "5.11",
+      "description": "CM 1:5 for brickwork",
+      "chapter": "5 - Brickwork",
+      "material": "mortar",
+      "grade": "1:5",
+      "unit": "m\u00b3",
+      "rate_inr": 3900.0
+    },
+    {
+      "code": "5.12",
+      "description": "CM 1:6 for brickwork",
+      "chapter": "5 - Brickwork",
+      "material": "mortar",
+      "grade": "1:6",
+      "unit": "m\u00b3",
+      "rate_inr": 3700.0
+    },
+    {
+      "code": "5.13",
+      "description": "Plaster 12mm in CM 1:4",
+      "chapter": "5 - Brickwork",
+      "material": "plaster",
+      "grade": "1:4",
+      "unit": "m\u00b2",
+      "rate_inr": 220.0
+    },
+    {
+      "code": "5.14",
+      "description": "Plaster 12mm in CM 1:5",
+      "chapter": "5 - Brickwork",
+      "material": "plaster",
+      "grade": "1:5",
+      "unit": "m\u00b2",
+      "rate_inr": 200.0
+    },
+    {
+      "code": "5.15",
+      "description": "Plaster 12mm in CM 1:6",
+      "chapter": "5 - Brickwork",
+      "material": "plaster",
+      "grade": "1:6",
+      "unit": "m\u00b2",
+      "rate_inr": 185.0
+    },
+    {
+      "code": "5.16",
+      "description": "Plaster 20mm in CM 1:4",
+      "chapter": "5 - Brickwork",
+      "material": "plaster",
+      "grade": "1:4",
+      "unit": "m\u00b2",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "5.17",
+      "description": "Plaster 20mm in CM 1:5",
+      "chapter": "5 - Brickwork",
+      "material": "plaster",
+      "grade": "1:5",
+      "unit": "m\u00b2",
+      "rate_inr": 260.0
+    },
+    {
+      "code": "5.18",
+      "description": "RCC band 100mm thick M20",
+      "chapter": "5 - Brickwork",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "6.1",
+      "description": "Granite flooring 600x600mm first quality",
+      "chapter": "6 - Flooring",
+      "material": "granite",
+      "grade": "premium",
+      "unit": "m\u00b2",
+      "rate_inr": 1500.0
+    },
+    {
+      "code": "6.2",
+      "description": "Granite flooring 600x600mm second quality",
+      "chapter": "6 - Flooring",
+      "material": "granite",
+      "grade": "standard",
+      "unit": "m\u00b2",
+      "rate_inr": 1200.0
+    },
+    {
+      "code": "6.3",
+      "description": "Vitrified tile 600x600mm double charged",
+      "chapter": "6 - Flooring",
+      "material": "tile",
+      "grade": "premium",
+      "unit": "m\u00b2",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "6.4",
+      "description": "Vitrified tile 600x600mm nano polished",
+      "chapter": "6 - Flooring",
+      "material": "tile",
+      "grade": "premium",
+      "unit": "m\u00b2",
+      "rate_inr": 920.0
+    },
+    {
+      "code": "6.5",
+      "description": "Ceramic floor tile 300x300mm",
+      "chapter": "6 - Flooring",
+      "material": "tile",
+      "grade": "standard",
+      "unit": "m\u00b2",
+      "rate_inr": 480.0
+    },
+    {
+      "code": "6.6",
+      "description": "Ceramic wall tile 300x300mm",
+      "chapter": "6 - Flooring",
+      "material": "tile",
+      "grade": "standard",
+      "unit": "m\u00b2",
+      "rate_inr": 420.0
+    },
+    {
+      "code": "6.7",
+      "description": "Porcelain tile 600x600mm",
+      "chapter": "6 - Flooring",
+      "material": "tile",
+      "grade": "premium",
+      "unit": "m\u00b2",
+      "rate_inr": 1100.0
+    },
+    {
+      "code": "6.8",
+      "description": "Kota stone flooring",
+      "chapter": "6 - Flooring",
+      "material": "kota_stone",
+      "unit": "m\u00b2",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "6.9",
+      "description": "Cement concrete flooring 25mm",
+      "chapter": "6 - Flooring",
+      "material": "concrete",
+      "unit": "m\u00b2",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "6.10",
+      "description": "IPS flooring 25mm",
+      "chapter": "6 - Flooring",
+      "material": "ips",
+      "unit": "m\u00b2",
+      "rate_inr": 350.0
+    },
+    {
+      "code": "6.11",
+      "description": "Mosaic flooring",
+      "chapter": "6 - Flooring",
+      "material": "mosaic",
+      "unit": "m\u00b2",
+      "rate_inr": 520.0
+    },
+    {
+      "code": "6.12",
+      "description": "Marble flooring Italian",
+      "chapter": "6 - Flooring",
+      "material": "marble",
+      "grade": "italian",
+      "unit": "m\u00b2",
+      "rate_inr": 2200.0
+    },
+    {
+      "code": "6.13",
+      "description": "Marble flooring Makrana",
+      "chapter": "6 - Flooring",
+      "material": "marble",
+      "grade": "makrana",
+      "unit": "m\u00b2",
+      "rate_inr": 1800.0
+    },
+    {
+      "code": "6.14",
+      "description": "Glazed tile 300x450mm dado",
+      "chapter": "6 - Flooring",
+      "material": "tile",
+      "grade": "glazed",
+      "unit": "m\u00b2",
+      "rate_inr": 550.0
+    },
+    {
+      "code": "6.15",
+      "description": "Granite staircase treads",
+      "chapter": "6 - Flooring",
+      "material": "granite",
+      "unit": "m",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "7.1",
+      "description": "Teak wood door frame",
+      "chapter": "7 - Woodwork",
+      "material": "wood",
+      "grade": "teak",
+      "unit": "m\u00b3",
+      "rate_inr": 85000.0
+    },
+    {
+      "code": "7.2",
+      "description": "Sal wood door frame",
+      "chapter": "7 - Woodwork",
+      "material": "wood",
+      "grade": "sal",
+      "unit": "m\u00b3",
+      "rate_inr": 65000.0
+    },
+    {
+      "code": "7.3",
+      "description": "Flush door 35mm solid core",
+      "chapter": "7 - Woodwork",
+      "material": "door",
+      "grade": "solid",
+      "unit": "m\u00b2",
+      "rate_inr": 1200.0
+    },
+    {
+      "code": "7.4",
+      "description": "Flush door 30mm hollow core",
+      "chapter": "7 - Woodwork",
+      "material": "door",
+      "grade": "hollow",
+      "unit": "m\u00b2",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "7.5",
+      "description": "Plywood door 30mm",
+      "chapter": "7 - Woodwork",
+      "material": "plywood",
+      "grade": "bwr",
+      "unit": "m\u00b2",
+      "rate_inr": 950.0
+    },
+    {
+      "code": "7.6",
+      "description": "Door shutter teak wood",
+      "chapter": "7 - Woodwork",
+      "material": "door",
+      "grade": "teak",
+      "unit": "m\u00b2",
+      "rate_inr": 1800.0
+    },
+    {
+      "code": "7.7",
+      "description": "Window frame teak wood",
+      "chapter": "7 - Woodwork",
+      "material": "wood",
+      "grade": "teak",
+      "unit": "m\u00b3",
+      "rate_inr": 80000.0
+    },
+    {
+      "code": "7.8",
+      "description": "Aluminum window",
+      "chapter": "7 - Woodwork",
+      "material": "aluminum",
+      "unit": "m\u00b2",
+      "rate_inr": 750.0
+    },
+    {
+      "code": "7.9",
+      "description": "PVC door frame",
+      "chapter": "7 - Woodwork",
+      "material": "pvc",
+      "unit": "m",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "7.10",
+      "description": "Particle board door",
+      "chapter": "7 - Woodwork",
+      "material": "particle_board",
+      "unit": "m\u00b2",
+      "rate_inr": 780.0
+    },
+    {
+      "code": "7.11",
+      "description": "Boring for woodwork",
+      "chapter": "7 - Woodwork",
+      "material": "hardware",
+      "unit": "nos",
+      "rate_inr": 150.0
+    },
+    {
+      "code": "7.12",
+      "description": "Wooden flooring deodar",
+      "chapter": "7 - Woodwork",
+      "material": "wood",
+      "grade": "deodar",
+      "unit": "m\u00b2",
+      "rate_inr": 1800.0
+    },
+    {
+      "code": "8.1",
+      "description": "MS door frame",
+      "chapter": "8 - Steel Work",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "8.2",
+      "description": "MS grill 10mm bars",
+      "chapter": "8 - Steel Work",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "8.3",
+      "description": "MS railing 20mm",
+      "chapter": "8 - Steel Work",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "8.4",
+      "description": "GI pipe railing 50mm",
+      "chapter": "8 - Steel Work",
+      "material": "gi_pipe",
+      "grade": "class_b",
+      "unit": "m",
+      "rate_inr": 380.0
+    },
+    {
+      "code": "8.5",
+      "description": "GI pipe railing 40mm",
+      "chapter": "8 - Steel Work",
+      "material": "gi_pipe",
+      "grade": "class_b",
+      "unit": "m",
+      "rate_inr": 320.0
+    },
+    {
+      "code": "8.6",
+      "description": "GI pipe railing 25mm",
+      "chapter": "8 - Steel Work",
+      "material": "gi_pipe",
+      "grade": "class_b",
+      "unit": "m",
+      "rate_inr": 240.0
+    },
+    {
+      "code": "8.7",
+      "description": "MS angle frame",
+      "chapter": "8 - Steel Work",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 88.0
+    },
+    {
+      "code": "8.8",
+      "description": "MS square bar 20mm",
+      "chapter": "8 - Steel Work",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 92.0
+    },
+    {
+      "code": "8.9",
+      "description": "Structural steel work",
+      "chapter": "8 - Steel Work",
+      "material": "structural_steel",
+      "unit": "kg",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "8.10",
+      "description": "Steel gate",
+      "chapter": "8 - Steel Work",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 110.0
+    },
+    {
+      "code": "9.1",
+      "description": "White wash 3 coats",
+      "chapter": "9 - Finishing",
+      "material": "paint",
+      "grade": "white",
+      "unit": "m\u00b2",
+      "rate_inr": 45.0
+    },
+    {
+      "code": "9.2",
+      "description": "Distemper 2 coats",
+      "chapter": "9 - Finishing",
+      "material": "paint",
+      "grade": "distemper",
+      "unit": "m\u00b2",
+      "rate_inr": 65.0
+    },
+    {
+      "code": "9.3",
+      "description": "Acrylic emulsion 2 coats",
+      "chapter": "9 - Finishing",
+      "material": "paint",
+      "grade": "acrylic",
+      "unit": "m\u00b2",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "9.4",
+      "description": "Texture paint",
+      "chapter": "9 - Finishing",
+      "material": "paint",
+      "grade": "texture",
+      "unit": "m\u00b2",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "9.5",
+      "description": "Enamel paint 2 coats",
+      "chapter": "9 - Finishing",
+      "material": "paint",
+      "grade": "enamel",
+      "unit": "m\u00b2",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "9.6",
+      "description": "Synthetic enamel paint",
+      "chapter": "9 - Finishing",
+      "material": "paint",
+      "grade": "synthetic",
+      "unit": "m\u00b2",
+      "rate_inr": 90.0
+    },
+    {
+      "code": "9.7",
+      "description": "Primer one coat on wood",
+      "chapter": "9 - Finishing",
+      "material": "primer",
+      "grade": "wood",
+      "unit": "m\u00b2",
+      "rate_inr": 40.0
+    },
+    {
+      "code": "9.8",
+      "description": "Primer one coat on metal",
+      "chapter": "9 - Finishing",
+      "material": "primer",
+      "grade": "metal",
+      "unit": "m\u00b2",
+      "rate_inr": 45.0
+    },
+    {
+      "code": "9.9",
+      "description": "Primer one coat on wall",
+      "chapter": "9 - Finishing",
+      "material": "primer",
+      "grade": "wall",
+      "unit": "m\u00b2",
+      "rate_inr": 35.0
+    },
+    {
+      "code": "9.10",
+      "description": "Putty 2 coats on wall",
+      "chapter": "9 - Finishing",
+      "material": "putty",
+      "unit": "m\u00b2",
+      "rate_inr": 55.0
+    },
+    {
+      "code": "9.11",
+      "description": "Wall care putty",
+      "chapter": "9 - Finishing",
+      "material": "putty",
+      "grade": "birla",
+      "unit": "m\u00b2",
+      "rate_inr": 75.0
+    },
+    {
+      "code": "9.12",
+      "description": "Weathering course CM 1:4",
+      "chapter": "9 - Finishing",
+      "material": "concrete",
+      "grade": "M15",
+      "unit": "m\u00b3",
+      "rate_inr": 4800.0
+    },
+    {
+      "code": "10.1",
+      "description": "GI pipe 50mm heavy class",
+      "chapter": "10 - Plumbing",
+      "material": "gi_pipe",
+      "grade": "heavy",
+      "unit": "m",
+      "rate_inr": 350.0
+    },
+    {
+      "code": "10.2",
+      "description": "GI pipe 40mm heavy class",
+      "chapter": "10 - Plumbing",
+      "material": "gi_pipe",
+      "grade": "heavy",
+      "unit": "m",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "10.3",
+      "description": "GI pipe 25mm heavy class",
+      "chapter": "10 - Plumbing",
+      "material": "gi_pipe",
+      "grade": "heavy",
+      "unit": "m",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "10.4",
+      "description": "GI pipe 20mm heavy class",
+      "chapter": "10 - Plumbing",
+      "material": "gi_pipe",
+      "grade": "heavy",
+      "unit": "m",
+      "rate_inr": 145.0
+    },
+    {
+      "code": "10.5",
+      "description": "GI pipe 15mm heavy class",
+      "chapter": "10 - Plumbing",
+      "material": "gi_pipe",
+      "grade": "heavy",
+      "unit": "m",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "10.6",
+      "description": "CPVC pipe 50mm",
+      "chapter": "10 - Plumbing",
+      "material": "cpvc",
+      "unit": "m",
+      "rate_inr": 220.0
+    },
+    {
+      "code": "10.7",
+      "description": "CPVC pipe 40mm",
+      "chapter": "10 - Plumbing",
+      "material": "cpvc",
+      "unit": "m",
+      "rate_inr": 175.0
+    },
+    {
+      "code": "10.8",
+      "description": "CPVC pipe 25mm",
+      "chapter": "10 - Plumbing",
+      "material": "cpvc",
+      "unit": "m",
+      "rate_inr": 110.0
+    },
+    {
+      "code": "10.9",
+      "description": "CPVC pipe 20mm",
+      "chapter": "10 - Plumbing",
+      "material": "cpvc",
+      "unit": "m",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "10.10",
+      "description": "PVC pipe 110mm SWR",
+      "chapter": "10 - Plumbing",
+      "material": "pvc",
+      "grade": "swr",
+      "unit": "m",
+      "rate_inr": 145.0
+    },
+    {
+      "code": "10.11",
+      "description": "PVC pipe 75mm SWR",
+      "chapter": "10 - Plumbing",
+      "material": "pvc",
+      "grade": "swr",
+      "unit": "m",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "10.12",
+      "description": "PVC pipe 50mm SWR",
+      "chapter": "10 - Plumbing",
+      "material": "pvc",
+      "grade": "swr",
+      "unit": "m",
+      "rate_inr": 65.0
+    },
+    {
+      "code": "10.13",
+      "description": "CI pipe 100mm",
+      "chapter": "10 - Plumbing",
+      "material": "ci_pipe",
+      "unit": "m",
+      "rate_inr": 580.0
+    },
+    {
+      "code": "10.14",
+      "description": "CI pipe 150mm",
+      "chapter": "10 - Plumbing",
+      "material": "ci_pipe",
+      "unit": "m",
+      "rate_inr": 820.0
+    },
+    {
+      "code": "10.15",
+      "description": "CI pipe 75mm",
+      "chapter": "10 - Plumbing",
+      "material": "ci_pipe",
+      "unit": "m",
+      "rate_inr": 420.0
+    },
+    {
+      "code": "10.16",
+      "description": "SWR fitting 110mm",
+      "chapter": "10 - Plumbing",
+      "material": "fitting",
+      "grade": "swr",
+      "unit": "nos",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "10.17",
+      "description": "Gunmetal valve 50mm",
+      "chapter": "10 - Plumbing",
+      "material": "valve",
+      "grade": "gunmetal",
+      "unit": "nos",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "10.18",
+      "description": "Ball valve 25mm brass",
+      "chapter": "10 - Plumbing",
+      "material": "valve",
+      "grade": "brass",
+      "unit": "nos",
+      "rate_inr": 320.0
+    },
+    {
+      "code": "10.19",
+      "description": "Flush valve 25mm",
+      "chapter": "10 - Plumbing",
+      "material": "valve",
+      "unit": "nos",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "10.20",
+      "description": "Water meter 25mm",
+      "chapter": "10 - Plumbing",
+      "material": "water_meter",
+      "unit": "nos",
+      "rate_inr": 1200.0
+    },
+    {
+      "code": "11.1",
+      "description": "GI wire 4mm",
+      "chapter": "11 - Electrical",
+      "material": "gi_wire",
+      "unit": "kg",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "11.2",
+      "description": "GI wire 3mm",
+      "chapter": "11 - Electrical",
+      "material": "gi_wire",
+      "unit": "kg",
+      "rate_inr": 130.0
+    },
+    {
+      "code": "11.3",
+      "description": "Copper wire 2.5sqmm",
+      "chapter": "11 - Electrical",
+      "material": "copper_wire",
+      "unit": "m",
+      "rate_inr": 45.0
+    },
+    {
+      "code": "11.4",
+      "description": "Copper wire 4sqmm",
+      "chapter": "11 - Electrical",
+      "material": "copper_wire",
+      "unit": "m",
+      "rate_inr": 65.0
+    },
+    {
+      "code": "11.5",
+      "description": "Copper wire 6sqmm",
+      "chapter": "11 - Electrical",
+      "material": "copper_wire",
+      "unit": "m",
+      "rate_inr": 90.0
+    },
+    {
+      "code": "11.6",
+      "description": "Copper wire 10sqmm",
+      "chapter": "11 - Electrical",
+      "material": "copper_wire",
+      "unit": "m",
+      "rate_inr": 150.0
+    },
+    {
+      "code": "11.7",
+      "description": "Aluminum wire 2.5sqmm",
+      "chapter": "11 - Electrical",
+      "material": "aluminum_wire",
+      "unit": "m",
+      "rate_inr": 18.0
+    },
+    {
+      "code": "11.8",
+      "description": "Aluminum wire 4sqmm",
+      "chapter": "11 - Electrical",
+      "material": "aluminum_wire",
+      "unit": "m",
+      "rate_inr": 28.0
+    },
+    {
+      "code": "11.9",
+      "description": "Aluminum wire 6sqmm",
+      "chapter": "11 - Electrical",
+      "material": "aluminum_wire",
+      "unit": "m",
+      "rate_inr": 40.0
+    },
+    {
+      "code": "11.10",
+      "description": "FR PVC cable 2.5sqmm",
+      "chapter": "11 - Electrical",
+      "material": "cable",
+      "grade": "fr",
+      "unit": "m",
+      "rate_inr": 55.0
+    },
+    {
+      "code": "11.11",
+      "description": "FR PVC cable 4sqmm",
+      "chapter": "11 - Electrical",
+      "material": "cable",
+      "grade": "fr",
+      "unit": "m",
+      "rate_inr": 80.0
+    },
+    {
+      "code": "11.12",
+      "description": "FR PVC cable 6sqmm",
+      "chapter": "11 - Electrical",
+      "material": "cable",
+      "grade": "fr",
+      "unit": "m",
+      "rate_inr": 110.0
+    },
+    {
+      "code": "11.13",
+      "description": "FR PVC cable 10sqmm",
+      "chapter": "11 - Electrical",
+      "material": "cable",
+      "grade": "fr",
+      "unit": "m",
+      "rate_inr": 175.0
+    },
+    {
+      "code": "11.14",
+      "description": "XLPE cable 4x4sqmm",
+      "chapter": "11 - Electrical",
+      "material": "cable",
+      "grade": "xlpe",
+      "unit": "m",
+      "rate_inr": 220.0
+    },
+    {
+      "code": "11.15",
+      "description": "XLPE cable 4x6sqmm",
+      "chapter": "11 - Electrical",
+      "material": "cable",
+      "grade": "xlpe",
+      "unit": "m",
+      "rate_inr": 300.0
+    },
+    {
+      "code": "11.16",
+      "description": "MS conduit 20mm",
+      "chapter": "11 - Electrical",
+      "material": "conduit",
+      "grade": "ms",
+      "unit": "m",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "11.17",
+      "description": "MS conduit 25mm",
+      "chapter": "11 - Electrical",
+      "material": "conduit",
+      "grade": "ms",
+      "unit": "m",
+      "rate_inr": 110.0
+    },
+    {
+      "code": "11.18",
+      "description": "GI conduit 20mm",
+      "chapter": "11 - Electrical",
+      "material": "gi_conduit",
+      "unit": "m",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "11.19",
+      "description": "GI conduit 25mm",
+      "chapter": "11 - Electrical",
+      "material": "gi_conduit",
+      "unit": "m",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "11.20",
+      "description": "PVC conduit 25mm",
+      "chapter": "11 - Electrical",
+      "material": "pvc_conduit",
+      "unit": "m",
+      "rate_inr": 45.0
+    },
+    {
+      "code": "11.21",
+      "description": "DB 4 way surface",
+      "chapter": "11 - Electrical",
+      "material": "db",
+      "unit": "nos",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "11.22",
+      "description": "DB 8 way surface",
+      "chapter": "11 - Electrical",
+      "material": "db",
+      "unit": "nos",
+      "rate_inr": 420.0
+    },
+    {
+      "code": "11.23",
+      "description": "DB 12 way surface",
+      "chapter": "11 - Electrical",
+      "material": "db",
+      "unit": "nos",
+      "rate_inr": 550.0
+    },
+    {
+      "code": "11.24",
+      "description": "MCB 16A single pole",
+      "chapter": "11 - Electrical",
+      "material": "mcb",
+      "unit": "nos",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "11.25",
+      "description": "MCB 32A single pole",
+      "chapter": "11 - Electrical",
+      "material": "mcb",
+      "unit": "nos",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "11.26",
+      "description": "RCCB 40A 30mA",
+      "chapter": "11 - Electrical",
+      "material": "rccb",
+      "unit": "nos",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "11.27",
+      "description": "Ceiling fan 1200mm",
+      "chapter": "11 - Electrical",
+      "material": "fan",
+      "grade": "ceiling",
+      "unit": "nos",
+      "rate_inr": 950.0
+    },
+    {
+      "code": "11.28",
+      "description": "Exhaust fan 250mm",
+      "chapter": "11 - Electrical",
+      "material": "fan",
+      "grade": "exhaust",
+      "unit": "nos",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "11.29",
+      "description": "LED bulb 9W",
+      "chapter": "11 - Electrical",
+      "material": "led",
+      "unit": "nos",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "11.30",
+      "description": "LED panel 18W",
+      "chapter": "11 - Electrical",
+      "material": "led",
+      "unit": "nos",
+      "rate_inr": 350.0
+    },
+    {
+      "code": "11.31",
+      "description": "Geyser 15L storage",
+      "chapter": "11 - Electrical",
+      "material": "geyser",
+      "unit": "nos",
+      "rate_inr": 5500.0
+    },
+    {
+      "code": "11.32",
+      "description": "Water heater 25L",
+      "chapter": "11 - Electrical",
+      "material": "geyser",
+      "unit": "nos",
+      "rate_inr": 6500.0
+    },
+    {
+      "code": "12.1",
+      "description": "Brickwork in roads M15",
+      "chapter": "12 - Road Work",
+      "material": "brick",
+      "grade": "first",
+      "unit": "m\u00b3",
+      "rate_inr": 4800.0
+    },
+    {
+      "code": "12.2",
+      "description": "Brickwork in roads M20",
+      "chapter": "12 - Road Work",
+      "material": "brick",
+      "grade": "first",
+      "unit": "m\u00b3",
+      "rate_inr": 5200.0
+    },
+    {
+      "code": "12.3",
+      "description": "WBM 75mm with crusher run",
+      "chapter": "12 - Road Work",
+      "material": "wbm",
+      "unit": "m\u00b2",
+      "rate_inr": 185.0
+    },
+    {
+      "code": "12.4",
+      "description": "WBM 100mm with crusher run",
+      "chapter": "12 - Road Work",
+      "material": "wbm",
+      "unit": "m\u00b2",
+      "rate_inr": 220.0
+    },
+    {
+      "code": "12.5",
+      "description": "GSB 150mm",
+      "chapter": "12 - Road Work",
+      "material": "gsb",
+      "unit": "m\u00b2",
+      "rate_inr": 245.0
+    },
+    {
+      "code": "12.6",
+      "description": "BM 40mm with hot mix",
+      "chapter": "12 - Road Work",
+      "material": "bm",
+      "unit": "m\u00b2",
+      "rate_inr": 175.0
+    },
+    {
+      "code": "12.7",
+      "description": "BC 30mm with hot mix",
+      "chapter": "12 - Road Work",
+      "material": "bc",
+      "unit": "m\u00b2",
+      "rate_inr": 195.0
+    },
+    {
+      "code": "12.8",
+      "description": "SDBC 25mm with hot mix",
+      "chapter": "12 - Road Work",
+      "material": "sdbc",
+      "unit": "m\u00b2",
+      "rate_inr": 210.0
+    },
+    {
+      "code": "12.9",
+      "description": "Tack coat for BM",
+      "chapter": "12 - Road Work",
+      "material": "tack_coat",
+      "unit": "m\u00b2",
+      "rate_inr": 22.0
+    },
+    {
+      "code": "12.10",
+      "description": "Prime coat for GSB",
+      "chapter": "12 - Road Work",
+      "material": "prime_coat",
+      "unit": "m\u00b2",
+      "rate_inr": 28.0
+    },
+    {
+      "code": "12.11",
+      "description": "Cement concrete pavement M40",
+      "chapter": "12 - Road Work",
+      "material": "concrete",
+      "grade": "M40",
+      "unit": "m\u00b3",
+      "rate_inr": 7200.0
+    },
+    {
+      "code": "12.12",
+      "description": "Cement concrete kerb",
+      "chapter": "12 - Road Work",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "12.13",
+      "description": "Crash barrier",
+      "chapter": "12 - Road Work",
+      "material": "crash_barrier",
+      "unit": "m",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "12.14",
+      "description": "Median 600mm",
+      "chapter": "12 - Road Work",
+      "material": "median",
+      "unit": "m",
+      "rate_inr": 320.0
+    },
+    {
+      "code": "13.1",
+      "description": "Cement 50kg bag OPC",
+      "chapter": "13 - Materials",
+      "material": "cement",
+      "grade": "OPC",
+      "unit": "bag",
+      "rate_inr": 350.0
+    },
+    {
+      "code": "13.2",
+      "description": "Cement 50kg bag PPC",
+      "chapter": "13 - Materials",
+      "material": "cement",
+      "grade": "PPC",
+      "unit": "bag",
+      "rate_inr": 340.0
+    },
+    {
+      "code": "13.3",
+      "description": "Cement 50kg bag PSC",
+      "chapter": "13 - Materials",
+      "material": "cement",
+      "grade": "PSC",
+      "unit": "bag",
+      "rate_inr": 345.0
+    },
+    {
+      "code": "13.4",
+      "description": "Sand river fine",
+      "chapter": "13 - Materials",
+      "material": "sand",
+      "grade": "river",
+      "unit": "m\u00b3",
+      "rate_inr": 1150.0
+    },
+    {
+      "code": "13.5",
+      "description": "Sand crushed",
+      "chapter": "13 - Materials",
+      "material": "sand",
+      "grade": "crushed",
+      "unit": "m\u00b3",
+      "rate_inr": 950.0
+    },
+    {
+      "code": "13.6",
+      "description": "Aggregate 10mm",
+      "chapter": "13 - Materials",
+      "material": "aggregate",
+      "grade": "10mm",
+      "unit": "m\u00b3",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "13.7",
+      "description": "Aggregate 20mm",
+      "chapter": "13 - Materials",
+      "material": "aggregate",
+      "grade": "20mm",
+      "unit": "m\u00b3",
+      "rate_inr": 780.0
+    },
+    {
+      "code": "13.8",
+      "description": "Aggregate 40mm",
+      "chapter": "13 - Materials",
+      "material": "aggregate",
+      "grade": "40mm",
+      "unit": "m\u00b3",
+      "rate_inr": 720.0
+    },
+    {
+      "code": "13.9",
+      "description": "Brick first class",
+      "chapter": "13 - Materials",
+      "material": "brick",
+      "grade": "first",
+      "unit": "nos",
+      "rate_inr": 8.5
+    },
+    {
+      "code": "13.10",
+      "description": "Brick second class",
+      "chapter": "13 - Materials",
+      "material": "brick",
+      "grade": "second",
+      "unit": "nos",
+      "rate_inr": 6.5
+    },
+    {
+      "code": "13.11",
+      "description": "AAC block 200mm",
+      "chapter": "13 - Materials",
+      "material": "aac_block",
+      "grade": "200mm",
+      "unit": "nos",
+      "rate_inr": 65.0
+    },
+    {
+      "code": "13.12",
+      "description": "AAC block 150mm",
+      "chapter": "13 - Materials",
+      "material": "aac_block",
+      "grade": "150mm",
+      "unit": "nos",
+      "rate_inr": 50.0
+    },
+    {
+      "code": "13.13",
+      "description": "Fly ash brick",
+      "chapter": "13 - Materials",
+      "material": "brick",
+      "grade": "flyash",
+      "unit": "nos",
+      "rate_inr": 5.5
+    },
+    {
+      "code": "13.14",
+      "description": "Waterproofing compound",
+      "chapter": "13 - Materials",
+      "material": "waterproofing",
+      "unit": "kg",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "13.15",
+      "description": "Tile adhesive 25kg",
+      "chapter": "13 - Materials",
+      "material": "adhesive",
+      "grade": "tile",
+      "unit": "bag",
+      "rate_inr": 320.0
+    },
+    {
+      "code": "13.16",
+      "description": "Grout compound 25kg",
+      "chapter": "13 - Materials",
+      "material": "grout",
+      "unit": "bag",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "14.1",
+      "description": "Door lock Godrej",
+      "chapter": "14 - Hardware",
+      "material": "lock",
+      "grade": "godrej",
+      "unit": "nos",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "14.2",
+      "description": "Door closer",
+      "chapter": "14 - Hardware",
+      "material": "door_closer",
+      "unit": "nos",
+      "rate_inr": 550.0
+    },
+    {
+      "code": "14.3",
+      "description": "Handle 100mm SS",
+      "chapter": "14 - Hardware",
+      "material": "handle",
+      "grade": "ss",
+      "unit": "nos",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "14.4",
+      "description": "Hinges 100mm brass",
+      "chapter": "14 - Hardware",
+      "material": "hinge",
+      "grade": "brass",
+      "unit": "nos",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "14.5",
+      "description": "Tower bolt 150mm brass",
+      "chapter": "14 - Hardware",
+      "material": "tower_bolt",
+      "grade": "brass",
+      "unit": "nos",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "14.6",
+      "description": "Mortise lock",
+      "chapter": "14 - Hardware",
+      "material": "lock",
+      "grade": "mortise",
+      "unit": "nos",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "14.7",
+      "description": "Patch fitting for glass door",
+      "chapter": "14 - Hardware",
+      "material": "patch_fitting",
+      "unit": "set",
+      "rate_inr": 1200.0
+    },
+    {
+      "code": "14.8",
+      "description": "Floor spring",
+      "chapter": "14 - Hardware",
+      "material": "floor_spring",
+      "unit": "nos",
+      "rate_inr": 750.0
+    },
+    {
+      "code": "14.9",
+      "description": "Door viewer",
+      "chapter": "14 - Hardware",
+      "material": "door_viewer",
+      "unit": "nos",
+      "rate_inr": 150.0
+    },
+    {
+      "code": "14.10",
+      "description": "Aldrop 300mm",
+      "chapter": "14 - Hardware",
+      "material": "aldrop",
+      "unit": "nos",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "15.1",
+      "description": "JCB excavation",
+      "chapter": "15 - Machinery",
+      "material": "earthwork",
+      "unit": "m\u00b3",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "15.2",
+      "description": "Hydra excavation",
+      "chapter": "15 - Machinery",
+      "material": "earthwork",
+      "unit": "m\u00b3",
+      "rate_inr": 220.0
+    },
+    {
+      "code": "15.3",
+      "description": "Concrete mixer 10/7",
+      "chapter": "15 - Machinery",
+      "material": "concrete",
+      "unit": "hr",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "15.4",
+      "description": "Hoist 1ton",
+      "chapter": "15 - Machinery",
+      "material": "hoist",
+      "unit": "hr",
+      "rate_inr": 420.0
+    },
+    {
+      "code": "15.5",
+      "description": "Pump 5hp",
+      "chapter": "15 - Machinery",
+      "material": "pump",
+      "unit": "hr",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "15.6",
+      "description": "Vibrator needle",
+      "chapter": "15 - Machinery",
+      "material": "vibrator",
+      "unit": "hr",
+      "rate_inr": 150.0
+    },
+    {
+      "code": "15.7",
+      "description": "Plate compactor",
+      "chapter": "15 - Machinery",
+      "material": "compactor",
+      "unit": "hr",
+      "rate_inr": 520.0
+    },
+    {
+      "code": "15.8",
+      "description": "Power roller 8ton",
+      "chapter": "15 - Machinery",
+      "material": "roller",
+      "unit": "hr",
+      "rate_inr": 1200.0
+    },
+    {
+      "code": "15.9",
+      "description": "Bitumen sprayer",
+      "chapter": "15 - Machinery",
+      "material": "sprayer",
+      "unit": "hr",
+      "rate_inr": 800.0
+    },
+    {
+      "code": "15.10",
+      "description": "Hot mix plant",
+      "chapter": "15 - Machinery",
+      "material": "hmp",
+      "unit": "hr",
+      "rate_inr": 3500.0
+    },
+    {
+      "code": "16.1",
+      "description": "Painting steel window",
+      "chapter": "16 - Painting",
+      "material": "paint",
+      "unit": "m\u00b2",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "16.2",
+      "description": "Painting wood door",
+      "chapter": "16 - Painting",
+      "material": "paint",
+      "unit": "m\u00b2",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "16.3",
+      "description": "Varnishing wood",
+      "chapter": "16 - Painting",
+      "material": "varnish",
+      "unit": "m\u00b2",
+      "rate_inr": 75.0
+    },
+    {
+      "code": "16.4",
+      "description": "Polishing wood French",
+      "chapter": "16 - Painting",
+      "material": "polish",
+      "grade": "french",
+      "unit": "m\u00b2",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "16.5",
+      "description": "Melamine polish",
+      "chapter": "16 - Painting",
+      "material": "polish",
+      "grade": "melamine",
+      "unit": "m\u00b2",
+      "rate_inr": 140.0
+    },
+    {
+      "code": "16.6",
+      "description": "PU coating wood",
+      "chapter": "16 - Painting",
+      "material": "pu_coating",
+      "unit": "m\u00b2",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "16.7",
+      "description": "Chipping old paint",
+      "chapter": "16 - Painting",
+      "material": "surface_prep",
+      "unit": "m\u00b2",
+      "rate_inr": 25.0
+    },
+    {
+      "code": "16.8",
+      "description": "RAP\u5899\u4e0a\u6d82\u5c42 removal",
+      "chapter": "16 - Painting",
+      "material": "putty",
+      "unit": "m\u00b2",
+      "rate_inr": 35.0
+    },
+    {
+      "code": "17.1",
+      "description": "RCC beam M25 in superstructure",
+      "chapter": "17 - RCC Superstructure",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6200.0
+    },
+    {
+      "code": "17.2",
+      "description": "RCC column M25 in superstructure",
+      "chapter": "17 - RCC Superstructure",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6400.0
+    },
+    {
+      "code": "17.3",
+      "description": "RCC slab M25 in superstructure",
+      "chapter": "17 - RCC Superstructure",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6000.0
+    },
+    {
+      "code": "17.4",
+      "description": "RCC beam M30 in superstructure",
+      "chapter": "17 - RCC Superstructure",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 6500.0
+    },
+    {
+      "code": "17.5",
+      "description": "RCC column M30 in superstructure",
+      "chapter": "17 - RCC Superstructure",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 6700.0
+    },
+    {
+      "code": "17.6",
+      "description": "RCC flat slab M30",
+      "chapter": "17 - RCC Superstructure",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 7000.0
+    },
+    {
+      "code": "17.7",
+      "description": "RCC staircase M25",
+      "chapter": "17 - RCC Superstructure",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6800.0
+    },
+    {
+      "code": "17.8",
+      "description": "RCC lift pit M30",
+      "chapter": "17 - RCC Superstructure",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 7200.0
+    },
+    {
+      "code": "17.9",
+      "description": "Waterproofing basement",
+      "chapter": "17 - RCC Superstructure",
+      "material": "waterproofing",
+      "unit": "m\u00b2",
+      "rate_inr": 380.0
+    },
+    {
+      "code": "17.10",
+      "description": "Damp proofing basement",
+      "chapter": "17 - RCC Superstructure",
+      "material": "damp_proofing",
+      "unit": "m\u00b2",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "18.1",
+      "description": "Centering and shuttering",
+      "chapter": "18 - Formwork",
+      "material": "formwork",
+      "unit": "m\u00b2",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "18.2",
+      "description": "Shuttering for column",
+      "chapter": "18 - Formwork",
+      "material": "formwork",
+      "unit": "m\u00b2",
+      "rate_inr": 220.0
+    },
+    {
+      "code": "18.3",
+      "description": "Shuttering for slab",
+      "chapter": "18 - Formwork",
+      "material": "formwork",
+      "unit": "m\u00b2",
+      "rate_inr": 200.0
+    },
+    {
+      "code": "18.4",
+      "description": "Shuttering for beam",
+      "chapter": "18 - Formwork",
+      "material": "formwork",
+      "unit": "m\u00b2",
+      "rate_inr": 210.0
+    },
+    {
+      "code": "18.5",
+      "description": "Staging for slab 3.5m",
+      "chapter": "18 - Formwork",
+      "material": "staging",
+      "unit": "m\u00b2",
+      "rate_inr": 250.0
+    },
+    {
+      "code": "18.6",
+      "description": "Balli scaffolding",
+      "chapter": "18 - Formwork",
+      "material": "scaffolding",
+      "unit": "m\u00b2",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "18.7",
+      "description": "Cup lock system",
+      "chapter": "18 - Formwork",
+      "material": "scaffolding",
+      "unit": "m\u00b2",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "18.8",
+      "description": "Wooden balli 100mm",
+      "chapter": "18 - Formwork",
+      "material": "balli",
+      "unit": "m",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "18.9",
+      "description": "Plank 50mm",
+      "chapter": "18 - Formwork",
+      "material": "plank",
+      "unit": "m\u00b3",
+      "rate_inr": 15000.0
+    },
+    {
+      "code": "18.10",
+      "description": "Bamboo 75mm",
+      "chapter": "18 - Formwork",
+      "material": "bamboo",
+      "unit": "m",
+      "rate_inr": 45.0
+    },
+    {
+      "code": "19.1",
+      "description": "Road marking paint",
+      "chapter": "19 - Misc",
+      "material": "paint",
+      "grade": "road_marking",
+      "unit": "m\u00b2",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "19.2",
+      "description": "Cat eye road stud",
+      "chapter": "19 - Misc",
+      "material": "road_stud",
+      "unit": "nos",
+      "rate_inr": 150.0
+    },
+    {
+      "code": "19.3",
+      "description": "Guard rail 3mm",
+      "chapter": "19 - Misc",
+      "material": "guard_rail",
+      "unit": "m",
+      "rate_inr": 520.0
+    },
+    {
+      "code": "19.4",
+      "description": "HDPE pipe 100mm",
+      "chapter": "19 - Misc",
+      "material": "hdpe_pipe",
+      "unit": "m",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "19.5",
+      "description": "HDPE pipe 150mm",
+      "chapter": "19 - Misc",
+      "material": "hdpe_pipe",
+      "unit": "m",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "19.6",
+      "description": "DWC pipe 50mm",
+      "chapter": "19 - Misc",
+      "material": "dwc_pipe",
+      "unit": "m",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "19.7",
+      "description": "Sump 50kl M30",
+      "chapter": "19 - Misc",
+      "material": "sump",
+      "grade": "M30",
+      "unit": "nos",
+      "rate_inr": 85000.0
+    },
+    {
+      "code": "19.8",
+      "description": "Septic tank 50user",
+      "chapter": "19 - Misc",
+      "material": "septic_tank",
+      "unit": "nos",
+      "rate_inr": 65000.0
+    },
+    {
+      "code": "19.9",
+      "description": "RCC platform 75mm",
+      "chapter": "19 - Misc",
+      "material": "platform",
+      "unit": "m\u00b3",
+      "rate_inr": 4800.0
+    },
+    {
+      "code": "19.10",
+      "description": "Fire extinguisher 5kg",
+      "chapter": "19 - Misc",
+      "material": "fire_extinguisher",
+      "unit": "nos",
+      "rate_inr": 1200.0
+    },
+    {
+      "code": "20.1",
+      "description": "M20 concrete in well foundation",
+      "chapter": "20 - Special",
+      "material": "concrete",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5800.0
+    },
+    {
+      "code": "20.2",
+      "description": "M25 concrete in well foundation",
+      "chapter": "20 - Special",
+      "material": "concrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6200.0
+    },
+    {
+      "code": "20.3",
+      "description": "Brickwork in well M15",
+      "chapter": "20 - Special",
+      "material": "brick",
+      "grade": "M15",
+      "unit": "m\u00b3",
+      "rate_inr": 5200.0
+    },
+    {
+      "code": "20.4",
+      "description": "Caisson sinking",
+      "chapter": "20 - Special",
+      "material": "caisson",
+      "unit": "m",
+      "rate_inr": 3500.0
+    },
+    {
+      "code": "20.5",
+      "description": "pile cap M30",
+      "chapter": "20 - Special",
+      "material": "pile_cap",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 6800.0
+    },
+    {
+      "code": "20.6",
+      "description": "RCC pile 500mm dia",
+      "chapter": "20 - Special",
+      "material": "pile",
+      "grade": "M30",
+      "unit": "m",
+      "rate_inr": 2800.0
+    },
+    {
+      "code": "20.7",
+      "description": "RCC pile 600mm dia",
+      "chapter": "20 - Special",
+      "material": "pile",
+      "grade": "M30",
+      "unit": "m",
+      "rate_inr": 3200.0
+    },
+    {
+      "code": "20.8",
+      "description": "Bored pile 1000mm dia",
+      "chapter": "20 - Special",
+      "material": "bored_pile",
+      "unit": "m",
+      "rate_inr": 4500.0
+    },
+    {
+      "code": "20.9",
+      "description": "Pile reinforcement Fe500",
+      "chapter": "20 - Special",
+      "material": "steel",
+      "grade": "Fe500",
+      "unit": "kg",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "20.10",
+      "description": "Tunnel lining M30",
+      "chapter": "20 - Special",
+      "material": "concrete",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 7500.0
+    },
+    {
+      "code": "21.1",
+      "description": "Dismantling brickwork",
+      "chapter": "21 - Demolition",
+      "material": "brick",
+      "unit": "m\u00b3",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "21.2",
+      "description": "Dismantling concrete",
+      "chapter": "21 - Demolition",
+      "material": "concrete",
+      "unit": "m\u00b3",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "21.3",
+      "description": "Dismantling steelwork",
+      "chapter": "21 - Demolition",
+      "material": "steel",
+      "unit": "kg",
+      "rate_inr": 8.0
+    },
+    {
+      "code": "21.4",
+      "description": "Clearing debris",
+      "chapter": "21 - Demolition",
+      "material": "debris",
+      "unit": "m\u00b3",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "21.5",
+      "description": "Carting earth",
+      "chapter": "21 - Demolition",
+      "material": "earth",
+      "unit": "m\u00b3",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "21.6",
+      "description": "Sorting salvaged material",
+      "chapter": "21 - Demolition",
+      "material": "material",
+      "unit": "m\u00b3",
+      "rate_inr": 250.0
+    },
+    {
+      "code": "22.1",
+      "description": "Turfing with grass",
+      "chapter": "22 - Horticulture",
+      "material": "turf",
+      "unit": "m\u00b2",
+      "rate_inr": 85.0
+    },
+    {
+      "code": "22.2",
+      "description": "Tree planting 3m height",
+      "chapter": "22 - Horticulture",
+      "material": "tree",
+      "unit": "nos",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "22.3",
+      "description": "Shrub planting",
+      "chapter": "22 - Horticulture",
+      "material": "shrub",
+      "unit": "nos",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "22.4",
+      "description": "Garden irrigation",
+      "chapter": "22 - Horticulture",
+      "material": "irrigation",
+      "unit": "m\u00b2",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "22.5",
+      "description": "Top soil 150mm",
+      "chapter": "22 - Horticulture",
+      "material": "topsoil",
+      "unit": "m\u00b3",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "23.1",
+      "description": "Fencing with chain link",
+      "chapter": "23 - Fencing",
+      "material": "fencing",
+      "grade": "chain_link",
+      "unit": "m",
+      "rate_inr": 320.0
+    },
+    {
+      "code": "23.2",
+      "description": "Barbed wire fencing",
+      "chapter": "23 - Fencing",
+      "material": "fencing",
+      "grade": "barbed_wire",
+      "unit": "m",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "23.3",
+      "description": "RCC post for fencing",
+      "chapter": "23 - Fencing",
+      "material": "post",
+      "grade": "rcc",
+      "unit": "nos",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "23.4",
+      "description": "MS gate",
+      "chapter": "23 - Fencing",
+      "material": "gate",
+      "grade": "ms",
+      "unit": "m\u00b2",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "24.1",
+      "description": "Rainwater pipe 100mm PVC",
+      "chapter": "24 - Drainage",
+      "material": "rainwater_pipe",
+      "grade": "pvc",
+      "unit": "m",
+      "rate_inr": 95.0
+    },
+    {
+      "code": "24.2",
+      "description": "Rainwater pipe 150mm PVC",
+      "chapter": "24 - Drainage",
+      "material": "rainwater_pipe",
+      "grade": "pvc",
+      "unit": "m",
+      "rate_inr": 135.0
+    },
+    {
+      "code": "24.3",
+      "description": "Open drain CC M15",
+      "chapter": "24 - Drainage",
+      "material": "drain",
+      "grade": "M15",
+      "unit": "m",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "24.4",
+      "description": "Sewer pipe 150mm NP4",
+      "chapter": "24 - Drainage",
+      "material": "sewer_pipe",
+      "grade": "np4",
+      "unit": "m",
+      "rate_inr": 420.0
+    },
+    {
+      "code": "24.5",
+      "description": "Sewer pipe 300mm NP4",
+      "chapter": "24 - Drainage",
+      "material": "sewer_pipe",
+      "grade": "np4",
+      "unit": "m",
+      "rate_inr": 780.0
+    },
+    {
+      "code": "24.6",
+      "description": "Soak pit",
+      "chapter": "24 - Drainage",
+      "material": "soak_pit",
+      "unit": "nos",
+      "rate_inr": 3500.0
+    },
+    {
+      "code": "24.7",
+      "description": "Manhole 0.6x0.6m",
+      "chapter": "24 - Drainage",
+      "material": "manhole",
+      "unit": "nos",
+      "rate_inr": 4500.0
+    },
+    {
+      "code": "24.8",
+      "description": "Inspection chamber",
+      "chapter": "24 - Drainage",
+      "material": "ic",
+      "unit": "nos",
+      "rate_inr": 2800.0
+    },
+    {
+      "code": "25.1",
+      "description": "Sign board 600x450mm",
+      "chapter": "25 - Misc",
+      "material": "sign_board",
+      "unit": "nos",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "25.2",
+      "description": "Mile stone",
+      "chapter": "25 - Misc",
+      "material": "milestone",
+      "unit": "nos",
+      "rate_inr": 1200.0
+    },
+    {
+      "code": "25.3",
+      "description": "Barricade",
+      "chapter": "25 - Misc",
+      "material": "barricade",
+      "unit": "m",
+      "rate_inr": 120.0
+    },
+    {
+      "code": "25.4",
+      "description": "Safety cone",
+      "chapter": "25 - Misc",
+      "material": "safety_cone",
+      "unit": "nos",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "25.5",
+      "description": "Direction board",
+      "chapter": "25 - Misc",
+      "material": "direction_board",
+      "unit": "nos",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "26.1",
+      "description": "Asbestos sheet roofing",
+      "chapter": "26 - Roofing",
+      "material": "asbestos_sheet",
+      "unit": "m\u00b2",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "26.2",
+      "description": "GI sheet roofing",
+      "chapter": "26 - Roofing",
+      "material": "gi_sheet",
+      "unit": "m\u00b2",
+      "rate_inr": 420.0
+    },
+    {
+      "code": "26.3",
+      "description": "Tile roofing Mangalore",
+      "chapter": "26 - Roofing",
+      "material": "tile",
+      "grade": "mangalore",
+      "unit": "m\u00b2",
+      "rate_inr": 350.0
+    },
+    {
+      "code": "26.4",
+      "description": "AC sheet roofing",
+      "chapter": "26 - Roofing",
+      "material": "ac_sheet",
+      "unit": "m\u00b2",
+      "rate_inr": 480.0
+    },
+    {
+      "code": "26.5",
+      "description": "Polycarbonate sheet",
+      "chapter": "26 - Roofing",
+      "material": "polycarbonate",
+      "unit": "m\u00b2",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "26.6",
+      "description": "RCC roof 125mm M20",
+      "chapter": "26 - Roofing",
+      "material": "roof",
+      "grade": "M20",
+      "unit": "m\u00b2",
+      "rate_inr": 780.0
+    },
+    {
+      "code": "26.7",
+      "description": "RCC roof 150mm M20",
+      "chapter": "26 - Roofing",
+      "material": "roof",
+      "grade": "M20",
+      "unit": "m\u00b2",
+      "rate_inr": 920.0
+    },
+    {
+      "code": "26.8",
+      "description": "Flat roof waterproofing",
+      "chapter": "26 - Roofing",
+      "material": "waterproofing",
+      "unit": "m\u00b2",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "27.1",
+      "description": "Brickbat coba waterproofing",
+      "chapter": "27 - Waterproofing",
+      "material": "waterproofing",
+      "unit": "m\u00b2",
+      "rate_inr": 320.0
+    },
+    {
+      "code": "27.2",
+      "description": "Epoxy grouting",
+      "chapter": "27 - Waterproofing",
+      "material": "epoxy",
+      "unit": "kg",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "27.3",
+      "description": "Injection grouting",
+      "chapter": "27 - Waterproofing",
+      "material": "grouting",
+      "unit": "kg",
+      "rate_inr": 380.0
+    },
+    {
+      "code": "27.4",
+      "description": "Polyurethane coating",
+      "chapter": "27 - Waterproofing",
+      "material": "polyurethane",
+      "unit": "m\u00b2",
+      "rate_inr": 550.0
+    },
+    {
+      "code": "27.5",
+      "description": "brickbat waterproofing",
+      "chapter": "27 - Waterproofing",
+      "material": "bat",
+      "unit": "m\u00b2",
+      "rate_inr": 350.0
+    },
+    {
+      "code": "28.1",
+      "description": "False ceiling gypsum",
+      "chapter": "28 - False Ceiling",
+      "material": "gypsum",
+      "unit": "m\u00b2",
+      "rate_inr": 280.0
+    },
+    {
+      "code": "28.2",
+      "description": "False ceiling grid",
+      "chapter": "28 - False Ceiling",
+      "material": "grid",
+      "unit": "m\u00b2",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "28.3",
+      "description": "Gypsum board 12mm",
+      "chapter": "28 - False Ceiling",
+      "material": "gypsum_board",
+      "unit": "m\u00b2",
+      "rate_inr": 250.0
+    },
+    {
+      "code": "28.4",
+      "description": "Calcium silicate board",
+      "chapter": "28 - False Ceiling",
+      "material": "cs_board",
+      "unit": "m\u00b2",
+      "rate_inr": 320.0
+    },
+    {
+      "code": "28.5",
+      "description": "Acoustic tile ceiling",
+      "chapter": "28 - False Ceiling",
+      "material": "acoustic_tile",
+      "unit": "m\u00b2",
+      "rate_inr": 450.0
+    },
+    {
+      "code": "29.1",
+      "description": "Partitions 75mm gypsum",
+      "chapter": "29 - Partition",
+      "material": "partition",
+      "grade": "gypsum",
+      "unit": "m\u00b2",
+      "rate_inr": 650.0
+    },
+    {
+      "code": "29.2",
+      "description": "Partitions 100mm glass",
+      "chapter": "29 - Partition",
+      "material": "partition",
+      "grade": "glass",
+      "unit": "m\u00b2",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "29.3",
+      "description": "ACP cladding",
+      "chapter": "29 - Partition",
+      "material": "acp",
+      "unit": "m\u00b2",
+      "rate_inr": 1200.0
+    },
+    {
+      "code": "29.4",
+      "description": "Aluminum partitions",
+      "chapter": "29 - Partition",
+      "material": "partition",
+      "grade": "aluminum",
+      "unit": "m\u00b2",
+      "rate_inr": 1100.0
+    },
+    {
+      "code": "29.5",
+      "description": "Toughened glass partition",
+      "chapter": "29 - Partition",
+      "material": "glass",
+      "grade": "toughened",
+      "unit": "m\u00b2",
+      "rate_inr": 1500.0
+    },
+    {
+      "code": "30.1",
+      "description": "Expansion joint treatment",
+      "chapter": "30 - Specialist",
+      "material": "expansion_joint",
+      "unit": "m",
+      "rate_inr": 850.0
+    },
+    {
+      "code": "30.2",
+      "description": "Fireproofing steel structure",
+      "chapter": "30 - Specialist",
+      "material": "fireproofing",
+      "unit": "m\u00b2",
+      "rate_inr": 480.0
+    },
+    {
+      "code": "30.3",
+      "description": "Corrosion protection",
+      "chapter": "30 - Specialist",
+      "material": "corrosion_protection",
+      "unit": "m\u00b2",
+      "rate_inr": 350.0
+    },
+    {
+      "code": "30.4",
+      "description": "Tower painting",
+      "chapter": "30 - Specialist",
+      "material": "painting",
+      "unit": "m\u00b2",
+      "rate_inr": 180.0
+    },
+    {
+      "code": "30.5",
+      "description": "Chimney painting",
+      "chapter": "30 - Specialist",
+      "material": "painting",
+      "unit": "m\u00b2",
+      "rate_inr": 220.0
+    },
+    {
+      "code": "2.21",
+      "description": "Plain cement concrete 1:3:6 in plinth",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M15",
+      "unit": "m\u00b3",
+      "rate_inr": 4600
+    },
+    {
+      "code": "2.22",
+      "description": "Plain cement concrete 1:4:8 in plinth",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M10",
+      "unit": "m\u00b3",
+      "rate_inr": 4300
+    },
+    {
+      "code": "2.23",
+      "description": "RCC M40 in foundation",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M40",
+      "unit": "m\u00b3",
+      "rate_inr": 6800
+    },
+    {
+      "code": "2.24",
+      "description": "RCC M35 in foundation",
+      "chapter": "2 - Concrete",
+      "material": "concrete",
+      "grade": "M35",
+      "unit": "m\u00b3",
+      "rate_inr": 6500
+    },
+    {
+      "code": "2.25",
+      "description": "Shotcrete M25",
+      "chapter": "2 - Concrete",
+      "material": "shotcrete",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 7500
+    },
+    {
+      "code": "4.15",
+      "description": "MS flat 40x6mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 88
+    },
+    {
+      "code": "4.16",
+      "description": "MS flat 50x6mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 90
+    },
+    {
+      "code": "4.17",
+      "description": "MS round 12mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 86
+    },
+    {
+      "code": "4.18",
+      "description": "MS round 16mm",
+      "chapter": "4 - Reinforcement",
+      "material": "steel",
+      "grade": "ms",
+      "unit": "kg",
+      "rate_inr": 84
+    },
+    {
+      "code": "4.19",
+      "description": "GI chainlink fencing",
+      "chapter": "4 - Reinforcement",
+      "material": "gi_chainlink",
+      "unit": "m\u00b2",
+      "rate_inr": 180
+    },
+    {
+      "code": "5.19",
+      "description": "CM 1:3 for masonry",
+      "chapter": "5 - Brickwork",
+      "material": "mortar",
+      "grade": "1:3",
+      "unit": "m\u00b3",
+      "rate_inr": 4500
+    },
+    {
+      "code": "5.20",
+      "description": "CM 1:4 for flooring",
+      "chapter": "5 - Brickwork",
+      "material": "mortar",
+      "grade": "1:4",
+      "unit": "m\u00b3",
+      "rate_inr": 4100
+    },
+    {
+      "code": "5.21",
+      "description": "Reinforced brickwork M15",
+      "chapter": "5 - Brickwork",
+      "material": "brick",
+      "grade": "M15",
+      "unit": "m\u00b3",
+      "rate_inr": 5800
+    },
+    {
+      "code": "5.22",
+      "description": "AAC block masonry 230mm",
+      "chapter": "5 - Brickwork",
+      "material": "aac_block",
+      "grade": "230mm",
+      "unit": "m\u00b3",
+      "rate_inr": 5600
+    },
+    {
+      "code": "5.23",
+      "description": "Hollow concrete block 200mm",
+      "chapter": "5 - Brickwork",
+      "material": "cmu",
+      "grade": "hollow",
+      "unit": "m\u00b3",
+      "rate_inr": 4800
+    },
+    {
+      "code": "6.16",
+      "description": "Rough granite flooring",
+      "chapter": "6 - Flooring",
+      "material": "granite",
+      "grade": "rough",
+      "unit": "m\u00b2",
+      "rate_inr": 900
+    },
+    {
+      "code": "6.17",
+      "description": "Cement tile flooring",
+      "chapter": "6 - Flooring",
+      "material": "cement_tile",
+      "unit": "m\u00b2",
+      "rate_inr": 380
+    },
+    {
+      "code": "6.18",
+      "description": "Parquet flooring teak",
+      "chapter": "6 - Flooring",
+      "material": "wood",
+      "grade": "parquet",
+      "unit": "m\u00b2",
+      "rate_inr": 1800
+    },
+    {
+      "code": "6.19",
+      "description": "Vinyl flooring",
+      "chapter": "6 - Flooring",
+      "material": "vinyl",
+      "unit": "m\u00b2",
+      "rate_inr": 650
+    },
+    {
+      "code": "6.20",
+      "description": "Epoxy flooring 2mm",
+      "chapter": "6 - Flooring",
+      "material": "epoxy",
+      "unit": "m\u00b2",
+      "rate_inr": 450
+    },
+    {
+      "code": "7.13",
+      "description": "Plywood 18mm BWR",
+      "chapter": "7 - Woodwork",
+      "material": "plywood",
+      "grade": "bwr",
+      "unit": "m\u00b2",
+      "rate_inr": 1200
+    },
+    {
+      "code": "7.14",
+      "description": "Plywood 12mm MR",
+      "chapter": "7 - Woodwork",
+      "material": "plywood",
+      "grade": "mr",
+      "unit": "m\u00b2",
+      "rate_inr": 850
+    },
+    {
+      "code": "7.15",
+      "description": "MDF 18mm",
+      "chapter": "7 - Woodwork",
+      "material": "mdf",
+      "unit": "m\u00b2",
+      "rate_inr": 780
+    },
+    {
+      "code": "7.16",
+      "description": "Decorative veneer",
+      "chapter": "7 - Woodwork",
+      "material": "veneer",
+      "unit": "m\u00b2",
+      "rate_inr": 650
+    },
+    {
+      "code": "7.17",
+      "description": "Laminate 1mm sheet",
+      "chapter": "7 - Woodwork",
+      "material": "laminate",
+      "unit": "m\u00b2",
+      "rate_inr": 280
+    },
+    {
+      "code": "8.11",
+      "description": "MS channel 100x50mm",
+      "chapter": "8 - Steel Work",
+      "material": "ms_channel",
+      "unit": "kg",
+      "rate_inr": 95
+    },
+    {
+      "code": "8.12",
+      "description": "MS angle 50x50x6mm",
+      "chapter": "8 - Steel Work",
+      "material": "ms_angle",
+      "unit": "kg",
+      "rate_inr": 92
+    },
+    {
+      "code": "8.13",
+      "description": "MS beam ISMB 300",
+      "chapter": "8 - Steel Work",
+      "material": "ms_beam",
+      "unit": "kg",
+      "rate_inr": 98
+    },
+    {
+      "code": "8.14",
+      "description": "MS pipe 100mm",
+      "chapter": "8 - Steel Work",
+      "material": "ms_pipe",
+      "unit": "kg",
+      "rate_inr": 100
+    },
+    {
+      "code": "8.15",
+      "description": "GI sheet 2mm",
+      "chapter": "8 - Steel Work",
+      "material": "gi_sheet",
+      "unit": "m\u00b2",
+      "rate_inr": 450
+    },
+    {
+      "code": "10.21",
+      "description": "SWR pipe 75mm",
+      "chapter": "10 - Plumbing",
+      "material": "pvc",
+      "grade": "swr",
+      "unit": "m",
+      "rate_inr": 85
+    },
+    {
+      "code": "10.22",
+      "description": "SWR pipe 110mm",
+      "chapter": "10 - Plumbing",
+      "material": "pvc",
+      "grade": "swr",
+      "unit": "m",
+      "rate_inr": 125
+    },
+    {
+      "code": "10.23",
+      "description": "PPR pipe 25mm",
+      "chapter": "10 - Plumbing",
+      "material": "ppr",
+      "unit": "m",
+      "rate_inr": 95
+    },
+    {
+      "code": "10.24",
+      "description": "PPR pipe 32mm",
+      "chapter": "10 - Plumbing",
+      "material": "ppr",
+      "unit": "m",
+      "rate_inr": 130
+    },
+    {
+      "code": "10.25",
+      "description": "PPR pipe 40mm",
+      "chapter": "10 - Plumbing",
+      "material": "ppr",
+      "unit": "m",
+      "rate_inr": 175
+    },
+    {
+      "code": "10.26",
+      "description": "Threaded rod 12mm",
+      "chapter": "10 - Plumbing",
+      "material": "gi",
+      "unit": "m",
+      "rate_inr": 85
+    },
+    {
+      "code": "10.27",
+      "description": "Pipe clamp 50mm",
+      "chapter": "10 - Plumbing",
+      "material": "clamp",
+      "unit": "nos",
+      "rate_inr": 45
+    },
+    {
+      "code": "10.28",
+      "description": "Pipe hook 25mm",
+      "chapter": "10 - Plumbing",
+      "material": "gi",
+      "unit": "nos",
+      "rate_inr": 25
+    },
+    {
+      "code": "10.29",
+      "description": "Elbow 50mm GI",
+      "chapter": "10 - Plumbing",
+      "material": "gi_fitting",
+      "unit": "nos",
+      "rate_inr": 65
+    },
+    {
+      "code": "10.30",
+      "description": "Tee 50mm GI",
+      "chapter": "10 - Plumbing",
+      "material": "gi_fitting",
+      "unit": "nos",
+      "rate_inr": 95
+    },
+    {
+      "code": "10.31",
+      "description": "Union 50mm GI",
+      "chapter": "10 - Plumbing",
+      "material": "gi_fitting",
+      "unit": "nos",
+      "rate_inr": 85
+    },
+    {
+      "code": "10.32",
+      "description": "Bend 25mm CPVC",
+      "chapter": "10 - Plumbing",
+      "material": "cpvc_fitting",
+      "unit": "nos",
+      "rate_inr": 35
+    },
+    {
+      "code": "10.33",
+      "description": "Tee 25mm CPVC",
+      "chapter": "10 - Plumbing",
+      "material": "cpvc_fitting",
+      "unit": "nos",
+      "rate_inr": 55
+    },
+    {
+      "code": "10.34",
+      "description": "Soldering wire 2mm",
+      "chapter": "10 - Plumbing",
+      "material": "solder",
+      "unit": "kg",
+      "rate_inr": 450
+    },
+    {
+      "code": "10.35",
+      "description": "Thread seal tape",
+      "chapter": "10 - Plumbing",
+      "material": "ptfe",
+      "unit": "roll",
+      "rate_inr": 25
+    },
+    {
+      "code": "11.33",
+      "description": "Cable gland 20mm brass",
+      "chapter": "11 - Electrical",
+      "material": "gland",
+      "unit": "nos",
+      "rate_inr": 45
+    },
+    {
+      "code": "11.34",
+      "description": "Cable gland 25mm brass",
+      "chapter": "11 - Electrical",
+      "material": "gland",
+      "unit": "nos",
+      "rate_inr": 55
+    },
+    {
+      "code": "11.35",
+      "description": "Cable tie 200mm",
+      "chapter": "11 - Electrical",
+      "material": "cable_tie",
+      "unit": "nos",
+      "rate_inr": 5
+    },
+    {
+      "code": "11.36",
+      "description": "Conduit clip 25mm",
+      "chapter": "11 - Electrical",
+      "material": "clip",
+      "unit": "nos",
+      "rate_inr": 8
+    },
+    {
+      "code": "11.37",
+      "description": "Junction box 100x100mm",
+      "chapter": "11 - Electrical",
+      "material": "junction_box",
+      "unit": "nos",
+      "rate_inr": 85
+    },
+    {
+      "code": "11.38",
+      "description": "Motor starter 10HP",
+      "chapter": "11 - Electrical",
+      "material": "starter",
+      "unit": "nos",
+      "rate_inr": 2200
+    },
+    {
+      "code": "11.39",
+      "description": "capacitor 35 MFD",
+      "chapter": "11 - Electrical",
+      "material": "capacitor",
+      "unit": "nos",
+      "rate_inr": 180
+    },
+    {
+      "code": "11.40",
+      "description": "Light switch 6A",
+      "chapter": "11 - Electrical",
+      "material": "switch",
+      "grade": "6a",
+      "unit": "nos",
+      "rate_inr": 45
+    },
+    {
+      "code": "11.41",
+      "description": "Socket 6A",
+      "chapter": "11 - Electrical",
+      "material": "socket",
+      "grade": "6a",
+      "unit": "nos",
+      "rate_inr": 55
+    },
+    {
+      "code": "11.42",
+      "description": "Socket 16A",
+      "chapter": "11 - Electrical",
+      "material": "socket",
+      "grade": "16a",
+      "unit": "nos",
+      "rate_inr": 75
+    },
+    {
+      "code": "11.43",
+      "description": "Plate switch 6A",
+      "chapter": "11 - Electrical",
+      "material": "switch",
+      "grade": "6a",
+      "unit": "nos",
+      "rate_inr": 65
+    },
+    {
+      "code": "11.44",
+      "description": "USB socket",
+      "chapter": "11 - Electrical",
+      "material": "socket",
+      "grade": "usb",
+      "unit": "nos",
+      "rate_inr": 180
+    },
+    {
+      "code": "11.45",
+      "description": "Fan regulator 6A",
+      "chapter": "11 - Electrical",
+      "material": "regulator",
+      "unit": "nos",
+      "rate_inr": 95
+    },
+    {
+      "code": "11.46",
+      "description": "Door bell",
+      "chapter": "11 - Electrical",
+      "material": "bell",
+      "unit": "nos",
+      "rate_inr": 150
+    },
+    {
+      "code": "11.47",
+      "description": "Telephone socket",
+      "chapter": "11 - Electrical",
+      "material": "socket",
+      "grade": "telephone",
+      "unit": "nos",
+      "rate_inr": 95
+    },
+    {
+      "code": "11.48",
+      "description": "TV socket",
+      "chapter": "11 - Electrical",
+      "material": "socket",
+      "grade": "tv",
+      "unit": "nos",
+      "rate_inr": 120
+    },
+    {
+      "code": "11.49",
+      "description": "Call bell push",
+      "chapter": "11 - Electrical",
+      "material": "push",
+      "unit": "nos",
+      "rate_inr": 45
+    },
+    {
+      "code": "11.50",
+      "description": "Earth rod copper",
+      "chapter": "11 - Electrical",
+      "material": "earth_rod",
+      "unit": "nos",
+      "rate_inr": 450
+    },
+    {
+      "code": "11.51",
+      "description": "Earth plate 600x600x3mm",
+      "chapter": "11 - Electrical",
+      "material": "earth_plate",
+      "unit": "nos",
+      "rate_inr": 650
+    },
+    {
+      "code": "11.52",
+      "description": "GI strip 25x3mm",
+      "chapter": "11 - Electrical",
+      "material": "gi_strip",
+      "unit": "m",
+      "rate_inr": 120
+    },
+    {
+      "code": "11.53",
+      "description": "Copper strip 25x3mm",
+      "chapter": "11 - Electrical",
+      "material": "cu_strip",
+      "unit": "m",
+      "rate_inr": 450
+    },
+    {
+      "code": "11.54",
+      "description": "Circuit breaker 63A TP",
+      "chapter": "11 - Electrical",
+      "material": "mcb",
+      "grade": "63a",
+      "unit": "nos",
+      "rate_inr": 950
+    },
+    {
+      "code": "11.55",
+      "description": "Main switch 63A",
+      "chapter": "11 - Electrical",
+      "material": "switch",
+      "grade": "63a",
+      "unit": "nos",
+      "rate_inr": 750
+    },
+    {
+      "code": "12.15",
+      "description": "Wet mix macadam 150mm",
+      "chapter": "12 - Road Work",
+      "material": "wmm",
+      "unit": "m\u00b2",
+      "rate_inr": 220
+    },
+    {
+      "code": "12.16",
+      "description": "Mastic asphalt",
+      "chapter": "12 - Road Work",
+      "material": "mastic",
+      "unit": "m\u00b2",
+      "rate_inr": 350
+    },
+    {
+      "code": "12.17",
+      "description": "Seal coat",
+      "chapter": "12 - Road Work",
+      "material": "seal_coat",
+      "unit": "m\u00b2",
+      "rate_inr": 25
+    },
+    {
+      "code": "12.18",
+      "description": "Paver block 60mm",
+      "chapter": "12 - Road Work",
+      "material": "paver_block",
+      "unit": "m\u00b2",
+      "rate_inr": 450
+    },
+    {
+      "code": "12.19",
+      "description": "Kerb stone",
+      "chapter": "12 - Road Work",
+      "material": "kerb",
+      "unit": "m",
+      "rate_inr": 120
+    },
+    {
+      "code": "12.20",
+      "description": "Channel drain CC",
+      "chapter": "12 - Road Work",
+      "material": "drain",
+      "grade": "cc",
+      "unit": "m",
+      "rate_inr": 180
+    },
+    {
+      "code": "12.21",
+      "description": "Speed breaker",
+      "chapter": "12 - Road Work",
+      "material": "speed_breaker",
+      "unit": "m",
+      "rate_inr": 250
+    },
+    {
+      "code": "12.22",
+      "description": "Road sign",
+      "chapter": "12 - Road Work",
+      "material": "sign",
+      "unit": "nos",
+      "rate_inr": 850
+    },
+    {
+      "code": "12.23",
+      "description": "Km stone",
+      "chapter": "12 - Road Work",
+      "material": "km_stone",
+      "unit": "nos",
+      "rate_inr": 650
+    },
+    {
+      "code": "12.24",
+      "description": "Safety cone",
+      "chapter": "12 - Road Work",
+      "material": "cone",
+      "unit": "nos",
+      "rate_inr": 350
+    },
+    {
+      "code": "13.17",
+      "description": "Ready mix concrete M20",
+      "chapter": "13 - Materials",
+      "material": "rmc",
+      "grade": "M20",
+      "unit": "m\u00b3",
+      "rate_inr": 5800
+    },
+    {
+      "code": "13.18",
+      "description": "Ready mix concrete M25",
+      "chapter": "13 - Materials",
+      "material": "rmc",
+      "grade": "M25",
+      "unit": "m\u00b3",
+      "rate_inr": 6200
+    },
+    {
+      "code": "13.19",
+      "description": "Ready mix concrete M30",
+      "chapter": "13 - Materials",
+      "material": "rmc",
+      "grade": "M30",
+      "unit": "m\u00b3",
+      "rate_inr": 6600
+    },
+    {
+      "code": "13.20",
+      "description": "Bitumen 60/70",
+      "chapter": "13 - Materials",
+      "material": "bitumen",
+      "grade": "60/70",
+      "unit": "kg",
+      "rate_inr": 45
+    },
+    {
+      "code": "13.21",
+      "description": "Emulsion bitumen",
+      "chapter": "13 - Materials",
+      "material": "bitumen",
+      "grade": "emulsion",
+      "unit": "kg",
+      "rate_inr": 55
+    },
+    {
+      "code": "13.22",
+      "description": "Aggregates for WBM",
+      "chapter": "13 - Materials",
+      "material": "aggregate",
+      "grade": "wbm",
+      "unit": "m\u00b3",
+      "rate_inr": 750
+    },
+    {
+      "code": "13.23",
+      "description": "Crusher run metal",
+      "chapter": "13 - Materials",
+      "material": "crusher_run",
+      "unit": "m\u00b3",
+      "rate_inr": 850
+    },
+    {
+      "code": "13.24",
+      "description": "Metal 40mm",
+      "chapter": "13 - Materials",
+      "material": "metal",
+      "grade": "40mm",
+      "unit": "m\u00b3",
+      "rate_inr": 780
+    },
+    {
+      "code": "13.25",
+      "description": "Metal 20mm",
+      "chapter": "13 - Materials",
+      "material": "metal",
+      "grade": "20mm",
+      "unit": "m\u00b3",
+      "rate_inr": 820
+    },
+    {
+      "code": "13.26",
+      "description": "Metal 10mm",
+      "chapter": "13 - Materials",
+      "material": "metal",
+      "grade": "10mm",
+      "unit": "m\u00b3",
+      "rate_inr": 880
+    },
+    {
+      "code": "13.27",
+      "description": "Screenings 6mm",
+      "chapter": "13 - Materials",
+      "material": "screenings",
+      "unit": "m\u00b3",
+      "rate_inr": 650
+    },
+    {
+      "code": "13.28",
+      "description": "Dust",
+      "chapter": "13 - Materials",
+      "material": "dust",
+      "unit": "m\u00b3",
+      "rate_inr": 450
+    },
+    {
+      "code": "13.29",
+      "description": "Lime",
+      "chapter": "13 - Materials",
+      "material": "lime",
+      "unit": "kg",
+      "rate_inr": 15
+    },
+    {
+      "code": "13.30",
+      "description": "Fly ash",
+      "chapter": "13 - Materials",
+      "material": "fly_ash",
+      "unit": "kg",
+      "rate_inr": 8
+    },
+    {
+      "code": "14.11",
+      "description": "Hinges 75mm brass",
+      "chapter": "14 - Hardware",
+      "material": "hinge",
+      "grade": "75mm",
+      "unit": "nos",
+      "rate_inr": 65
+    },
+    {
+      "code": "14.12",
+      "description": "Hinges 50mm brass",
+      "chapter": "14 - Hardware",
+      "material": "hinge",
+      "grade": "50mm",
+      "unit": "nos",
+      "rate_inr": 45
+    },
+    {
+      "code": "14.13",
+      "description": "Door stoper",
+      "chapter": "14 - Hardware",
+      "material": "stoper",
+      "unit": "nos",
+      "rate_inr": 120
+    },
+    {
+      "code": "14.14",
+      "description": "Magnetic door check",
+      "chapter": "14 - Hardware",
+      "material": "door_check",
+      "unit": "nos",
+      "rate_inr": 550
+    },
+    {
+      "code": "14.15",
+      "description": " Automatically door closer",
+      "chapter": "14 - Hardware",
+      "material": "door_closer",
+      "unit": "nos",
+      "rate_inr": 750
+    },
+    {
+      "code": "14.16",
+      "description": "Rack bracket",
+      "chapter": "14 - Hardware",
+      "material": "bracket",
+      "unit": "nos",
+      "rate_inr": 35
+    },
+    {
+      "code": "14.17",
+      "description": "Screw 50mm",
+      "chapter": "14 - Hardware",
+      "material": "screw",
+      "unit": "nos",
+      "rate_inr": 2
+    },
+    {
+      "code": "14.18",
+      "description": "Wood screw 75mm",
+      "chapter": "14 - Hardware",
+      "material": "screw",
+      "grade": "wood",
+      "unit": "nos",
+      "rate_inr": 3
+    },
+    {
+      "code": "14.19",
+      "description": "Rawl plug 8mm",
+      "chapter": "14 - Hardware",
+      "material": "rawl_plug",
+      "unit": "nos",
+      "rate_inr": 5
+    },
+    {
+      "code": "14.20",
+      "description": "Wall plug 8mm",
+      "chapter": "14 - Hardware",
+      "material": "wall_plug",
+      "unit": "nos",
+      "rate_inr": 3
+    },
+    {
+      "code": "16.9",
+      "description": "Snowcem 2 coats",
+      "chapter": "16 - Painting",
+      "material": "paint",
+      "grade": "snowcem",
+      "unit": "m\u00b2",
+      "rate_inr": 75
+    },
+    {
+      "code": "16.10",
+      "description": "Lime wash 3 coats",
+      "chapter": "16 - Painting",
+      "material": "lime_wash",
+      "unit": "m\u00b2",
+      "rate_inr": 35
+    },
+    {
+      "code": "16.11",
+      "description": "Brick sealer",
+      "chapter": "16 - Painting",
+      "material": "sealer",
+      "unit": "m\u00b2",
+      "rate_inr": 45
+    },
+    {
+      "code": "16.12",
+      "description": "Wood primer",
+      "chapter": "16 - Painting",
+      "material": "primer",
+      "grade": "wood",
+      "unit": "m\u00b2",
+      "rate_inr": 55
+    },
+    {
+      "code": "16.13",
+      "description": "Metal primer",
+      "chapter": "16 - Painting",
+      "material": "primer",
+      "grade": "metal",
+      "unit": "m\u00b2",
+      "rate_inr": 60
+    },
+    {
+      "code": "16.14",
+      "description": "Etch primer",
+      "chapter": "16 - Painting",
+      "material": "primer",
+      "grade": "etch",
+      "unit": "m\u00b2",
+      "rate_inr": 85
+    },
+    {
+      "code": "16.15",
+      "description": "Zinc chromate primer",
+      "chapter": "16 - Painting",
+      "material": "primer",
+      "grade": "zinc",
+      "unit": "m\u00b2",
+      "rate_inr": 95
+    },
+    {
+      "code": "16.16",
+      "description": "Epoxy paint",
+      "chapter": "16 - Painting",
+      "material": "paint",
+      "grade": "epoxy",
+      "unit": "m\u00b2",
+      "rate_inr": 180
+    },
+    {
+      "code": "16.17",
+      "description": "Heat resisting paint",
+      "chapter": "16 - Painting",
+      "material": "paint",
+      "grade": "heat",
+      "unit": "m\u00b2",
+      "rate_inr": 150
+    },
+    {
+      "code": "16.18",
+      "description": "Chlorinated rubber paint",
+      "chapter": "16 - Painting",
+      "material": "paint",
+      "grade": "cr",
+      "unit": "m\u00b2",
+      "rate_inr": 120
+    },
+    {
+      "code": "19.11",
+      "description": "Road marking thermoplatic",
+      "chapter": "19 - Misc",
+      "material": "thermoplatic",
+      "unit": "m\u00b2",
+      "rate_inr": 450
+    },
+    {
+      "code": "19.12",
+      "description": "Anti-skid surface",
+      "chapter": "19 - Misc",
+      "material": "antiskid",
+      "unit": "m\u00b2",
+      "rate_inr": 280
+    },
+    {
+      "code": "19.13",
+      "description": "Wheel chock",
+      "chapter": "19 - Misc",
+      "material": "wheel_chock",
+      "unit": "nos",
+      "rate_inr": 650
+    },
+    {
+      "code": "19.14",
+      "description": "Traffic cone",
+      "chapter": "19 - Misc",
+      "material": "cone",
+      "unit": "nos",
+      "rate_inr": 550
+    },
+    {
+      "code": "19.15",
+      "description": "Speed breaker yellow",
+      "chapter": "19 - Misc",
+      "material": "speed_breaker",
+      "unit": "m",
+      "rate_inr": 350
+    },
+    {
+      "code": "21.7",
+      "description": "Dismantling tile flooring",
+      "chapter": "21 - Demolition",
+      "material": "tile",
+      "unit": "m\u00b2",
+      "rate_inr": 45
+    },
+    {
+      "code": "21.8",
+      "description": "Dismantling plaster",
+      "chapter": "21 - Demolition",
+      "material": "plaster",
+      "unit": "m\u00b2",
+      "rate_inr": 35
+    },
+    {
+      "code": "21.9",
+      "description": "Dismantling woodwork",
+      "chapter": "21 - Demolition",
+      "material": "wood",
+      "unit": "m\u00b3",
+      "rate_inr": 850
+    },
+    {
+      "code": "21.10",
+      "description": "Dismantling steelwork",
+      "chapter": "21 - Demolition",
+      "material": "steel",
+      "unit": "kg",
+      "rate_inr": 6
+    },
+    {
+      "code": "21.11",
+      "description": "Cutting brickwork",
+      "chapter": "21 - Demolition",
+      "material": "brick",
+      "unit": "m\u00b3",
+      "rate_inr": 550
+    },
+    {
+      "code": "21.12",
+      "description": "Chiselling concrete",
+      "chapter": "21 - Demolition",
+      "material": "concrete",
+      "unit": "m\u00b3",
+      "rate_inr": 850
+    },
+    {
+      "code": "22.6",
+      "description": "Grass lawn",
+      "chapter": "22 - Horticulture",
+      "material": "grass",
+      "unit": "m\u00b2",
+      "rate_inr": 120
+    },
+    {
+      "code": "22.7",
+      "description": "Plants 1m height",
+      "chapter": "22 - Horticulture",
+      "material": "plant",
+      "unit": "nos",
+      "rate_inr": 250
+    },
+    {
+      "code": "22.8",
+      "description": "Flower bed",
+      "chapter": "22 - Horticulture",
+      "material": "flower_bed",
+      "unit": "m\u00b2",
+      "rate_inr": 350
+    },
+    {
+      "code": "22.9",
+      "description": "Concrete planter",
+      "chapter": "22 - Horticulture",
+      "material": "planter",
+      "unit": "nos",
+      "rate_inr": 850
+    },
+    {
+      "code": "22.10",
+      "description": "Grass paving block",
+      "chapter": "22 - Horticulture",
+      "material": "paving",
+      "unit": "m\u00b2",
+      "rate_inr": 180
+    },
+    {
+      "code": "24.9",
+      "description": "RCC gutter 300mm",
+      "chapter": "24 - Drainage",
+      "material": "gutter",
+      "unit": "m",
+      "rate_inr": 280
+    },
+    {
+      "code": "24.10",
+      "description": "Stoneware pipe 150mm",
+      "chapter": "24 - Drainage",
+      "material": "stoneware",
+      "unit": "m",
+      "rate_inr": 320
+    },
+    {
+      "code": "24.11",
+      "description": "HDPE pipe 200mm",
+      "chapter": "24 - Drainage",
+      "material": "hdpe",
+      "unit": "m",
+      "rate_inr": 380
+    },
+    {
+      "code": "24.12",
+      "description": "Geomembrane 1mm",
+      "chapter": "24 - Drainage",
+      "material": "geomembrane",
+      "unit": "m\u00b2",
+      "rate_inr": 180
+    },
+    {
+      "code": "24.13",
+      "description": "French drain 300mm",
+      "chapter": "24 - Drainage",
+      "material": "french_drain",
+      "unit": "m",
+      "rate_inr": 450
+    },
+    {
+      "code": "23.5",
+      "description": "Welded mesh fencing",
+      "chapter": "23 - Fencing",
+      "material": "mesh",
+      "unit": "m\u00b2",
+      "rate_inr": 280
+    },
+    {
+      "code": "23.6",
+      "description": "Cross arms 75x75mm",
+      "chapter": "23 - Fencing",
+      "material": "arm",
+      "unit": "nos",
+      "rate_inr": 180
+    },
+    {
+      "code": "23.7",
+      "description": "Stay wire 4mm",
+      "chapter": "23 - Fencing",
+      "material": "wire",
+      "unit": "kg",
+      "rate_inr": 85
+    },
+    {
+      "code": "23.8",
+      "description": "Staple wire",
+      "chapter": "23 - Fencing",
+      "material": "staple",
+      "unit": "kg",
+      "rate_inr": 95
+    },
+    {
+      "code": "26.9",
+      "description": "Polycarbonate 6mm",
+      "chapter": "26 - Roofing",
+      "material": "polycarbonate",
+      "grade": "6mm",
+      "unit": "m\u00b2",
+      "rate_inr": 750
+    },
+    {
+      "code": "26.10",
+      "description": "Polycarbonate 8mm",
+      "chapter": "26 - Roofing",
+      "material": "polycarbonate",
+      "grade": "8mm",
+      "unit": "m\u00b2",
+      "rate_inr": 920
+    },
+    {
+      "code": "26.11",
+      "description": "GI sheet 0.8mm",
+      "chapter": "26 - Roofing",
+      "material": "gi_sheet",
+      "grade": "0.8mm",
+      "unit": "m\u00b2",
+      "rate_inr": 480
+    },
+    {
+      "code": "26.12",
+      "description": "Aluminum sheet 1.2mm",
+      "chapter": "26 - Roofing",
+      "material": "aluminum",
+      "grade": "1.2mm",
+      "unit": "m\u00b2",
+      "rate_inr": 650
+    },
+    {
+      "code": "26.13",
+      "description": "Transparent sheet 3mm",
+      "chapter": "26 - Roofing",
+      "material": "transparent",
+      "unit": "m\u00b2",
+      "rate_inr": 350
+    },
+    {
+      "code": "26.14",
+      "description": "Turret ventilator",
+      "chapter": "26 - Roofing",
+      "material": "ventilator",
+      "unit": "nos",
+      "rate_inr": 850
+    },
+    {
+      "code": "26.15",
+      "description": "Ridge cap GI",
+      "chapter": "26 - Roofing",
+      "material": "ridge_cap",
+      "unit": "m",
+      "rate_inr": 180
+    },
+    {
+      "code": "26.16",
+      "description": "Gutter 400mm GI",
+      "chapter": "26 - Roofing",
+      "material": "gutter",
+      "unit": "m",
+      "rate_inr": 250
+    },
+    {
+      "code": "27.6",
+      "description": "Torch on membrane 3mm",
+      "chapter": "27 - Waterproofing",
+      "material": "membrane",
+      "grade": "3mm",
+      "unit": "m\u00b2",
+      "rate_inr": 480
+    },
+    {
+      "code": "27.7",
+      "description": "APP membrane 3mm",
+      "chapter": "27 - Waterproofing",
+      "material": "app",
+      "unit": "m\u00b2",
+      "rate_inr": 380
+    },
+    {
+      "code": "27.8",
+      "description": "Polyurethane injection",
+      "chapter": "27 - Waterproofing",
+      "material": "pu_injection",
+      "unit": "kg",
+      "rate_inr": 520
+    },
+    {
+      "code": "27.9",
+      "description": "Silicone sealant",
+      "chapter": "27 - Waterproofing",
+      "material": "sealant",
+      "unit": "cartridge",
+      "rate_inr": 280
+    },
+    {
+      "code": "27.10",
+      "description": "Waterstop 150mm",
+      "chapter": "27 - Waterproofing",
+      "material": "waterstop",
+      "unit": "m",
+      "rate_inr": 180
+    },
+    {
+      "code": "28.6",
+      "description": "Gypsum cornice",
+      "chapter": "28 - False Ceiling",
+      "material": "cornice",
+      "unit": "m",
+      "rate_inr": 85
+    },
+    {
+      "code": "28.7",
+      "description": "Metal section 38mm",
+      "chapter": "28 - False Ceiling",
+      "material": "section",
+      "unit": "m",
+      "rate_inr": 45
+    },
+    {
+      "code": "28.8",
+      "description": "Rawl plug 6mm",
+      "chapter": "28 - False Ceiling",
+      "material": "rawl_plug",
+      "unit": "nos",
+      "rate_inr": 4
+    },
+    {
+      "code": "28.9",
+      "description": "Anchor fastener",
+      "chapter": "28 - False Ceiling",
+      "material": "anchor",
+      "unit": "nos",
+      "rate_inr": 15
+    },
+    {
+      "code": "28.10",
+      "description": "Edging strip",
+      "chapter": "28 - False Ceiling",
+      "material": "strip",
+      "unit": "m",
+      "rate_inr": 35
+    },
+    {
+      "code": "29.6",
+      "description": "Glazed partition 12mm",
+      "chapter": "29 - Partition",
+      "material": "glazed",
+      "grade": "12mm",
+      "unit": "m\u00b2",
+      "rate_inr": 1200
+    },
+    {
+      "code": "29.7",
+      "description": "Rockwool 50mm",
+      "chapter": "29 - Partition",
+      "material": "rockwool",
+      "grade": "50mm",
+      "unit": "m\u00b2",
+      "rate_inr": 280
+    },
+    {
+      "code": "29.8",
+      "description": "Plasterboard 12mm",
+      "chapter": "29 - Partition",
+      "material": "plasterboard",
+      "unit": "m\u00b2",
+      "rate_inr": 320
+    },
+    {
+      "code": "29.9",
+      "description": "Stud partition 75mm",
+      "chapter": "29 - Partition",
+      "material": "stud",
+      "grade": "75mm",
+      "unit": "m\u00b2",
+      "rate_inr": 550
+    },
+    {
+      "code": "29.10",
+      "description": "Track section",
+      "chapter": "29 - Partition",
+      "material": "track",
+      "unit": "m",
+      "rate_inr": 65
+    },
+    {
+      "code": "30.6",
+      "description": "Expansion joint aluminum",
+      "chapter": "30 - Specialist",
+      "material": "expansion",
+      "unit": "m",
+      "rate_inr": 950
+    },
+    {
+      "code": "30.7",
+      "description": "Fire damper 300x300",
+      "chapter": "30 - Specialist",
+      "material": "damper",
+      "unit": "nos",
+      "rate_inr": 1800
+    },
+    {
+      "code": "30.8",
+      "description": "Smoke detector",
+      "chapter": "30 - Specialist",
+      "material": "smoke_detector",
+      "unit": "nos",
+      "rate_inr": 850
+    },
+    {
+      "code": "30.9",
+      "description": "Fire alarm bell",
+      "chapter": "30 - Specialist",
+      "material": "bell",
+      "grade": "fire",
+      "unit": "nos",
+      "rate_inr": 650
+    },
+    {
+      "code": "30.10",
+      "description": "Sprinkler head",
+      "chapter": "30 - Specialist",
+      "material": "sprinkler",
+      "unit": "nos",
+      "rate_inr": 180
+    },
+    {
+      "code": "31.1",
+      "description": "CCTV camera dome",
+      "chapter": "31 - Security",
+      "material": "cctv",
+      "unit": "nos",
+      "rate_inr": 2200
+    },
+    {
+      "code": "31.2",
+      "description": "Cement mortar 1:1 for pointing",
+      "chapter": "31 - Specialist",
+      "material": "mortar",
+      "grade": "1:1",
+      "unit": "m\u00b3",
+      "rate_inr": 4800
+    }
+  ]
+}

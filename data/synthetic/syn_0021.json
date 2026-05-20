@@ -1,0 +1,127 @@
+{
+  "id": "syn_0021",
+  "project_name": "IT Park Phase 2",
+  "category": "steel",
+  "text": "Supply and installation of structural steel, rebar, MS plate for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect membrane  170  nos  312  97426\n2  Lay M35 M25 concrete  208  sqm  3755  29124\n3  Apply Fe500 rebar  479  set  706  60250\n4  Supply and lay PVC pipe 200mm thick  424  ls  4541  39058\n5  Apply switch 16mm diameter  373  rmt  1094  27342\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of structural steel, rebar, MS plate for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice. Erect membrane Lay M35 M25 concrete Apply Fe500 rebar Supply and lay PVC pipe 200mm thick Apply switch 16mm diameter",
+  "sections": {
+    "scope": "Supply and installation of structural steel, rebar, MS plate for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect membrane",
+        "170",
+        "nos",
+        "312",
+        "97426"
+      ],
+      [
+        "2",
+        "Lay M35 M25 concrete",
+        "208",
+        "sqm",
+        "3755",
+        "29124"
+      ],
+      [
+        "3",
+        "Apply Fe500 rebar",
+        "479",
+        "set",
+        "706",
+        "60250"
+      ],
+      [
+        "4",
+        "Supply and lay PVC pipe 200mm thick",
+        "424",
+        "ls",
+        "4541",
+        "39058"
+      ],
+      [
+        "5",
+        "Apply switch 16mm diameter",
+        "373",
+        "rmt",
+        "1094",
+        "27342"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 170,
+        "unit": "no.",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "M25 concrete",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 208,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 479,
+        "unit": "set",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 424,
+        "unit": "ls",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "switch",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 373,
+        "unit": "rmt",
+        "standard": [
+          "IS 694"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

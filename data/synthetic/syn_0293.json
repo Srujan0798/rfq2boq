@@ -1,0 +1,187 @@
+{
+  "id": "syn_0293",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "piping",
+  "text": "The work comprises PVC pipe, CI pipe, HDPE pipe for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast M25 M35 concrete 200mm thick  46  kg  4190  40539\n2  Supply and lay flush door  410  nos  1074  46659\n3  Supply and lay Fe415 structural steel  373  kg  1884  44449\n4  Cast cable 12mm thick  349  ltr  644  54283\n5  Provide and fix Class B fly ash brick  95  ls  4170  97940\n6  Supply and install HDPE pipe  81  ls  632  93744\n7  Lay Class 2 paint 100 x 100mm  279  ls  4771  79365\n8  Supply and install membrane 150 x 150mm  199  sqm  3798  46595\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises PVC pipe, CI pipe, HDPE pipe for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards. Cast M25 M35 concrete 200mm thick Supply and lay flush door Supply and lay Fe415 structural steel Cast cable 12mm thick Provide and fix Class B fly ash brick Supply and install HDPE pipe Lay Class 2 paint 100 x 100mm Supply and install membrane 150 x 150mm",
+  "sections": {
+    "scope": "The work comprises PVC pipe, CI pipe, HDPE pipe for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast M25 M35 concrete 200mm thick",
+        "46",
+        "kg",
+        "4190",
+        "40539"
+      ],
+      [
+        "2",
+        "Supply and lay flush door",
+        "410",
+        "nos",
+        "1074",
+        "46659"
+      ],
+      [
+        "3",
+        "Supply and lay Fe415 structural steel",
+        "373",
+        "kg",
+        "1884",
+        "44449"
+      ],
+      [
+        "4",
+        "Cast cable 12mm thick",
+        "349",
+        "ltr",
+        "644",
+        "54283"
+      ],
+      [
+        "5",
+        "Provide and fix Class B fly ash brick",
+        "95",
+        "ls",
+        "4170",
+        "97940"
+      ],
+      [
+        "6",
+        "Supply and install HDPE pipe",
+        "81",
+        "ls",
+        "632",
+        "93744"
+      ],
+      [
+        "7",
+        "Lay Class 2 paint 100 x 100mm",
+        "279",
+        "ls",
+        "4771",
+        "79365"
+      ],
+      [
+        "8",
+        "Supply and install membrane 150 x 150mm",
+        "199",
+        "sqm",
+        "3798",
+        "46595"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "200mm thick",
+        "quantity": 46,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 410,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 373,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "cable",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 349,
+        "unit": "ltr",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 95,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 81,
+        "unit": "ls",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "100 x 100mm",
+        "quantity": 279,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 199,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

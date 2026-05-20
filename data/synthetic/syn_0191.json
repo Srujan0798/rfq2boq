@@ -1,0 +1,127 @@
+{
+  "id": "syn_0191",
+  "project_name": "School Building at Electronic City",
+  "category": "piping",
+  "text": "The scope of work includes GI pipe, PVC pipe, CI pipe for the School Building at Electronic City project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect Class 1 putty  33  kg  1116  7999\n2  Fabricate and erect flush door 150mm thick  363  cum  4724  77132\n3  Fix M20 RCC 100mm thick  158  nos  3811  34455\n4  Erect SWR pipe 6mm diameter  397  ltr  2528  73443\n5  Supply Class A hollow block  277  nos  4845  51344\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes GI pipe, PVC pipe, CI pipe for the School Building at Electronic City project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below. Erect Class 1 putty Fabricate and erect flush door 150mm thick Fix M20 RCC 100mm thick Erect SWR pipe 6mm diameter Supply Class A hollow block",
+  "sections": {
+    "scope": "The scope of work includes GI pipe, PVC pipe, CI pipe for the School Building at Electronic City project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect Class 1 putty",
+        "33",
+        "kg",
+        "1116",
+        "7999"
+      ],
+      [
+        "2",
+        "Fabricate and erect flush door 150mm thick",
+        "363",
+        "cum",
+        "4724",
+        "77132"
+      ],
+      [
+        "3",
+        "Fix M20 RCC 100mm thick",
+        "158",
+        "nos",
+        "3811",
+        "34455"
+      ],
+      [
+        "4",
+        "Erect SWR pipe 6mm diameter",
+        "397",
+        "ltr",
+        "2528",
+        "73443"
+      ],
+      [
+        "5",
+        "Supply Class A hollow block",
+        "277",
+        "nos",
+        "4845",
+        "51344"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 33,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 363,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "100mm thick",
+        "quantity": 158,
+        "unit": "no.",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 397,
+        "unit": "ltr",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 277,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

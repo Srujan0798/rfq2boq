@@ -1,0 +1,37 @@
+Supply and installation of structural steel, rebar, MS plate for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Install Fe550 rebar 20mm thick  120  ltr  2876  60441
+2  Apply glass 25mm thick  58  ls  1350  91023
+3  Supply and lay Class A hollow block  435  sqm  3152  18054
+4  Cast M20 PCC 8mm diameter  499  ls  3564  95510
+5  Cast Class 2 cement plaster  169  ls  1842  21280
+6  Install DPC 200 x 200mm  65  ls  2382  76248
+7  Install PVC pipe 25mm thick  297  cum  1577  36818
+8  Provide and fix switch 6mm diameter  13  rmt  1262  98120
+9  Apply Fe415 TMT steel 10mm diameter  281  kg  1389  49503
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

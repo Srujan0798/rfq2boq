@@ -1,0 +1,86 @@
+name: Train Model on Data Push
+
+on:
+  push:
+    paths:
+      - 'data/annotations/**'
+      - 'data/synthetic/**'
+  workflow_dispatch:
+    inputs:
+      annotation_set:
+        description: 'Annotation set to train on'
+        required: false
+        default: 'train'
+      min_f1:
+        description: 'Minimum F1 threshold'
+        required: false
+        default: '0.75'
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -e ".[dev]"
+          pip install mlflow
+
+      - name: Log in to MLflow
+        run: |
+          mlflow login -h ${{ vars.MLFLOW_HOST }} -u ${{ secrets.MLFLOW_USER }} -p ${{ secrets.MLFLOW_PASSWORD }}
+
+      - name: Train NER model
+        run: |
+          python scripts/train_ner_mlflow.py \
+            --train-data data/annotations/train.json \
+            --val-data data/annotations/val.json \
+            --output-dir models/ner-bert-bilstm-crf-v1 \
+            --epochs 8 \
+            --batch-size 16 \
+            --tracking-uri ${{ vars.MLFLOW_TRACKING_URI }} \
+            --min-f1-threshold ${{ inputs.min_f1 || '0.75' }}
+
+      - name: Check model F1
+        run: |
+          METRICS=$(cat models/ner-bert-bilstm-crf-v1/metrics.json)
+          F1=$(echo $METRICS | jq -r '.f1')
+          echo "Final F1: $F1"
+          if (( $(echo "$F1 >= 0.75" | bc -l) )); then
+            echo "Model meets threshold"
+          else
+            echo "Model below threshold"
+            exit 1
+          fi
+
+      - name: Notify Slack on failure
+        if: failure()
+        uses: slackapi/slack-github-action@v1
+        with:
+          channel-id: ${{ vars.SLACK_CHANNEL }}
+          payload: |
+            {
+              "text": "Training job failed for ${{ github.sha }}",
+              "attachments": [{"color": "danger", "text": "Check MLflow: ${{ vars.MLFLOW_TRACKING_URI }}"}]
+            }
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+
+      - name: Notify Slack on success
+        if: success()
+        uses: slackapi/slack-github-action@v1
+        with:
+          channel-id: ${{ vars.SLACK_CHANNEL }}
+          payload: |
+            {
+              "text": "Training job succeeded for ${{ github.sha }}",
+              "attachments": [{"color": "good", "text": "Model registered to MLflow staging"}]
+            }
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}

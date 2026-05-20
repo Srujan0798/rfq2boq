@@ -1,0 +1,227 @@
+{
+  "id": "syn_0227",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "piping",
+  "text": "Supply and installation of GI pipe, SWR pipe, HDPE pipe for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install brickbat coba 200 x 200mm  91  sqm  2959  64738\n2  Provide and lay Class 2 paint 100 x 100mm  298  set  156  94187\n3  Supply and fix flush door 100 x 100mm  225  set  4166  53548\n4  Fabricate and erect Class C fly ash brick 200mm thick  313  set  1749  51548\n5  Apply switch 150mm thick  27  nos  3431  33016\n6  Apply M30 M30 concrete  122  set  3263  36703\n7  Cast Fe500 rebar 230mm thick  105  set  4732  86206\n8  Cast HDPE pipe  366  ltr  505  92058\n9  Apply integral waterproofing 230mm thick  14  rmt  4433  22115\n10  Plaster Class 2 paint  115  ltr  2672  81488\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI pipe, SWR pipe, HDPE pipe for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and install brickbat coba 200 x 200mm Provide and lay Class 2 paint 100 x 100mm Supply and fix flush door 100 x 100mm Fabricate and erect Class C fly ash brick 200mm thick Apply switch 150mm thick Apply M30 M30 concrete Cast Fe500 rebar 230mm thick Cast HDPE pipe Apply integral waterproofing 230mm thick Plaster Class 2 paint",
+  "sections": {
+    "scope": "Supply and installation of GI pipe, SWR pipe, HDPE pipe for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install brickbat coba 200 x 200mm",
+        "91",
+        "sqm",
+        "2959",
+        "64738"
+      ],
+      [
+        "2",
+        "Provide and lay Class 2 paint 100 x 100mm",
+        "298",
+        "set",
+        "156",
+        "94187"
+      ],
+      [
+        "3",
+        "Supply and fix flush door 100 x 100mm",
+        "225",
+        "set",
+        "4166",
+        "53548"
+      ],
+      [
+        "4",
+        "Fabricate and erect Class C fly ash brick 200mm thick",
+        "313",
+        "set",
+        "1749",
+        "51548"
+      ],
+      [
+        "5",
+        "Apply switch 150mm thick",
+        "27",
+        "nos",
+        "3431",
+        "33016"
+      ],
+      [
+        "6",
+        "Apply M30 M30 concrete",
+        "122",
+        "set",
+        "3263",
+        "36703"
+      ],
+      [
+        "7",
+        "Cast Fe500 rebar 230mm thick",
+        "105",
+        "set",
+        "4732",
+        "86206"
+      ],
+      [
+        "8",
+        "Cast HDPE pipe",
+        "366",
+        "ltr",
+        "505",
+        "92058"
+      ],
+      [
+        "9",
+        "Apply integral waterproofing 230mm thick",
+        "14",
+        "rmt",
+        "4433",
+        "22115"
+      ],
+      [
+        "10",
+        "Plaster Class 2 paint",
+        "115",
+        "ltr",
+        "2672",
+        "81488"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 91,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "100 x 100mm",
+        "quantity": 298,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 225,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "200mm thick",
+        "quantity": 313,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "switch",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 27,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 122,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "230mm thick",
+        "quantity": 105,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 366,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Apply",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 14,
+        "unit": "rmt",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Plaster",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 115,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

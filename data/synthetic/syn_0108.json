@@ -1,0 +1,167 @@
+{
+  "id": "syn_0108",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "steel",
+  "text": "Supply and installation of GI sheet, TMT steel, MS plate for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay M25 M35 concrete  425  nos  3699  22211\n2  Apply GI conduit 16mm thick  232  cum  1652  38342\n3  Erect brickbat coba 12mm thick  225  ls  1730  63822\n4  Erect Class A fly ash brick 300mm thick  260  set  3375  66779\n5  Supply and lay glass 300mm thick  500  sqm  2919  66536\n6  Supply and install Class 1 cement plaster 100mm thick  357  ls  4033  38940\n7  Supply and lay Fe500 structural steel  399  ltr  4288  25492\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI sheet, TMT steel, MS plate for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice. Lay M25 M35 concrete Apply GI conduit 16mm thick Erect brickbat coba 12mm thick Erect Class A fly ash brick 300mm thick Supply and lay glass 300mm thick Supply and install Class 1 cement plaster 100mm thick Supply and lay Fe500 structural steel",
+  "sections": {
+    "scope": "Supply and installation of GI sheet, TMT steel, MS plate for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay M25 M35 concrete",
+        "425",
+        "nos",
+        "3699",
+        "22211"
+      ],
+      [
+        "2",
+        "Apply GI conduit 16mm thick",
+        "232",
+        "cum",
+        "1652",
+        "38342"
+      ],
+      [
+        "3",
+        "Erect brickbat coba 12mm thick",
+        "225",
+        "ls",
+        "1730",
+        "63822"
+      ],
+      [
+        "4",
+        "Erect Class A fly ash brick 300mm thick",
+        "260",
+        "set",
+        "3375",
+        "66779"
+      ],
+      [
+        "5",
+        "Supply and lay glass 300mm thick",
+        "500",
+        "sqm",
+        "2919",
+        "66536"
+      ],
+      [
+        "6",
+        "Supply and install Class 1 cement plaster 100mm thick",
+        "357",
+        "ls",
+        "4033",
+        "38940"
+      ],
+      [
+        "7",
+        "Supply and lay Fe500 structural steel",
+        "399",
+        "ltr",
+        "4288",
+        "25492"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 425,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 232,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 225,
+        "unit": "ls",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "300mm thick",
+        "quantity": 260,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 500,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "100mm thick",
+        "quantity": 357,
+        "unit": "ls",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 399,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

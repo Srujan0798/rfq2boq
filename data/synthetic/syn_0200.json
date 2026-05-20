@@ -1,0 +1,267 @@
+{
+  "id": "syn_0200",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "finishes",
+  "text": "Supply and installation of cement plaster, putty, POP for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay Class C fly ash brick  192  rmt  3330  8979\n2  Supply and install M25 M20 concrete  152  nos  771  76060\n3  Supply and lay Fe500 rebar 12mm thick  245  sqm  4773  13264\n4  Plaster Class 1 cement plaster 200 x 200mm  305  rmt  296  13120\n5  Fabricate and erect MS door  151  kg  140  76569\n6  Supply and lay DPC  117  set  1289  53142\n7  Apply GI pipe  87  sqm  3871  54754\n8  Supply and install light fixture  68  sqm  3398  14697\n9  Supply and install Class A AAC block 150 x 150mm  71  cum  4434  58361\n10  Supply M25 M25 concrete  328  kg  1676  57550\n11  Provide and install Fe500 GI sheet 10mm diameter  284  cum  2569  69287\n12  Fix Class 1 cement plaster  411  nos  2430  3976\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of cement plaster, putty, POP for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice. Lay Class C fly ash brick Supply and install M25 M20 concrete Supply and lay Fe500 rebar 12mm thick Plaster Class 1 cement plaster 200 x 200mm Fabricate and erect MS door Supply and lay DPC Apply GI pipe Supply and install light fixture Supply and install Class A AAC block 150 x 150mm Supply M25 M25 concrete Provide and install Fe500 GI sheet 10mm diameter Fix Class 1 cement plaster",
+  "sections": {
+    "scope": "Supply and installation of cement plaster, putty, POP for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay Class C fly ash brick",
+        "192",
+        "rmt",
+        "3330",
+        "8979"
+      ],
+      [
+        "2",
+        "Supply and install M25 M20 concrete",
+        "152",
+        "nos",
+        "771",
+        "76060"
+      ],
+      [
+        "3",
+        "Supply and lay Fe500 rebar 12mm thick",
+        "245",
+        "sqm",
+        "4773",
+        "13264"
+      ],
+      [
+        "4",
+        "Plaster Class 1 cement plaster 200 x 200mm",
+        "305",
+        "rmt",
+        "296",
+        "13120"
+      ],
+      [
+        "5",
+        "Fabricate and erect MS door",
+        "151",
+        "kg",
+        "140",
+        "76569"
+      ],
+      [
+        "6",
+        "Supply and lay DPC",
+        "117",
+        "set",
+        "1289",
+        "53142"
+      ],
+      [
+        "7",
+        "Apply GI pipe",
+        "87",
+        "sqm",
+        "3871",
+        "54754"
+      ],
+      [
+        "8",
+        "Supply and install light fixture",
+        "68",
+        "sqm",
+        "3398",
+        "14697"
+      ],
+      [
+        "9",
+        "Supply and install Class A AAC block 150 x 150mm",
+        "71",
+        "cum",
+        "4434",
+        "58361"
+      ],
+      [
+        "10",
+        "Supply M25 M25 concrete",
+        "328",
+        "kg",
+        "1676",
+        "57550"
+      ],
+      [
+        "11",
+        "Provide and install Fe500 GI sheet 10mm diameter",
+        "284",
+        "cum",
+        "2569",
+        "69287"
+      ],
+      [
+        "12",
+        "Fix Class 1 cement plaster",
+        "411",
+        "nos",
+        "2430",
+        "3976"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 192,
+        "unit": "rmt",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "M20 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 152,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "12mm thick",
+        "quantity": 245,
+        "unit": "m^2",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "200 x 200mm",
+        "quantity": 305,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 151,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 117,
+        "unit": "set",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 87,
+        "unit": "m^2",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 68,
+        "unit": "m^2",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "150 x 150mm",
+        "quantity": 71,
+        "unit": "m^3",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply",
+        "material": "M25 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 328,
+        "unit": "kg",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and install",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "10mm diameter",
+        "quantity": 284,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Fix",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 411,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

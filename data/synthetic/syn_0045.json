@@ -1,0 +1,227 @@
+{
+  "id": "syn_0045",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "concrete",
+  "text": "The scope of work includes RCC, M25 concrete, PCC for the Hospital Building at Hebbal project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay brickbat coba 300mm thick  243  ls  4115  48087\n2  Supply GI conduit  480  ltr  1174  28681\n3  Supply and lay flush door 25mm thick  197  cum  4965  7286\n4  Install Class C brick masonry 8mm diameter  20  cum  3215  17199\n5  Fabricate and erect Class 2 putty  369  rmt  176  40467\n6  Plaster M20 M35 concrete 300mm thick  276  nos  959  68054\n7  Provide and lay Fe415 rebar 16mm thick  68  sqm  4385  27433\n8  Provide and lay HDPE pipe 16mm thick  92  cum  4037  44332\n9  Supply and install membrane 12mm diameter  353  sqm  837  68070\n10  Supply cable 100 x 100mm  141  kg  3903  7564\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes RCC, M25 concrete, PCC for the Hospital Building at Hebbal project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and lay brickbat coba 300mm thick Supply GI conduit Supply and lay flush door 25mm thick Install Class C brick masonry 8mm diameter Fabricate and erect Class 2 putty Plaster M20 M35 concrete 300mm thick Provide and lay Fe415 rebar 16mm thick Provide and lay HDPE pipe 16mm thick Supply and install membrane 12mm diameter Supply cable 100 x 100mm",
+  "sections": {
+    "scope": "The scope of work includes RCC, M25 concrete, PCC for the Hospital Building at Hebbal project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay brickbat coba 300mm thick",
+        "243",
+        "ls",
+        "4115",
+        "48087"
+      ],
+      [
+        "2",
+        "Supply GI conduit",
+        "480",
+        "ltr",
+        "1174",
+        "28681"
+      ],
+      [
+        "3",
+        "Supply and lay flush door 25mm thick",
+        "197",
+        "cum",
+        "4965",
+        "7286"
+      ],
+      [
+        "4",
+        "Install Class C brick masonry 8mm diameter",
+        "20",
+        "cum",
+        "3215",
+        "17199"
+      ],
+      [
+        "5",
+        "Fabricate and erect Class 2 putty",
+        "369",
+        "rmt",
+        "176",
+        "40467"
+      ],
+      [
+        "6",
+        "Plaster M20 M35 concrete 300mm thick",
+        "276",
+        "nos",
+        "959",
+        "68054"
+      ],
+      [
+        "7",
+        "Provide and lay Fe415 rebar 16mm thick",
+        "68",
+        "sqm",
+        "4385",
+        "27433"
+      ],
+      [
+        "8",
+        "Provide and lay HDPE pipe 16mm thick",
+        "92",
+        "cum",
+        "4037",
+        "44332"
+      ],
+      [
+        "9",
+        "Supply and install membrane 12mm diameter",
+        "353",
+        "sqm",
+        "837",
+        "68070"
+      ],
+      [
+        "10",
+        "Supply cable 100 x 100mm",
+        "141",
+        "kg",
+        "3903",
+        "7564"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 243,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 480,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 197,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "8mm diameter",
+        "quantity": 20,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 369,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "M35 concrete",
+        "grade": "M20",
+        "dimension": "300mm thick",
+        "quantity": 276,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and lay",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "16mm thick",
+        "quantity": 68,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and lay",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 92,
+        "unit": "m^3",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 353,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply",
+        "material": "cable",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 141,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "syn_0275",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "steel",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix aluminum window 300mm thick  389  kg  1208  4054\n2  Provide and fix Class 2 putty 10mm diameter  90  kg  4756  62274\n3  Install Class A fly ash brick 150mm thick  67  rmt  4469  57411\n4  Install cable 12mm diameter  247  ls  2735  34788\n5  Supply and install HDPE pipe 100 x 100mm  173  nos  2437  44172\n6  Supply and lay Fe550 MS plate 230mm thick  73  cum  4589  79019\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications. Fix aluminum window 300mm thick Provide and fix Class 2 putty 10mm diameter Install Class A fly ash brick 150mm thick Install cable 12mm diameter Supply and install HDPE pipe 100 x 100mm Supply and lay Fe550 MS plate 230mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix aluminum window 300mm thick",
+        "389",
+        "kg",
+        "1208",
+        "4054"
+      ],
+      [
+        "2",
+        "Provide and fix Class 2 putty 10mm diameter",
+        "90",
+        "kg",
+        "4756",
+        "62274"
+      ],
+      [
+        "3",
+        "Install Class A fly ash brick 150mm thick",
+        "67",
+        "rmt",
+        "4469",
+        "57411"
+      ],
+      [
+        "4",
+        "Install cable 12mm diameter",
+        "247",
+        "ls",
+        "2735",
+        "34788"
+      ],
+      [
+        "5",
+        "Supply and install HDPE pipe 100 x 100mm",
+        "173",
+        "nos",
+        "2437",
+        "44172"
+      ],
+      [
+        "6",
+        "Supply and lay Fe550 MS plate 230mm thick",
+        "73",
+        "cum",
+        "4589",
+        "79019"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 389,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "10mm diameter",
+        "quantity": 90,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "150mm thick",
+        "quantity": 67,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 247,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 173,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "230mm thick",
+        "quantity": 73,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

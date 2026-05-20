@@ -1,0 +1,147 @@
+{
+  "id": "syn_0141",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "steel",
+  "text": "The work comprises TMT steel, GI sheet, rebar for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply M35 M30 concrete 16mm diameter  326  kg  3855  6326\n2  Provide and fix Class B brick masonry 230mm thick  29  rmt  4299  96079\n3  Supply GI pipe 100mm thick  336  nos  2204  95580\n4  Supply and lay Class 2 cement plaster 100 x 100mm  416  kg  4311  71668\n5  Provide and fix membrane  303  set  2351  98893\n6  Lay aluminum window 12mm thick  353  cum  2333  1662\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises TMT steel, GI sheet, rebar for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards. Apply M35 M30 concrete 16mm diameter Provide and fix Class B brick masonry 230mm thick Supply GI pipe 100mm thick Supply and lay Class 2 cement plaster 100 x 100mm Provide and fix membrane Lay aluminum window 12mm thick",
+  "sections": {
+    "scope": "The work comprises TMT steel, GI sheet, rebar for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply M35 M30 concrete 16mm diameter",
+        "326",
+        "kg",
+        "3855",
+        "6326"
+      ],
+      [
+        "2",
+        "Provide and fix Class B brick masonry 230mm thick",
+        "29",
+        "rmt",
+        "4299",
+        "96079"
+      ],
+      [
+        "3",
+        "Supply GI pipe 100mm thick",
+        "336",
+        "nos",
+        "2204",
+        "95580"
+      ],
+      [
+        "4",
+        "Supply and lay Class 2 cement plaster 100 x 100mm",
+        "416",
+        "kg",
+        "4311",
+        "71668"
+      ],
+      [
+        "5",
+        "Provide and fix membrane",
+        "303",
+        "set",
+        "2351",
+        "98893"
+      ],
+      [
+        "6",
+        "Lay aluminum window 12mm thick",
+        "353",
+        "cum",
+        "2333",
+        "1662"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "M30 concrete",
+        "grade": "M35",
+        "dimension": "16mm diameter",
+        "quantity": 326,
+        "unit": "kg",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "230mm thick",
+        "quantity": 29,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 336,
+        "unit": "no.",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "100 x 100mm",
+        "quantity": 416,
+        "unit": "kg",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 303,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 353,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "id": "syn_0157",
+  "project_name": "Warehouse at Peenya",
+  "category": "finishes",
+  "text": "The work comprises POP, putty, paint for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast Fe550 structural steel 16mm thick  304  ltr  2724  18757\n2  Provide and lay CI pipe 6mm diameter  493  ltr  4117  4123\n3  Provide and fix DPC 100 x 100mm  297  set  2452  90660\n4  Provide and install flush door 12mm thick  494  sqm  492  71030\n5  Provide and lay Class 1 cement plaster 150mm thick  207  kg  3653  97801\n6  Lay DB 230mm thick  199  cum  1621  30041\n7  Apply Class A fly ash brick  114  set  227  6928\n8  Supply M25 M35 concrete 100mm thick  362  sqm  2809  24207\n9  Provide and fix Fe415 GI sheet  479  ltr  2116  82495\n10  Plaster HDPE pipe  302  nos  2333  54635\n11  Install brickbat coba  221  ltr  4099  34216\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises POP, putty, paint for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards. Cast Fe550 structural steel 16mm thick Provide and lay CI pipe 6mm diameter Provide and fix DPC 100 x 100mm Provide and install flush door 12mm thick Provide and lay Class 1 cement plaster 150mm thick Lay DB 230mm thick Apply Class A fly ash brick Supply M25 M35 concrete 100mm thick Provide and fix Fe415 GI sheet Plaster HDPE pipe Install brickbat coba",
+  "sections": {
+    "scope": "The work comprises POP, putty, paint for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast Fe550 structural steel 16mm thick",
+        "304",
+        "ltr",
+        "2724",
+        "18757"
+      ],
+      [
+        "2",
+        "Provide and lay CI pipe 6mm diameter",
+        "493",
+        "ltr",
+        "4117",
+        "4123"
+      ],
+      [
+        "3",
+        "Provide and fix DPC 100 x 100mm",
+        "297",
+        "set",
+        "2452",
+        "90660"
+      ],
+      [
+        "4",
+        "Provide and install flush door 12mm thick",
+        "494",
+        "sqm",
+        "492",
+        "71030"
+      ],
+      [
+        "5",
+        "Provide and lay Class 1 cement plaster 150mm thick",
+        "207",
+        "kg",
+        "3653",
+        "97801"
+      ],
+      [
+        "6",
+        "Lay DB 230mm thick",
+        "199",
+        "cum",
+        "1621",
+        "30041"
+      ],
+      [
+        "7",
+        "Apply Class A fly ash brick",
+        "114",
+        "set",
+        "227",
+        "6928"
+      ],
+      [
+        "8",
+        "Supply M25 M35 concrete 100mm thick",
+        "362",
+        "sqm",
+        "2809",
+        "24207"
+      ],
+      [
+        "9",
+        "Provide and fix Fe415 GI sheet",
+        "479",
+        "ltr",
+        "2116",
+        "82495"
+      ],
+      [
+        "10",
+        "Plaster HDPE pipe",
+        "302",
+        "nos",
+        "2333",
+        "54635"
+      ],
+      [
+        "11",
+        "Install brickbat coba",
+        "221",
+        "ltr",
+        "4099",
+        "34216"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "16mm thick",
+        "quantity": 304,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 493,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 297,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 494,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "150mm thick",
+        "quantity": 207,
+        "unit": "kg",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 199,
+        "unit": "m^3",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 114,
+        "unit": "set",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "100mm thick",
+        "quantity": 362,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 479,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Plaster",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 302,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 221,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

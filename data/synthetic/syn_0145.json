@@ -1,0 +1,187 @@
+{
+  "id": "syn_0145",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "steel",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install membrane 12mm diameter  138  ltr  1546  44075\n2  Lay Fe500 rebar  155  nos  2139  45714\n3  Plaster MS door 12mm thick  235  sqm  153  42839\n4  Fabricate and erect Class 2 putty  93  rmt  2595  13395\n5  Plaster M30 M35 concrete  361  rmt  1998  28946\n6  Provide and fix HDPE pipe  402  set  1822  75843\n7  Supply and fix Class B AAC block 12mm thick  108  ltr  1387  43687\n8  Plaster DB 25mm thick  314  ltr  2253  62863\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications. Supply and install membrane 12mm diameter Lay Fe500 rebar Plaster MS door 12mm thick Fabricate and erect Class 2 putty Plaster M30 M35 concrete Provide and fix HDPE pipe Supply and fix Class B AAC block 12mm thick Plaster DB 25mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at first floor for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install membrane 12mm diameter",
+        "138",
+        "ltr",
+        "1546",
+        "44075"
+      ],
+      [
+        "2",
+        "Lay Fe500 rebar",
+        "155",
+        "nos",
+        "2139",
+        "45714"
+      ],
+      [
+        "3",
+        "Plaster MS door 12mm thick",
+        "235",
+        "sqm",
+        "153",
+        "42839"
+      ],
+      [
+        "4",
+        "Fabricate and erect Class 2 putty",
+        "93",
+        "rmt",
+        "2595",
+        "13395"
+      ],
+      [
+        "5",
+        "Plaster M30 M35 concrete",
+        "361",
+        "rmt",
+        "1998",
+        "28946"
+      ],
+      [
+        "6",
+        "Provide and fix HDPE pipe",
+        "402",
+        "set",
+        "1822",
+        "75843"
+      ],
+      [
+        "7",
+        "Supply and fix Class B AAC block 12mm thick",
+        "108",
+        "ltr",
+        "1387",
+        "43687"
+      ],
+      [
+        "8",
+        "Plaster DB 25mm thick",
+        "314",
+        "ltr",
+        "2253",
+        "62863"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 138,
+        "unit": "ltr",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 155,
+        "unit": "no.",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 235,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 93,
+        "unit": "rmt",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Plaster",
+        "material": "M35 concrete",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 361,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 402,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "12mm thick",
+        "quantity": 108,
+        "unit": "ltr",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Plaster",
+        "material": "DB",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 314,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "syn_0149",
+  "project_name": "Commercial Building at MG Road",
+  "category": "electrical",
+  "text": "The scope of work includes cable, light fixture, GI conduit for the Commercial Building at MG Road project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster PVC pipe 100mm thick  339  ltr  2748  6946\n2  Supply and fix Fe415 MS plate  299  cum  1248  92104\n3  Supply and install light fixture 100 x 100mm  315  kg  3498  21641\n4  Supply and fix Class 1 paint 12mm thick  489  rmt  996  22282\n5  Provide and install M35 M20 concrete 25mm thick  166  ltr  2730  4732\n6  Supply and install brickbat coba  465  set  3439  7094\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes cable, light fixture, GI conduit for the Commercial Building at MG Road project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Plaster PVC pipe 100mm thick Supply and fix Fe415 MS plate Supply and install light fixture 100 x 100mm Supply and fix Class 1 paint 12mm thick Provide and install M35 M20 concrete 25mm thick Supply and install brickbat coba",
+  "sections": {
+    "scope": "The scope of work includes cable, light fixture, GI conduit for the Commercial Building at MG Road project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster PVC pipe 100mm thick",
+        "339",
+        "ltr",
+        "2748",
+        "6946"
+      ],
+      [
+        "2",
+        "Supply and fix Fe415 MS plate",
+        "299",
+        "cum",
+        "1248",
+        "92104"
+      ],
+      [
+        "3",
+        "Supply and install light fixture 100 x 100mm",
+        "315",
+        "kg",
+        "3498",
+        "21641"
+      ],
+      [
+        "4",
+        "Supply and fix Class 1 paint 12mm thick",
+        "489",
+        "rmt",
+        "996",
+        "22282"
+      ],
+      [
+        "5",
+        "Provide and install M35 M20 concrete 25mm thick",
+        "166",
+        "ltr",
+        "2730",
+        "4732"
+      ],
+      [
+        "6",
+        "Supply and install brickbat coba",
+        "465",
+        "set",
+        "3439",
+        "7094"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 339,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 299,
+        "unit": "m^3",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 315,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 489,
+        "unit": "rmt",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "25mm thick",
+        "quantity": 166,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 465,
+        "unit": "set",
+        "standard": [
+          "IS 3144"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

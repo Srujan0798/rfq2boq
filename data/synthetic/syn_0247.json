@@ -1,0 +1,147 @@
+{
+  "id": "syn_0247",
+  "project_name": "IT Park Phase 2",
+  "category": "steel",
+  "text": "The scope of work includes rebar, TMT steel, MS plate for the IT Park Phase 2 project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix M40 RCC  284  ltr  3605  68331\n2  Provide and install Fe415 GI sheet 100mm thick  247  ltr  4405  36289\n3  Provide and lay switch 200mm thick  22  kg  997  75958\n4  Provide and lay flush door  327  rmt  457  7599\n5  Erect CI pipe 150 x 150mm  321  rmt  2382  71822\n6  Provide and lay Class 2 tile 230mm thick  239  cum  4802  70177\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes rebar, TMT steel, MS plate for the IT Park Phase 2 project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below. Fix M40 RCC Provide and install Fe415 GI sheet 100mm thick Provide and lay switch 200mm thick Provide and lay flush door Erect CI pipe 150 x 150mm Provide and lay Class 2 tile 230mm thick",
+  "sections": {
+    "scope": "The scope of work includes rebar, TMT steel, MS plate for the IT Park Phase 2 project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix M40 RCC",
+        "284",
+        "ltr",
+        "3605",
+        "68331"
+      ],
+      [
+        "2",
+        "Provide and install Fe415 GI sheet 100mm thick",
+        "247",
+        "ltr",
+        "4405",
+        "36289"
+      ],
+      [
+        "3",
+        "Provide and lay switch 200mm thick",
+        "22",
+        "kg",
+        "997",
+        "75958"
+      ],
+      [
+        "4",
+        "Provide and lay flush door",
+        "327",
+        "rmt",
+        "457",
+        "7599"
+      ],
+      [
+        "5",
+        "Erect CI pipe 150 x 150mm",
+        "321",
+        "rmt",
+        "2382",
+        "71822"
+      ],
+      [
+        "6",
+        "Provide and lay Class 2 tile 230mm thick",
+        "239",
+        "cum",
+        "4802",
+        "70177"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 284,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "100mm thick",
+        "quantity": 247,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "switch",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 22,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 327,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 321,
+        "unit": "rmt",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "230mm thick",
+        "quantity": 239,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

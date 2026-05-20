@@ -1,0 +1,207 @@
+{
+  "id": "syn_0192",
+  "project_name": "Hotel at Airport Road",
+  "category": "finishes",
+  "text": "Supply and installation of tile, cement plaster, POP for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect Class B AAC block 100mm thick  298  cum  3974  21316\n2  Fabricate and erect light fixture 100mm thick  401  ltr  3720  23795\n3  Lay PVC pipe 20mm thick  492  kg  3063  86221\n4  Plaster aluminum window 100 x 100mm  469  cum  2923  54408\n5  Supply and fix M20 RCC 300mm thick  471  ltr  4937  48018\n6  Plaster membrane 6mm diameter  146  sqm  3199  46182\n7  Supply and lay Fe550 GI sheet  482  kg  3589  13878\n8  Fix Class 1 POP 230mm thick  280  ls  1673  36002\n9  Supply and fix Class C hollow block 25mm thick  133  nos  432  4860\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of tile, cement plaster, POP for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Erect Class B AAC block 100mm thick Fabricate and erect light fixture 100mm thick Lay PVC pipe 20mm thick Plaster aluminum window 100 x 100mm Supply and fix M20 RCC 300mm thick Plaster membrane 6mm diameter Supply and lay Fe550 GI sheet Fix Class 1 POP 230mm thick Supply and fix Class C hollow block 25mm thick",
+  "sections": {
+    "scope": "Supply and installation of tile, cement plaster, POP for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect Class B AAC block 100mm thick",
+        "298",
+        "cum",
+        "3974",
+        "21316"
+      ],
+      [
+        "2",
+        "Fabricate and erect light fixture 100mm thick",
+        "401",
+        "ltr",
+        "3720",
+        "23795"
+      ],
+      [
+        "3",
+        "Lay PVC pipe 20mm thick",
+        "492",
+        "kg",
+        "3063",
+        "86221"
+      ],
+      [
+        "4",
+        "Plaster aluminum window 100 x 100mm",
+        "469",
+        "cum",
+        "2923",
+        "54408"
+      ],
+      [
+        "5",
+        "Supply and fix M20 RCC 300mm thick",
+        "471",
+        "ltr",
+        "4937",
+        "48018"
+      ],
+      [
+        "6",
+        "Plaster membrane 6mm diameter",
+        "146",
+        "sqm",
+        "3199",
+        "46182"
+      ],
+      [
+        "7",
+        "Supply and lay Fe550 GI sheet",
+        "482",
+        "kg",
+        "3589",
+        "13878"
+      ],
+      [
+        "8",
+        "Fix Class 1 POP 230mm thick",
+        "280",
+        "ls",
+        "1673",
+        "36002"
+      ],
+      [
+        "9",
+        "Supply and fix Class C hollow block 25mm thick",
+        "133",
+        "nos",
+        "432",
+        "4860"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "100mm thick",
+        "quantity": 298,
+        "unit": "m^3",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 401,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 492,
+        "unit": "kg",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 469,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "300mm thick",
+        "quantity": 471,
+        "unit": "ltr",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 146,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 482,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 280,
+        "unit": "ls",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and fix",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "25mm thick",
+        "quantity": 133,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

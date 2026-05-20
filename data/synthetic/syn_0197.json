@@ -1,0 +1,167 @@
+{
+  "id": "syn_0197",
+  "project_name": "Hotel at Airport Road",
+  "category": "steel",
+  "text": "The scope of work includes TMT steel, GI sheet, structural steel for the Hotel at Airport Road project located at balcony. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install flush door  211  nos  3816  15093\n2  Provide and install switch 200 x 200mm  64  kg  1856  55982\n3  Provide and install Class 1 paint 150 x 150mm  418  ltr  231  82365\n4  Apply integral waterproofing  452  sqm  388  47381\n5  Erect Class B AAC block 16mm diameter  325  sqm  4699  8882\n6  Fix SWR pipe  254  cum  2025  68404\n7  Install Fe550 rebar 300mm thick  402  ls  4666  57118\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes TMT steel, GI sheet, structural steel for the Hotel at Airport Road project located at balcony. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and install flush door Provide and install switch 200 x 200mm Provide and install Class 1 paint 150 x 150mm Apply integral waterproofing Erect Class B AAC block 16mm diameter Fix SWR pipe Install Fe550 rebar 300mm thick",
+  "sections": {
+    "scope": "The scope of work includes TMT steel, GI sheet, structural steel for the Hotel at Airport Road project located at balcony. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install flush door",
+        "211",
+        "nos",
+        "3816",
+        "15093"
+      ],
+      [
+        "2",
+        "Provide and install switch 200 x 200mm",
+        "64",
+        "kg",
+        "1856",
+        "55982"
+      ],
+      [
+        "3",
+        "Provide and install Class 1 paint 150 x 150mm",
+        "418",
+        "ltr",
+        "231",
+        "82365"
+      ],
+      [
+        "4",
+        "Apply integral waterproofing",
+        "452",
+        "sqm",
+        "388",
+        "47381"
+      ],
+      [
+        "5",
+        "Erect Class B AAC block 16mm diameter",
+        "325",
+        "sqm",
+        "4699",
+        "8882"
+      ],
+      [
+        "6",
+        "Fix SWR pipe",
+        "254",
+        "cum",
+        "2025",
+        "68404"
+      ],
+      [
+        "7",
+        "Install Fe550 rebar 300mm thick",
+        "402",
+        "ls",
+        "4666",
+        "57118"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 211,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 64,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "150 x 150mm",
+        "quantity": 418,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 452,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "16mm diameter",
+        "quantity": 325,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 254,
+        "unit": "m^3",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "300mm thick",
+        "quantity": 402,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

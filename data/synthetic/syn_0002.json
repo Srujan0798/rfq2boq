@@ -1,0 +1,227 @@
+{
+  "id": "syn_0002",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "brickwork",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hospital Building at Hebbal project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install PVC pipe 10mm diameter  345  set  2269  19301\n2  Apply aluminum window 6mm diameter  309  ltr  1896  19131\n3  Fix DPC  34  sqm  3558  79172\n4  Erect Class 2 cement plaster 100mm thick  315  set  1038  90353\n5  Provide and fix Class C fly ash brick 10mm diameter  67  nos  2257  66612\n6  Install GI conduit 16mm diameter  330  nos  1729  21032\n7  Lay Fe415 structural steel 12mm diameter  498  cum  1016  48576\n8  Supply and install M25 M30 concrete  133  sqm  666  70822\n9  Plaster PVC pipe  253  rmt  3566  28760\n10  Erect aluminum window 16mm diameter  353  ls  1091  33493\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hospital Building at Hebbal project. All work to be carried out as per specifications. Provide and install PVC pipe 10mm diameter Apply aluminum window 6mm diameter Fix DPC Erect Class 2 cement plaster 100mm thick Provide and fix Class C fly ash brick 10mm diameter Install GI conduit 16mm diameter Lay Fe415 structural steel 12mm diameter Supply and install M25 M30 concrete Plaster PVC pipe Erect aluminum window 16mm diameter",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hospital Building at Hebbal project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install PVC pipe 10mm diameter",
+        "345",
+        "set",
+        "2269",
+        "19301"
+      ],
+      [
+        "2",
+        "Apply aluminum window 6mm diameter",
+        "309",
+        "ltr",
+        "1896",
+        "19131"
+      ],
+      [
+        "3",
+        "Fix DPC",
+        "34",
+        "sqm",
+        "3558",
+        "79172"
+      ],
+      [
+        "4",
+        "Erect Class 2 cement plaster 100mm thick",
+        "315",
+        "set",
+        "1038",
+        "90353"
+      ],
+      [
+        "5",
+        "Provide and fix Class C fly ash brick 10mm diameter",
+        "67",
+        "nos",
+        "2257",
+        "66612"
+      ],
+      [
+        "6",
+        "Install GI conduit 16mm diameter",
+        "330",
+        "nos",
+        "1729",
+        "21032"
+      ],
+      [
+        "7",
+        "Lay Fe415 structural steel 12mm diameter",
+        "498",
+        "cum",
+        "1016",
+        "48576"
+      ],
+      [
+        "8",
+        "Supply and install M25 M30 concrete",
+        "133",
+        "sqm",
+        "666",
+        "70822"
+      ],
+      [
+        "9",
+        "Plaster PVC pipe",
+        "253",
+        "rmt",
+        "3566",
+        "28760"
+      ],
+      [
+        "10",
+        "Erect aluminum window 16mm diameter",
+        "353",
+        "ls",
+        "1091",
+        "33493"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 345,
+        "unit": "set",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 309,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 34,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "100mm thick",
+        "quantity": 315,
+        "unit": "set",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "10mm diameter",
+        "quantity": 67,
+        "unit": "no.",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 330,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "12mm diameter",
+        "quantity": 498,
+        "unit": "m^3",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and install",
+        "material": "M30 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 133,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Plaster",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 253,
+        "unit": "rmt",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Erect",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 353,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "syn_0030",
+  "project_name": "Warehouse at Peenya",
+  "category": "waterproofing",
+  "text": "The work comprises DPC, membrane, integral waterproofing for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay DPC 20mm thick  386  set  3180  37739\n2  Supply and lay M30 M35 concrete 12mm thick  487  kg  4606  4527\n3  Fabricate and erect glass 200mm thick  418  nos  4190  19242\n4  Provide and lay Class 1 tile 6mm diameter  347  rmt  3778  79372\n5  Erect Fe550 GI sheet 200 x 200mm  283  ltr  4498  78833\n6  Fix cable  137  ls  462  74822\n7  Fix Class B hollow block  230  sqm  1918  67935\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises DPC, membrane, integral waterproofing for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards. Provide and lay DPC 20mm thick Supply and lay M30 M35 concrete 12mm thick Fabricate and erect glass 200mm thick Provide and lay Class 1 tile 6mm diameter Erect Fe550 GI sheet 200 x 200mm Fix cable Fix Class B hollow block",
+  "sections": {
+    "scope": "The work comprises DPC, membrane, integral waterproofing for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay DPC 20mm thick",
+        "386",
+        "set",
+        "3180",
+        "37739"
+      ],
+      [
+        "2",
+        "Supply and lay M30 M35 concrete 12mm thick",
+        "487",
+        "kg",
+        "4606",
+        "4527"
+      ],
+      [
+        "3",
+        "Fabricate and erect glass 200mm thick",
+        "418",
+        "nos",
+        "4190",
+        "19242"
+      ],
+      [
+        "4",
+        "Provide and lay Class 1 tile 6mm diameter",
+        "347",
+        "rmt",
+        "3778",
+        "79372"
+      ],
+      [
+        "5",
+        "Erect Fe550 GI sheet 200 x 200mm",
+        "283",
+        "ltr",
+        "4498",
+        "78833"
+      ],
+      [
+        "6",
+        "Fix cable",
+        "137",
+        "ls",
+        "462",
+        "74822"
+      ],
+      [
+        "7",
+        "Fix Class B hollow block",
+        "230",
+        "sqm",
+        "1918",
+        "67935"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 386,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "M35 concrete",
+        "grade": "M30",
+        "dimension": "12mm thick",
+        "quantity": 487,
+        "unit": "kg",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "glass",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 418,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "6mm diameter",
+        "quantity": 347,
+        "unit": "rmt",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "200 x 200mm",
+        "quantity": 283,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 137,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 230,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

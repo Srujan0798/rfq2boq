@@ -1,0 +1,37 @@
+Items described in the Bill of Quantities are to be supplied and installed at balcony for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay Fe500 structural steel  375  nos  2719  71798
+2  Supply and fix M25 M20 concrete 16mm thick  128  ltr  3498  54424
+3  Erect HDPE pipe 6mm diameter  41  kg  260  76456
+4  Supply and install light fixture  492  ls  3532  71545
+5  Provide and install Class B AAC block 6mm diameter  149  ltr  3412  95919
+6  Supply aluminum window 100mm thick  75  cum  3611  18786
+7  Supply and install DPC 10mm diameter  143  ltr  2864  50692
+8  Provide and lay Class 2 tile 150mm thick  437  sqm  1936  86215
+9  Supply and install Fe550 TMT steel 16mm thick  396  cum  1348  32266
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

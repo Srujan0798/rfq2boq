@@ -1,0 +1,147 @@
+{
+  "id": "syn_0188",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "piping",
+  "text": "The scope of work includes GI pipe, CI pipe, PVC pipe for the Residential Complex at Whitefield project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay light fixture 16mm thick  109  ltr  625  53390\n2  Supply and fix Class 1 tile  354  sqm  2517  96156\n3  Erect PVC pipe  162  rmt  1169  49268\n4  Provide and install Fe500 rebar 25mm thick  63  nos  3884  6344\n5  Plaster DPC 200 x 200mm  209  rmt  446  25456\n6  Apply glass 12mm thick  355  ls  1670  96583\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes GI pipe, CI pipe, PVC pipe for the Residential Complex at Whitefield project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below. Lay light fixture 16mm thick Supply and fix Class 1 tile Erect PVC pipe Provide and install Fe500 rebar 25mm thick Plaster DPC 200 x 200mm Apply glass 12mm thick",
+  "sections": {
+    "scope": "The scope of work includes GI pipe, CI pipe, PVC pipe for the Residential Complex at Whitefield project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay light fixture 16mm thick",
+        "109",
+        "ltr",
+        "625",
+        "53390"
+      ],
+      [
+        "2",
+        "Supply and fix Class 1 tile",
+        "354",
+        "sqm",
+        "2517",
+        "96156"
+      ],
+      [
+        "3",
+        "Erect PVC pipe",
+        "162",
+        "rmt",
+        "1169",
+        "49268"
+      ],
+      [
+        "4",
+        "Provide and install Fe500 rebar 25mm thick",
+        "63",
+        "nos",
+        "3884",
+        "6344"
+      ],
+      [
+        "5",
+        "Plaster DPC 200 x 200mm",
+        "209",
+        "rmt",
+        "446",
+        "25456"
+      ],
+      [
+        "6",
+        "Apply glass 12mm thick",
+        "355",
+        "ls",
+        "1670",
+        "96583"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 109,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 354,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 162,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and install",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "25mm thick",
+        "quantity": 63,
+        "unit": "no.",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Plaster",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 209,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 355,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

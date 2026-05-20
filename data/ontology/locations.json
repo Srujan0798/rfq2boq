@@ -1,0 +1,429 @@
+{
+  "locations": [
+    {
+      "name": "basement",
+      "aliases": [
+        "basement level",
+        "below ground",
+        "cellar",
+        "basement floor",
+        "BMT"
+      ]
+    },
+    {
+      "name": "ground floor",
+      "aliases": [
+        "GF",
+        "ground level",
+        "grade level",
+        "GFL",
+        "ground floor slab"
+      ]
+    },
+    {
+      "name": "first floor",
+      "aliases": [
+        "1st floor",
+        "FF",
+        "first floor level",
+        "floor 1"
+      ]
+    },
+    {
+      "name": "second floor",
+      "aliases": [
+        "2nd floor",
+        "SF",
+        "second floor level",
+        "floor 2"
+      ]
+    },
+    {
+      "name": "third floor",
+      "aliases": [
+        "3rd floor",
+        "TF",
+        "third floor level",
+        "floor 3"
+      ]
+    },
+    {
+      "name": "roof level",
+      "aliases": [
+        "rooftop",
+        "terrace",
+        "roof",
+        "roof slab",
+        "top floor"
+      ]
+    },
+    {
+      "name": "attic",
+      "aliases": [
+        "loft",
+        "attic space"
+      ]
+    },
+    {
+      "name": "plinth",
+      "aliases": [
+        "plinth level",
+        "plinth",
+        "base"
+      ]
+    },
+    {
+      "name": "foundation",
+      "aliases": [
+        "foundations",
+        "footings",
+        "base course",
+        "ground level"
+      ]
+    },
+    {
+      "name": "superstructure",
+      "aliases": [
+        "super structure",
+        "above ground",
+        "building"
+      ]
+    },
+    {
+      "name": "exterior walls",
+      "aliases": [
+        "external walls",
+        "outer walls",
+        "facade",
+        "exterior",
+        "ext wall"
+      ]
+    },
+    {
+      "name": "interior walls",
+      "aliases": [
+        "internal walls",
+        "inner walls",
+        "partition wall",
+        "int wall"
+      ]
+    },
+    {
+      "name": "compound wall",
+      "aliases": [
+        "boundary wall",
+        "compound",
+        "perimeter wall",
+        "fencing wall"
+      ]
+    },
+    {
+      "name": "living room",
+      "aliases": [
+        "living",
+        "lounge",
+        "drawing room",
+        "hall"
+      ]
+    },
+    {
+      "name": "bedroom",
+      "aliases": [
+        "bed room",
+        "master bedroom",
+        "room"
+      ]
+    },
+    {
+      "name": "bathroom",
+      "aliases": [
+        "toilet",
+        "WC",
+        "restroom",
+        "lavatory"
+      ]
+    },
+    {
+      "name": "kitchen",
+      "aliases": [
+        "cook house",
+        "pantry"
+      ]
+    },
+    {
+      "name": "balcony",
+      "aliases": [
+        "verandah",
+        "porch",
+        "deck"
+      ]
+    },
+    {
+      "name": "corridor",
+      "aliases": [
+        "hallway",
+        "passage",
+        "entry"
+      ]
+    },
+    {
+      "name": "staircase",
+      "aliases": [
+        "stairs",
+        "stair",
+        "step"
+      ]
+    },
+    {
+      "name": "lift",
+      "aliases": [
+        "elevator",
+        "lift shaft",
+        "elevator shaft"
+      ]
+    },
+    {
+      "name": "parking",
+      "aliases": [
+        "car park",
+        "parking area",
+        "garage",
+        "shed"
+      ]
+    },
+    {
+      "name": "garden",
+      "aliases": [
+        "lawn",
+        "landscape area",
+        "soft landscape"
+      ]
+    },
+    {
+      "name": "terrace",
+      "aliases": [
+        "rooftop terrace",
+        "deck",
+        "balcony"
+      ]
+    },
+    {
+      "name": "structural",
+      "aliases": [
+        "structural element",
+        "load bearing"
+      ]
+    },
+    {
+      "name": "non structural",
+      "aliases": [
+        "non structural",
+        "partition",
+        "false ceiling"
+      ]
+    },
+    {
+      "name": "chajja",
+      "aliases": [
+        "chajja",
+        "sunshade",
+        "canopy",
+        "projection"
+      ]
+    },
+    {
+      "name": "lintel",
+      "aliases": [
+        "lintel",
+        "beam over opening"
+      ]
+    },
+    {
+      "name": "sill",
+      "aliases": [
+        "window sill",
+        "shelf"
+      ]
+    },
+    {
+      "name": "soffit",
+      "aliases": [
+        "soffit",
+        "underside of arch"
+      ]
+    },
+    {
+      "name": "parapet",
+      "aliases": [
+        "parapet wall",
+        "railing"
+      ]
+    },
+    {
+      "name": "water tank",
+      "aliases": [
+        "tank",
+        "overhead tank",
+        "underground tank",
+        "sump"
+      ]
+    },
+    {
+      "name": "sump",
+      "aliases": [
+        "underground tank",
+        "water storage"
+      ]
+    },
+    {
+      "name": "septic tank",
+      "aliases": [
+        "septic",
+        "sewage tank"
+      ]
+    },
+    {
+      "name": "drain",
+      "aliases": [
+        "drainage",
+        "sewer",
+        "sewer line"
+      ]
+    },
+    {
+      "name": "manhole",
+      "aliases": [
+        "MH",
+        "inspection chamber",
+        "chamber"
+      ]
+    },
+    {
+      "name": "approach road",
+      "aliases": [
+        "road",
+        "driveway",
+        "pathway",
+        "path"
+      ]
+    },
+    {
+      "name": "compound gate",
+      "aliases": [
+        "entrance gate",
+        "main gate",
+        "entry"
+      ]
+    },
+    {
+      "name": "electrical room",
+      "aliases": [
+        "meter room",
+        "transformer",
+        "panel room",
+        "substation"
+      ]
+    },
+    {
+      "name": "pump room",
+      "aliases": [
+        "pump house",
+        "motor room"
+      ]
+    },
+    {
+      "name": "generator room",
+      "aliases": [
+        "DG room",
+        "diesel generator"
+      ]
+    },
+    {
+      "name": "HVAC room",
+      "aliases": [
+        "AC plant room",
+        "AHU room",
+        "chiller room"
+      ]
+    },
+    {
+      "name": "fire pump room",
+      "aliases": [
+        "fire fighting",
+        "pump"
+      ]
+    },
+    {
+      "name": "plot",
+      "aliases": [
+        "site",
+        "property",
+        "land"
+      ]
+    },
+    {
+      "name": "block a",
+      "aliases": [
+        "Block A",
+        "Block-A",
+        "wing A",
+        "building A"
+      ]
+    },
+    {
+      "name": "block b",
+      "aliases": [
+        "Block B",
+        "Block-B",
+        "wing B",
+        "building B"
+      ]
+    },
+    {
+      "name": "block c",
+      "aliases": [
+        "Block C",
+        "Block-C",
+        "wing C",
+        "building C"
+      ]
+    },
+    {
+      "name": "basement 1",
+      "aliases": [
+        "B1",
+        "basement one",
+        "lower basement"
+      ]
+    },
+    {
+      "name": "basement 2",
+      "aliases": [
+        "B2",
+        "basement two",
+        "deeper basement"
+      ]
+    },
+    {
+      "name": "mechanical",
+      "aliases": [
+        "Mech room",
+        "equipment area"
+      ]
+    },
+    {
+      "name": "plumbing",
+      "aliases": [
+        "plumb area",
+        "pipe zone"
+      ]
+    },
+    {
+      "name": "fire safety",
+      "aliases": [
+        "fire protection",
+        "sprinkler zone"
+      ]
+    }
+  ]
+}

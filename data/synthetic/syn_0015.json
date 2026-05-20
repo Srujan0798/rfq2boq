@@ -1,0 +1,207 @@
+{
+  "id": "syn_0015",
+  "project_name": "IT Park Phase 2",
+  "category": "steel",
+  "text": "Supply and installation of structural steel, rebar, MS plate for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install Fe550 rebar 20mm thick  120  ltr  2876  60441\n2  Apply glass 25mm thick  58  ls  1350  91023\n3  Supply and lay Class A hollow block  435  sqm  3152  18054\n4  Cast M20 PCC 8mm diameter  499  ls  3564  95510\n5  Cast Class 2 cement plaster  169  ls  1842  21280\n6  Install DPC 200 x 200mm  65  ls  2382  76248\n7  Install PVC pipe 25mm thick  297  cum  1577  36818\n8  Provide and fix switch 6mm diameter  13  rmt  1262  98120\n9  Apply Fe415 TMT steel 10mm diameter  281  kg  1389  49503\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of structural steel, rebar, MS plate for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install Fe550 rebar 20mm thick Apply glass 25mm thick Supply and lay Class A hollow block Cast M20 PCC 8mm diameter Cast Class 2 cement plaster Install DPC 200 x 200mm Install PVC pipe 25mm thick Provide and fix switch 6mm diameter Apply Fe415 TMT steel 10mm diameter",
+  "sections": {
+    "scope": "Supply and installation of structural steel, rebar, MS plate for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install Fe550 rebar 20mm thick",
+        "120",
+        "ltr",
+        "2876",
+        "60441"
+      ],
+      [
+        "2",
+        "Apply glass 25mm thick",
+        "58",
+        "ls",
+        "1350",
+        "91023"
+      ],
+      [
+        "3",
+        "Supply and lay Class A hollow block",
+        "435",
+        "sqm",
+        "3152",
+        "18054"
+      ],
+      [
+        "4",
+        "Cast M20 PCC 8mm diameter",
+        "499",
+        "ls",
+        "3564",
+        "95510"
+      ],
+      [
+        "5",
+        "Cast Class 2 cement plaster",
+        "169",
+        "ls",
+        "1842",
+        "21280"
+      ],
+      [
+        "6",
+        "Install DPC 200 x 200mm",
+        "65",
+        "ls",
+        "2382",
+        "76248"
+      ],
+      [
+        "7",
+        "Install PVC pipe 25mm thick",
+        "297",
+        "cum",
+        "1577",
+        "36818"
+      ],
+      [
+        "8",
+        "Provide and fix switch 6mm diameter",
+        "13",
+        "rmt",
+        "1262",
+        "98120"
+      ],
+      [
+        "9",
+        "Apply Fe415 TMT steel 10mm diameter",
+        "281",
+        "kg",
+        "1389",
+        "49503"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "20mm thick",
+        "quantity": 120,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 58,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 435,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "8mm diameter",
+        "quantity": 499,
+        "unit": "ls",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 169,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 65,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 297,
+        "unit": "m^3",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 13,
+        "unit": "rmt",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Apply",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "10mm diameter",
+        "quantity": 281,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

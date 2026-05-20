@@ -1,0 +1,37 @@
+Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and fix Fe500 TMT steel 20mm thick  83  set  1406  85683
+2  Cast Class 2 paint 200mm thick  109  kg  2362  19407
+3  Apply DPC  388  rmt  2356  43922
+4  Lay flush door 12mm diameter  169  sqm  3690  40167
+5  Supply and fix GI pipe 150mm thick  46  ls  2192  15789
+6  Cast Class B hollow block 20mm thick  96  set  944  12609
+7  Provide and install DB 8mm diameter  455  set  564  84631
+8  Install M30 M20 concrete 16mm diameter  380  nos  3537  88422
+9  Supply and lay Fe500 structural steel 12mm diameter  16  sqm  4898  65877
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

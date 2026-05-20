@@ -1,0 +1,187 @@
+{
+  "id": "syn_0278",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "concrete",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix GI conduit 300mm thick  398  ltr  4136  59903\n2  Provide and install CI pipe 16mm diameter  114  sqm  376  53222\n3  Apply glass 10mm diameter  254  cum  1798  74205\n4  Provide and install Class A fly ash brick 150 x 150mm  203  cum  4224  40876\n5  Supply and lay Class 2 POP 100 x 100mm  382  cum  539  18337\n6  Supply and install DPC 200 x 200mm  355  ltr  1468  57102\n7  Supply and fix M35 M35 concrete 8mm diameter  200  cum  212  6244\n8  Erect Fe550 MS plate 6mm diameter  107  ls  3472  96542\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the Apartment Block at HSR Layout project. All work to be carried out as per specifications. Fix GI conduit 300mm thick Provide and install CI pipe 16mm diameter Apply glass 10mm diameter Provide and install Class A fly ash brick 150 x 150mm Supply and lay Class 2 POP 100 x 100mm Supply and install DPC 200 x 200mm Supply and fix M35 M35 concrete 8mm diameter Erect Fe550 MS plate 6mm diameter",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix GI conduit 300mm thick",
+        "398",
+        "ltr",
+        "4136",
+        "59903"
+      ],
+      [
+        "2",
+        "Provide and install CI pipe 16mm diameter",
+        "114",
+        "sqm",
+        "376",
+        "53222"
+      ],
+      [
+        "3",
+        "Apply glass 10mm diameter",
+        "254",
+        "cum",
+        "1798",
+        "74205"
+      ],
+      [
+        "4",
+        "Provide and install Class A fly ash brick 150 x 150mm",
+        "203",
+        "cum",
+        "4224",
+        "40876"
+      ],
+      [
+        "5",
+        "Supply and lay Class 2 POP 100 x 100mm",
+        "382",
+        "cum",
+        "539",
+        "18337"
+      ],
+      [
+        "6",
+        "Supply and install DPC 200 x 200mm",
+        "355",
+        "ltr",
+        "1468",
+        "57102"
+      ],
+      [
+        "7",
+        "Supply and fix M35 M35 concrete 8mm diameter",
+        "200",
+        "cum",
+        "212",
+        "6244"
+      ],
+      [
+        "8",
+        "Erect Fe550 MS plate 6mm diameter",
+        "107",
+        "ls",
+        "3472",
+        "96542"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 398,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 114,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 254,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and install",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "150 x 150mm",
+        "quantity": 203,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "100 x 100mm",
+        "quantity": 382,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 355,
+        "unit": "ltr",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "8mm diameter",
+        "quantity": 200,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "6mm diameter",
+        "quantity": 107,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "syn_0026",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "waterproofing",
+  "text": "The scope of work includes membrane, integral waterproofing, DPC for the Apartment Block at HSR Layout project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply Class C hollow block 20mm thick  288  ltr  3873  46371\n2  Provide and install GI conduit  489  sqm  3534  81599\n3  Provide and install Class 1 cement plaster 10mm diameter  44  sqm  498  33077\n4  Erect M20 RCC 150mm thick  234  kg  4227  38914\n5  Cast aluminum window  316  ls  4370  29972\n6  Provide and lay Fe500 GI sheet 8mm diameter  41  rmt  4160  7145\n7  Fix HDPE pipe 8mm diameter  278  ls  2556  50343\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes membrane, integral waterproofing, DPC for the Apartment Block at HSR Layout project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below. Apply Class C hollow block 20mm thick Provide and install GI conduit Provide and install Class 1 cement plaster 10mm diameter Erect M20 RCC 150mm thick Cast aluminum window Provide and lay Fe500 GI sheet 8mm diameter Fix HDPE pipe 8mm diameter",
+  "sections": {
+    "scope": "The scope of work includes membrane, integral waterproofing, DPC for the Apartment Block at HSR Layout project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply Class C hollow block 20mm thick",
+        "288",
+        "ltr",
+        "3873",
+        "46371"
+      ],
+      [
+        "2",
+        "Provide and install GI conduit",
+        "489",
+        "sqm",
+        "3534",
+        "81599"
+      ],
+      [
+        "3",
+        "Provide and install Class 1 cement plaster 10mm diameter",
+        "44",
+        "sqm",
+        "498",
+        "33077"
+      ],
+      [
+        "4",
+        "Erect M20 RCC 150mm thick",
+        "234",
+        "kg",
+        "4227",
+        "38914"
+      ],
+      [
+        "5",
+        "Cast aluminum window",
+        "316",
+        "ls",
+        "4370",
+        "29972"
+      ],
+      [
+        "6",
+        "Provide and lay Fe500 GI sheet 8mm diameter",
+        "41",
+        "rmt",
+        "4160",
+        "7145"
+      ],
+      [
+        "7",
+        "Fix HDPE pipe 8mm diameter",
+        "278",
+        "ls",
+        "2556",
+        "50343"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "20mm thick",
+        "quantity": 288,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 489,
+        "unit": "m^2",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "10mm diameter",
+        "quantity": 44,
+        "unit": "m^2",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "150mm thick",
+        "quantity": 234,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 316,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "8mm diameter",
+        "quantity": 41,
+        "unit": "rmt",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 278,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

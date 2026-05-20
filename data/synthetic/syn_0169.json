@@ -1,0 +1,267 @@
+{
+  "id": "syn_0169",
+  "project_name": "IT Park Phase 2",
+  "category": "doors_windows",
+  "text": "The work comprises glass, flush door, aluminum window for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay M35 M30 concrete 150 x 150mm  318  nos  3922  60083\n2  Supply SWR pipe 300mm thick  31  ls  2898  71806\n3  Install GI conduit 6mm diameter  415  kg  3532  15664\n4  Lay Class 1 putty  63  cum  1449  97955\n5  Apply Fe550 MS plate 150 x 150mm  413  ls  3158  72886\n6  Plaster Class C hollow block  429  ltr  3442  91151\n7  Plaster brickbat coba  339  set  1642  94874\n8  Fabricate and erect flush door 100 x 100mm  83  sqm  3426  40696\n9  Plaster M40 M25 concrete  59  kg  2523  16869\n10  Install PVC pipe  407  sqm  1074  56301\n11  Supply and install switch 200 x 200mm  367  nos  2588  57167\n12  Plaster Class 2 putty 150mm thick  324  cum  2718  47071\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises glass, flush door, aluminum window for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards. Supply and lay M35 M30 concrete 150 x 150mm Supply SWR pipe 300mm thick Install GI conduit 6mm diameter Lay Class 1 putty Apply Fe550 MS plate 150 x 150mm Plaster Class C hollow block Plaster brickbat coba Fabricate and erect flush door 100 x 100mm Plaster M40 M25 concrete Install PVC pipe Supply and install switch 200 x 200mm Plaster Class 2 putty 150mm thick",
+  "sections": {
+    "scope": "The work comprises glass, flush door, aluminum window for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay M35 M30 concrete 150 x 150mm",
+        "318",
+        "nos",
+        "3922",
+        "60083"
+      ],
+      [
+        "2",
+        "Supply SWR pipe 300mm thick",
+        "31",
+        "ls",
+        "2898",
+        "71806"
+      ],
+      [
+        "3",
+        "Install GI conduit 6mm diameter",
+        "415",
+        "kg",
+        "3532",
+        "15664"
+      ],
+      [
+        "4",
+        "Lay Class 1 putty",
+        "63",
+        "cum",
+        "1449",
+        "97955"
+      ],
+      [
+        "5",
+        "Apply Fe550 MS plate 150 x 150mm",
+        "413",
+        "ls",
+        "3158",
+        "72886"
+      ],
+      [
+        "6",
+        "Plaster Class C hollow block",
+        "429",
+        "ltr",
+        "3442",
+        "91151"
+      ],
+      [
+        "7",
+        "Plaster brickbat coba",
+        "339",
+        "set",
+        "1642",
+        "94874"
+      ],
+      [
+        "8",
+        "Fabricate and erect flush door 100 x 100mm",
+        "83",
+        "sqm",
+        "3426",
+        "40696"
+      ],
+      [
+        "9",
+        "Plaster M40 M25 concrete",
+        "59",
+        "kg",
+        "2523",
+        "16869"
+      ],
+      [
+        "10",
+        "Install PVC pipe",
+        "407",
+        "sqm",
+        "1074",
+        "56301"
+      ],
+      [
+        "11",
+        "Supply and install switch 200 x 200mm",
+        "367",
+        "nos",
+        "2588",
+        "57167"
+      ],
+      [
+        "12",
+        "Plaster Class 2 putty 150mm thick",
+        "324",
+        "cum",
+        "2718",
+        "47071"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "M30 concrete",
+        "grade": "M35",
+        "dimension": "150 x 150mm",
+        "quantity": 318,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 31,
+        "unit": "ls",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 415,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 63,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "150 x 150mm",
+        "quantity": 413,
+        "unit": "ls",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 429,
+        "unit": "ltr",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Plaster",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 339,
+        "unit": "set",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fabricate and erect",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 83,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Plaster",
+        "material": "M25 concrete",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 59,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 407,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 367,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Plaster",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "150mm thick",
+        "quantity": 324,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

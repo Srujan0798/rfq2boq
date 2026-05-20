@@ -1,0 +1,147 @@
+{
+  "id": "syn_0163",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "steel",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the Residential Complex at Whitefield project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast SWR pipe 12mm diameter  144  ls  4193  40353\n2  Lay Fe500 GI sheet  391  kg  449  91553\n3  Fabricate and erect Class 2 tile 6mm diameter  460  set  3904  60267\n4  Apply Class A AAC block 100mm thick  394  ltr  2694  50998\n5  Provide and fix membrane 12mm thick  17  ltr  4957  25105\n6  Supply and install aluminum window  210  set  1720  3841\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the Residential Complex at Whitefield project. All work to be carried out as per specifications. Cast SWR pipe 12mm diameter Lay Fe500 GI sheet Fabricate and erect Class 2 tile 6mm diameter Apply Class A AAC block 100mm thick Provide and fix membrane 12mm thick Supply and install aluminum window",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the Residential Complex at Whitefield project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast SWR pipe 12mm diameter",
+        "144",
+        "ls",
+        "4193",
+        "40353"
+      ],
+      [
+        "2",
+        "Lay Fe500 GI sheet",
+        "391",
+        "kg",
+        "449",
+        "91553"
+      ],
+      [
+        "3",
+        "Fabricate and erect Class 2 tile 6mm diameter",
+        "460",
+        "set",
+        "3904",
+        "60267"
+      ],
+      [
+        "4",
+        "Apply Class A AAC block 100mm thick",
+        "394",
+        "ltr",
+        "2694",
+        "50998"
+      ],
+      [
+        "5",
+        "Provide and fix membrane 12mm thick",
+        "17",
+        "ltr",
+        "4957",
+        "25105"
+      ],
+      [
+        "6",
+        "Supply and install aluminum window",
+        "210",
+        "set",
+        "1720",
+        "3841"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 144,
+        "unit": "ls",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 391,
+        "unit": "kg",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "6mm diameter",
+        "quantity": 460,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "100mm thick",
+        "quantity": 394,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 17,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 210,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

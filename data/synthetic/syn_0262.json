@@ -1,0 +1,127 @@
+{
+  "id": "syn_0262",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "finishes",
+  "text": "The work comprises tile, cement plaster, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect Class C hollow block 20mm thick  434  kg  4924  78275\n2  Provide and fix Fe500 rebar 150mm thick  58  ls  2887  62246\n3  Plaster M40 RCC  158  ltr  2832  84432\n4  Install MS door 150 x 150mm  388  rmt  4014  18691\n5  Supply and install Class 1 paint 300mm thick  388  nos  4888  23057\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises tile, cement plaster, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Erect Class C hollow block 20mm thick Provide and fix Fe500 rebar 150mm thick Plaster M40 RCC Install MS door 150 x 150mm Supply and install Class 1 paint 300mm thick",
+  "sections": {
+    "scope": "The work comprises tile, cement plaster, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect Class C hollow block 20mm thick",
+        "434",
+        "kg",
+        "4924",
+        "78275"
+      ],
+      [
+        "2",
+        "Provide and fix Fe500 rebar 150mm thick",
+        "58",
+        "ls",
+        "2887",
+        "62246"
+      ],
+      [
+        "3",
+        "Plaster M40 RCC",
+        "158",
+        "ltr",
+        "2832",
+        "84432"
+      ],
+      [
+        "4",
+        "Install MS door 150 x 150mm",
+        "388",
+        "rmt",
+        "4014",
+        "18691"
+      ],
+      [
+        "5",
+        "Supply and install Class 1 paint 300mm thick",
+        "388",
+        "nos",
+        "4888",
+        "23057"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "20mm thick",
+        "quantity": 434,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "150mm thick",
+        "quantity": 58,
+        "unit": "ls",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 158,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 388,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "300mm thick",
+        "quantity": 388,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

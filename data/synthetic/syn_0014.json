@@ -1,0 +1,187 @@
+{
+  "id": "syn_0014",
+  "project_name": "Commercial Building at MG Road",
+  "category": "electrical",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Commercial Building at MG Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect integral waterproofing 10mm diameter  151  kg  1837  85109\n2  Fix flush door 16mm thick  180  kg  4640  28152\n3  Install SWR pipe 300mm thick  455  kg  123  37342\n4  Lay M25 M25 concrete  138  rmt  1179  2947\n5  Cast Class A fly ash brick  175  cum  1138  98218\n6  Supply and lay Fe550 GI sheet 200 x 200mm  391  sqm  4963  15293\n7  Cast Class 1 paint 100mm thick  32  nos  4023  53640\n8  Fabricate and erect light fixture  374  set  2738  80730\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Commercial Building at MG Road project. All work to be carried out as per specifications. Erect integral waterproofing 10mm diameter Fix flush door 16mm thick Install SWR pipe 300mm thick Lay M25 M25 concrete Cast Class A fly ash brick Supply and lay Fe550 GI sheet 200 x 200mm Cast Class 1 paint 100mm thick Fabricate and erect light fixture",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Commercial Building at MG Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect integral waterproofing 10mm diameter",
+        "151",
+        "kg",
+        "1837",
+        "85109"
+      ],
+      [
+        "2",
+        "Fix flush door 16mm thick",
+        "180",
+        "kg",
+        "4640",
+        "28152"
+      ],
+      [
+        "3",
+        "Install SWR pipe 300mm thick",
+        "455",
+        "kg",
+        "123",
+        "37342"
+      ],
+      [
+        "4",
+        "Lay M25 M25 concrete",
+        "138",
+        "rmt",
+        "1179",
+        "2947"
+      ],
+      [
+        "5",
+        "Cast Class A fly ash brick",
+        "175",
+        "cum",
+        "1138",
+        "98218"
+      ],
+      [
+        "6",
+        "Supply and lay Fe550 GI sheet 200 x 200mm",
+        "391",
+        "sqm",
+        "4963",
+        "15293"
+      ],
+      [
+        "7",
+        "Cast Class 1 paint 100mm thick",
+        "32",
+        "nos",
+        "4023",
+        "53640"
+      ],
+      [
+        "8",
+        "Fabricate and erect light fixture",
+        "374",
+        "set",
+        "2738",
+        "80730"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 151,
+        "unit": "kg",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 180,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 455,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "M25 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 138,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 175,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "200 x 200mm",
+        "quantity": 391,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "100mm thick",
+        "quantity": 32,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fabricate and erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 374,
+        "unit": "set",
+        "standard": [
+          "IS 694"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

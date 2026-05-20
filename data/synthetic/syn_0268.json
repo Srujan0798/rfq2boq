@@ -1,0 +1,247 @@
+{
+  "id": "syn_0268",
+  "project_name": "Commercial Building at MG Road",
+  "category": "electrical",
+  "text": "The scope of work includes light fixture, DB, switch for the Commercial Building at MG Road project located at ground floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster cable 300mm thick  445  nos  4286  13209\n2  Provide and install Class 1 tile 230mm thick  491  set  545  79522\n3  Plaster PVC pipe 150mm thick  162  cum  354  68263\n4  Supply and install M40 RCC 6mm diameter  275  sqm  4431  22706\n5  Lay Fe500 rebar 16mm diameter  99  nos  347  87574\n6  Supply and fix Class B brick masonry 12mm thick  274  ls  3925  83751\n7  Supply and lay MS door 230mm thick  224  cum  1002  23477\n8  Erect DPC 16mm diameter  77  cum  237  32471\n9  Fabricate and erect DB 8mm diameter  39  rmt  2267  37780\n10  Provide and fix Class 1 tile 12mm thick  421  ltr  2173  44779\n11  Supply SWR pipe  13  sqm  2518  87759\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes light fixture, DB, switch for the Commercial Building at MG Road project located at ground floor. The contractor shall supply all materials and execute the works as per the specifications given below. Plaster cable 300mm thick Provide and install Class 1 tile 230mm thick Plaster PVC pipe 150mm thick Supply and install M40 RCC 6mm diameter Lay Fe500 rebar 16mm diameter Supply and fix Class B brick masonry 12mm thick Supply and lay MS door 230mm thick Erect DPC 16mm diameter Fabricate and erect DB 8mm diameter Provide and fix Class 1 tile 12mm thick Supply SWR pipe",
+  "sections": {
+    "scope": "The scope of work includes light fixture, DB, switch for the Commercial Building at MG Road project located at ground floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster cable 300mm thick",
+        "445",
+        "nos",
+        "4286",
+        "13209"
+      ],
+      [
+        "2",
+        "Provide and install Class 1 tile 230mm thick",
+        "491",
+        "set",
+        "545",
+        "79522"
+      ],
+      [
+        "3",
+        "Plaster PVC pipe 150mm thick",
+        "162",
+        "cum",
+        "354",
+        "68263"
+      ],
+      [
+        "4",
+        "Supply and install M40 RCC 6mm diameter",
+        "275",
+        "sqm",
+        "4431",
+        "22706"
+      ],
+      [
+        "5",
+        "Lay Fe500 rebar 16mm diameter",
+        "99",
+        "nos",
+        "347",
+        "87574"
+      ],
+      [
+        "6",
+        "Supply and fix Class B brick masonry 12mm thick",
+        "274",
+        "ls",
+        "3925",
+        "83751"
+      ],
+      [
+        "7",
+        "Supply and lay MS door 230mm thick",
+        "224",
+        "cum",
+        "1002",
+        "23477"
+      ],
+      [
+        "8",
+        "Erect DPC 16mm diameter",
+        "77",
+        "cum",
+        "237",
+        "32471"
+      ],
+      [
+        "9",
+        "Fabricate and erect DB 8mm diameter",
+        "39",
+        "rmt",
+        "2267",
+        "37780"
+      ],
+      [
+        "10",
+        "Provide and fix Class 1 tile 12mm thick",
+        "421",
+        "ltr",
+        "2173",
+        "44779"
+      ],
+      [
+        "11",
+        "Supply SWR pipe",
+        "13",
+        "sqm",
+        "2518",
+        "87759"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "cable",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 445,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 491,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 162,
+        "unit": "m^3",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "6mm diameter",
+        "quantity": 275,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "16mm diameter",
+        "quantity": 99,
+        "unit": "no.",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "12mm thick",
+        "quantity": 274,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 224,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 77,
+        "unit": "m^3",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fabricate and erect",
+        "material": "DB",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 39,
+        "unit": "rmt",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and fix",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 421,
+        "unit": "ltr",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 13,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

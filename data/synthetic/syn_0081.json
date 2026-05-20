@@ -1,0 +1,187 @@
+{
+  "id": "syn_0081",
+  "project_name": "Commercial Building at MG Road",
+  "category": "waterproofing",
+  "text": "The work comprises integral waterproofing, membrane, DPC for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix integral waterproofing 150mm thick  96  cum  3560  75455\n2  Provide and lay DB 150 x 150mm  20  set  4772  52157\n3  Fix HDPE pipe 16mm thick  260  sqm  4169  66898\n4  Supply and fix M30 RCC 8mm diameter  324  nos  4171  84288\n5  Provide and install Class C brick masonry  157  nos  3393  30607\n6  Cast flush door  182  nos  3598  28490\n7  Plaster Fe415 structural steel 100 x 100mm  431  nos  4523  42071\n8  Erect Class 2 POP 12mm thick  138  set  4328  25450\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises integral waterproofing, membrane, DPC for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Provide and fix integral waterproofing 150mm thick Provide and lay DB 150 x 150mm Fix HDPE pipe 16mm thick Supply and fix M30 RCC 8mm diameter Provide and install Class C brick masonry Cast flush door Plaster Fe415 structural steel 100 x 100mm Erect Class 2 POP 12mm thick",
+  "sections": {
+    "scope": "The work comprises integral waterproofing, membrane, DPC for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix integral waterproofing 150mm thick",
+        "96",
+        "cum",
+        "3560",
+        "75455"
+      ],
+      [
+        "2",
+        "Provide and lay DB 150 x 150mm",
+        "20",
+        "set",
+        "4772",
+        "52157"
+      ],
+      [
+        "3",
+        "Fix HDPE pipe 16mm thick",
+        "260",
+        "sqm",
+        "4169",
+        "66898"
+      ],
+      [
+        "4",
+        "Supply and fix M30 RCC 8mm diameter",
+        "324",
+        "nos",
+        "4171",
+        "84288"
+      ],
+      [
+        "5",
+        "Provide and install Class C brick masonry",
+        "157",
+        "nos",
+        "3393",
+        "30607"
+      ],
+      [
+        "6",
+        "Cast flush door",
+        "182",
+        "nos",
+        "3598",
+        "28490"
+      ],
+      [
+        "7",
+        "Plaster Fe415 structural steel 100 x 100mm",
+        "431",
+        "nos",
+        "4523",
+        "42071"
+      ],
+      [
+        "8",
+        "Erect Class 2 POP 12mm thick",
+        "138",
+        "set",
+        "4328",
+        "25450"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 96,
+        "unit": "m^3",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 20,
+        "unit": "set",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 260,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "RCC",
+        "grade": "M30",
+        "dimension": "8mm diameter",
+        "quantity": 324,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 157,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 182,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Plaster",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "100 x 100mm",
+        "quantity": 431,
+        "unit": "no.",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "12mm thick",
+        "quantity": 138,
+        "unit": "set",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

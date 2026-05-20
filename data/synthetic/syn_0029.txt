@@ -1,0 +1,33 @@
+Items described in the Bill of Quantities are to be supplied and installed at first floor for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Fabricate and erect Fe500 MS plate  295  ltr  2999  73642
+2  Install cable  207  cum  793  96006
+3  Plaster membrane  204  rmt  2298  65634
+4  Supply and fix M20 M25 concrete 12mm diameter  232  nos  3058  33990
+5  Cast aluminum window 300mm thick  325  kg  155  52864
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

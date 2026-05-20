@@ -1,0 +1,39 @@
+version: "3.8"
+
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    ports:
+      - "7860:7860"
+    volumes:
+      - ../data:/app/data
+      - ../models:/app/models
+    environment:
+      - RFQ2BOQ_MODEL_DIR=/app/models
+      - RFQ2BOQ_ONTOLOGY_DIR=/app/src/ontology
+      - RFQ2BOQ_DATA_DIR=/app/data
+      - RFQ2BOQ_API_HOST=0.0.0.0
+      - RFQ2BOQ_API_PORT=7860
+      - LOG_LEVEL=INFO
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:7860/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  ui:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    command: streamlit run src/ui/app.py --server.port 8501 --server.address 0.0.0.0
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://api:7860
+    depends_on:
+      - api
+    restart: unless-stopped

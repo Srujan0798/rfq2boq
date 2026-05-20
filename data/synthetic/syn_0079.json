@@ -1,0 +1,187 @@
+{
+  "id": "syn_0079",
+  "project_name": "Commercial Building at MG Road",
+  "category": "brickwork",
+  "text": "The work comprises fly ash brick, AAC block, brick masonry for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply Class 1 tile 230mm thick  396  cum  4230  93767\n2  Apply glass 230mm thick  311  rmt  3006  50756\n3  Lay Class A hollow block  126  ltr  1112  62066\n4  Fabricate and erect cable 150mm thick  400  ls  2787  65711\n5  Provide and lay brickbat coba 10mm diameter  243  nos  4637  54383\n6  Provide and install HDPE pipe 12mm diameter  448  sqm  3110  24500\n7  Plaster M35 M20 concrete 200mm thick  63  ltr  1274  52748\n8  Cast Fe550 GI sheet  62  rmt  2874  27248\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises fly ash brick, AAC block, brick masonry for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Supply Class 1 tile 230mm thick Apply glass 230mm thick Lay Class A hollow block Fabricate and erect cable 150mm thick Provide and lay brickbat coba 10mm diameter Provide and install HDPE pipe 12mm diameter Plaster M35 M20 concrete 200mm thick Cast Fe550 GI sheet",
+  "sections": {
+    "scope": "The work comprises fly ash brick, AAC block, brick masonry for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply Class 1 tile 230mm thick",
+        "396",
+        "cum",
+        "4230",
+        "93767"
+      ],
+      [
+        "2",
+        "Apply glass 230mm thick",
+        "311",
+        "rmt",
+        "3006",
+        "50756"
+      ],
+      [
+        "3",
+        "Lay Class A hollow block",
+        "126",
+        "ltr",
+        "1112",
+        "62066"
+      ],
+      [
+        "4",
+        "Fabricate and erect cable 150mm thick",
+        "400",
+        "ls",
+        "2787",
+        "65711"
+      ],
+      [
+        "5",
+        "Provide and lay brickbat coba 10mm diameter",
+        "243",
+        "nos",
+        "4637",
+        "54383"
+      ],
+      [
+        "6",
+        "Provide and install HDPE pipe 12mm diameter",
+        "448",
+        "sqm",
+        "3110",
+        "24500"
+      ],
+      [
+        "7",
+        "Plaster M35 M20 concrete 200mm thick",
+        "63",
+        "ltr",
+        "1274",
+        "52748"
+      ],
+      [
+        "8",
+        "Cast Fe550 GI sheet",
+        "62",
+        "rmt",
+        "2874",
+        "27248"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 396,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 311,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 126,
+        "unit": "ltr",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "cable",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 400,
+        "unit": "ls",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 243,
+        "unit": "no.",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 448,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Plaster",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "200mm thick",
+        "quantity": 63,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 62,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

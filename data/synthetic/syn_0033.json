@@ -1,0 +1,207 @@
+{
+  "id": "syn_0033",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "doors_windows",
+  "text": "The work comprises aluminum window, glass, MS door for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix membrane 6mm diameter  374  ls  1264  76684\n2  Erect HDPE pipe 200mm thick  241  sqm  4323  99278\n3  Fabricate and erect MS door 100mm thick  496  set  3855  84209\n4  Fix Class A fly ash brick  283  ltr  1835  65843\n5  Install M30 M30 concrete 300mm thick  155  ls  4075  46054\n6  Supply and lay Class 1 cement plaster  330  set  3715  60836\n7  Provide and install cable 100 x 100mm  362  rmt  2344  13234\n8  Supply and lay Fe500 structural steel  200  rmt  2602  96156\n9  Plaster membrane  56  sqm  738  18393\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises aluminum window, glass, MS door for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards. Supply and fix membrane 6mm diameter Erect HDPE pipe 200mm thick Fabricate and erect MS door 100mm thick Fix Class A fly ash brick Install M30 M30 concrete 300mm thick Supply and lay Class 1 cement plaster Provide and install cable 100 x 100mm Supply and lay Fe500 structural steel Plaster membrane",
+  "sections": {
+    "scope": "The work comprises aluminum window, glass, MS door for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix membrane 6mm diameter",
+        "374",
+        "ls",
+        "1264",
+        "76684"
+      ],
+      [
+        "2",
+        "Erect HDPE pipe 200mm thick",
+        "241",
+        "sqm",
+        "4323",
+        "99278"
+      ],
+      [
+        "3",
+        "Fabricate and erect MS door 100mm thick",
+        "496",
+        "set",
+        "3855",
+        "84209"
+      ],
+      [
+        "4",
+        "Fix Class A fly ash brick",
+        "283",
+        "ltr",
+        "1835",
+        "65843"
+      ],
+      [
+        "5",
+        "Install M30 M30 concrete 300mm thick",
+        "155",
+        "ls",
+        "4075",
+        "46054"
+      ],
+      [
+        "6",
+        "Supply and lay Class 1 cement plaster",
+        "330",
+        "set",
+        "3715",
+        "60836"
+      ],
+      [
+        "7",
+        "Provide and install cable 100 x 100mm",
+        "362",
+        "rmt",
+        "2344",
+        "13234"
+      ],
+      [
+        "8",
+        "Supply and lay Fe500 structural steel",
+        "200",
+        "rmt",
+        "2602",
+        "96156"
+      ],
+      [
+        "9",
+        "Plaster membrane",
+        "56",
+        "sqm",
+        "738",
+        "18393"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 374,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 241,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 496,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fix",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 283,
+        "unit": "ltr",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "300mm thick",
+        "quantity": 155,
+        "unit": "ls",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 330,
+        "unit": "set",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 362,
+        "unit": "rmt",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 200,
+        "unit": "rmt",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Plaster",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 56,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

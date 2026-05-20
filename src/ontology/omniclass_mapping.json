@@ -1,0 +1,259 @@
+{
+  "MATERIAL": {
+    "codes": [
+      {
+        "code": "23-06 11",
+        "description": "Structural Materials",
+        "examples": ["cement", "steel", "concrete", "brick"]
+      },
+      {
+        "code": "23-06 13",
+        "description": "Masonry Materials",
+        "examples": ["brick", "stone", "block"]
+      },
+      {
+        "code": "23-06 15",
+        "description": "Concrete Materials",
+        "examples": ["cement", "aggregate", "sand", "admixture"]
+      },
+      {
+        "code": "23-06 17",
+        "description": "Metal Materials",
+        "examples": ["steel", "aluminum", "iron"]
+      },
+      {
+        "code": "23-06 21",
+        "description": "Finishing Materials",
+        "examples": ["paint", "tile", "marble", "granite"]
+      },
+      {
+        "code": "23-06 23",
+        "description": "Insulation Materials",
+        "examples": ["foam", "glass wool", "rock wool"]
+      }
+    ],
+    "indian_specific": {
+      "description": "Indian construction materials with BIS codes",
+      "codes": [
+        {
+          "code": "23-06 11 01",
+          "description": "Cement - BIS 269/8112/12269",
+          "examples": ["OPC", "PPC", "PSC", "M25", "M30"]
+        },
+        {
+          "code": "23-06 17 01",
+          "description": "Steel - BIS 2062/432",
+          "examples": ["Fe250", "Fe415", "Fe500", "Fe550", "TMT"]
+        }
+      ]
+    }
+  },
+  "QUANTITY": {
+    "codes": [
+      {
+        "code": "23-01 11",
+        "description": "Measurement Terms",
+        "examples": ["500", "1000", "2.5"]
+      },
+      {
+        "code": "23-01 15",
+        "description": "Counting Terms",
+        "examples": ["nos", "pieces", "bags"]
+      }
+    ],
+    "indian_specific": {
+      "description": "Indian quantity formats",
+      "codes": [
+        {
+          "code": "23-01 11 01",
+          "description": "Volume Quantities (cum)",
+          "examples": ["10 cum", "500 cum", "1000 m3"]
+        },
+        {
+          "code": "23-01 11 02",
+          "description": "Area Quantities (sqm)",
+          "examples": ["50 sqm", "100 sq.ft", "25 m2"]
+        }
+      ]
+    }
+  },
+  "UNIT": {
+    "codes": [
+      {
+        "code": "23-01 15",
+        "description": "Units of Measure",
+        "examples": ["kg", "m", "sqm", "cum"]
+      },
+      {
+        "code": "23-01 17",
+        "description": "Metric Units",
+        "examples": ["m^3", "m^2", "kg", "cm"]
+      }
+    ],
+    "indian_specific": {
+      "description": "Indian construction units",
+      "codes": [
+        {
+          "code": "23-01 15 01",
+          "description": "Indian Volume Units",
+          "examples": ["cum", "cft", "cubic meter"]
+        },
+        {
+          "code": "23-01 15 02",
+          "description": "Indian Area Units",
+          "examples": ["sqm", "sqft", "sft"]
+        },
+        {
+          "code": "23-01 15 03",
+          "description": "Count Units",
+          "examples": ["nos", "bags", "pieces"]
+        }
+      ]
+    }
+  },
+  "LOCATION": {
+    "codes": [
+      {
+        "code": "23-01 13",
+        "description": "Location Terms",
+        "examples": ["ground floor", "level 2", "roof"]
+      },
+      {
+        "code": "23-03 11",
+        "description": "Floor Levels",
+        "examples": ["basement", "ground", "first floor"]
+      }
+    ],
+    "indian_specific": {
+      "description": "Indian construction locations",
+      "codes": [
+        {
+          "code": "23-03 11 01",
+          "description": "Indian Floor Terminology",
+          "examples": ["ground floor", "first floor", "second floor", "stilt", "parking"]
+        }
+      ]
+    }
+  },
+  "DIMENSION": {
+    "codes": [
+      {
+        "code": "23-01 17",
+        "description": "Size and Dimension Terms",
+        "examples": ["10m x 20m", "3m depth", "500mm"]
+      },
+      {
+        "code": "23-05 13",
+        "description": "Length Measurements",
+        "examples": ["10m", "50 ft", "25 cm"]
+      }
+    ],
+    "indian_specific": {
+      "description": "Indian dimension formats",
+      "codes": [
+        {
+          "code": "23-05 13 01",
+          "description": "Indian Length Units",
+          "examples": ["m", "cm", "mm", "ft", "inch"]
+        }
+      ]
+    }
+  },
+  "STANDARD": {
+    "codes": [
+      {
+        "code": "23-07 13",
+        "description": "Standards and Codes",
+        "examples": ["IS 456", "ASTM A615", "IRC"]
+      },
+      {
+        "code": "23-07 15",
+        "description": "Regulatory Codes",
+        "examples": ["NBC", "IS code", "BIS standard"]
+      }
+    ],
+    "indian_specific": {
+      "description": "Indian Bureau of Standards (BIS) codes",
+      "codes": [
+        {
+          "code": "23-07 13 01",
+          "description": "BIS Structural Codes",
+          "examples": ["IS 456", "IS 800", "IS 1893"]
+        },
+        {
+          "code": "23-07 13 02",
+          "description": "BIS Material Codes",
+          "examples": ["IS 269", "IS 8112", "IS 12269", "IS 2062"]
+        },
+        {
+          "code": "23-07 13 03",
+          "description": "BIS Testing Codes",
+          "examples": ["IS 4031", "IS 2386"]
+        }
+      ]
+    }
+  },
+  "ACTION": {
+    "codes": [
+      {
+        "code": "23-04 11",
+        "description": "Work Results",
+        "examples": ["supply", "install", "erect"]
+      },
+      {
+        "code": "23-04 13",
+        "description": "Construction Activities",
+        "examples": ["cast", "lay", "place", "fix"]
+      },
+      {
+        "code": "23-04 15",
+        "description": "Installation Activities",
+        "examples": ["install", "fix", "mount", "connect"]
+      }
+    ],
+    "indian_specific": {
+      "description": "Indian construction actions",
+      "codes": [
+        {
+          "code": "23-04 11 01",
+          "description": "Indian Construction Actions",
+          "examples": ["supply", "lay", "cast", "erect", "fix", "apply"]
+        }
+      ]
+    }
+  },
+  "GRADE": {
+    "codes": [
+      {
+        "code": "23-07 15",
+        "description": "Quality Grades",
+        "examples": ["M25", "Fe500", "Class A"]
+      },
+      {
+        "code": "23-07 17",
+        "description": "Material Grades",
+        "examples": ["Grade 30", "Grade 40"]
+      }
+    ],
+    "indian_specific": {
+      "description": "Indian construction grades",
+      "codes": [
+        {
+          "code": "23-07 15 01",
+          "description": "Concrete Grades (IS 456)",
+          "examples": ["M15", "M20", "M25", "M30", "M35", "M40", "M45", "M50"]
+        },
+        {
+          "code": "23-07 15 02",
+          "description": "Steel Grades (IS 2062)",
+          "examples": ["Fe250", "Fe415", "Fe500", "Fe550"]
+        },
+        {
+          "code": "23-07 15 03",
+          "description": "Brick Grades",
+          "examples": ["Class 1", "Class 2", "Class 3"]
+        }
+      ]
+    }
+  }
+}

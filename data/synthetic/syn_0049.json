@@ -1,0 +1,247 @@
+{
+  "id": "syn_0049",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "concrete",
+  "text": "The work comprises M35 concrete, M20 concrete, M25 concrete for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay light fixture 16mm thick  37  cum  3729  30563\n2  Fix integral waterproofing  381  kg  710  25507\n3  Lay Fe550 MS plate  71  ltr  4659  35634\n4  Cast M25 M25 concrete  443  nos  1368  6235\n5  Cast Class B AAC block 200 x 200mm  36  nos  2703  69864\n6  Lay aluminum window 6mm diameter  44  rmt  2962  29992\n7  Provide and fix PVC pipe  194  nos  4445  63240\n8  Supply and lay Class 1 putty 20mm thick  352  ls  2729  50987\n9  Provide and lay cable  286  nos  3171  68411\n10  Supply and install DPC 200mm thick  161  kg  1471  71513\n11  Plaster Fe415 rebar 16mm thick  43  kg  3575  14621\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises M35 concrete, M20 concrete, M25 concrete for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Lay light fixture 16mm thick Fix integral waterproofing Lay Fe550 MS plate Cast M25 M25 concrete Cast Class B AAC block 200 x 200mm Lay aluminum window 6mm diameter Provide and fix PVC pipe Supply and lay Class 1 putty 20mm thick Provide and lay cable Supply and install DPC 200mm thick Plaster Fe415 rebar 16mm thick",
+  "sections": {
+    "scope": "The work comprises M35 concrete, M20 concrete, M25 concrete for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay light fixture 16mm thick",
+        "37",
+        "cum",
+        "3729",
+        "30563"
+      ],
+      [
+        "2",
+        "Fix integral waterproofing",
+        "381",
+        "kg",
+        "710",
+        "25507"
+      ],
+      [
+        "3",
+        "Lay Fe550 MS plate",
+        "71",
+        "ltr",
+        "4659",
+        "35634"
+      ],
+      [
+        "4",
+        "Cast M25 M25 concrete",
+        "443",
+        "nos",
+        "1368",
+        "6235"
+      ],
+      [
+        "5",
+        "Cast Class B AAC block 200 x 200mm",
+        "36",
+        "nos",
+        "2703",
+        "69864"
+      ],
+      [
+        "6",
+        "Lay aluminum window 6mm diameter",
+        "44",
+        "rmt",
+        "2962",
+        "29992"
+      ],
+      [
+        "7",
+        "Provide and fix PVC pipe",
+        "194",
+        "nos",
+        "4445",
+        "63240"
+      ],
+      [
+        "8",
+        "Supply and lay Class 1 putty 20mm thick",
+        "352",
+        "ls",
+        "2729",
+        "50987"
+      ],
+      [
+        "9",
+        "Provide and lay cable",
+        "286",
+        "nos",
+        "3171",
+        "68411"
+      ],
+      [
+        "10",
+        "Supply and install DPC 200mm thick",
+        "161",
+        "kg",
+        "1471",
+        "71513"
+      ],
+      [
+        "11",
+        "Plaster Fe415 rebar 16mm thick",
+        "43",
+        "kg",
+        "3575",
+        "14621"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 37,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 381,
+        "unit": "kg",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 71,
+        "unit": "ltr",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "M25 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 443,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "200 x 200mm",
+        "quantity": 36,
+        "unit": "no.",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 44,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 194,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "20mm thick",
+        "quantity": 352,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and lay",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 286,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 161,
+        "unit": "kg",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Plaster",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "16mm thick",
+        "quantity": 43,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

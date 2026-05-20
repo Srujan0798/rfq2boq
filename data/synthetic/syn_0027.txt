@@ -1,0 +1,40 @@
+Supply and installation of GI conduit, switch, light fixture for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Provide and fix Class A fly ash brick 200 x 200mm  341  sqm  4487  95972
+2  Provide and lay GI conduit 16mm thick  203  cum  4678  29444
+3  Install DPC 100mm thick  474  ls  1656  98186
+4  Fix Fe550 TMT steel 16mm thick  255  kg  2060  73362
+5  Erect MS door 200 x 200mm  248  ls  3917  13924
+6  Supply Class 2 paint 150mm thick  114  ls  1912  98157
+7  Provide and lay PVC pipe  293  ltr  2802  31149
+8  Install M40 M35 concrete 150 x 150mm  135  set  4102  95838
+9  Supply and fix Class B hollow block  385  ls  4577  65004
+10  Lay GI conduit 150mm thick  27  sqm  3478  19021
+11  Apply membrane  87  cum  3157  8923
+12  Plaster Fe550 rebar 100mm thick  488  set  4459  73305
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

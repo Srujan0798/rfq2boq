@@ -1,0 +1,34 @@
+Items described in the Bill of Quantities are to be supplied and installed at interior walls for the Residential Complex at Whitefield project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Cast SWR pipe 12mm diameter  144  ls  4193  40353
+2  Lay Fe500 GI sheet  391  kg  449  91553
+3  Fabricate and erect Class 2 tile 6mm diameter  460  set  3904  60267
+4  Apply Class A AAC block 100mm thick  394  ltr  2694  50998
+5  Provide and fix membrane 12mm thick  17  ltr  4957  25105
+6  Supply and install aluminum window  210  set  1720  3841
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

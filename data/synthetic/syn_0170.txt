@@ -1,0 +1,38 @@
+Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Residential Complex at Whitefield project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay Class C fly ash brick 230mm thick  52  kg  3211  99179
+2  Cast Fe415 structural steel 10mm diameter  250  cum  3463  13445
+3  Cast GI pipe 10mm diameter  451  cum  4212  24754
+4  Apply glass 150mm thick  299  ltr  4897  16423
+5  Supply DPC 150mm thick  241  nos  2814  56932
+6  Install Class 1 cement plaster 20mm thick  49  kg  3272  98587
+7  Fix M25 RCC 20mm thick  202  cum  4880  65664
+8  Fix GI conduit  368  sqm  1181  98039
+9  Fabricate and erect Class B brick masonry  197  ltr  3117  84208
+10  Erect Fe415 rebar  252  cum  3559  9773
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

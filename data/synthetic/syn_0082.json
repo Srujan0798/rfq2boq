@@ -1,0 +1,247 @@
+{
+  "id": "syn_0082",
+  "project_name": "Hotel at Airport Road",
+  "category": "electrical",
+  "text": "Supply and installation of light fixture, switch, DB for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install aluminum window 200mm thick  232  ltr  3478  35987\n2  Provide and lay integral waterproofing 230mm thick  361  kg  1672  4631\n3  Fabricate and erect GI conduit 150mm thick  258  ltr  1405  36744\n4  Provide and lay Class 1 POP 12mm thick  414  nos  445  95696\n5  Supply and install Class A hollow block 100 x 100mm  450  sqm  3434  48636\n6  Install Fe500 TMT steel  380  rmt  4198  16812\n7  Fabricate and erect SWR pipe  462  sqm  2667  44160\n8  Fix M35 PCC 16mm thick  393  kg  975  23957\n9  Fabricate and erect aluminum window 150mm thick  219  nos  4470  50113\n10  Lay brickbat coba 25mm thick  226  set  3073  63288\n11  Supply and install switch 150mm thick  340  cum  2063  34158\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of light fixture, switch, DB for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install aluminum window 200mm thick Provide and lay integral waterproofing 230mm thick Fabricate and erect GI conduit 150mm thick Provide and lay Class 1 POP 12mm thick Supply and install Class A hollow block 100 x 100mm Install Fe500 TMT steel Fabricate and erect SWR pipe Fix M35 PCC 16mm thick Fabricate and erect aluminum window 150mm thick Lay brickbat coba 25mm thick Supply and install switch 150mm thick",
+  "sections": {
+    "scope": "Supply and installation of light fixture, switch, DB for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install aluminum window 200mm thick",
+        "232",
+        "ltr",
+        "3478",
+        "35987"
+      ],
+      [
+        "2",
+        "Provide and lay integral waterproofing 230mm thick",
+        "361",
+        "kg",
+        "1672",
+        "4631"
+      ],
+      [
+        "3",
+        "Fabricate and erect GI conduit 150mm thick",
+        "258",
+        "ltr",
+        "1405",
+        "36744"
+      ],
+      [
+        "4",
+        "Provide and lay Class 1 POP 12mm thick",
+        "414",
+        "nos",
+        "445",
+        "95696"
+      ],
+      [
+        "5",
+        "Supply and install Class A hollow block 100 x 100mm",
+        "450",
+        "sqm",
+        "3434",
+        "48636"
+      ],
+      [
+        "6",
+        "Install Fe500 TMT steel",
+        "380",
+        "rmt",
+        "4198",
+        "16812"
+      ],
+      [
+        "7",
+        "Fabricate and erect SWR pipe",
+        "462",
+        "sqm",
+        "2667",
+        "44160"
+      ],
+      [
+        "8",
+        "Fix M35 PCC 16mm thick",
+        "393",
+        "kg",
+        "975",
+        "23957"
+      ],
+      [
+        "9",
+        "Fabricate and erect aluminum window 150mm thick",
+        "219",
+        "nos",
+        "4470",
+        "50113"
+      ],
+      [
+        "10",
+        "Lay brickbat coba 25mm thick",
+        "226",
+        "set",
+        "3073",
+        "63288"
+      ],
+      [
+        "11",
+        "Supply and install switch 150mm thick",
+        "340",
+        "cum",
+        "2063",
+        "34158"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 232,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 361,
+        "unit": "kg",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 258,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 414,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "100 x 100mm",
+        "quantity": 450,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 380,
+        "unit": "rmt",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fabricate and erect",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 462,
+        "unit": "m^2",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "PCC",
+        "grade": "M35",
+        "dimension": "16mm thick",
+        "quantity": 393,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fabricate and erect",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 219,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 226,
+        "unit": "set",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 340,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0210",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "doors_windows",
+  "text": "Supply and installation of MS door, aluminum window, glass for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast cable 230mm thick  327  kg  2725  32578\n2  Lay flush door 6mm diameter  243  nos  4903  70165\n3  Provide and lay membrane 300mm thick  171  set  957  36945\n4  Supply and fix Fe550 GI sheet  139  ltr  5000  71837\n5  Apply M35 RCC  139  rmt  4660  86026\n6  Supply and fix Class 2 POP  276  kg  1336  15775\n7  Erect Class A hollow block 16mm thick  481  rmt  4335  68460\n8  Supply and fix GI pipe  84  sqm  222  25263\n9  Supply GI conduit  11  cum  3261  61464\n10  Supply and lay glass 12mm diameter  33  cum  1096  2468\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of MS door, aluminum window, glass for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice. Cast cable 230mm thick Lay flush door 6mm diameter Provide and lay membrane 300mm thick Supply and fix Fe550 GI sheet Apply M35 RCC Supply and fix Class 2 POP Erect Class A hollow block 16mm thick Supply and fix GI pipe Supply GI conduit Supply and lay glass 12mm diameter",
+  "sections": {
+    "scope": "Supply and installation of MS door, aluminum window, glass for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast cable 230mm thick",
+        "327",
+        "kg",
+        "2725",
+        "32578"
+      ],
+      [
+        "2",
+        "Lay flush door 6mm diameter",
+        "243",
+        "nos",
+        "4903",
+        "70165"
+      ],
+      [
+        "3",
+        "Provide and lay membrane 300mm thick",
+        "171",
+        "set",
+        "957",
+        "36945"
+      ],
+      [
+        "4",
+        "Supply and fix Fe550 GI sheet",
+        "139",
+        "ltr",
+        "5000",
+        "71837"
+      ],
+      [
+        "5",
+        "Apply M35 RCC",
+        "139",
+        "rmt",
+        "4660",
+        "86026"
+      ],
+      [
+        "6",
+        "Supply and fix Class 2 POP",
+        "276",
+        "kg",
+        "1336",
+        "15775"
+      ],
+      [
+        "7",
+        "Erect Class A hollow block 16mm thick",
+        "481",
+        "rmt",
+        "4335",
+        "68460"
+      ],
+      [
+        "8",
+        "Supply and fix GI pipe",
+        "84",
+        "sqm",
+        "222",
+        "25263"
+      ],
+      [
+        "9",
+        "Supply GI conduit",
+        "11",
+        "cum",
+        "3261",
+        "61464"
+      ],
+      [
+        "10",
+        "Supply and lay glass 12mm diameter",
+        "33",
+        "cum",
+        "1096",
+        "2468"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "cable",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 327,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 243,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 171,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 139,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "RCC",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 139,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 276,
+        "unit": "kg",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Erect",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "16mm thick",
+        "quantity": 481,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and fix",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 84,
+        "unit": "m^2",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 11,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 33,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

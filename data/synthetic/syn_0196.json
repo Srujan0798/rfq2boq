@@ -1,0 +1,267 @@
+{
+  "id": "syn_0196",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "steel",
+  "text": "The scope of work includes GI sheet, rebar, structural steel for the Apartment Block at HSR Layout project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install M25 RCC 16mm thick  437  rmt  412  85319\n2  Erect MS door 20mm thick  339  rmt  524  92160\n3  Plaster Class A fly ash brick 6mm diameter  468  ls  2818  90864\n4  Supply and install Class 1 paint  354  sqm  1541  98841\n5  Provide and lay switch 6mm diameter  138  rmt  4962  52651\n6  Provide and fix Fe415 MS plate  433  nos  1190  90591\n7  Fix SWR pipe 16mm thick  210  kg  4790  14513\n8  Supply and fix integral waterproofing 150 x 150mm  143  sqm  4466  45287\n9  Supply and fix M35 RCC 12mm thick  477  ls  4926  30052\n10  Lay aluminum window  321  ls  4686  94141\n11  Provide and fix Class B hollow block 6mm diameter  23  set  2757  3048\n12  Fix Class 2 putty 20mm thick  259  nos  1690  41189\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes GI sheet, rebar, structural steel for the Apartment Block at HSR Layout project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below. Install M25 RCC 16mm thick Erect MS door 20mm thick Plaster Class A fly ash brick 6mm diameter Supply and install Class 1 paint Provide and lay switch 6mm diameter Provide and fix Fe415 MS plate Fix SWR pipe 16mm thick Supply and fix integral waterproofing 150 x 150mm Supply and fix M35 RCC 12mm thick Lay aluminum window Provide and fix Class B hollow block 6mm diameter Fix Class 2 putty 20mm thick",
+  "sections": {
+    "scope": "The scope of work includes GI sheet, rebar, structural steel for the Apartment Block at HSR Layout project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install M25 RCC 16mm thick",
+        "437",
+        "rmt",
+        "412",
+        "85319"
+      ],
+      [
+        "2",
+        "Erect MS door 20mm thick",
+        "339",
+        "rmt",
+        "524",
+        "92160"
+      ],
+      [
+        "3",
+        "Plaster Class A fly ash brick 6mm diameter",
+        "468",
+        "ls",
+        "2818",
+        "90864"
+      ],
+      [
+        "4",
+        "Supply and install Class 1 paint",
+        "354",
+        "sqm",
+        "1541",
+        "98841"
+      ],
+      [
+        "5",
+        "Provide and lay switch 6mm diameter",
+        "138",
+        "rmt",
+        "4962",
+        "52651"
+      ],
+      [
+        "6",
+        "Provide and fix Fe415 MS plate",
+        "433",
+        "nos",
+        "1190",
+        "90591"
+      ],
+      [
+        "7",
+        "Fix SWR pipe 16mm thick",
+        "210",
+        "kg",
+        "4790",
+        "14513"
+      ],
+      [
+        "8",
+        "Supply and fix integral waterproofing 150 x 150mm",
+        "143",
+        "sqm",
+        "4466",
+        "45287"
+      ],
+      [
+        "9",
+        "Supply and fix M35 RCC 12mm thick",
+        "477",
+        "ls",
+        "4926",
+        "30052"
+      ],
+      [
+        "10",
+        "Lay aluminum window",
+        "321",
+        "ls",
+        "4686",
+        "94141"
+      ],
+      [
+        "11",
+        "Provide and fix Class B hollow block 6mm diameter",
+        "23",
+        "set",
+        "2757",
+        "3048"
+      ],
+      [
+        "12",
+        "Fix Class 2 putty 20mm thick",
+        "259",
+        "nos",
+        "1690",
+        "41189"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "RCC",
+        "grade": "M25",
+        "dimension": "16mm thick",
+        "quantity": 437,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 339,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "6mm diameter",
+        "quantity": 468,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 354,
+        "unit": "m^2",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "switch",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 138,
+        "unit": "rmt",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 433,
+        "unit": "no.",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 210,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 143,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and fix",
+        "material": "RCC",
+        "grade": "M35",
+        "dimension": "12mm thick",
+        "quantity": 477,
+        "unit": "ls",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 321,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and fix",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "6mm diameter",
+        "quantity": 23,
+        "unit": "set",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Fix",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "20mm thick",
+        "quantity": 259,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

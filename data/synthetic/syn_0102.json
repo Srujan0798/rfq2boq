@@ -1,0 +1,147 @@
+{
+  "id": "syn_0102",
+  "project_name": "Hotel at Airport Road",
+  "category": "steel",
+  "text": "Supply and installation of TMT steel, structural steel, rebar for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install cable 150mm thick  146  cum  1829  69463\n2  Cast flush door 12mm diameter  276  nos  3618  45112\n3  Provide and fix Class 2 tile 6mm diameter  428  kg  568  47665\n4  Supply and install Fe415 structural steel 300mm thick  243  ltr  1106  70550\n5  Provide and fix integral waterproofing 16mm thick  241  set  2739  3179\n6  Fix Class A fly ash brick 20mm thick  386  ls  4069  53450\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of TMT steel, structural steel, rebar for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and install cable 150mm thick Cast flush door 12mm diameter Provide and fix Class 2 tile 6mm diameter Supply and install Fe415 structural steel 300mm thick Provide and fix integral waterproofing 16mm thick Fix Class A fly ash brick 20mm thick",
+  "sections": {
+    "scope": "Supply and installation of TMT steel, structural steel, rebar for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install cable 150mm thick",
+        "146",
+        "cum",
+        "1829",
+        "69463"
+      ],
+      [
+        "2",
+        "Cast flush door 12mm diameter",
+        "276",
+        "nos",
+        "3618",
+        "45112"
+      ],
+      [
+        "3",
+        "Provide and fix Class 2 tile 6mm diameter",
+        "428",
+        "kg",
+        "568",
+        "47665"
+      ],
+      [
+        "4",
+        "Supply and install Fe415 structural steel 300mm thick",
+        "243",
+        "ltr",
+        "1106",
+        "70550"
+      ],
+      [
+        "5",
+        "Provide and fix integral waterproofing 16mm thick",
+        "241",
+        "set",
+        "2739",
+        "3179"
+      ],
+      [
+        "6",
+        "Fix Class A fly ash brick 20mm thick",
+        "386",
+        "ls",
+        "4069",
+        "53450"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 146,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 276,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "6mm diameter",
+        "quantity": 428,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "300mm thick",
+        "quantity": 243,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 241,
+        "unit": "set",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "20mm thick",
+        "quantity": 386,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

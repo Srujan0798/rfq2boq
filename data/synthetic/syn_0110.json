@@ -1,0 +1,227 @@
+{
+  "id": "syn_0110",
+  "project_name": "Hotel at Airport Road",
+  "category": "finishes",
+  "text": "Supply and installation of paint, cement plaster, putty for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay membrane 200 x 200mm  374  nos  3773  83557\n2  Supply and lay Class B brick masonry 16mm diameter  257  ltr  1467  79532\n3  Provide and lay M25 M30 concrete 16mm thick  33  cum  3356  65884\n4  Supply and fix DB 6mm diameter  234  ltr  2324  28122\n5  Supply and fix Fe415 MS plate 100mm thick  302  kg  3830  67036\n6  Provide and lay Class 2 putty  446  kg  4623  16611\n7  Supply and install aluminum window  283  kg  2375  18428\n8  Plaster HDPE pipe 100mm thick  137  kg  2946  83927\n9  Supply and lay integral waterproofing 8mm diameter  494  nos  2515  43550\n10  Install Class C brick masonry  15  ls  1547  34552\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of paint, cement plaster, putty for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Lay membrane 200 x 200mm Supply and lay Class B brick masonry 16mm diameter Provide and lay M25 M30 concrete 16mm thick Supply and fix DB 6mm diameter Supply and fix Fe415 MS plate 100mm thick Provide and lay Class 2 putty Supply and install aluminum window Plaster HDPE pipe 100mm thick Supply and lay integral waterproofing 8mm diameter Install Class C brick masonry",
+  "sections": {
+    "scope": "Supply and installation of paint, cement plaster, putty for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay membrane 200 x 200mm",
+        "374",
+        "nos",
+        "3773",
+        "83557"
+      ],
+      [
+        "2",
+        "Supply and lay Class B brick masonry 16mm diameter",
+        "257",
+        "ltr",
+        "1467",
+        "79532"
+      ],
+      [
+        "3",
+        "Provide and lay M25 M30 concrete 16mm thick",
+        "33",
+        "cum",
+        "3356",
+        "65884"
+      ],
+      [
+        "4",
+        "Supply and fix DB 6mm diameter",
+        "234",
+        "ltr",
+        "2324",
+        "28122"
+      ],
+      [
+        "5",
+        "Supply and fix Fe415 MS plate 100mm thick",
+        "302",
+        "kg",
+        "3830",
+        "67036"
+      ],
+      [
+        "6",
+        "Provide and lay Class 2 putty",
+        "446",
+        "kg",
+        "4623",
+        "16611"
+      ],
+      [
+        "7",
+        "Supply and install aluminum window",
+        "283",
+        "kg",
+        "2375",
+        "18428"
+      ],
+      [
+        "8",
+        "Plaster HDPE pipe 100mm thick",
+        "137",
+        "kg",
+        "2946",
+        "83927"
+      ],
+      [
+        "9",
+        "Supply and lay integral waterproofing 8mm diameter",
+        "494",
+        "nos",
+        "2515",
+        "43550"
+      ],
+      [
+        "10",
+        "Install Class C brick masonry",
+        "15",
+        "ls",
+        "1547",
+        "34552"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 374,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "16mm diameter",
+        "quantity": 257,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "M30 concrete",
+        "grade": "M25",
+        "dimension": "16mm thick",
+        "quantity": 33,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "DB",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 234,
+        "unit": "ltr",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "100mm thick",
+        "quantity": 302,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 446,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 283,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Plaster",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 137,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 494,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 15,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

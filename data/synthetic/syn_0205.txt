@@ -1,0 +1,38 @@
+Supply and installation of GI pipe, CI pipe, SWR pipe for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Lay CI pipe  289  rmt  1918  35854
+2  Lay M35 PCC 8mm diameter  366  kg  2217  52798
+3  Fix DPC 200mm thick  279  set  280  82689
+4  Provide and lay Class A brick masonry 230mm thick  47  kg  2133  47890
+5  Apply aluminum window  218  sqm  3439  1055
+6  Provide and install switch 16mm diameter  32  nos  3381  44574
+7  Provide and fix Class 1 cement plaster 12mm diameter  474  nos  2247  17327
+8  Erect Fe415 rebar 100 x 100mm  172  cum  331  75346
+9  Install CI pipe 12mm diameter  42  set  635  68605
+10  Cast M30 M25 concrete 100mm thick  285  cum  3882  73240
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

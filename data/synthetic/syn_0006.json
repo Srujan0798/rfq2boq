@@ -1,0 +1,187 @@
+{
+  "id": "syn_0006",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "piping",
+  "text": "The scope of work includes CI pipe, GI pipe, HDPE pipe for the Hospital Building at Hebbal project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay Fe550 structural steel 100 x 100mm  351  ltr  1142  26144\n2  Plaster light fixture 100 x 100mm  393  rmt  4588  1053\n3  Provide and install integral waterproofing 10mm diameter  230  ls  1850  68000\n4  Plaster CI pipe 150 x 150mm  53  nos  2024  89184\n5  Fix Class A fly ash brick  111  rmt  3992  81120\n6  Erect M35 M20 concrete 6mm diameter  463  kg  3373  32979\n7  Supply Class 1 POP 20mm thick  394  sqm  4343  61889\n8  Supply flush door 10mm diameter  444  sqm  3725  81301\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes CI pipe, GI pipe, HDPE pipe for the Hospital Building at Hebbal project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and lay Fe550 structural steel 100 x 100mm Plaster light fixture 100 x 100mm Provide and install integral waterproofing 10mm diameter Plaster CI pipe 150 x 150mm Fix Class A fly ash brick Erect M35 M20 concrete 6mm diameter Supply Class 1 POP 20mm thick Supply flush door 10mm diameter",
+  "sections": {
+    "scope": "The scope of work includes CI pipe, GI pipe, HDPE pipe for the Hospital Building at Hebbal project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay Fe550 structural steel 100 x 100mm",
+        "351",
+        "ltr",
+        "1142",
+        "26144"
+      ],
+      [
+        "2",
+        "Plaster light fixture 100 x 100mm",
+        "393",
+        "rmt",
+        "4588",
+        "1053"
+      ],
+      [
+        "3",
+        "Provide and install integral waterproofing 10mm diameter",
+        "230",
+        "ls",
+        "1850",
+        "68000"
+      ],
+      [
+        "4",
+        "Plaster CI pipe 150 x 150mm",
+        "53",
+        "nos",
+        "2024",
+        "89184"
+      ],
+      [
+        "5",
+        "Fix Class A fly ash brick",
+        "111",
+        "rmt",
+        "3992",
+        "81120"
+      ],
+      [
+        "6",
+        "Erect M35 M20 concrete 6mm diameter",
+        "463",
+        "kg",
+        "3373",
+        "32979"
+      ],
+      [
+        "7",
+        "Supply Class 1 POP 20mm thick",
+        "394",
+        "sqm",
+        "4343",
+        "61889"
+      ],
+      [
+        "8",
+        "Supply flush door 10mm diameter",
+        "444",
+        "sqm",
+        "3725",
+        "81301"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "100 x 100mm",
+        "quantity": 351,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Plaster",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 393,
+        "unit": "rmt",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 230,
+        "unit": "ls",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 53,
+        "unit": "no.",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 111,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "6mm diameter",
+        "quantity": 463,
+        "unit": "kg",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "20mm thick",
+        "quantity": 394,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 444,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

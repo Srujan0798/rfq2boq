@@ -1,0 +1,38 @@
+Items described in the Bill of Quantities are to be supplied and installed at interior walls for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and install Class 2 tile 12mm diameter  87  set  1030  89335
+2  Lay Class B hollow block 300mm thick  379  cum  3780  84744
+3  Provide and install flush door 12mm thick  391  kg  1870  46624
+4  Plaster Fe415 MS plate 200 x 200mm  305  cum  2573  41234
+5  Apply SWR pipe 200 x 200mm  265  set  4543  56816
+6  Supply and lay M30 PCC 200 x 200mm  484  rmt  4628  78973
+7  Erect GI conduit 230mm thick  155  ltr  950  12749
+8  Supply and lay brickbat coba 16mm diameter  264  sqm  367  88518
+9  Provide and install Class 2 tile 230mm thick  124  set  3946  17310
+10  Erect Class B fly ash brick  474  ltr  1934  67527
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

@@ -1,0 +1,187 @@
+{
+  "id": "syn_0105",
+  "project_name": "Warehouse at Peenya",
+  "category": "waterproofing",
+  "text": "Supply and installation of DPC, brickbat coba, integral waterproofing for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix M20 RCC  247  ltr  3746  49145\n2  Supply and lay cable 16mm diameter  52  sqm  288  77919\n3  Apply glass 12mm thick  391  sqm  4066  85488\n4  Cast Fe500 GI sheet 12mm thick  74  sqm  261  52615\n5  Supply and lay SWR pipe 16mm thick  275  sqm  1061  24680\n6  Lay Class A AAC block  238  ls  4811  28030\n7  Lay Class 1 POP  141  cum  4246  40135\n8  Erect integral waterproofing  493  cum  4355  39456\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of DPC, brickbat coba, integral waterproofing for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice. Fix M20 RCC Supply and lay cable 16mm diameter Apply glass 12mm thick Cast Fe500 GI sheet 12mm thick Supply and lay SWR pipe 16mm thick Lay Class A AAC block Lay Class 1 POP Erect integral waterproofing",
+  "sections": {
+    "scope": "Supply and installation of DPC, brickbat coba, integral waterproofing for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix M20 RCC",
+        "247",
+        "ltr",
+        "3746",
+        "49145"
+      ],
+      [
+        "2",
+        "Supply and lay cable 16mm diameter",
+        "52",
+        "sqm",
+        "288",
+        "77919"
+      ],
+      [
+        "3",
+        "Apply glass 12mm thick",
+        "391",
+        "sqm",
+        "4066",
+        "85488"
+      ],
+      [
+        "4",
+        "Cast Fe500 GI sheet 12mm thick",
+        "74",
+        "sqm",
+        "261",
+        "52615"
+      ],
+      [
+        "5",
+        "Supply and lay SWR pipe 16mm thick",
+        "275",
+        "sqm",
+        "1061",
+        "24680"
+      ],
+      [
+        "6",
+        "Lay Class A AAC block",
+        "238",
+        "ls",
+        "4811",
+        "28030"
+      ],
+      [
+        "7",
+        "Lay Class 1 POP",
+        "141",
+        "cum",
+        "4246",
+        "40135"
+      ],
+      [
+        "8",
+        "Erect integral waterproofing",
+        "493",
+        "cum",
+        "4355",
+        "39456"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 247,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "cable",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 52,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 391,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "12mm thick",
+        "quantity": 74,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 275,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 238,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 141,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 493,
+        "unit": "m^3",
+        "standard": [
+          "IS 3144"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "syn_0083",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "waterproofing",
+  "text": "The work comprises integral waterproofing, DPC, brickbat coba for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install PVC pipe 150 x 150mm  450  rmt  3428  5440\n2  Install MS door 8mm diameter  409  set  3560  14159\n3  Provide and lay Fe550 MS plate 150 x 150mm  269  sqm  324  7828\n4  Fabricate and erect Class C AAC block  415  rmt  2603  42120\n5  Supply and fix brickbat coba 8mm diameter  137  rmt  3798  63700\n6  Provide and lay M25 RCC 16mm thick  98  ls  3495  49182\n7  Supply Class 2 POP  203  kg  4675  85817\n8  Supply DB  55  set  1482  7525\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises integral waterproofing, DPC, brickbat coba for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Provide and install PVC pipe 150 x 150mm Install MS door 8mm diameter Provide and lay Fe550 MS plate 150 x 150mm Fabricate and erect Class C AAC block Supply and fix brickbat coba 8mm diameter Provide and lay M25 RCC 16mm thick Supply Class 2 POP Supply DB",
+  "sections": {
+    "scope": "The work comprises integral waterproofing, DPC, brickbat coba for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install PVC pipe 150 x 150mm",
+        "450",
+        "rmt",
+        "3428",
+        "5440"
+      ],
+      [
+        "2",
+        "Install MS door 8mm diameter",
+        "409",
+        "set",
+        "3560",
+        "14159"
+      ],
+      [
+        "3",
+        "Provide and lay Fe550 MS plate 150 x 150mm",
+        "269",
+        "sqm",
+        "324",
+        "7828"
+      ],
+      [
+        "4",
+        "Fabricate and erect Class C AAC block",
+        "415",
+        "rmt",
+        "2603",
+        "42120"
+      ],
+      [
+        "5",
+        "Supply and fix brickbat coba 8mm diameter",
+        "137",
+        "rmt",
+        "3798",
+        "63700"
+      ],
+      [
+        "6",
+        "Provide and lay M25 RCC 16mm thick",
+        "98",
+        "ls",
+        "3495",
+        "49182"
+      ],
+      [
+        "7",
+        "Supply Class 2 POP",
+        "203",
+        "kg",
+        "4675",
+        "85817"
+      ],
+      [
+        "8",
+        "Supply DB",
+        "55",
+        "set",
+        "1482",
+        "7525"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 450,
+        "unit": "rmt",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 409,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "150 x 150mm",
+        "quantity": 269,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 415,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 137,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "RCC",
+        "grade": "M25",
+        "dimension": "16mm thick",
+        "quantity": 98,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 203,
+        "unit": "kg",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply",
+        "material": "DB",
+        "grade": "",
+        "dimension": "",
+        "quantity": 55,
+        "unit": "set",
+        "standard": [
+          "IS 3043"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

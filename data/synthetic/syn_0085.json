@@ -1,0 +1,247 @@
+{
+  "id": "syn_0085",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "concrete",
+  "text": "The work comprises PCC, RCC, M35 concrete for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply Class B hollow block  249  rmt  4445  57744\n2  Supply and lay GI conduit 12mm diameter  170  cum  3053  57372\n3  Cast Class 2 tile 8mm diameter  434  nos  2684  97582\n4  Lay DPC  446  set  547  31128\n5  Fabricate and erect M20 M25 concrete 8mm diameter  143  rmt  4154  6346\n6  Apply CI pipe 230mm thick  297  set  1312  17207\n7  Provide and install Fe415 structural steel  454  nos  4267  36755\n8  Lay aluminum window 200mm thick  402  rmt  4180  89723\n9  Supply and install Class B brick masonry 230mm thick  155  sqm  1359  4784\n10  Install cable 25mm thick  372  set  147  44178\n11  Provide and fix Class 2 cement plaster  495  rmt  2417  43358\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises PCC, RCC, M35 concrete for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards. Supply Class B hollow block Supply and lay GI conduit 12mm diameter Cast Class 2 tile 8mm diameter Lay DPC Fabricate and erect M20 M25 concrete 8mm diameter Apply CI pipe 230mm thick Provide and install Fe415 structural steel Lay aluminum window 200mm thick Supply and install Class B brick masonry 230mm thick Install cable 25mm thick Provide and fix Class 2 cement plaster",
+  "sections": {
+    "scope": "The work comprises PCC, RCC, M35 concrete for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply Class B hollow block",
+        "249",
+        "rmt",
+        "4445",
+        "57744"
+      ],
+      [
+        "2",
+        "Supply and lay GI conduit 12mm diameter",
+        "170",
+        "cum",
+        "3053",
+        "57372"
+      ],
+      [
+        "3",
+        "Cast Class 2 tile 8mm diameter",
+        "434",
+        "nos",
+        "2684",
+        "97582"
+      ],
+      [
+        "4",
+        "Lay DPC",
+        "446",
+        "set",
+        "547",
+        "31128"
+      ],
+      [
+        "5",
+        "Fabricate and erect M20 M25 concrete 8mm diameter",
+        "143",
+        "rmt",
+        "4154",
+        "6346"
+      ],
+      [
+        "6",
+        "Apply CI pipe 230mm thick",
+        "297",
+        "set",
+        "1312",
+        "17207"
+      ],
+      [
+        "7",
+        "Provide and install Fe415 structural steel",
+        "454",
+        "nos",
+        "4267",
+        "36755"
+      ],
+      [
+        "8",
+        "Lay aluminum window 200mm thick",
+        "402",
+        "rmt",
+        "4180",
+        "89723"
+      ],
+      [
+        "9",
+        "Supply and install Class B brick masonry 230mm thick",
+        "155",
+        "sqm",
+        "1359",
+        "4784"
+      ],
+      [
+        "10",
+        "Install cable 25mm thick",
+        "372",
+        "set",
+        "147",
+        "44178"
+      ],
+      [
+        "11",
+        "Provide and fix Class 2 cement plaster",
+        "495",
+        "rmt",
+        "2417",
+        "43358"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 249,
+        "unit": "rmt",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 170,
+        "unit": "m^3",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Cast",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "8mm diameter",
+        "quantity": 434,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 446,
+        "unit": "set",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "8mm diameter",
+        "quantity": 143,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 297,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 454,
+        "unit": "no.",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 402,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "230mm thick",
+        "quantity": 155,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 372,
+        "unit": "set",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and fix",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 495,
+        "unit": "rmt",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

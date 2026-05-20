@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+data/jobs/
+*.log
+
+# Model files (too large for GitHub)
+# NOTE: only commit models/ENTRIES.md as an inventory; weights stay local.
+# Past incident: a 2.8 GB duplicate model (models/ner_model/) accidentally
+# committed and ate disk. Keep models/ gitignored entirely.
+models/
+data/real_rfqs/raw/
+data/real_rfqs/extracted/
+data/real_rfqs/templates/
+results/demo/
+resources/knowledge_base/
+
+# Attic — archived out-of-scope code (preserved for reference but huge)
+# Tracked in git but NOT loaded by tests/lint/type-check (excluded in pyproject)
+# attic/  # uncomment if you want to fully exclude (loses history)
+
+# DSR PDFs — too large to commit, download manually
+data/rates/dsr_2023/raw_pdfs/
+.venv311/
+*.pyc
+.codex/

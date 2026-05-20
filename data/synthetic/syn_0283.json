@@ -1,0 +1,127 @@
+{
+  "id": "syn_0283",
+  "project_name": "IT Park Phase 2",
+  "category": "finishes",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the IT Park Phase 2 project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install switch  419  set  2398  62081\n2  Apply glass 10mm diameter  142  sqm  4166  42151\n3  Cast HDPE pipe 150mm thick  278  sqm  1821  61656\n4  Provide and fix M20 PCC 150mm thick  308  sqm  4859  40649\n5  Supply and fix Class 2 tile 16mm diameter  217  kg  3467  27917\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the IT Park Phase 2 project. All work to be carried out as per specifications. Install switch Apply glass 10mm diameter Cast HDPE pipe 150mm thick Provide and fix M20 PCC 150mm thick Supply and fix Class 2 tile 16mm diameter",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the IT Park Phase 2 project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install switch",
+        "419",
+        "set",
+        "2398",
+        "62081"
+      ],
+      [
+        "2",
+        "Apply glass 10mm diameter",
+        "142",
+        "sqm",
+        "4166",
+        "42151"
+      ],
+      [
+        "3",
+        "Cast HDPE pipe 150mm thick",
+        "278",
+        "sqm",
+        "1821",
+        "61656"
+      ],
+      [
+        "4",
+        "Provide and fix M20 PCC 150mm thick",
+        "308",
+        "sqm",
+        "4859",
+        "40649"
+      ],
+      [
+        "5",
+        "Supply and fix Class 2 tile 16mm diameter",
+        "217",
+        "kg",
+        "3467",
+        "27917"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "",
+        "quantity": 419,
+        "unit": "set",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 142,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Cast",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 278,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and fix",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "150mm thick",
+        "quantity": 308,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "16mm diameter",
+        "quantity": 217,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

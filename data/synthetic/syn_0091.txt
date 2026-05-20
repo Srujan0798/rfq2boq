@@ -1,0 +1,39 @@
+Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Commercial Building at MG Road project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay flush door  287  rmt  2193  12747
+2  Erect membrane  357  rmt  1586  4561
+3  Erect Fe500 TMT steel  60  ls  2212  50219
+4  Provide and install cable 16mm diameter  132  kg  1042  36296
+5  Fabricate and erect GI pipe  293  ltr  3438  84039
+6  Provide and lay M20 M25 concrete  293  sqm  1128  40926
+7  Fabricate and erect Class 2 putty 300mm thick  52  kg  4527  23044
+8  Erect Class C AAC block  476  set  2469  86597
+9  Supply and install aluminum window  487  set  3214  47061
+10  Supply and install membrane 6mm diameter  92  sqm  1107  19304
+11  Supply Fe500 rebar 150 x 150mm  231  kg  2906  84252
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

@@ -1,0 +1,34 @@
+Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Cast Class B fly ash brick 12mm diameter  258  kg  2380  60582
+2  Supply and fix M40 M20 concrete  495  set  2722  75475
+3  Supply and install GI pipe 12mm diameter  489  ls  543  28720
+4  Provide and lay flush door  139  rmt  2343  54093
+5  Install Fe500 TMT steel 16mm diameter  374  set  2225  25127
+6  Supply Class 1 cement plaster 100 x 100mm  471  ltr  1726  46780
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

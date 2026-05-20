@@ -1,0 +1,35 @@
+Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Apply Fe550 GI sheet 16mm diameter  25  nos  4944  90053
+2  Supply and install M25 M25 concrete 20mm thick  365  ls  149  46462
+3  Lay Class C brick masonry 8mm diameter  493  rmt  786  43909
+4  Provide and lay glass 150 x 150mm  407  cum  3788  8572
+5  Fabricate and erect DPC 12mm thick  373  ls  730  77899
+6  Install cable  410  nos  4006  28532
+7  Fabricate and erect CI pipe  383  kg  1542  23995
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0182",
+  "project_name": "School Building at Electronic City",
+  "category": "waterproofing",
+  "text": "Supply and installation of integral waterproofing, membrane, DPC for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix switch 16mm diameter  374  sqm  920  48517\n2  Provide and lay GI pipe 230mm thick  403  ls  4821  28827\n3  Provide and install M20 PCC 200mm thick  35  nos  4596  76675\n4  Supply and lay integral waterproofing 150mm thick  468  ltr  3542  13185\n5  Apply MS door  36  rmt  975  63518\n6  Fix Class B brick masonry 25mm thick  194  ltr  4940  74556\n7  Provide and fix Class 1 POP 230mm thick  96  rmt  237  62645\n8  Apply Fe550 MS plate 16mm diameter  74  rmt  3441  1692\n9  Cast DB 20mm thick  416  kg  3620  28657\n10  Provide and install SWR pipe 6mm diameter  432  nos  3471  76803\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of integral waterproofing, membrane, DPC for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and fix switch 16mm diameter Provide and lay GI pipe 230mm thick Provide and install M20 PCC 200mm thick Supply and lay integral waterproofing 150mm thick Apply MS door Fix Class B brick masonry 25mm thick Provide and fix Class 1 POP 230mm thick Apply Fe550 MS plate 16mm diameter Cast DB 20mm thick Provide and install SWR pipe 6mm diameter",
+  "sections": {
+    "scope": "Supply and installation of integral waterproofing, membrane, DPC for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix switch 16mm diameter",
+        "374",
+        "sqm",
+        "920",
+        "48517"
+      ],
+      [
+        "2",
+        "Provide and lay GI pipe 230mm thick",
+        "403",
+        "ls",
+        "4821",
+        "28827"
+      ],
+      [
+        "3",
+        "Provide and install M20 PCC 200mm thick",
+        "35",
+        "nos",
+        "4596",
+        "76675"
+      ],
+      [
+        "4",
+        "Supply and lay integral waterproofing 150mm thick",
+        "468",
+        "ltr",
+        "3542",
+        "13185"
+      ],
+      [
+        "5",
+        "Apply MS door",
+        "36",
+        "rmt",
+        "975",
+        "63518"
+      ],
+      [
+        "6",
+        "Fix Class B brick masonry 25mm thick",
+        "194",
+        "ltr",
+        "4940",
+        "74556"
+      ],
+      [
+        "7",
+        "Provide and fix Class 1 POP 230mm thick",
+        "96",
+        "rmt",
+        "237",
+        "62645"
+      ],
+      [
+        "8",
+        "Apply Fe550 MS plate 16mm diameter",
+        "74",
+        "rmt",
+        "3441",
+        "1692"
+      ],
+      [
+        "9",
+        "Cast DB 20mm thick",
+        "416",
+        "kg",
+        "3620",
+        "28657"
+      ],
+      [
+        "10",
+        "Provide and install SWR pipe 6mm diameter",
+        "432",
+        "nos",
+        "3471",
+        "76803"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 374,
+        "unit": "m^2",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 403,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "200mm thick",
+        "quantity": 35,
+        "unit": "no.",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 468,
+        "unit": "ltr",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 36,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "25mm thick",
+        "quantity": 194,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and fix",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 96,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Apply",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "16mm diameter",
+        "quantity": 74,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Cast",
+        "material": "DB",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 416,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 432,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

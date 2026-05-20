@@ -1,0 +1,197 @@
+[
+  {
+    "text": "Supply and install M20 concrete 150 cum at ground floor slab",
+    "entities": [
+      {
+        "type": "ACTION",
+        "text": "Supply",
+        "start": 0,
+        "conf": 0.95
+      },
+      {
+        "type": "MATERIAL",
+        "text": "ply",
+        "start": 3,
+        "conf": 1.0
+      },
+      {
+        "type": "ACTION",
+        "text": "install",
+        "start": 11,
+        "conf": 0.95
+      },
+      {
+        "type": "GRADE",
+        "text": "M20",
+        "start": 19,
+        "conf": 0.95
+      },
+      {
+        "type": "MATERIAL",
+        "text": "M20 concrete",
+        "start": 19,
+        "conf": 1.0
+      },
+      {
+        "type": "MATERIAL",
+        "text": "M20",
+        "start": 19,
+        "conf": 1.0
+      },
+      {
+        "type": "LOCATION",
+        "text": "concrete",
+        "start": 23,
+        "conf": 0.9
+      },
+      {
+        "type": "QUANTITY",
+        "text": "150",
+        "start": 32,
+        "conf": 0.95
+      },
+      {
+        "type": "UNIT",
+        "text": "cum",
+        "start": 36,
+        "conf": 1.0
+      },
+      {
+        "type": "LOCATION",
+        "text": "ground floor",
+        "start": 43,
+        "conf": 0.9
+      },
+      {
+        "type": "LOCATION",
+        "text": "ground floor slab",
+        "start": 43,
+        "conf": 0.9
+      }
+    ]
+  },
+  {
+    "text": "Provide and lay GI pipe 100mm diameter for drainage at basement",
+    "entities": [
+      {
+        "type": "ACTION",
+        "text": "Provide",
+        "start": 0,
+        "conf": 0.95
+      },
+      {
+        "type": "ACTION",
+        "text": "lay",
+        "start": 12,
+        "conf": 0.95
+      },
+      {
+        "type": "MATERIAL",
+        "text": "GI",
+        "start": 16,
+        "conf": 1.0
+      },
+      {
+        "type": "MATERIAL",
+        "text": "GI pipe",
+        "start": 16,
+        "conf": 1.0
+      },
+      {
+        "type": "MATERIAL",
+        "text": "pipe",
+        "start": 19,
+        "conf": 1.0
+      },
+      {
+        "type": "DIMENSION",
+        "text": "100mm",
+        "start": 24,
+        "conf": 0.95
+      },
+      {
+        "type": "UNIT",
+        "text": "meter",
+        "start": 33,
+        "conf": 1.0
+      },
+      {
+        "type": "LOCATION",
+        "text": "drain",
+        "start": 43,
+        "conf": 0.9
+      },
+      {
+        "type": "LOCATION",
+        "text": "drainage",
+        "start": 43,
+        "conf": 0.9
+      },
+      {
+        "type": "LOCATION",
+        "text": "basement",
+        "start": 55,
+        "conf": 0.9
+      },
+      {
+        "type": "LOCATION",
+        "text": "base",
+        "start": 55,
+        "conf": 0.9
+      }
+    ]
+  },
+  {
+    "text": "Supply TMT steel bars Fe500 500 kg for structural work at first floor",
+    "entities": [
+      {
+        "type": "ACTION",
+        "text": "Supply",
+        "start": 0,
+        "conf": 0.95
+      },
+      {
+        "type": "MATERIAL",
+        "text": "ply",
+        "start": 3,
+        "conf": 1.0
+      },
+      {
+        "type": "MATERIAL",
+        "text": "TMT steel bar",
+        "start": 7,
+        "conf": 1.0
+      },
+      {
+        "type": "MATERIAL",
+        "text": "TMT",
+        "start": 7,
+        "conf": 1.0
+      },
+      {
+        "type": "GRADE",
+        "text": "Fe500",
+        "start": 22,
+        "conf": 0.95
+      },
+      {
+        "type": "QUANTITY",
+        "text": "500",
+        "start": 28,
+        "conf": 0.95
+      },
+      {
+        "type": "LOCATION",
+        "text": "structural",
+        "start": 39,
+        "conf": 0.9
+      },
+      {
+        "type": "LOCATION",
+        "text": "first floor",
+        "start": 58,
+        "conf": 0.9
+      }
+    ]
+  }
+]

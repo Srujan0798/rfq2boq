@@ -1,0 +1,110 @@
+"""Tests for subdomain model routing."""
+
+import pytest
+from src.nlp.router import (
+    ProjectType, ProjectTypeClassifier, DomainModelRouter,
+    get_best_model, classify_project,
+)
+from src.nlp.project_classifier import (
+    ProjectClassifier, DomainNERModel, DomainRouter,
+)
+
+
+class TestProjectTypeClassifier:
+    def test_classify_building(self):
+        c = ProjectTypeClassifier()
+        pt, conf = c.classify("Construction of residential apartment building with RCC structure")
+        assert pt == ProjectType.BUILDING
+        assert conf > 0.3
+
+    def test_classify_road(self):
+        c = ProjectTypeClassifier()
+        pt, conf = c.classify("Construction of 4-lane highway with bituminous pavement")
+        assert pt == ProjectType.ROAD
+        assert conf > 0.3
+
+    def test_classify_electrical(self):
+        c = ProjectTypeClassifier()
+        pt, conf = c.classify("Electrical wiring and cable installation for panel")
+        assert pt == ProjectType.ELECTRICAL
+        assert conf > 0.3
+
+    def test_classify_plumbing(self):
+        c = ProjectTypeClassifier()
+        pt, conf = c.classify("Plumbing and sanitary pipe fitting work")
+        assert pt == ProjectType.PLUMBING
+        assert conf > 0.3
+
+    def test_classify_unknown_defaults_general(self):
+        c = ProjectTypeClassifier()
+        pt, conf = c.classify("Unusual construction material supply")
+        assert pt == ProjectType.GENERAL
+
+    def test_classify_batch(self):
+        c = ProjectTypeClassifier()
+        texts = [
+            "Building construction project",
+            "Road and highway work",
+        ]
+        results = c.classify_batch(texts)
+        assert len(results) == 2
+        assert all(isinstance(r, tuple) for r in results)
+
+
+class TestDomainModelRouter:
+    def test_init(self):
+        router = DomainModelRouter()
+        assert router.use_subdomain is True
+        assert router.classifier is not None
+
+    def test_get_model_for_project_building(self):
+        router = DomainModelRouter()
+        model_path = router.get_model_for_project("apartment building construction with RCC")
+        assert "building" in model_path.lower() or "general" in model_path.lower()
+
+    def test_get_model_for_project_road(self):
+        router = DomainModelRouter()
+        model_path = router.get_model_for_project("highway construction project")
+        assert "road" in model_path.lower() or "general" in model_path.lower()
+
+    def test_get_model_for_project_unknown(self):
+        router = DomainModelRouter()
+        model_path = router.get_model_for_project("some ambiguous text")
+        assert "general" in model_path.lower()
+
+    def test_get_model_for_project_disabled(self):
+        router = DomainModelRouter(use_subdomain=False)
+        model_path = router.get_model_for_project("apartment building")
+        assert "general" in model_path.lower()
+
+    def test_route_extraction(self):
+        router = DomainModelRouter()
+        result = router.route_extraction("Electrical cable installation for building")
+        assert "project_type" in result
+        assert "model_path" in result
+        assert "confidence" in result
+
+
+class TestProjectClassifier:
+    def test_classify(self):
+        c = ProjectClassifier()
+        pt, conf = c.classify("Construction of 4-lane highway project")
+        assert pt in ["road", "building", "general"]
+
+    def test_classify_from_rfq(self):
+        c = ProjectClassifier()
+        result = c.classify_from_rfq("Residential building construction")
+        assert "type" in result
+        assert "confidence" in result
+        assert "keywords_found" in result
+
+
+class TestHelpers:
+    def test_get_best_model(self):
+        model = get_best_model("road construction project")
+        assert model is not None
+        assert isinstance(model, str)
+
+    def test_classify_project(self):
+        pt = classify_project("Electrical installation for hospital")
+        assert isinstance(pt, ProjectType)

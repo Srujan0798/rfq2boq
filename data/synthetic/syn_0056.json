@@ -1,0 +1,247 @@
+{
+  "id": "syn_0056",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "electrical",
+  "text": "The work comprises cable, DB, switch for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fabricate and erect Class 2 POP 12mm diameter  500  ls  1824  55931\n2  Install switch 300mm thick  215  nos  1972  14090\n3  Fix M30 RCC 16mm thick  130  ltr  1325  62995\n4  Erect flush door 16mm diameter  265  rmt  4086  40326\n5  Erect HDPE pipe  60  rmt  4003  83557\n6  Apply brickbat coba 25mm thick  181  nos  262  54970\n7  Install Class B brick masonry 12mm thick  357  kg  3009  43610\n8  Fix Fe500 rebar 6mm diameter  387  set  2447  61784\n9  Plaster Class 1 POP 6mm diameter  423  ls  748  22233\n10  Provide and fix switch 6mm diameter  172  nos  3744  48600\n11  Lay M40 RCC  240  ltr  1124  96390\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises cable, DB, switch for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Fabricate and erect Class 2 POP 12mm diameter Install switch 300mm thick Fix M30 RCC 16mm thick Erect flush door 16mm diameter Erect HDPE pipe Apply brickbat coba 25mm thick Install Class B brick masonry 12mm thick Fix Fe500 rebar 6mm diameter Plaster Class 1 POP 6mm diameter Provide and fix switch 6mm diameter Lay M40 RCC",
+  "sections": {
+    "scope": "The work comprises cable, DB, switch for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fabricate and erect Class 2 POP 12mm diameter",
+        "500",
+        "ls",
+        "1824",
+        "55931"
+      ],
+      [
+        "2",
+        "Install switch 300mm thick",
+        "215",
+        "nos",
+        "1972",
+        "14090"
+      ],
+      [
+        "3",
+        "Fix M30 RCC 16mm thick",
+        "130",
+        "ltr",
+        "1325",
+        "62995"
+      ],
+      [
+        "4",
+        "Erect flush door 16mm diameter",
+        "265",
+        "rmt",
+        "4086",
+        "40326"
+      ],
+      [
+        "5",
+        "Erect HDPE pipe",
+        "60",
+        "rmt",
+        "4003",
+        "83557"
+      ],
+      [
+        "6",
+        "Apply brickbat coba 25mm thick",
+        "181",
+        "nos",
+        "262",
+        "54970"
+      ],
+      [
+        "7",
+        "Install Class B brick masonry 12mm thick",
+        "357",
+        "kg",
+        "3009",
+        "43610"
+      ],
+      [
+        "8",
+        "Fix Fe500 rebar 6mm diameter",
+        "387",
+        "set",
+        "2447",
+        "61784"
+      ],
+      [
+        "9",
+        "Plaster Class 1 POP 6mm diameter",
+        "423",
+        "ls",
+        "748",
+        "22233"
+      ],
+      [
+        "10",
+        "Provide and fix switch 6mm diameter",
+        "172",
+        "nos",
+        "3744",
+        "48600"
+      ],
+      [
+        "11",
+        "Lay M40 RCC",
+        "240",
+        "ltr",
+        "1124",
+        "96390"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fabricate and erect",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "12mm diameter",
+        "quantity": 500,
+        "unit": "ls",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 215,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "RCC",
+        "grade": "M30",
+        "dimension": "16mm thick",
+        "quantity": 130,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 265,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 60,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 181,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "12mm thick",
+        "quantity": 357,
+        "unit": "kg",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "6mm diameter",
+        "quantity": 387,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Plaster",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "6mm diameter",
+        "quantity": 423,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 172,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Lay",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 240,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

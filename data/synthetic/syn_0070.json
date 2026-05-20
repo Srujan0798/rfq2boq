@@ -1,0 +1,127 @@
+{
+  "id": "syn_0070",
+  "project_name": "Commercial Building at MG Road",
+  "category": "electrical",
+  "text": "The work comprises GI conduit, switch, DB for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install Class 1 cement plaster 12mm thick  319  rmt  1609  34205\n2  Plaster integral waterproofing 25mm thick  489  sqm  2749  34729\n3  Provide and lay Class A AAC block 150 x 150mm  407  cum  2215  35690\n4  Supply and lay Fe500 MS plate 12mm thick  261  kg  4130  15212\n5  Provide and install aluminum window 25mm thick  324  sqm  385  10557\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises GI conduit, switch, DB for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Install Class 1 cement plaster 12mm thick Plaster integral waterproofing 25mm thick Provide and lay Class A AAC block 150 x 150mm Supply and lay Fe500 MS plate 12mm thick Provide and install aluminum window 25mm thick",
+  "sections": {
+    "scope": "The work comprises GI conduit, switch, DB for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install Class 1 cement plaster 12mm thick",
+        "319",
+        "rmt",
+        "1609",
+        "34205"
+      ],
+      [
+        "2",
+        "Plaster integral waterproofing 25mm thick",
+        "489",
+        "sqm",
+        "2749",
+        "34729"
+      ],
+      [
+        "3",
+        "Provide and lay Class A AAC block 150 x 150mm",
+        "407",
+        "cum",
+        "2215",
+        "35690"
+      ],
+      [
+        "4",
+        "Supply and lay Fe500 MS plate 12mm thick",
+        "261",
+        "kg",
+        "4130",
+        "15212"
+      ],
+      [
+        "5",
+        "Provide and install aluminum window 25mm thick",
+        "324",
+        "sqm",
+        "385",
+        "10557"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 319,
+        "unit": "rmt",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Plaster",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 489,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "150 x 150mm",
+        "quantity": 407,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "12mm thick",
+        "quantity": 261,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 324,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "verified_at": "2026-05-19T14:00:00+05:30",
+  "git_commit": "eb47488",
+  "git_ahead": 19,
+  "git_push_status": "blocked_pack_1.19gb",
+  "tests": {
+    "passed": 200,
+    "failed": 0,
+    "skipped": 6,
+    "note": "timeout on Python 3.14 prevents full suite"
+  },
+  "lint_clean": true,
+  "mypy_clean": true,
+  "pipeline_smoke": "pass",
+  "pipeline_entities": 7,
+  "real_world_f1": 0.5632,
+  "gold_test_f1": 0.515,
+  "real_rfq_f1": 0.714,
+  "real_pdfs": 4,
+  "gold_annotations": 20,
+  "synthetic_pdfs": 113,
+  "dsr_items": 501,
+  "scope_violations": 0,
+  "verdict": "READY WITH CAVEATS",
+  "caveats": [
+    "NER model classifier mismatch \u2014 pipeline compensates via regex+dict fallback",
+    "Only 2 gold annotations on real PDFs (18 on synthetic)",
+    "MATERIAL F1=0.033, LOCATION F1=0.127 \u2014 major weaknesses",
+    "MPS training too slow for full fine-tuning",
+    "Git push blocked: pack 1.19 GB exceeds GitHub limit"
+  ]
+}

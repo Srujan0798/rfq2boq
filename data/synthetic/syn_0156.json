@@ -1,0 +1,167 @@
+{
+  "id": "syn_0156",
+  "project_name": "School Building at Electronic City",
+  "category": "doors_windows",
+  "text": "Supply and installation of glass, aluminum window, MS door for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix switch  58  nos  598  74023\n2  Supply and lay M30 M20 concrete 16mm diameter  96  cum  138  43842\n3  Supply and install DPC 12mm thick  419  ls  4181  24827\n4  Supply and lay Class B AAC block 12mm thick  456  rmt  1554  67496\n5  Supply and install aluminum window 230mm thick  328  cum  2487  15126\n6  Supply and fix Fe550 structural steel 12mm diameter  312  rmt  1371  81372\n7  Supply Class 2 tile 230mm thick  347  ltr  4642  9580\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of glass, aluminum window, MS door for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice. Fix switch Supply and lay M30 M20 concrete 16mm diameter Supply and install DPC 12mm thick Supply and lay Class B AAC block 12mm thick Supply and install aluminum window 230mm thick Supply and fix Fe550 structural steel 12mm diameter Supply Class 2 tile 230mm thick",
+  "sections": {
+    "scope": "Supply and installation of glass, aluminum window, MS door for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix switch",
+        "58",
+        "nos",
+        "598",
+        "74023"
+      ],
+      [
+        "2",
+        "Supply and lay M30 M20 concrete 16mm diameter",
+        "96",
+        "cum",
+        "138",
+        "43842"
+      ],
+      [
+        "3",
+        "Supply and install DPC 12mm thick",
+        "419",
+        "ls",
+        "4181",
+        "24827"
+      ],
+      [
+        "4",
+        "Supply and lay Class B AAC block 12mm thick",
+        "456",
+        "rmt",
+        "1554",
+        "67496"
+      ],
+      [
+        "5",
+        "Supply and install aluminum window 230mm thick",
+        "328",
+        "cum",
+        "2487",
+        "15126"
+      ],
+      [
+        "6",
+        "Supply and fix Fe550 structural steel 12mm diameter",
+        "312",
+        "rmt",
+        "1371",
+        "81372"
+      ],
+      [
+        "7",
+        "Supply Class 2 tile 230mm thick",
+        "347",
+        "ltr",
+        "4642",
+        "9580"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "",
+        "quantity": 58,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "M20 concrete",
+        "grade": "M30",
+        "dimension": "16mm diameter",
+        "quantity": 96,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 419,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "12mm thick",
+        "quantity": 456,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 328,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "12mm diameter",
+        "quantity": 312,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "230mm thick",
+        "quantity": 347,
+        "unit": "ltr",
+        "standard": [
+          "IS 15622"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

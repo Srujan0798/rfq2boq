@@ -1,0 +1,147 @@
+{
+  "id": "syn_0047",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "concrete",
+  "text": "Supply and installation of PCC, M35 concrete, RCC for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install glass 10mm diameter  130  sqm  4183  59598\n2  Fabricate and erect Class 1 tile  391  cum  393  74024\n3  Install M20 PCC 16mm thick  56  nos  3837  45676\n4  Install HDPE pipe 12mm diameter  124  set  3076  94836\n5  Supply and lay DPC  398  kg  2491  72786\n6  Apply Fe500 rebar 12mm diameter  64  cum  3452  15019\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of PCC, M35 concrete, RCC for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install glass 10mm diameter Fabricate and erect Class 1 tile Install M20 PCC 16mm thick Install HDPE pipe 12mm diameter Supply and lay DPC Apply Fe500 rebar 12mm diameter",
+  "sections": {
+    "scope": "Supply and installation of PCC, M35 concrete, RCC for Residential Complex at Whitefield as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install glass 10mm diameter",
+        "130",
+        "sqm",
+        "4183",
+        "59598"
+      ],
+      [
+        "2",
+        "Fabricate and erect Class 1 tile",
+        "391",
+        "cum",
+        "393",
+        "74024"
+      ],
+      [
+        "3",
+        "Install M20 PCC 16mm thick",
+        "56",
+        "nos",
+        "3837",
+        "45676"
+      ],
+      [
+        "4",
+        "Install HDPE pipe 12mm diameter",
+        "124",
+        "set",
+        "3076",
+        "94836"
+      ],
+      [
+        "5",
+        "Supply and lay DPC",
+        "398",
+        "kg",
+        "2491",
+        "72786"
+      ],
+      [
+        "6",
+        "Apply Fe500 rebar 12mm diameter",
+        "64",
+        "cum",
+        "3452",
+        "15019"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 130,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 391,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "16mm thick",
+        "quantity": 56,
+        "unit": "no.",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 124,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 398,
+        "unit": "kg",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "12mm diameter",
+        "quantity": 64,
+        "unit": "m^3",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

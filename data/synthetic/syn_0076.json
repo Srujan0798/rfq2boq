@@ -1,0 +1,207 @@
+{
+  "id": "syn_0076",
+  "project_name": "Hotel at Airport Road",
+  "category": "doors_windows",
+  "text": "The work comprises glass, MS door, aluminum window for the proposed Hotel at Airport Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix Class 2 tile  442  cum  3834  22805\n2  Apply SWR pipe  284  nos  1357  22135\n3  Supply and install M20 M25 concrete 200 x 200mm  172  rmt  1780  74726\n4  Provide and fix flush door 12mm thick  85  ls  1095  4266\n5  Fix Fe500 GI sheet 300mm thick  84  set  4574  67507\n6  Fabricate and erect switch 300mm thick  468  nos  3721  45392\n7  Supply brickbat coba 230mm thick  30  rmt  303  53642\n8  Provide and fix Class B AAC block  57  ls  1698  77471\n9  Fix Class 1 putty  489  nos  4510  59387\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises glass, MS door, aluminum window for the proposed Hotel at Airport Road. Materials to be of best quality conforming to relevant Indian Standards. Fix Class 2 tile Apply SWR pipe Supply and install M20 M25 concrete 200 x 200mm Provide and fix flush door 12mm thick Fix Fe500 GI sheet 300mm thick Fabricate and erect switch 300mm thick Supply brickbat coba 230mm thick Provide and fix Class B AAC block Fix Class 1 putty",
+  "sections": {
+    "scope": "The work comprises glass, MS door, aluminum window for the proposed Hotel at Airport Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix Class 2 tile",
+        "442",
+        "cum",
+        "3834",
+        "22805"
+      ],
+      [
+        "2",
+        "Apply SWR pipe",
+        "284",
+        "nos",
+        "1357",
+        "22135"
+      ],
+      [
+        "3",
+        "Supply and install M20 M25 concrete 200 x 200mm",
+        "172",
+        "rmt",
+        "1780",
+        "74726"
+      ],
+      [
+        "4",
+        "Provide and fix flush door 12mm thick",
+        "85",
+        "ls",
+        "1095",
+        "4266"
+      ],
+      [
+        "5",
+        "Fix Fe500 GI sheet 300mm thick",
+        "84",
+        "set",
+        "4574",
+        "67507"
+      ],
+      [
+        "6",
+        "Fabricate and erect switch 300mm thick",
+        "468",
+        "nos",
+        "3721",
+        "45392"
+      ],
+      [
+        "7",
+        "Supply brickbat coba 230mm thick",
+        "30",
+        "rmt",
+        "303",
+        "53642"
+      ],
+      [
+        "8",
+        "Provide and fix Class B AAC block",
+        "57",
+        "ls",
+        "1698",
+        "77471"
+      ],
+      [
+        "9",
+        "Fix Class 1 putty",
+        "489",
+        "nos",
+        "4510",
+        "59387"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 442,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 284,
+        "unit": "no.",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "200 x 200mm",
+        "quantity": 172,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and fix",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 85,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "300mm thick",
+        "quantity": 84,
+        "unit": "set",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fabricate and erect",
+        "material": "switch",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 468,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 30,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 57,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fix",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 489,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

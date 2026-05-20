@@ -1,0 +1,267 @@
+{
+  "id": "syn_0087",
+  "project_name": "IT Park Phase 2",
+  "category": "waterproofing",
+  "text": "The scope of work includes brickbat coba, membrane, integral waterproofing for the IT Park Phase 2 project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install Class 2 cement plaster 100mm thick  354  sqm  3335  16293\n2  Plaster brickbat coba 12mm diameter  254  set  3055  91526\n3  Fix M35 RCC  164  sqm  1663  15668\n4  Provide and install Fe550 TMT steel  449  cum  1289  86162\n5  Install aluminum window  330  kg  1313  63126\n6  Supply and lay Class A hollow block 10mm diameter  95  rmt  3962  3572\n7  Provide and install CI pipe  160  ltr  941  83629\n8  Install light fixture  263  nos  4082  68286\n9  Provide and install Class 2 putty 8mm diameter  375  cum  2687  73516\n10  Supply brickbat coba 230mm thick  341  ltr  2940  59762\n11  Supply and install M35 RCC 12mm diameter  92  nos  3689  31422\n12  Cast Fe415 rebar 10mm diameter  475  ls  2503  95764\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes brickbat coba, membrane, integral waterproofing for the IT Park Phase 2 project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Install Class 2 cement plaster 100mm thick Plaster brickbat coba 12mm diameter Fix M35 RCC Provide and install Fe550 TMT steel Install aluminum window Supply and lay Class A hollow block 10mm diameter Provide and install CI pipe Install light fixture Provide and install Class 2 putty 8mm diameter Supply brickbat coba 230mm thick Supply and install M35 RCC 12mm diameter Cast Fe415 rebar 10mm diameter",
+  "sections": {
+    "scope": "The scope of work includes brickbat coba, membrane, integral waterproofing for the IT Park Phase 2 project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install Class 2 cement plaster 100mm thick",
+        "354",
+        "sqm",
+        "3335",
+        "16293"
+      ],
+      [
+        "2",
+        "Plaster brickbat coba 12mm diameter",
+        "254",
+        "set",
+        "3055",
+        "91526"
+      ],
+      [
+        "3",
+        "Fix M35 RCC",
+        "164",
+        "sqm",
+        "1663",
+        "15668"
+      ],
+      [
+        "4",
+        "Provide and install Fe550 TMT steel",
+        "449",
+        "cum",
+        "1289",
+        "86162"
+      ],
+      [
+        "5",
+        "Install aluminum window",
+        "330",
+        "kg",
+        "1313",
+        "63126"
+      ],
+      [
+        "6",
+        "Supply and lay Class A hollow block 10mm diameter",
+        "95",
+        "rmt",
+        "3962",
+        "3572"
+      ],
+      [
+        "7",
+        "Provide and install CI pipe",
+        "160",
+        "ltr",
+        "941",
+        "83629"
+      ],
+      [
+        "8",
+        "Install light fixture",
+        "263",
+        "nos",
+        "4082",
+        "68286"
+      ],
+      [
+        "9",
+        "Provide and install Class 2 putty 8mm diameter",
+        "375",
+        "cum",
+        "2687",
+        "73516"
+      ],
+      [
+        "10",
+        "Supply brickbat coba 230mm thick",
+        "341",
+        "ltr",
+        "2940",
+        "59762"
+      ],
+      [
+        "11",
+        "Supply and install M35 RCC 12mm diameter",
+        "92",
+        "nos",
+        "3689",
+        "31422"
+      ],
+      [
+        "12",
+        "Cast Fe415 rebar 10mm diameter",
+        "475",
+        "ls",
+        "2503",
+        "95764"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "100mm thick",
+        "quantity": 354,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Plaster",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 254,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "RCC",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 164,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and install",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 449,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 330,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "10mm diameter",
+        "quantity": 95,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 160,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 263,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and install",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "8mm diameter",
+        "quantity": 375,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 341,
+        "unit": "ltr",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and install",
+        "material": "RCC",
+        "grade": "M35",
+        "dimension": "12mm diameter",
+        "quantity": 92,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Cast",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "10mm diameter",
+        "quantity": 475,
+        "unit": "ls",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

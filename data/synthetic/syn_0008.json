@@ -1,0 +1,207 @@
+{
+  "id": "syn_0008",
+  "project_name": "IT Park Phase 2",
+  "category": "electrical",
+  "text": "The scope of work includes DB, GI conduit, light fixture for the IT Park Phase 2 project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install Class C brick masonry 6mm diameter  485  nos  1724  10961\n2  Apply membrane 230mm thick  405  nos  436  46508\n3  Plaster Class 2 putty 150 x 150mm  199  sqm  3541  65251\n4  Provide and fix M35 M20 concrete 8mm diameter  335  set  4374  86256\n5  Fabricate and erect switch 20mm thick  233  nos  2384  60087\n6  Cast PVC pipe 12mm diameter  322  ltr  1589  64904\n7  Fix Fe500 MS plate  142  ls  2363  73848\n8  Supply and lay flush door 20mm thick  133  ltr  4120  59743\n9  Provide and lay Class A brick masonry 100 x 100mm  123  ltr  4864  49368\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes DB, GI conduit, light fixture for the IT Park Phase 2 project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and install Class C brick masonry 6mm diameter Apply membrane 230mm thick Plaster Class 2 putty 150 x 150mm Provide and fix M35 M20 concrete 8mm diameter Fabricate and erect switch 20mm thick Cast PVC pipe 12mm diameter Fix Fe500 MS plate Supply and lay flush door 20mm thick Provide and lay Class A brick masonry 100 x 100mm",
+  "sections": {
+    "scope": "The scope of work includes DB, GI conduit, light fixture for the IT Park Phase 2 project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install Class C brick masonry 6mm diameter",
+        "485",
+        "nos",
+        "1724",
+        "10961"
+      ],
+      [
+        "2",
+        "Apply membrane 230mm thick",
+        "405",
+        "nos",
+        "436",
+        "46508"
+      ],
+      [
+        "3",
+        "Plaster Class 2 putty 150 x 150mm",
+        "199",
+        "sqm",
+        "3541",
+        "65251"
+      ],
+      [
+        "4",
+        "Provide and fix M35 M20 concrete 8mm diameter",
+        "335",
+        "set",
+        "4374",
+        "86256"
+      ],
+      [
+        "5",
+        "Fabricate and erect switch 20mm thick",
+        "233",
+        "nos",
+        "2384",
+        "60087"
+      ],
+      [
+        "6",
+        "Cast PVC pipe 12mm diameter",
+        "322",
+        "ltr",
+        "1589",
+        "64904"
+      ],
+      [
+        "7",
+        "Fix Fe500 MS plate",
+        "142",
+        "ls",
+        "2363",
+        "73848"
+      ],
+      [
+        "8",
+        "Supply and lay flush door 20mm thick",
+        "133",
+        "ltr",
+        "4120",
+        "59743"
+      ],
+      [
+        "9",
+        "Provide and lay Class A brick masonry 100 x 100mm",
+        "123",
+        "ltr",
+        "4864",
+        "49368"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "6mm diameter",
+        "quantity": 485,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 405,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "150 x 150mm",
+        "quantity": 199,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and fix",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "8mm diameter",
+        "quantity": 335,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "switch",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 233,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 322,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 142,
+        "unit": "ls",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 133,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and lay",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "100 x 100mm",
+        "quantity": 123,
+        "unit": "ltr",
+        "standard": [
+          "IS 12894"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

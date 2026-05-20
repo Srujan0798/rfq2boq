@@ -1,0 +1,127 @@
+{
+  "id": "syn_0300",
+  "project_name": "Hotel at Airport Road",
+  "category": "electrical",
+  "text": "Supply and installation of switch, cable, DB for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster Class C hollow block 16mm thick  440  rmt  1378  91887\n2  Provide and fix Class 2 cement plaster 10mm diameter  42  ltr  3339  26838\n3  Plaster DPC  81  ltr  651  19129\n4  Install PVC pipe 16mm diameter  495  cum  4223  36182\n5  Install aluminum window  139  kg  3564  60160\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of switch, cable, DB for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Plaster Class C hollow block 16mm thick Provide and fix Class 2 cement plaster 10mm diameter Plaster DPC Install PVC pipe 16mm diameter Install aluminum window",
+  "sections": {
+    "scope": "Supply and installation of switch, cable, DB for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster Class C hollow block 16mm thick",
+        "440",
+        "rmt",
+        "1378",
+        "91887"
+      ],
+      [
+        "2",
+        "Provide and fix Class 2 cement plaster 10mm diameter",
+        "42",
+        "ltr",
+        "3339",
+        "26838"
+      ],
+      [
+        "3",
+        "Plaster DPC",
+        "81",
+        "ltr",
+        "651",
+        "19129"
+      ],
+      [
+        "4",
+        "Install PVC pipe 16mm diameter",
+        "495",
+        "cum",
+        "4223",
+        "36182"
+      ],
+      [
+        "5",
+        "Install aluminum window",
+        "139",
+        "kg",
+        "3564",
+        "60160"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "16mm thick",
+        "quantity": 440,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "10mm diameter",
+        "quantity": 42,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 81,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 495,
+        "unit": "m^3",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 139,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

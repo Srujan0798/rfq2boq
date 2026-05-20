@@ -1,0 +1,247 @@
+{
+  "id": "syn_0004",
+  "project_name": "Commercial Building at MG Road",
+  "category": "finishes",
+  "text": "Supply and installation of paint, putty, POP for Commercial Building at MG Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply HDPE pipe  500  set  1883  8665\n2  Provide and fix Class C brick masonry 16mm diameter  39  cum  1389  8455\n3  Supply and lay brickbat coba 20mm thick  314  sqm  1082  75668\n4  Cast aluminum window 16mm diameter  51  ltr  2236  27772\n5  Provide and lay switch 100 x 100mm  212  rmt  2690  99548\n6  Fabricate and erect Class 1 cement plaster  328  sqm  4244  35760\n7  Supply Fe500 MS plate 12mm thick  45  kg  4550  93214\n8  Fix M40 M30 concrete 100 x 100mm  344  cum  948  18601\n9  Supply HDPE pipe  64  rmt  1825  95058\n10  Plaster Class A fly ash brick 25mm thick  334  nos  856  84136\n11  Supply and install DPC 25mm thick  11  ls  3719  73309\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of paint, putty, POP for Commercial Building at MG Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Apply HDPE pipe Provide and fix Class C brick masonry 16mm diameter Supply and lay brickbat coba 20mm thick Cast aluminum window 16mm diameter Provide and lay switch 100 x 100mm Fabricate and erect Class 1 cement plaster Supply Fe500 MS plate 12mm thick Fix M40 M30 concrete 100 x 100mm Supply HDPE pipe Plaster Class A fly ash brick 25mm thick Supply and install DPC 25mm thick",
+  "sections": {
+    "scope": "Supply and installation of paint, putty, POP for Commercial Building at MG Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply HDPE pipe",
+        "500",
+        "set",
+        "1883",
+        "8665"
+      ],
+      [
+        "2",
+        "Provide and fix Class C brick masonry 16mm diameter",
+        "39",
+        "cum",
+        "1389",
+        "8455"
+      ],
+      [
+        "3",
+        "Supply and lay brickbat coba 20mm thick",
+        "314",
+        "sqm",
+        "1082",
+        "75668"
+      ],
+      [
+        "4",
+        "Cast aluminum window 16mm diameter",
+        "51",
+        "ltr",
+        "2236",
+        "27772"
+      ],
+      [
+        "5",
+        "Provide and lay switch 100 x 100mm",
+        "212",
+        "rmt",
+        "2690",
+        "99548"
+      ],
+      [
+        "6",
+        "Fabricate and erect Class 1 cement plaster",
+        "328",
+        "sqm",
+        "4244",
+        "35760"
+      ],
+      [
+        "7",
+        "Supply Fe500 MS plate 12mm thick",
+        "45",
+        "kg",
+        "4550",
+        "93214"
+      ],
+      [
+        "8",
+        "Fix M40 M30 concrete 100 x 100mm",
+        "344",
+        "cum",
+        "948",
+        "18601"
+      ],
+      [
+        "9",
+        "Supply HDPE pipe",
+        "64",
+        "rmt",
+        "1825",
+        "95058"
+      ],
+      [
+        "10",
+        "Plaster Class A fly ash brick 25mm thick",
+        "334",
+        "nos",
+        "856",
+        "84136"
+      ],
+      [
+        "11",
+        "Supply and install DPC 25mm thick",
+        "11",
+        "ls",
+        "3719",
+        "73309"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 500,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "16mm diameter",
+        "quantity": 39,
+        "unit": "m^3",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 314,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 51,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "switch",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 212,
+        "unit": "rmt",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fabricate and erect",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 328,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "12mm thick",
+        "quantity": 45,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "M30 concrete",
+        "grade": "M40",
+        "dimension": "100 x 100mm",
+        "quantity": 344,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 64,
+        "unit": "rmt",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Plaster",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "25mm thick",
+        "quantity": 334,
+        "unit": "no.",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 11,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

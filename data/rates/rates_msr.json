@@ -1,0 +1,140 @@
+{
+  "region": "msr_maharashtra",
+  "description": "Maharashtra State Schedule of Rates",
+  "source": "MSR (Public Works Department, Maharashtra)",
+  "year": 2024,
+  "items": [
+    {
+      "material": "Portland cement",
+      "unit": "tonne",
+      "rate": 8800,
+      "remarks": "OPC 53 grade"
+    },
+    {
+      "material": "PPC",
+      "unit": "tonne",
+      "rate": 8500,
+      "remarks": "Pozzolana Portland cement"
+    },
+    {
+      "material": "River sand",
+      "unit": "cu.m",
+      "rate": 2100,
+      "remarks": "Zone III"
+    },
+    {
+      "material": "M-sand",
+      "unit": "cu.m",
+      "rate": 1650,
+      "remarks": "Manufactured sand"
+    },
+    {
+      "material": "Aggregate 20mm",
+      "unit": "cu.m",
+      "rate": 2250,
+      "remarks": "Crushed stone"
+    },
+    {
+      "material": "M25 RMC",
+      "unit": "cu.m",
+      "rate": 7400,
+      "remarks": "Ready mix concrete M25"
+    },
+    {
+      "material": "M30 RMC",
+      "unit": "cu.m",
+      "rate": 8100,
+      "remarks": "Ready mix concrete M30"
+    },
+    {
+      "material": "Fe500 TMT",
+      "unit": "quintal",
+      "rate": 7950,
+      "remarks": "Conforming to IS 1786"
+    },
+    {
+      "material": "Structural steel",
+      "unit": "quintal",
+      "rate": 7400,
+      "remarks": "MS structural"
+    },
+    {
+      "material": "Brick work 230mm",
+      "unit": "cu.m",
+      "rate": 5800,
+      "remarks": "First class bricks"
+    },
+    {
+      "material": "AAC block 200mm",
+      "unit": "cu.m",
+      "rate": 4500,
+      "remarks": "AAC blocks"
+    },
+    {
+      "material": "Internal plaster",
+      "unit": "sq.m",
+      "rate": 235,
+      "remarks": "CM 1:4"
+    },
+    {
+      "material": "External plaster",
+      "unit": "sq.m",
+      "rate": 295,
+      "remarks": "CM 1:4"
+    },
+    {
+      "material": "Vitrified tiles",
+      "unit": "sq.m",
+      "rate": 780,
+      "remarks": "600x600mm"
+    },
+    {
+      "material": "Granite flooring",
+      "unit": "sq.m",
+      "rate": 1250,
+      "remarks": "20mm thick"
+    },
+    {
+      "material": "CPVC pipe 25mm",
+      "unit": "rmt",
+      "rate": 190,
+      "remarks": "Hot/cold water"
+    },
+    {
+      "material": "UPVC pipe 110mm",
+      "unit": "rmt",
+      "rate": 210,
+      "remarks": "SWR drainage"
+    },
+    {
+      "material": "LED bulb 9W",
+      "unit": "nos",
+      "rate": 185,
+      "remarks": "BEE 5 star"
+    },
+    {
+      "material": "GI pipe 25mm",
+      "unit": "rmt",
+      "rate": 290,
+      "remarks": "Water supply"
+    },
+    {
+      "material": "Aluminium window",
+      "unit": "sq.m",
+      "rate": 880,
+      "remarks": "Powder coated"
+    },
+    {
+      "material": "Flush door",
+      "unit": "nos",
+      "rate": 2950,
+      "remarks": "BWR grade"
+    },
+    {
+      "material": "Waterproofing",
+      "unit": "sq.m",
+      "rate": 350,
+      "remarks": "Integral waterproofing"
+    }
+  ]
+}

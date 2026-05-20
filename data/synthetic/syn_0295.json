@@ -1,0 +1,227 @@
+{
+  "id": "syn_0295",
+  "project_name": "Commercial Building at MG Road",
+  "category": "concrete",
+  "text": "The work comprises M20 concrete, PCC, M30 concrete for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fabricate and erect Fe500 structural steel 100 x 100mm  294  ltr  1155  73168\n2  Supply and lay cable  338  kg  2920  66237\n3  Fabricate and erect flush door 230mm thick  295  sqm  3742  33844\n4  Cast membrane 150 x 150mm  304  cum  2747  46151\n5  Cast CI pipe 100mm thick  302  nos  2379  25454\n6  Install M20 PCC 150mm thick  224  ltr  2541  48092\n7  Cast Class C AAC block  420  ltr  497  51922\n8  Fabricate and erect Class 2 tile 25mm thick  133  kg  3737  6666\n9  Provide and fix Fe500 TMT steel 20mm thick  83  set  4688  10058\n10  Supply and fix switch 16mm diameter  193  kg  1692  63771\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises M20 concrete, PCC, M30 concrete for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Fabricate and erect Fe500 structural steel 100 x 100mm Supply and lay cable Fabricate and erect flush door 230mm thick Cast membrane 150 x 150mm Cast CI pipe 100mm thick Install M20 PCC 150mm thick Cast Class C AAC block Fabricate and erect Class 2 tile 25mm thick Provide and fix Fe500 TMT steel 20mm thick Supply and fix switch 16mm diameter",
+  "sections": {
+    "scope": "The work comprises M20 concrete, PCC, M30 concrete for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fabricate and erect Fe500 structural steel 100 x 100mm",
+        "294",
+        "ltr",
+        "1155",
+        "73168"
+      ],
+      [
+        "2",
+        "Supply and lay cable",
+        "338",
+        "kg",
+        "2920",
+        "66237"
+      ],
+      [
+        "3",
+        "Fabricate and erect flush door 230mm thick",
+        "295",
+        "sqm",
+        "3742",
+        "33844"
+      ],
+      [
+        "4",
+        "Cast membrane 150 x 150mm",
+        "304",
+        "cum",
+        "2747",
+        "46151"
+      ],
+      [
+        "5",
+        "Cast CI pipe 100mm thick",
+        "302",
+        "nos",
+        "2379",
+        "25454"
+      ],
+      [
+        "6",
+        "Install M20 PCC 150mm thick",
+        "224",
+        "ltr",
+        "2541",
+        "48092"
+      ],
+      [
+        "7",
+        "Cast Class C AAC block",
+        "420",
+        "ltr",
+        "497",
+        "51922"
+      ],
+      [
+        "8",
+        "Fabricate and erect Class 2 tile 25mm thick",
+        "133",
+        "kg",
+        "3737",
+        "6666"
+      ],
+      [
+        "9",
+        "Provide and fix Fe500 TMT steel 20mm thick",
+        "83",
+        "set",
+        "4688",
+        "10058"
+      ],
+      [
+        "10",
+        "Supply and fix switch 16mm diameter",
+        "193",
+        "kg",
+        "1692",
+        "63771"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fabricate and erect",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "100 x 100mm",
+        "quantity": 294,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 338,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 295,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 304,
+        "unit": "m^3",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 302,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "150mm thick",
+        "quantity": 224,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 420,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fabricate and erect",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "25mm thick",
+        "quantity": 133,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "20mm thick",
+        "quantity": 83,
+        "unit": "set",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 193,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

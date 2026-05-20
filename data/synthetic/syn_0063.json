@@ -1,0 +1,147 @@
+{
+  "id": "syn_0063",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "concrete",
+  "text": "The work comprises M35 concrete, M25 concrete, PCC for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix glass 6mm diameter  31  ltr  4365  15328\n2  Install M35 M35 concrete 20mm thick  459  cum  4506  52853\n3  Erect Fe550 TMT steel  274  cum  3360  40918\n4  Supply and fix switch 150mm thick  226  nos  4335  19643\n5  Supply and lay DPC  379  sqm  4576  18734\n6  Provide and fix CI pipe  240  cum  1754  60596\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises M35 concrete, M25 concrete, PCC for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards. Fix glass 6mm diameter Install M35 M35 concrete 20mm thick Erect Fe550 TMT steel Supply and fix switch 150mm thick Supply and lay DPC Provide and fix CI pipe",
+  "sections": {
+    "scope": "The work comprises M35 concrete, M25 concrete, PCC for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix glass 6mm diameter",
+        "31",
+        "ltr",
+        "4365",
+        "15328"
+      ],
+      [
+        "2",
+        "Install M35 M35 concrete 20mm thick",
+        "459",
+        "cum",
+        "4506",
+        "52853"
+      ],
+      [
+        "3",
+        "Erect Fe550 TMT steel",
+        "274",
+        "cum",
+        "3360",
+        "40918"
+      ],
+      [
+        "4",
+        "Supply and fix switch 150mm thick",
+        "226",
+        "nos",
+        "4335",
+        "19643"
+      ],
+      [
+        "5",
+        "Supply and lay DPC",
+        "379",
+        "sqm",
+        "4576",
+        "18734"
+      ],
+      [
+        "6",
+        "Provide and fix CI pipe",
+        "240",
+        "cum",
+        "1754",
+        "60596"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 31,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "20mm thick",
+        "quantity": 459,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 274,
+        "unit": "m^3",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 226,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 379,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 240,
+        "unit": "m^3",
+        "standard": [
+          "IS 4984"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

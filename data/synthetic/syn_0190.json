@@ -1,0 +1,227 @@
+{
+  "id": "syn_0190",
+  "project_name": "Commercial Building at MG Road",
+  "category": "waterproofing",
+  "text": "The scope of work includes membrane, DPC, integral waterproofing for the Commercial Building at MG Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install GI pipe 150 x 150mm  128  ltr  4905  19257\n2  Supply and fix Fe415 GI sheet 16mm diameter  427  rmt  702  32475\n3  Provide and fix Class 2 paint  182  ltr  398  92149\n4  Lay MS door 150mm thick  284  ltr  274  45235\n5  Supply GI conduit 150mm thick  212  ltr  886  16271\n6  Fix membrane 16mm thick  443  cum  4361  27631\n7  Erect M35 M30 concrete 100mm thick  462  sqm  1361  90772\n8  Provide and fix Class A hollow block  491  kg  1890  34295\n9  Supply and install HDPE pipe 12mm thick  428  ltr  4786  15257\n10  Install Fe550 GI sheet 300mm thick  258  ltr  1827  69746\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes membrane, DPC, integral waterproofing for the Commercial Building at MG Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and install GI pipe 150 x 150mm Supply and fix Fe415 GI sheet 16mm diameter Provide and fix Class 2 paint Lay MS door 150mm thick Supply GI conduit 150mm thick Fix membrane 16mm thick Erect M35 M30 concrete 100mm thick Provide and fix Class A hollow block Supply and install HDPE pipe 12mm thick Install Fe550 GI sheet 300mm thick",
+  "sections": {
+    "scope": "The scope of work includes membrane, DPC, integral waterproofing for the Commercial Building at MG Road project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install GI pipe 150 x 150mm",
+        "128",
+        "ltr",
+        "4905",
+        "19257"
+      ],
+      [
+        "2",
+        "Supply and fix Fe415 GI sheet 16mm diameter",
+        "427",
+        "rmt",
+        "702",
+        "32475"
+      ],
+      [
+        "3",
+        "Provide and fix Class 2 paint",
+        "182",
+        "ltr",
+        "398",
+        "92149"
+      ],
+      [
+        "4",
+        "Lay MS door 150mm thick",
+        "284",
+        "ltr",
+        "274",
+        "45235"
+      ],
+      [
+        "5",
+        "Supply GI conduit 150mm thick",
+        "212",
+        "ltr",
+        "886",
+        "16271"
+      ],
+      [
+        "6",
+        "Fix membrane 16mm thick",
+        "443",
+        "cum",
+        "4361",
+        "27631"
+      ],
+      [
+        "7",
+        "Erect M35 M30 concrete 100mm thick",
+        "462",
+        "sqm",
+        "1361",
+        "90772"
+      ],
+      [
+        "8",
+        "Provide and fix Class A hollow block",
+        "491",
+        "kg",
+        "1890",
+        "34295"
+      ],
+      [
+        "9",
+        "Supply and install HDPE pipe 12mm thick",
+        "428",
+        "ltr",
+        "4786",
+        "15257"
+      ],
+      [
+        "10",
+        "Install Fe550 GI sheet 300mm thick",
+        "258",
+        "ltr",
+        "1827",
+        "69746"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 128,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "16mm diameter",
+        "quantity": 427,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 182,
+        "unit": "ltr",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 284,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 212,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 443,
+        "unit": "m^3",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Erect",
+        "material": "M30 concrete",
+        "grade": "M35",
+        "dimension": "100mm thick",
+        "quantity": 462,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 491,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 428,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "300mm thick",
+        "quantity": 258,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

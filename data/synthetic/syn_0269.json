@@ -1,0 +1,127 @@
+{
+  "id": "syn_0269",
+  "project_name": "IT Park Phase 2",
+  "category": "piping",
+  "text": "Supply and installation of HDPE pipe, PVC pipe, CI pipe for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast aluminum window 150mm thick  241  ltr  3186  86069\n2  Supply and fix CI pipe  480  nos  1189  91401\n3  Provide and fix M20 M30 concrete 8mm diameter  191  kg  4206  99815\n4  Lay Class C brick masonry 25mm thick  427  set  233  32859\n5  Install Class 2 paint  459  rmt  4769  60214\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of HDPE pipe, PVC pipe, CI pipe for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice. Cast aluminum window 150mm thick Supply and fix CI pipe Provide and fix M20 M30 concrete 8mm diameter Lay Class C brick masonry 25mm thick Install Class 2 paint",
+  "sections": {
+    "scope": "Supply and installation of HDPE pipe, PVC pipe, CI pipe for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast aluminum window 150mm thick",
+        "241",
+        "ltr",
+        "3186",
+        "86069"
+      ],
+      [
+        "2",
+        "Supply and fix CI pipe",
+        "480",
+        "nos",
+        "1189",
+        "91401"
+      ],
+      [
+        "3",
+        "Provide and fix M20 M30 concrete 8mm diameter",
+        "191",
+        "kg",
+        "4206",
+        "99815"
+      ],
+      [
+        "4",
+        "Lay Class C brick masonry 25mm thick",
+        "427",
+        "set",
+        "233",
+        "32859"
+      ],
+      [
+        "5",
+        "Install Class 2 paint",
+        "459",
+        "rmt",
+        "4769",
+        "60214"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 241,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 480,
+        "unit": "no.",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "M30 concrete",
+        "grade": "M20",
+        "dimension": "8mm diameter",
+        "quantity": 191,
+        "unit": "kg",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "25mm thick",
+        "quantity": 427,
+        "unit": "set",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 459,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

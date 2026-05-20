@@ -1,0 +1,127 @@
+{
+  "id": "syn_0043",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "concrete",
+  "text": "The scope of work includes M35 concrete, M25 concrete, PCC for the Apartment Block at HSR Layout project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay M35 M30 concrete 16mm diameter  121  set  3353  77609\n2  Lay cable 100 x 100mm  349  ls  985  64142\n3  Provide and lay Fe500 TMT steel 25mm thick  337  ls  2547  25688\n4  Supply aluminum window 300mm thick  39  ltr  4174  39745\n5  Erect integral waterproofing 16mm thick  208  cum  1921  90957\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes M35 concrete, M25 concrete, PCC for the Apartment Block at HSR Layout project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and lay M35 M30 concrete 16mm diameter Lay cable 100 x 100mm Provide and lay Fe500 TMT steel 25mm thick Supply aluminum window 300mm thick Erect integral waterproofing 16mm thick",
+  "sections": {
+    "scope": "The scope of work includes M35 concrete, M25 concrete, PCC for the Apartment Block at HSR Layout project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay M35 M30 concrete 16mm diameter",
+        "121",
+        "set",
+        "3353",
+        "77609"
+      ],
+      [
+        "2",
+        "Lay cable 100 x 100mm",
+        "349",
+        "ls",
+        "985",
+        "64142"
+      ],
+      [
+        "3",
+        "Provide and lay Fe500 TMT steel 25mm thick",
+        "337",
+        "ls",
+        "2547",
+        "25688"
+      ],
+      [
+        "4",
+        "Supply aluminum window 300mm thick",
+        "39",
+        "ltr",
+        "4174",
+        "39745"
+      ],
+      [
+        "5",
+        "Erect integral waterproofing 16mm thick",
+        "208",
+        "cum",
+        "1921",
+        "90957"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "M30 concrete",
+        "grade": "M35",
+        "dimension": "16mm diameter",
+        "quantity": 121,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "cable",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 349,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "25mm thick",
+        "quantity": 337,
+        "unit": "ls",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 39,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 208,
+        "unit": "m^3",
+        "standard": [
+          "IS 1322"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

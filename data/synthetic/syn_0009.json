@@ -1,0 +1,207 @@
+{
+  "id": "syn_0009",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "doors_windows",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at basement for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply GI conduit 16mm diameter  257  nos  2418  14176\n2  Provide and install Class 2 POP 300mm thick  194  rmt  472  8146\n3  Plaster MS door  454  set  4802  38268\n4  Fabricate and erect Class B hollow block 25mm thick  184  rmt  1034  9564\n5  Supply and lay DPC  305  cum  2589  12164\n6  Lay M20 M25 concrete 20mm thick  401  ltr  3216  60049\n7  Install Fe500 GI sheet 150mm thick  311  ltr  912  28235\n8  Plaster PVC pipe  51  rmt  714  21517\n9  Fabricate and erect cable  362  set  2460  93662\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at basement for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications. Apply GI conduit 16mm diameter Provide and install Class 2 POP 300mm thick Plaster MS door Fabricate and erect Class B hollow block 25mm thick Supply and lay DPC Lay M20 M25 concrete 20mm thick Install Fe500 GI sheet 150mm thick Plaster PVC pipe Fabricate and erect cable",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at basement for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply GI conduit 16mm diameter",
+        "257",
+        "nos",
+        "2418",
+        "14176"
+      ],
+      [
+        "2",
+        "Provide and install Class 2 POP 300mm thick",
+        "194",
+        "rmt",
+        "472",
+        "8146"
+      ],
+      [
+        "3",
+        "Plaster MS door",
+        "454",
+        "set",
+        "4802",
+        "38268"
+      ],
+      [
+        "4",
+        "Fabricate and erect Class B hollow block 25mm thick",
+        "184",
+        "rmt",
+        "1034",
+        "9564"
+      ],
+      [
+        "5",
+        "Supply and lay DPC",
+        "305",
+        "cum",
+        "2589",
+        "12164"
+      ],
+      [
+        "6",
+        "Lay M20 M25 concrete 20mm thick",
+        "401",
+        "ltr",
+        "3216",
+        "60049"
+      ],
+      [
+        "7",
+        "Install Fe500 GI sheet 150mm thick",
+        "311",
+        "ltr",
+        "912",
+        "28235"
+      ],
+      [
+        "8",
+        "Plaster PVC pipe",
+        "51",
+        "rmt",
+        "714",
+        "21517"
+      ],
+      [
+        "9",
+        "Fabricate and erect cable",
+        "362",
+        "set",
+        "2460",
+        "93662"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 257,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "300mm thick",
+        "quantity": 194,
+        "unit": "rmt",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 454,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "25mm thick",
+        "quantity": 184,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 305,
+        "unit": "m^3",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "20mm thick",
+        "quantity": 401,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "150mm thick",
+        "quantity": 311,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Plaster",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 51,
+        "unit": "rmt",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fabricate and erect",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 362,
+        "unit": "set",
+        "standard": [
+          "IS 694"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

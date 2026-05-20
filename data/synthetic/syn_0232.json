@@ -1,0 +1,127 @@
+{
+  "id": "syn_0232",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "doors_windows",
+  "text": "The scope of work includes MS door, aluminum window, flush door for the Office Building at Manyata Tech Park project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fabricate and erect membrane 16mm thick  141  rmt  4996  98134\n2  Provide and install Fe500 structural steel 12mm diameter  147  rmt  2712  23347\n3  Cast M30 M25 concrete 6mm diameter  88  cum  4546  11972\n4  Supply and fix Class C AAC block 12mm thick  24  ls  4953  38465\n5  Provide and fix Class 1 cement plaster  483  ltr  4944  42647\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes MS door, aluminum window, flush door for the Office Building at Manyata Tech Park project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below. Fabricate and erect membrane 16mm thick Provide and install Fe500 structural steel 12mm diameter Cast M30 M25 concrete 6mm diameter Supply and fix Class C AAC block 12mm thick Provide and fix Class 1 cement plaster",
+  "sections": {
+    "scope": "The scope of work includes MS door, aluminum window, flush door for the Office Building at Manyata Tech Park project located at second floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fabricate and erect membrane 16mm thick",
+        "141",
+        "rmt",
+        "4996",
+        "98134"
+      ],
+      [
+        "2",
+        "Provide and install Fe500 structural steel 12mm diameter",
+        "147",
+        "rmt",
+        "2712",
+        "23347"
+      ],
+      [
+        "3",
+        "Cast M30 M25 concrete 6mm diameter",
+        "88",
+        "cum",
+        "4546",
+        "11972"
+      ],
+      [
+        "4",
+        "Supply and fix Class C AAC block 12mm thick",
+        "24",
+        "ls",
+        "4953",
+        "38465"
+      ],
+      [
+        "5",
+        "Provide and fix Class 1 cement plaster",
+        "483",
+        "ltr",
+        "4944",
+        "42647"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fabricate and erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 141,
+        "unit": "rmt",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "12mm diameter",
+        "quantity": 147,
+        "unit": "rmt",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Cast",
+        "material": "M25 concrete",
+        "grade": "M30",
+        "dimension": "6mm diameter",
+        "quantity": 88,
+        "unit": "m^3",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "12mm thick",
+        "quantity": 24,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 483,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "id": "syn_0234",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "doors_windows",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix Class C brick masonry 12mm thick  376  ltr  1683  24989\n2  Apply M30 M20 concrete  42  cum  2172  70716\n3  Provide and lay aluminum window 230mm thick  385  set  3958  81608\n4  Install DPC 25mm thick  399  ltr  4415  13653\n5  Supply and lay GI conduit  386  cum  3559  54716\n6  Apply Class 1 cement plaster  11  cum  1421  71679\n7  Lay HDPE pipe 100mm thick  212  kg  480  43813\n8  Provide and install Fe500 MS plate 100mm thick  463  kg  4631  91323\n9  Install Class B AAC block 150mm thick  424  rmt  3795  53180\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications. Supply and fix Class C brick masonry 12mm thick Apply M30 M20 concrete Provide and lay aluminum window 230mm thick Install DPC 25mm thick Supply and lay GI conduit Apply Class 1 cement plaster Lay HDPE pipe 100mm thick Provide and install Fe500 MS plate 100mm thick Install Class B AAC block 150mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix Class C brick masonry 12mm thick",
+        "376",
+        "ltr",
+        "1683",
+        "24989"
+      ],
+      [
+        "2",
+        "Apply M30 M20 concrete",
+        "42",
+        "cum",
+        "2172",
+        "70716"
+      ],
+      [
+        "3",
+        "Provide and lay aluminum window 230mm thick",
+        "385",
+        "set",
+        "3958",
+        "81608"
+      ],
+      [
+        "4",
+        "Install DPC 25mm thick",
+        "399",
+        "ltr",
+        "4415",
+        "13653"
+      ],
+      [
+        "5",
+        "Supply and lay GI conduit",
+        "386",
+        "cum",
+        "3559",
+        "54716"
+      ],
+      [
+        "6",
+        "Apply Class 1 cement plaster",
+        "11",
+        "cum",
+        "1421",
+        "71679"
+      ],
+      [
+        "7",
+        "Lay HDPE pipe 100mm thick",
+        "212",
+        "kg",
+        "480",
+        "43813"
+      ],
+      [
+        "8",
+        "Provide and install Fe500 MS plate 100mm thick",
+        "463",
+        "kg",
+        "4631",
+        "91323"
+      ],
+      [
+        "9",
+        "Install Class B AAC block 150mm thick",
+        "424",
+        "rmt",
+        "3795",
+        "53180"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "12mm thick",
+        "quantity": 376,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "M20 concrete",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 42,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 385,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 399,
+        "unit": "ltr",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 386,
+        "unit": "m^3",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 11,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 212,
+        "unit": "kg",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "100mm thick",
+        "quantity": 463,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Install",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "150mm thick",
+        "quantity": 424,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

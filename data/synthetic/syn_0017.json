@@ -1,0 +1,227 @@
+{
+  "id": "syn_0017",
+  "project_name": "Commercial Building at MG Road",
+  "category": "waterproofing",
+  "text": "The scope of work includes integral waterproofing, brickbat coba, membrane for the Commercial Building at MG Road project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install flush door  168  ls  725  67910\n2  Supply GI pipe 300mm thick  407  ls  942  20194\n3  Supply and fix Class A fly ash brick 200mm thick  318  rmt  4147  61811\n4  Install DPC  331  ls  3941  58961\n5  Cast switch 100 x 100mm  38  ls  3802  5929\n6  Install M30 M20 concrete 200mm thick  156  sqm  4966  67462\n7  Cast Class 2 paint 16mm thick  293  cum  3996  66715\n8  Fabricate and erect Fe415 MS plate 200mm thick  62  ls  1513  6130\n9  Fabricate and erect aluminum window 100 x 100mm  278  rmt  3448  45350\n10  Fix SWR pipe  333  ls  4670  89916\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes integral waterproofing, brickbat coba, membrane for the Commercial Building at MG Road project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below. Install flush door Supply GI pipe 300mm thick Supply and fix Class A fly ash brick 200mm thick Install DPC Cast switch 100 x 100mm Install M30 M20 concrete 200mm thick Cast Class 2 paint 16mm thick Fabricate and erect Fe415 MS plate 200mm thick Fabricate and erect aluminum window 100 x 100mm Fix SWR pipe",
+  "sections": {
+    "scope": "The scope of work includes integral waterproofing, brickbat coba, membrane for the Commercial Building at MG Road project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install flush door",
+        "168",
+        "ls",
+        "725",
+        "67910"
+      ],
+      [
+        "2",
+        "Supply GI pipe 300mm thick",
+        "407",
+        "ls",
+        "942",
+        "20194"
+      ],
+      [
+        "3",
+        "Supply and fix Class A fly ash brick 200mm thick",
+        "318",
+        "rmt",
+        "4147",
+        "61811"
+      ],
+      [
+        "4",
+        "Install DPC",
+        "331",
+        "ls",
+        "3941",
+        "58961"
+      ],
+      [
+        "5",
+        "Cast switch 100 x 100mm",
+        "38",
+        "ls",
+        "3802",
+        "5929"
+      ],
+      [
+        "6",
+        "Install M30 M20 concrete 200mm thick",
+        "156",
+        "sqm",
+        "4966",
+        "67462"
+      ],
+      [
+        "7",
+        "Cast Class 2 paint 16mm thick",
+        "293",
+        "cum",
+        "3996",
+        "66715"
+      ],
+      [
+        "8",
+        "Fabricate and erect Fe415 MS plate 200mm thick",
+        "62",
+        "ls",
+        "1513",
+        "6130"
+      ],
+      [
+        "9",
+        "Fabricate and erect aluminum window 100 x 100mm",
+        "278",
+        "rmt",
+        "3448",
+        "45350"
+      ],
+      [
+        "10",
+        "Fix SWR pipe",
+        "333",
+        "ls",
+        "4670",
+        "89916"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 168,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 407,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "200mm thick",
+        "quantity": 318,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 331,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "switch",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 38,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "M20 concrete",
+        "grade": "M30",
+        "dimension": "200mm thick",
+        "quantity": 156,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "16mm thick",
+        "quantity": 293,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fabricate and erect",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "200mm thick",
+        "quantity": 62,
+        "unit": "ls",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fabricate and erect",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 278,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 333,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

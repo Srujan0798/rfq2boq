@@ -1,0 +1,38 @@
+Items described in the Bill of Quantities are to be supplied and installed at roof level for the Residential Complex at Whitefield project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and fix Class B hollow block  471  set  3863  25251
+2  Cast M25 M25 concrete 100mm thick  261  rmt  1434  24295
+3  Supply and lay glass 10mm diameter  83  sqm  921  95936
+4  Cast membrane 230mm thick  61  ltr  458  18324
+5  Provide and lay Class 1 POP 100mm thick  83  cum  4543  97486
+6  Provide and install switch 10mm diameter  81  set  2618  44483
+7  Provide and install Fe415 GI sheet 230mm thick  38  nos  464  14476
+8  Supply and lay SWR pipe  271  ltr  296  30710
+9  Supply and fix Class B hollow block  190  nos  3251  91015
+10  Fabricate and erect M20 RCC  96  sqm  3027  10999
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

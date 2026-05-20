@@ -1,0 +1,247 @@
+{
+  "id": "syn_0193",
+  "project_name": "IT Park Phase 2",
+  "category": "electrical",
+  "text": "Supply and installation of cable, DB, switch for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster Class A brick masonry 100mm thick  108  ls  642  50177\n2  Cast DB  341  nos  699  97695\n3  Fabricate and erect Fe415 structural steel 16mm diameter  218  rmt  4871  59106\n4  Supply and install CI pipe  383  ls  2312  3204\n5  Fabricate and erect glass 150mm thick  316  nos  1244  96161\n6  Plaster M35 M35 concrete 200mm thick  76  rmt  4131  96025\n7  Supply Class 2 paint 200mm thick  34  rmt  286  53072\n8  Provide and install integral waterproofing 200mm thick  111  kg  2673  47907\n9  Provide and fix Class A AAC block  478  ltr  748  61850\n10  Install cable 200mm thick  470  rmt  1438  1060\n11  Provide and install Fe415 GI sheet  394  ltr  2703  18348\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of cable, DB, switch for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice. Plaster Class A brick masonry 100mm thick Cast DB Fabricate and erect Fe415 structural steel 16mm diameter Supply and install CI pipe Fabricate and erect glass 150mm thick Plaster M35 M35 concrete 200mm thick Supply Class 2 paint 200mm thick Provide and install integral waterproofing 200mm thick Provide and fix Class A AAC block Install cable 200mm thick Provide and install Fe415 GI sheet",
+  "sections": {
+    "scope": "Supply and installation of cable, DB, switch for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster Class A brick masonry 100mm thick",
+        "108",
+        "ls",
+        "642",
+        "50177"
+      ],
+      [
+        "2",
+        "Cast DB",
+        "341",
+        "nos",
+        "699",
+        "97695"
+      ],
+      [
+        "3",
+        "Fabricate and erect Fe415 structural steel 16mm diameter",
+        "218",
+        "rmt",
+        "4871",
+        "59106"
+      ],
+      [
+        "4",
+        "Supply and install CI pipe",
+        "383",
+        "ls",
+        "2312",
+        "3204"
+      ],
+      [
+        "5",
+        "Fabricate and erect glass 150mm thick",
+        "316",
+        "nos",
+        "1244",
+        "96161"
+      ],
+      [
+        "6",
+        "Plaster M35 M35 concrete 200mm thick",
+        "76",
+        "rmt",
+        "4131",
+        "96025"
+      ],
+      [
+        "7",
+        "Supply Class 2 paint 200mm thick",
+        "34",
+        "rmt",
+        "286",
+        "53072"
+      ],
+      [
+        "8",
+        "Provide and install integral waterproofing 200mm thick",
+        "111",
+        "kg",
+        "2673",
+        "47907"
+      ],
+      [
+        "9",
+        "Provide and fix Class A AAC block",
+        "478",
+        "ltr",
+        "748",
+        "61850"
+      ],
+      [
+        "10",
+        "Install cable 200mm thick",
+        "470",
+        "rmt",
+        "1438",
+        "1060"
+      ],
+      [
+        "11",
+        "Provide and install Fe415 GI sheet",
+        "394",
+        "ltr",
+        "2703",
+        "18348"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "100mm thick",
+        "quantity": 108,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "DB",
+        "grade": "",
+        "dimension": "",
+        "quantity": 341,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "16mm diameter",
+        "quantity": 218,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 383,
+        "unit": "ls",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 316,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "200mm thick",
+        "quantity": 76,
+        "unit": "rmt",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "200mm thick",
+        "quantity": 34,
+        "unit": "rmt",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 111,
+        "unit": "kg",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 478,
+        "unit": "ltr",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 470,
+        "unit": "rmt",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and install",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 394,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "syn_0109",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "piping",
+  "text": "The scope of work includes HDPE pipe, PVC pipe, SWR pipe for the Hospital Building at Hebbal project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix Class 1 POP  215  cum  1297  56876\n2  Provide and install Class C brick masonry 16mm diameter  56  cum  1995  30068\n3  Fabricate and erect integral waterproofing 100 x 100mm  41  ltr  2305  48654\n4  Apply Fe500 structural steel 150mm thick  224  kg  434  1070\n5  Provide and install GI pipe  156  set  925  57479\n6  Fabricate and erect M30 M25 concrete 230mm thick  196  ls  211  90517\n7  Provide and fix aluminum window 16mm diameter  389  ls  2051  86229\n8  Cast switch 300mm thick  206  sqm  1085  6379\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes HDPE pipe, PVC pipe, SWR pipe for the Hospital Building at Hebbal project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and fix Class 1 POP Provide and install Class C brick masonry 16mm diameter Fabricate and erect integral waterproofing 100 x 100mm Apply Fe500 structural steel 150mm thick Provide and install GI pipe Fabricate and erect M30 M25 concrete 230mm thick Provide and fix aluminum window 16mm diameter Cast switch 300mm thick",
+  "sections": {
+    "scope": "The scope of work includes HDPE pipe, PVC pipe, SWR pipe for the Hospital Building at Hebbal project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix Class 1 POP",
+        "215",
+        "cum",
+        "1297",
+        "56876"
+      ],
+      [
+        "2",
+        "Provide and install Class C brick masonry 16mm diameter",
+        "56",
+        "cum",
+        "1995",
+        "30068"
+      ],
+      [
+        "3",
+        "Fabricate and erect integral waterproofing 100 x 100mm",
+        "41",
+        "ltr",
+        "2305",
+        "48654"
+      ],
+      [
+        "4",
+        "Apply Fe500 structural steel 150mm thick",
+        "224",
+        "kg",
+        "434",
+        "1070"
+      ],
+      [
+        "5",
+        "Provide and install GI pipe",
+        "156",
+        "set",
+        "925",
+        "57479"
+      ],
+      [
+        "6",
+        "Fabricate and erect M30 M25 concrete 230mm thick",
+        "196",
+        "ls",
+        "211",
+        "90517"
+      ],
+      [
+        "7",
+        "Provide and fix aluminum window 16mm diameter",
+        "389",
+        "ls",
+        "2051",
+        "86229"
+      ],
+      [
+        "8",
+        "Cast switch 300mm thick",
+        "206",
+        "sqm",
+        "1085",
+        "6379"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 215,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "16mm diameter",
+        "quantity": 56,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 41,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "150mm thick",
+        "quantity": 224,
+        "unit": "kg",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 156,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fabricate and erect",
+        "material": "M25 concrete",
+        "grade": "M30",
+        "dimension": "230mm thick",
+        "quantity": 196,
+        "unit": "ls",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and fix",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 389,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "switch",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 206,
+        "unit": "m^2",
+        "standard": [
+          "IS 3043"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

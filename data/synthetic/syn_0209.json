@@ -1,0 +1,187 @@
+{
+  "id": "syn_0209",
+  "project_name": "IT Park Phase 2",
+  "category": "doors_windows",
+  "text": "The work comprises aluminum window, glass, flush door for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster HDPE pipe 150 x 150mm  198  nos  1293  26796\n2  Supply and fix Fe415 TMT steel  493  kg  3765  38416\n3  Plaster Class 2 putty 6mm diameter  491  sqm  2089  88097\n4  Fabricate and erect M25 M30 concrete  96  cum  4514  50742\n5  Supply GI conduit 150mm thick  253  ls  3270  33366\n6  Provide and fix brickbat coba  375  kg  1980  43598\n7  Cast Class B AAC block 20mm thick  467  kg  196  5687\n8  Apply flush door 16mm diameter  456  ltr  4312  9776\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises aluminum window, glass, flush door for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards. Plaster HDPE pipe 150 x 150mm Supply and fix Fe415 TMT steel Plaster Class 2 putty 6mm diameter Fabricate and erect M25 M30 concrete Supply GI conduit 150mm thick Provide and fix brickbat coba Cast Class B AAC block 20mm thick Apply flush door 16mm diameter",
+  "sections": {
+    "scope": "The work comprises aluminum window, glass, flush door for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster HDPE pipe 150 x 150mm",
+        "198",
+        "nos",
+        "1293",
+        "26796"
+      ],
+      [
+        "2",
+        "Supply and fix Fe415 TMT steel",
+        "493",
+        "kg",
+        "3765",
+        "38416"
+      ],
+      [
+        "3",
+        "Plaster Class 2 putty 6mm diameter",
+        "491",
+        "sqm",
+        "2089",
+        "88097"
+      ],
+      [
+        "4",
+        "Fabricate and erect M25 M30 concrete",
+        "96",
+        "cum",
+        "4514",
+        "50742"
+      ],
+      [
+        "5",
+        "Supply GI conduit 150mm thick",
+        "253",
+        "ls",
+        "3270",
+        "33366"
+      ],
+      [
+        "6",
+        "Provide and fix brickbat coba",
+        "375",
+        "kg",
+        "1980",
+        "43598"
+      ],
+      [
+        "7",
+        "Cast Class B AAC block 20mm thick",
+        "467",
+        "kg",
+        "196",
+        "5687"
+      ],
+      [
+        "8",
+        "Apply flush door 16mm diameter",
+        "456",
+        "ltr",
+        "4312",
+        "9776"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 198,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 493,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "6mm diameter",
+        "quantity": 491,
+        "unit": "m^2",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "M30 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 96,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 253,
+        "unit": "ls",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 375,
+        "unit": "kg",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "20mm thick",
+        "quantity": 467,
+        "unit": "kg",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Apply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 456,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

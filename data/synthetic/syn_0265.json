@@ -1,0 +1,147 @@
+{
+  "id": "syn_0265",
+  "project_name": "IT Park Phase 2",
+  "category": "piping",
+  "text": "Supply and installation of CI pipe, HDPE pipe, PVC pipe for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install M40 M25 concrete 100mm thick  209  nos  3040  39459\n2  Apply Class 2 putty 300mm thick  125  ltr  4682  75425\n3  Apply flush door  249  rmt  2280  9286\n4  Cast GI pipe 150 x 150mm  183  kg  2663  64138\n5  Supply and lay Class A fly ash brick  210  nos  231  5260\n6  Lay membrane 150mm thick  49  nos  4103  85874\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of CI pipe, HDPE pipe, PVC pipe for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install M40 M25 concrete 100mm thick Apply Class 2 putty 300mm thick Apply flush door Cast GI pipe 150 x 150mm Supply and lay Class A fly ash brick Lay membrane 150mm thick",
+  "sections": {
+    "scope": "Supply and installation of CI pipe, HDPE pipe, PVC pipe for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install M40 M25 concrete 100mm thick",
+        "209",
+        "nos",
+        "3040",
+        "39459"
+      ],
+      [
+        "2",
+        "Apply Class 2 putty 300mm thick",
+        "125",
+        "ltr",
+        "4682",
+        "75425"
+      ],
+      [
+        "3",
+        "Apply flush door",
+        "249",
+        "rmt",
+        "2280",
+        "9286"
+      ],
+      [
+        "4",
+        "Cast GI pipe 150 x 150mm",
+        "183",
+        "kg",
+        "2663",
+        "64138"
+      ],
+      [
+        "5",
+        "Supply and lay Class A fly ash brick",
+        "210",
+        "nos",
+        "231",
+        "5260"
+      ],
+      [
+        "6",
+        "Lay membrane 150mm thick",
+        "49",
+        "nos",
+        "4103",
+        "85874"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "M25 concrete",
+        "grade": "M40",
+        "dimension": "100mm thick",
+        "quantity": 209,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "300mm thick",
+        "quantity": 125,
+        "unit": "ltr",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 249,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 183,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 210,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 49,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

@@ -1,0 +1,40 @@
+The work comprises M25 concrete, RCC, M35 concrete for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay Fe550 structural steel 12mm diameter  278  kg  362  8547
+2  Erect Class B fly ash brick 150 x 150mm  227  sqm  4927  4268
+3  Supply and install M20 M20 concrete 230mm thick  238  set  405  3575
+4  Lay switch 25mm thick  403  sqm  124  42293
+5  Provide and fix aluminum window  411  rmt  4930  40010
+6  Supply Class 2 putty 16mm diameter  477  ltr  1932  85938
+7  Fabricate and erect brickbat coba 8mm diameter  312  set  4659  99291
+8  Erect HDPE pipe 300mm thick  474  ltr  4072  38572
+9  Fabricate and erect Fe500 TMT steel  302  nos  2740  58264
+10  Apply Class A AAC block 230mm thick  362  nos  3754  2921
+11  Supply and fix M30 M20 concrete 300mm thick  462  ltr  1855  62245
+12  Install cable  472  rmt  549  21756
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

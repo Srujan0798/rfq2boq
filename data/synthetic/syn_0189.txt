@@ -1,0 +1,37 @@
+Items described in the Bill of Quantities are to be supplied and installed at basement for the Residential Complex at Whitefield project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Apply MS door 150mm thick  78  set  407  38971
+2  Provide and install Class 2 cement plaster  114  kg  1691  69971
+3  Supply HDPE pipe 20mm thick  372  sqm  937  12804
+4  Cast Class C brick masonry 230mm thick  242  set  495  80489
+5  Cast GI conduit 300mm thick  56  kg  2746  30585
+6  Install Fe500 TMT steel 16mm diameter  27  sqm  2782  52031
+7  Lay brickbat coba 16mm diameter  449  ltr  187  25225
+8  Fix M20 M25 concrete 8mm diameter  25  sqm  4603  17765
+9  Apply flush door 12mm diameter  203  ls  2423  79128
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

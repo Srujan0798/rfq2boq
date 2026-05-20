@@ -1,0 +1,37 @@
+Items described in the Bill of Quantities are to be supplied and installed at basement for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Apply GI conduit 16mm diameter  257  nos  2418  14176
+2  Provide and install Class 2 POP 300mm thick  194  rmt  472  8146
+3  Plaster MS door  454  set  4802  38268
+4  Fabricate and erect Class B hollow block 25mm thick  184  rmt  1034  9564
+5  Supply and lay DPC  305  cum  2589  12164
+6  Lay M20 M25 concrete 20mm thick  401  ltr  3216  60049
+7  Install Fe500 GI sheet 150mm thick  311  ltr  912  28235
+8  Plaster PVC pipe  51  rmt  714  21517
+9  Fabricate and erect cable  362  set  2460  93662
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

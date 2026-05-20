@@ -1,0 +1,147 @@
+{
+  "id": "syn_0206",
+  "project_name": "IT Park Phase 2",
+  "category": "steel",
+  "text": "The work comprises TMT steel, GI sheet, MS plate for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect M40 M30 concrete 6mm diameter  325  kg  4601  58717\n2  Cast MS door 25mm thick  169  sqm  503  15502\n3  Apply cable  316  rmt  4013  48358\n4  Supply Fe550 MS plate 200mm thick  205  cum  743  56375\n5  Install GI pipe  315  ltr  2136  54843\n6  Lay Class A AAC block 150mm thick  306  nos  4077  2006\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises TMT steel, GI sheet, MS plate for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards. Erect M40 M30 concrete 6mm diameter Cast MS door 25mm thick Apply cable Supply Fe550 MS plate 200mm thick Install GI pipe Lay Class A AAC block 150mm thick",
+  "sections": {
+    "scope": "The work comprises TMT steel, GI sheet, MS plate for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect M40 M30 concrete 6mm diameter",
+        "325",
+        "kg",
+        "4601",
+        "58717"
+      ],
+      [
+        "2",
+        "Cast MS door 25mm thick",
+        "169",
+        "sqm",
+        "503",
+        "15502"
+      ],
+      [
+        "3",
+        "Apply cable",
+        "316",
+        "rmt",
+        "4013",
+        "48358"
+      ],
+      [
+        "4",
+        "Supply Fe550 MS plate 200mm thick",
+        "205",
+        "cum",
+        "743",
+        "56375"
+      ],
+      [
+        "5",
+        "Install GI pipe",
+        "315",
+        "ltr",
+        "2136",
+        "54843"
+      ],
+      [
+        "6",
+        "Lay Class A AAC block 150mm thick",
+        "306",
+        "nos",
+        "4077",
+        "2006"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "M30 concrete",
+        "grade": "M40",
+        "dimension": "6mm diameter",
+        "quantity": 325,
+        "unit": "kg",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 169,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 316,
+        "unit": "rmt",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "200mm thick",
+        "quantity": 205,
+        "unit": "m^3",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 315,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "150mm thick",
+        "quantity": 306,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

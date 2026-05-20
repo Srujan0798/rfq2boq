@@ -1,0 +1,207 @@
+{
+  "id": "syn_0096",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "finishes",
+  "text": "The work comprises POP, tile, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix switch 100mm thick  216  ltr  4299  20566\n2  Provide and install DPC 16mm diameter  380  kg  4627  62438\n3  Provide and fix M35 RCC 16mm thick  415  sqm  3521  28470\n4  Install Class B hollow block 300mm thick  295  cum  179  66509\n5  Provide and install Fe500 structural steel 6mm diameter  224  ltr  4504  40274\n6  Cast HDPE pipe 300mm thick  412  cum  4754  83554\n7  Provide and install glass  495  ltr  1642  63230\n8  Cast Class 2 cement plaster  241  nos  4629  24283\n9  Supply and install cable  105  kg  2425  27986\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises POP, tile, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Fix switch 100mm thick Provide and install DPC 16mm diameter Provide and fix M35 RCC 16mm thick Install Class B hollow block 300mm thick Provide and install Fe500 structural steel 6mm diameter Cast HDPE pipe 300mm thick Provide and install glass Cast Class 2 cement plaster Supply and install cable",
+  "sections": {
+    "scope": "The work comprises POP, tile, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix switch 100mm thick",
+        "216",
+        "ltr",
+        "4299",
+        "20566"
+      ],
+      [
+        "2",
+        "Provide and install DPC 16mm diameter",
+        "380",
+        "kg",
+        "4627",
+        "62438"
+      ],
+      [
+        "3",
+        "Provide and fix M35 RCC 16mm thick",
+        "415",
+        "sqm",
+        "3521",
+        "28470"
+      ],
+      [
+        "4",
+        "Install Class B hollow block 300mm thick",
+        "295",
+        "cum",
+        "179",
+        "66509"
+      ],
+      [
+        "5",
+        "Provide and install Fe500 structural steel 6mm diameter",
+        "224",
+        "ltr",
+        "4504",
+        "40274"
+      ],
+      [
+        "6",
+        "Cast HDPE pipe 300mm thick",
+        "412",
+        "cum",
+        "4754",
+        "83554"
+      ],
+      [
+        "7",
+        "Provide and install glass",
+        "495",
+        "ltr",
+        "1642",
+        "63230"
+      ],
+      [
+        "8",
+        "Cast Class 2 cement plaster",
+        "241",
+        "nos",
+        "4629",
+        "24283"
+      ],
+      [
+        "9",
+        "Supply and install cable",
+        "105",
+        "kg",
+        "2425",
+        "27986"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 216,
+        "unit": "ltr",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 380,
+        "unit": "kg",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "RCC",
+        "grade": "M35",
+        "dimension": "16mm thick",
+        "quantity": 415,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "300mm thick",
+        "quantity": 295,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "6mm diameter",
+        "quantity": 224,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 412,
+        "unit": "m^3",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 495,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 241,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 105,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

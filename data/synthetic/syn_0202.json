@@ -1,0 +1,227 @@
+{
+  "id": "syn_0202",
+  "project_name": "School Building at Electronic City",
+  "category": "concrete",
+  "text": "Supply and installation of M20 concrete, RCC, PCC for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix M20 PCC 8mm diameter  236  ls  2116  33935\n2  Supply and fix glass 100mm thick  438  nos  461  73737\n3  Fix Fe415 TMT steel  411  sqm  3479  73593\n4  Fabricate and erect Class A AAC block 200mm thick  214  nos  1426  56549\n5  Lay DB 200 x 200mm  16  sqm  979  20415\n6  Install SWR pipe 150mm thick  378  sqm  791  26622\n7  Erect Class 1 putty  241  sqm  1977  44534\n8  Install brickbat coba 16mm diameter  455  nos  4130  40352\n9  Supply and fix M35 M25 concrete  68  kg  3664  24819\n10  Fabricate and erect MS door 12mm diameter  228  ltr  1775  16793\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of M20 concrete, RCC, PCC for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice. Provide and fix M20 PCC 8mm diameter Supply and fix glass 100mm thick Fix Fe415 TMT steel Fabricate and erect Class A AAC block 200mm thick Lay DB 200 x 200mm Install SWR pipe 150mm thick Erect Class 1 putty Install brickbat coba 16mm diameter Supply and fix M35 M25 concrete Fabricate and erect MS door 12mm diameter",
+  "sections": {
+    "scope": "Supply and installation of M20 concrete, RCC, PCC for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix M20 PCC 8mm diameter",
+        "236",
+        "ls",
+        "2116",
+        "33935"
+      ],
+      [
+        "2",
+        "Supply and fix glass 100mm thick",
+        "438",
+        "nos",
+        "461",
+        "73737"
+      ],
+      [
+        "3",
+        "Fix Fe415 TMT steel",
+        "411",
+        "sqm",
+        "3479",
+        "73593"
+      ],
+      [
+        "4",
+        "Fabricate and erect Class A AAC block 200mm thick",
+        "214",
+        "nos",
+        "1426",
+        "56549"
+      ],
+      [
+        "5",
+        "Lay DB 200 x 200mm",
+        "16",
+        "sqm",
+        "979",
+        "20415"
+      ],
+      [
+        "6",
+        "Install SWR pipe 150mm thick",
+        "378",
+        "sqm",
+        "791",
+        "26622"
+      ],
+      [
+        "7",
+        "Erect Class 1 putty",
+        "241",
+        "sqm",
+        "1977",
+        "44534"
+      ],
+      [
+        "8",
+        "Install brickbat coba 16mm diameter",
+        "455",
+        "nos",
+        "4130",
+        "40352"
+      ],
+      [
+        "9",
+        "Supply and fix M35 M25 concrete",
+        "68",
+        "kg",
+        "3664",
+        "24819"
+      ],
+      [
+        "10",
+        "Fabricate and erect MS door 12mm diameter",
+        "228",
+        "ltr",
+        "1775",
+        "16793"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "8mm diameter",
+        "quantity": 236,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 438,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 411,
+        "unit": "m^2",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "200mm thick",
+        "quantity": 214,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 16,
+        "unit": "m^2",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 378,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Erect",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 241,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 455,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and fix",
+        "material": "M25 concrete",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 68,
+        "unit": "kg",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fabricate and erect",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 228,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

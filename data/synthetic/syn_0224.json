@@ -1,0 +1,167 @@
+{
+  "id": "syn_0224",
+  "project_name": "Warehouse at Peenya",
+  "category": "brickwork",
+  "text": "The work comprises fly ash brick, hollow block, brick masonry for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install SWR pipe 20mm thick  157  ls  1947  17934\n2  Erect M35 M25 concrete 12mm diameter  54  ls  850  7416\n3  Supply and install DB 12mm diameter  271  rmt  4242  21761\n4  Supply and install membrane 300mm thick  60  cum  917  47428\n5  Supply Class 1 putty 12mm diameter  295  rmt  3661  93727\n6  Fix MS door  216  set  2251  18173\n7  Provide and install Fe415 MS plate  363  rmt  4264  3213\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises fly ash brick, hollow block, brick masonry for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards. Supply and install SWR pipe 20mm thick Erect M35 M25 concrete 12mm diameter Supply and install DB 12mm diameter Supply and install membrane 300mm thick Supply Class 1 putty 12mm diameter Fix MS door Provide and install Fe415 MS plate",
+  "sections": {
+    "scope": "The work comprises fly ash brick, hollow block, brick masonry for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install SWR pipe 20mm thick",
+        "157",
+        "ls",
+        "1947",
+        "17934"
+      ],
+      [
+        "2",
+        "Erect M35 M25 concrete 12mm diameter",
+        "54",
+        "ls",
+        "850",
+        "7416"
+      ],
+      [
+        "3",
+        "Supply and install DB 12mm diameter",
+        "271",
+        "rmt",
+        "4242",
+        "21761"
+      ],
+      [
+        "4",
+        "Supply and install membrane 300mm thick",
+        "60",
+        "cum",
+        "917",
+        "47428"
+      ],
+      [
+        "5",
+        "Supply Class 1 putty 12mm diameter",
+        "295",
+        "rmt",
+        "3661",
+        "93727"
+      ],
+      [
+        "6",
+        "Fix MS door",
+        "216",
+        "set",
+        "2251",
+        "18173"
+      ],
+      [
+        "7",
+        "Provide and install Fe415 MS plate",
+        "363",
+        "rmt",
+        "4264",
+        "3213"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 157,
+        "unit": "ls",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "M25 concrete",
+        "grade": "M35",
+        "dimension": "12mm diameter",
+        "quantity": 54,
+        "unit": "ls",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "DB",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 271,
+        "unit": "rmt",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 60,
+        "unit": "m^3",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "12mm diameter",
+        "quantity": 295,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 216,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 363,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

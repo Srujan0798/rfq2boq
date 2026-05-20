@@ -1,0 +1,147 @@
+{
+  "id": "syn_0034",
+  "project_name": "Hotel at Airport Road",
+  "category": "finishes",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Hotel at Airport Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix Class C brick masonry 100 x 100mm  62  sqm  3235  99717\n2  Supply and lay GI conduit 12mm thick  281  cum  2976  95690\n3  Supply PVC pipe 200mm thick  220  set  1246  99624\n4  Apply M40 M20 concrete 150 x 150mm  206  ls  2129  37302\n5  Lay Class 1 cement plaster 100mm thick  317  nos  2571  27928\n6  Lay Fe550 rebar  106  ltr  2060  65865\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Hotel at Airport Road project. All work to be carried out as per specifications. Fix Class C brick masonry 100 x 100mm Supply and lay GI conduit 12mm thick Supply PVC pipe 200mm thick Apply M40 M20 concrete 150 x 150mm Lay Class 1 cement plaster 100mm thick Lay Fe550 rebar",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Hotel at Airport Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix Class C brick masonry 100 x 100mm",
+        "62",
+        "sqm",
+        "3235",
+        "99717"
+      ],
+      [
+        "2",
+        "Supply and lay GI conduit 12mm thick",
+        "281",
+        "cum",
+        "2976",
+        "95690"
+      ],
+      [
+        "3",
+        "Supply PVC pipe 200mm thick",
+        "220",
+        "set",
+        "1246",
+        "99624"
+      ],
+      [
+        "4",
+        "Apply M40 M20 concrete 150 x 150mm",
+        "206",
+        "ls",
+        "2129",
+        "37302"
+      ],
+      [
+        "5",
+        "Lay Class 1 cement plaster 100mm thick",
+        "317",
+        "nos",
+        "2571",
+        "27928"
+      ],
+      [
+        "6",
+        "Lay Fe550 rebar",
+        "106",
+        "ltr",
+        "2060",
+        "65865"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "100 x 100mm",
+        "quantity": 62,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 281,
+        "unit": "m^3",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 220,
+        "unit": "set",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "M20 concrete",
+        "grade": "M40",
+        "dimension": "150 x 150mm",
+        "quantity": 206,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "100mm thick",
+        "quantity": 317,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 106,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0050",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "waterproofing",
+  "text": "The scope of work includes membrane, brickbat coba, DPC for the Hospital Building at Hebbal project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect Class B AAC block 8mm diameter  208  set  238  52052\n2  Plaster GI pipe 150mm thick  378  sqm  694  47884\n3  Provide and lay Class 1 putty 100 x 100mm  412  nos  3224  52788\n4  Supply and fix Fe500 TMT steel  283  kg  4570  39663\n5  Plaster aluminum window 100mm thick  464  ls  1109  6475\n6  Lay brickbat coba 200 x 200mm  290  sqm  3480  85663\n7  Supply and fix DB 25mm thick  104  kg  1038  24770\n8  Install M40 RCC 200mm thick  37  set  651  33858\n9  Apply Class A brick masonry 200 x 200mm  307  set  2021  14113\n10  Supply HDPE pipe 150 x 150mm  109  ls  2604  91892\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes membrane, brickbat coba, DPC for the Hospital Building at Hebbal project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below. Erect Class B AAC block 8mm diameter Plaster GI pipe 150mm thick Provide and lay Class 1 putty 100 x 100mm Supply and fix Fe500 TMT steel Plaster aluminum window 100mm thick Lay brickbat coba 200 x 200mm Supply and fix DB 25mm thick Install M40 RCC 200mm thick Apply Class A brick masonry 200 x 200mm Supply HDPE pipe 150 x 150mm",
+  "sections": {
+    "scope": "The scope of work includes membrane, brickbat coba, DPC for the Hospital Building at Hebbal project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect Class B AAC block 8mm diameter",
+        "208",
+        "set",
+        "238",
+        "52052"
+      ],
+      [
+        "2",
+        "Plaster GI pipe 150mm thick",
+        "378",
+        "sqm",
+        "694",
+        "47884"
+      ],
+      [
+        "3",
+        "Provide and lay Class 1 putty 100 x 100mm",
+        "412",
+        "nos",
+        "3224",
+        "52788"
+      ],
+      [
+        "4",
+        "Supply and fix Fe500 TMT steel",
+        "283",
+        "kg",
+        "4570",
+        "39663"
+      ],
+      [
+        "5",
+        "Plaster aluminum window 100mm thick",
+        "464",
+        "ls",
+        "1109",
+        "6475"
+      ],
+      [
+        "6",
+        "Lay brickbat coba 200 x 200mm",
+        "290",
+        "sqm",
+        "3480",
+        "85663"
+      ],
+      [
+        "7",
+        "Supply and fix DB 25mm thick",
+        "104",
+        "kg",
+        "1038",
+        "24770"
+      ],
+      [
+        "8",
+        "Install M40 RCC 200mm thick",
+        "37",
+        "set",
+        "651",
+        "33858"
+      ],
+      [
+        "9",
+        "Apply Class A brick masonry 200 x 200mm",
+        "307",
+        "set",
+        "2021",
+        "14113"
+      ],
+      [
+        "10",
+        "Supply HDPE pipe 150 x 150mm",
+        "109",
+        "ls",
+        "2604",
+        "91892"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "8mm diameter",
+        "quantity": 208,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Plaster",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 378,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "100 x 100mm",
+        "quantity": 412,
+        "unit": "no.",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 283,
+        "unit": "kg",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Plaster",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 464,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 290,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "DB",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 104,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Install",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "200mm thick",
+        "quantity": 37,
+        "unit": "set",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Apply",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "200 x 200mm",
+        "quantity": 307,
+        "unit": "set",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 109,
+        "unit": "ls",
+        "standard": [
+          "IS 4984"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

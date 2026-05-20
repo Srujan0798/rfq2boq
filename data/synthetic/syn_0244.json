@@ -1,0 +1,187 @@
+{
+  "id": "syn_0244",
+  "project_name": "School Building at Electronic City",
+  "category": "piping",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the School Building at Electronic City project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply glass 12mm thick  397  cum  4270  60551\n2  Fix Class B fly ash brick 20mm thick  189  sqm  4504  99122\n3  Install Fe415 GI sheet 16mm thick  261  sqm  3580  73456\n4  Fix DB 25mm thick  64  ltr  387  27620\n5  Cast integral waterproofing 16mm thick  267  sqm  3949  59089\n6  Apply Class 1 tile 12mm diameter  129  kg  214  33908\n7  Apply GI pipe 230mm thick  14  cum  1681  68194\n8  Supply and install M35 RCC 200 x 200mm  105  rmt  1466  6179\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the School Building at Electronic City project. All work to be carried out as per specifications. Apply glass 12mm thick Fix Class B fly ash brick 20mm thick Install Fe415 GI sheet 16mm thick Fix DB 25mm thick Cast integral waterproofing 16mm thick Apply Class 1 tile 12mm diameter Apply GI pipe 230mm thick Supply and install M35 RCC 200 x 200mm",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the School Building at Electronic City project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply glass 12mm thick",
+        "397",
+        "cum",
+        "4270",
+        "60551"
+      ],
+      [
+        "2",
+        "Fix Class B fly ash brick 20mm thick",
+        "189",
+        "sqm",
+        "4504",
+        "99122"
+      ],
+      [
+        "3",
+        "Install Fe415 GI sheet 16mm thick",
+        "261",
+        "sqm",
+        "3580",
+        "73456"
+      ],
+      [
+        "4",
+        "Fix DB 25mm thick",
+        "64",
+        "ltr",
+        "387",
+        "27620"
+      ],
+      [
+        "5",
+        "Cast integral waterproofing 16mm thick",
+        "267",
+        "sqm",
+        "3949",
+        "59089"
+      ],
+      [
+        "6",
+        "Apply Class 1 tile 12mm diameter",
+        "129",
+        "kg",
+        "214",
+        "33908"
+      ],
+      [
+        "7",
+        "Apply GI pipe 230mm thick",
+        "14",
+        "cum",
+        "1681",
+        "68194"
+      ],
+      [
+        "8",
+        "Supply and install M35 RCC 200 x 200mm",
+        "105",
+        "rmt",
+        "1466",
+        "6179"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 397,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "20mm thick",
+        "quantity": 189,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "16mm thick",
+        "quantity": 261,
+        "unit": "m^2",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fix",
+        "material": "DB",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 64,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 267,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "12mm diameter",
+        "quantity": 129,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 14,
+        "unit": "m^3",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and install",
+        "material": "RCC",
+        "grade": "M35",
+        "dimension": "200 x 200mm",
+        "quantity": 105,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

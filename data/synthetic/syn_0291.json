@@ -1,0 +1,247 @@
+{
+  "id": "syn_0291",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "finishes",
+  "text": "The work comprises tile, POP, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect DPC  384  rmt  4935  84743\n2  Cast M40 M25 concrete 200 x 200mm  395  sqm  4196  11918\n3  Supply Class B brick masonry 200mm thick  410  kg  2105  4030\n4  Fabricate and erect Fe415 GI sheet  76  ltr  1460  1533\n5  Lay Class 2 cement plaster 100mm thick  324  ltr  1246  51672\n6  Supply and lay switch 6mm diameter  77  sqm  4950  40039\n7  Supply and fix CI pipe 12mm thick  175  nos  2529  46150\n8  Supply glass 10mm diameter  427  kg  4892  78153\n9  Provide and install integral waterproofing 200mm thick  212  nos  999  24792\n10  Apply M35 RCC 10mm diameter  476  ltr  3458  60178\n11  Plaster Class B brick masonry  465  kg  1008  5307\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises tile, POP, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Erect DPC Cast M40 M25 concrete 200 x 200mm Supply Class B brick masonry 200mm thick Fabricate and erect Fe415 GI sheet Lay Class 2 cement plaster 100mm thick Supply and lay switch 6mm diameter Supply and fix CI pipe 12mm thick Supply glass 10mm diameter Provide and install integral waterproofing 200mm thick Apply M35 RCC 10mm diameter Plaster Class B brick masonry",
+  "sections": {
+    "scope": "The work comprises tile, POP, putty for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect DPC",
+        "384",
+        "rmt",
+        "4935",
+        "84743"
+      ],
+      [
+        "2",
+        "Cast M40 M25 concrete 200 x 200mm",
+        "395",
+        "sqm",
+        "4196",
+        "11918"
+      ],
+      [
+        "3",
+        "Supply Class B brick masonry 200mm thick",
+        "410",
+        "kg",
+        "2105",
+        "4030"
+      ],
+      [
+        "4",
+        "Fabricate and erect Fe415 GI sheet",
+        "76",
+        "ltr",
+        "1460",
+        "1533"
+      ],
+      [
+        "5",
+        "Lay Class 2 cement plaster 100mm thick",
+        "324",
+        "ltr",
+        "1246",
+        "51672"
+      ],
+      [
+        "6",
+        "Supply and lay switch 6mm diameter",
+        "77",
+        "sqm",
+        "4950",
+        "40039"
+      ],
+      [
+        "7",
+        "Supply and fix CI pipe 12mm thick",
+        "175",
+        "nos",
+        "2529",
+        "46150"
+      ],
+      [
+        "8",
+        "Supply glass 10mm diameter",
+        "427",
+        "kg",
+        "4892",
+        "78153"
+      ],
+      [
+        "9",
+        "Provide and install integral waterproofing 200mm thick",
+        "212",
+        "nos",
+        "999",
+        "24792"
+      ],
+      [
+        "10",
+        "Apply M35 RCC 10mm diameter",
+        "476",
+        "ltr",
+        "3458",
+        "60178"
+      ],
+      [
+        "11",
+        "Plaster Class B brick masonry",
+        "465",
+        "kg",
+        "1008",
+        "5307"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 384,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "M25 concrete",
+        "grade": "M40",
+        "dimension": "200 x 200mm",
+        "quantity": 395,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "200mm thick",
+        "quantity": 410,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 76,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "100mm thick",
+        "quantity": 324,
+        "unit": "ltr",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "switch",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 77,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 175,
+        "unit": "no.",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 427,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and install",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 212,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Apply",
+        "material": "RCC",
+        "grade": "M35",
+        "dimension": "10mm diameter",
+        "quantity": 476,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Plaster",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 465,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "id": "syn_0294",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "finishes",
+  "text": "The work comprises tile, putty, cement plaster for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install Class B hollow block 12mm diameter  142  ltr  450  11879\n2  Supply and lay MS door  439  kg  4271  85971\n3  Provide and lay M25 M35 concrete 230mm thick  30  set  128  84646\n4  Lay CI pipe 230mm thick  316  cum  1210  71293\n5  Fabricate and erect membrane  218  rmt  1011  16953\n6  Supply and fix switch 12mm thick  127  rmt  4655  21319\n7  Lay Class 1 tile 300mm thick  152  set  1677  47912\n8  Cast Fe550 rebar  162  cum  419  96196\n9  Cast Class B fly ash brick  420  sqm  1045  33279\n10  Install MS door  446  ls  1292  22591\n11  Cast M40 RCC 8mm diameter  77  cum  1063  84827\n12  Lay HDPE pipe 100mm thick  30  set  4527  3253\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises tile, putty, cement plaster for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards. Supply and install Class B hollow block 12mm diameter Supply and lay MS door Provide and lay M25 M35 concrete 230mm thick Lay CI pipe 230mm thick Fabricate and erect membrane Supply and fix switch 12mm thick Lay Class 1 tile 300mm thick Cast Fe550 rebar Cast Class B fly ash brick Install MS door Cast M40 RCC 8mm diameter Lay HDPE pipe 100mm thick",
+  "sections": {
+    "scope": "The work comprises tile, putty, cement plaster for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install Class B hollow block 12mm diameter",
+        "142",
+        "ltr",
+        "450",
+        "11879"
+      ],
+      [
+        "2",
+        "Supply and lay MS door",
+        "439",
+        "kg",
+        "4271",
+        "85971"
+      ],
+      [
+        "3",
+        "Provide and lay M25 M35 concrete 230mm thick",
+        "30",
+        "set",
+        "128",
+        "84646"
+      ],
+      [
+        "4",
+        "Lay CI pipe 230mm thick",
+        "316",
+        "cum",
+        "1210",
+        "71293"
+      ],
+      [
+        "5",
+        "Fabricate and erect membrane",
+        "218",
+        "rmt",
+        "1011",
+        "16953"
+      ],
+      [
+        "6",
+        "Supply and fix switch 12mm thick",
+        "127",
+        "rmt",
+        "4655",
+        "21319"
+      ],
+      [
+        "7",
+        "Lay Class 1 tile 300mm thick",
+        "152",
+        "set",
+        "1677",
+        "47912"
+      ],
+      [
+        "8",
+        "Cast Fe550 rebar",
+        "162",
+        "cum",
+        "419",
+        "96196"
+      ],
+      [
+        "9",
+        "Cast Class B fly ash brick",
+        "420",
+        "sqm",
+        "1045",
+        "33279"
+      ],
+      [
+        "10",
+        "Install MS door",
+        "446",
+        "ls",
+        "1292",
+        "22591"
+      ],
+      [
+        "11",
+        "Cast M40 RCC 8mm diameter",
+        "77",
+        "cum",
+        "1063",
+        "84827"
+      ],
+      [
+        "12",
+        "Lay HDPE pipe 100mm thick",
+        "30",
+        "set",
+        "4527",
+        "3253"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "12mm diameter",
+        "quantity": 142,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 439,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "230mm thick",
+        "quantity": 30,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 316,
+        "unit": "m^3",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 218,
+        "unit": "rmt",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 127,
+        "unit": "rmt",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "300mm thick",
+        "quantity": 152,
+        "unit": "set",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 162,
+        "unit": "m^3",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Cast",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 420,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 446,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Cast",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "8mm diameter",
+        "quantity": 77,
+        "unit": "m^3",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Lay",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 30,
+        "unit": "set",
+        "standard": [
+          "IS 1239"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

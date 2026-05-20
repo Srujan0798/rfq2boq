@@ -1,0 +1,267 @@
+{
+  "id": "syn_0296",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "brickwork",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix Fe550 MS plate  471  nos  4296  1624\n2  Supply and lay flush door 150 x 150mm  242  rmt  2120  53208\n3  Provide and fix Class 1 putty 100 x 100mm  283  ls  335  51354\n4  Cast membrane  424  ltr  1447  49355\n5  Provide and install CI pipe  400  kg  2868  89559\n6  Provide and fix M30 PCC 150 x 150mm  102  kg  4505  19258\n7  Provide and install DB  33  nos  3664  52420\n8  Cast Class C AAC block 230mm thick  317  sqm  2520  21574\n9  Install Fe415 rebar 8mm diameter  77  cum  4536  24177\n10  Plaster flush door 6mm diameter  133  rmt  3989  1649\n11  Supply and fix Class 1 paint 16mm thick  429  ls  1989  77856\n12  Provide and lay membrane  282  ls  469  55786\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Apartment Block at HSR Layout project. All work to be carried out as per specifications. Supply and fix Fe550 MS plate Supply and lay flush door 150 x 150mm Provide and fix Class 1 putty 100 x 100mm Cast membrane Provide and install CI pipe Provide and fix M30 PCC 150 x 150mm Provide and install DB Cast Class C AAC block 230mm thick Install Fe415 rebar 8mm diameter Plaster flush door 6mm diameter Supply and fix Class 1 paint 16mm thick Provide and lay membrane",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at balcony for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix Fe550 MS plate",
+        "471",
+        "nos",
+        "4296",
+        "1624"
+      ],
+      [
+        "2",
+        "Supply and lay flush door 150 x 150mm",
+        "242",
+        "rmt",
+        "2120",
+        "53208"
+      ],
+      [
+        "3",
+        "Provide and fix Class 1 putty 100 x 100mm",
+        "283",
+        "ls",
+        "335",
+        "51354"
+      ],
+      [
+        "4",
+        "Cast membrane",
+        "424",
+        "ltr",
+        "1447",
+        "49355"
+      ],
+      [
+        "5",
+        "Provide and install CI pipe",
+        "400",
+        "kg",
+        "2868",
+        "89559"
+      ],
+      [
+        "6",
+        "Provide and fix M30 PCC 150 x 150mm",
+        "102",
+        "kg",
+        "4505",
+        "19258"
+      ],
+      [
+        "7",
+        "Provide and install DB",
+        "33",
+        "nos",
+        "3664",
+        "52420"
+      ],
+      [
+        "8",
+        "Cast Class C AAC block 230mm thick",
+        "317",
+        "sqm",
+        "2520",
+        "21574"
+      ],
+      [
+        "9",
+        "Install Fe415 rebar 8mm diameter",
+        "77",
+        "cum",
+        "4536",
+        "24177"
+      ],
+      [
+        "10",
+        "Plaster flush door 6mm diameter",
+        "133",
+        "rmt",
+        "3989",
+        "1649"
+      ],
+      [
+        "11",
+        "Supply and fix Class 1 paint 16mm thick",
+        "429",
+        "ls",
+        "1989",
+        "77856"
+      ],
+      [
+        "12",
+        "Provide and lay membrane",
+        "282",
+        "ls",
+        "469",
+        "55786"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 471,
+        "unit": "no.",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 242,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "100 x 100mm",
+        "quantity": 283,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 424,
+        "unit": "ltr",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 400,
+        "unit": "kg",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "PCC",
+        "grade": "M30",
+        "dimension": "150 x 150mm",
+        "quantity": 102,
+        "unit": "kg",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "DB",
+        "grade": "",
+        "dimension": "",
+        "quantity": 33,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "230mm thick",
+        "quantity": 317,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Install",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "8mm diameter",
+        "quantity": 77,
+        "unit": "m^3",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Plaster",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 133,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and fix",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "16mm thick",
+        "quantity": 429,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Provide and lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 282,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

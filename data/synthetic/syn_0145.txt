@@ -1,0 +1,36 @@
+Items described in the Bill of Quantities are to be supplied and installed at first floor for the Office Building at Manyata Tech Park project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and install membrane 12mm diameter  138  ltr  1546  44075
+2  Lay Fe500 rebar  155  nos  2139  45714
+3  Plaster MS door 12mm thick  235  sqm  153  42839
+4  Fabricate and erect Class 2 putty  93  rmt  2595  13395
+5  Plaster M30 M35 concrete  361  rmt  1998  28946
+6  Provide and fix HDPE pipe  402  set  1822  75843
+7  Supply and fix Class B AAC block 12mm thick  108  ltr  1387  43687
+8  Plaster DB 25mm thick  314  ltr  2253  62863
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

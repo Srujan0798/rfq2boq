@@ -1,0 +1,38 @@
+Supply and installation of DB, light fixture, switch for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Install GI conduit 16mm thick  436  kg  3041  37358
+2  Cast Class C AAC block 25mm thick  226  sqm  1437  53436
+3  Provide and lay CI pipe 300mm thick  356  ltr  1769  10248
+4  Apply Fe550 structural steel 16mm diameter  340  kg  1443  56009
+5  Fix membrane  232  ltr  2127  11161
+6  Lay M20 M30 concrete  66  ltr  828  48555
+7  Supply and fix MS door  454  kg  3189  30127
+8  Fix Class 1 paint  483  sqm  2611  78178
+9  Lay light fixture 230mm thick  188  nos  1498  42680
+10  Provide and fix Class A hollow block 300mm thick  422  ltr  177  91001
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

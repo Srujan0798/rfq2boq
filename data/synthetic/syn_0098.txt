@@ -1,0 +1,37 @@
+Items described in the Bill of Quantities are to be supplied and installed at basement for the IT Park Phase 2 project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Fix Class A fly ash brick 12mm thick  63  ls  1798  67330
+2  Supply and install M35 M20 concrete 6mm diameter  47  set  3349  5951
+3  Supply and lay GI pipe 10mm diameter  373  rmt  3879  9943
+4  Apply Class 1 cement plaster  496  set  1421  23359
+5  Supply and fix cable 6mm diameter  160  sqm  735  89000
+6  Supply and fix brickbat coba  235  ls  382  89479
+7  Apply aluminum window 100 x 100mm  34  sqm  529  79407
+8  Fix Fe415 TMT steel 200 x 200mm  203  kg  1738  12978
+9  Supply and install Class B brick masonry 200mm thick  17  ls  891  88046
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

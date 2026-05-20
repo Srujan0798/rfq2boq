@@ -1,0 +1,167 @@
+{
+  "id": "syn_0213",
+  "project_name": "IT Park Phase 2",
+  "category": "doors_windows",
+  "text": "The work comprises flush door, glass, MS door for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect CI pipe  492  ls  582  47062\n2  Supply and lay brickbat coba 12mm thick  304  ls  994  87106\n3  Supply and fix M30 M20 concrete 150mm thick  228  sqm  3071  30807\n4  Install Fe415 GI sheet  301  rmt  3887  10290\n5  Plaster Class 2 paint 25mm thick  17  cum  809  67083\n6  Lay DB 20mm thick  374  ls  1253  75381\n7  Cast glass 8mm diameter  294  kg  1177  79011\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises flush door, glass, MS door for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards. Erect CI pipe Supply and lay brickbat coba 12mm thick Supply and fix M30 M20 concrete 150mm thick Install Fe415 GI sheet Plaster Class 2 paint 25mm thick Lay DB 20mm thick Cast glass 8mm diameter",
+  "sections": {
+    "scope": "The work comprises flush door, glass, MS door for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect CI pipe",
+        "492",
+        "ls",
+        "582",
+        "47062"
+      ],
+      [
+        "2",
+        "Supply and lay brickbat coba 12mm thick",
+        "304",
+        "ls",
+        "994",
+        "87106"
+      ],
+      [
+        "3",
+        "Supply and fix M30 M20 concrete 150mm thick",
+        "228",
+        "sqm",
+        "3071",
+        "30807"
+      ],
+      [
+        "4",
+        "Install Fe415 GI sheet",
+        "301",
+        "rmt",
+        "3887",
+        "10290"
+      ],
+      [
+        "5",
+        "Plaster Class 2 paint 25mm thick",
+        "17",
+        "cum",
+        "809",
+        "67083"
+      ],
+      [
+        "6",
+        "Lay DB 20mm thick",
+        "374",
+        "ls",
+        "1253",
+        "75381"
+      ],
+      [
+        "7",
+        "Cast glass 8mm diameter",
+        "294",
+        "kg",
+        "1177",
+        "79011"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 492,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 304,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "M20 concrete",
+        "grade": "M30",
+        "dimension": "150mm thick",
+        "quantity": 228,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 301,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Plaster",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "25mm thick",
+        "quantity": 17,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 374,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "glass",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 294,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

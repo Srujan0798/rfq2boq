@@ -1,0 +1,127 @@
+{
+  "id": "syn_0252",
+  "project_name": "Warehouse at Peenya",
+  "category": "steel",
+  "text": "Supply and installation of GI sheet, MS plate, rebar for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay M25 M25 concrete 8mm diameter  49  set  3720  67930\n2  Provide and lay Fe550 structural steel 12mm thick  252  set  592  84769\n3  Supply and install PVC pipe 230mm thick  28  ltr  2584  66614\n4  Supply and fix Class B hollow block 25mm thick  74  kg  2619  8031\n5  Supply MS door 230mm thick  388  ltr  811  45076\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI sheet, MS plate, rebar for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice. Provide and lay M25 M25 concrete 8mm diameter Provide and lay Fe550 structural steel 12mm thick Supply and install PVC pipe 230mm thick Supply and fix Class B hollow block 25mm thick Supply MS door 230mm thick",
+  "sections": {
+    "scope": "Supply and installation of GI sheet, MS plate, rebar for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay M25 M25 concrete 8mm diameter",
+        "49",
+        "set",
+        "3720",
+        "67930"
+      ],
+      [
+        "2",
+        "Provide and lay Fe550 structural steel 12mm thick",
+        "252",
+        "set",
+        "592",
+        "84769"
+      ],
+      [
+        "3",
+        "Supply and install PVC pipe 230mm thick",
+        "28",
+        "ltr",
+        "2584",
+        "66614"
+      ],
+      [
+        "4",
+        "Supply and fix Class B hollow block 25mm thick",
+        "74",
+        "kg",
+        "2619",
+        "8031"
+      ],
+      [
+        "5",
+        "Supply MS door 230mm thick",
+        "388",
+        "ltr",
+        "811",
+        "45076"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "M25 concrete",
+        "grade": "M25",
+        "dimension": "8mm diameter",
+        "quantity": 49,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "12mm thick",
+        "quantity": 252,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 28,
+        "unit": "ltr",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "25mm thick",
+        "quantity": 74,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 388,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

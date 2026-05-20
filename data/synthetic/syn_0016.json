@@ -1,0 +1,127 @@
+{
+  "id": "syn_0016",
+  "project_name": "School Building at Electronic City",
+  "category": "doors_windows",
+  "text": "The scope of work includes flush door, glass, MS door for the School Building at Electronic City project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install M30 M35 concrete 230mm thick  396  sqm  4958  64783\n2  Supply and install DB 150mm thick  122  ltr  1774  40507\n3  Fix membrane 100mm thick  140  nos  3627  24028\n4  Lay PVC pipe 200 x 200mm  370  kg  3352  98260\n5  Supply and install flush door 8mm diameter  245  sqm  3521  38947\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes flush door, glass, MS door for the School Building at Electronic City project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and install M30 M35 concrete 230mm thick Supply and install DB 150mm thick Fix membrane 100mm thick Lay PVC pipe 200 x 200mm Supply and install flush door 8mm diameter",
+  "sections": {
+    "scope": "The scope of work includes flush door, glass, MS door for the School Building at Electronic City project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install M30 M35 concrete 230mm thick",
+        "396",
+        "sqm",
+        "4958",
+        "64783"
+      ],
+      [
+        "2",
+        "Supply and install DB 150mm thick",
+        "122",
+        "ltr",
+        "1774",
+        "40507"
+      ],
+      [
+        "3",
+        "Fix membrane 100mm thick",
+        "140",
+        "nos",
+        "3627",
+        "24028"
+      ],
+      [
+        "4",
+        "Lay PVC pipe 200 x 200mm",
+        "370",
+        "kg",
+        "3352",
+        "98260"
+      ],
+      [
+        "5",
+        "Supply and install flush door 8mm diameter",
+        "245",
+        "sqm",
+        "3521",
+        "38947"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "M35 concrete",
+        "grade": "M30",
+        "dimension": "230mm thick",
+        "quantity": 396,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "DB",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 122,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 140,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 370,
+        "unit": "kg",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 245,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

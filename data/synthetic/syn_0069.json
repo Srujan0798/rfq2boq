@@ -1,0 +1,167 @@
+{
+  "id": "syn_0069",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "doors_windows",
+  "text": "Supply and installation of MS door, glass, flush door for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster glass  235  rmt  545  85182\n2  Supply and install integral waterproofing 100 x 100mm  95  set  4462  31626\n3  Fabricate and erect Class 2 paint 8mm diameter  144  rmt  2465  59827\n4  Lay CI pipe  359  cum  2998  57595\n5  Install Fe550 rebar  149  ls  2191  86766\n6  Fabricate and erect DB 16mm thick  405  kg  2864  89829\n7  Lay Class B AAC block 100mm thick  15  cum  900  69847\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of MS door, glass, flush door for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice. Plaster glass Supply and install integral waterproofing 100 x 100mm Fabricate and erect Class 2 paint 8mm diameter Lay CI pipe Install Fe550 rebar Fabricate and erect DB 16mm thick Lay Class B AAC block 100mm thick",
+  "sections": {
+    "scope": "Supply and installation of MS door, glass, flush door for Office Building at Manyata Tech Park as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster glass",
+        "235",
+        "rmt",
+        "545",
+        "85182"
+      ],
+      [
+        "2",
+        "Supply and install integral waterproofing 100 x 100mm",
+        "95",
+        "set",
+        "4462",
+        "31626"
+      ],
+      [
+        "3",
+        "Fabricate and erect Class 2 paint 8mm diameter",
+        "144",
+        "rmt",
+        "2465",
+        "59827"
+      ],
+      [
+        "4",
+        "Lay CI pipe",
+        "359",
+        "cum",
+        "2998",
+        "57595"
+      ],
+      [
+        "5",
+        "Install Fe550 rebar",
+        "149",
+        "ls",
+        "2191",
+        "86766"
+      ],
+      [
+        "6",
+        "Fabricate and erect DB 16mm thick",
+        "405",
+        "kg",
+        "2864",
+        "89829"
+      ],
+      [
+        "7",
+        "Lay Class B AAC block 100mm thick",
+        "15",
+        "cum",
+        "900",
+        "69847"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 235,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 95,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "8mm diameter",
+        "quantity": 144,
+        "unit": "rmt",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 359,
+        "unit": "m^3",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 149,
+        "unit": "ls",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fabricate and erect",
+        "material": "DB",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 405,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "100mm thick",
+        "quantity": 15,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

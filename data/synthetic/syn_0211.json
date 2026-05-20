@@ -1,0 +1,207 @@
+{
+  "id": "syn_0211",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "steel",
+  "text": "The work comprises MS plate, structural steel, rebar for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix Class 1 cement plaster 300mm thick  257  nos  2679  41544\n2  Install light fixture  356  sqm  238  60905\n3  Supply and install DPC 6mm diameter  199  nos  710  44438\n4  Supply and install Class C brick masonry 6mm diameter  233  ltr  2300  13062\n5  Supply GI pipe 100 x 100mm  341  ltr  839  93285\n6  Supply and install Fe500 MS plate 230mm thick  423  set  4945  36240\n7  Lay glass 16mm thick  324  cum  3538  72858\n8  Lay M30 M25 concrete 6mm diameter  82  ltr  3281  80551\n9  Lay Class 1 paint 16mm diameter  129  ltr  4734  16507\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises MS plate, structural steel, rebar for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Fix Class 1 cement plaster 300mm thick Install light fixture Supply and install DPC 6mm diameter Supply and install Class C brick masonry 6mm diameter Supply GI pipe 100 x 100mm Supply and install Fe500 MS plate 230mm thick Lay glass 16mm thick Lay M30 M25 concrete 6mm diameter Lay Class 1 paint 16mm diameter",
+  "sections": {
+    "scope": "The work comprises MS plate, structural steel, rebar for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix Class 1 cement plaster 300mm thick",
+        "257",
+        "nos",
+        "2679",
+        "41544"
+      ],
+      [
+        "2",
+        "Install light fixture",
+        "356",
+        "sqm",
+        "238",
+        "60905"
+      ],
+      [
+        "3",
+        "Supply and install DPC 6mm diameter",
+        "199",
+        "nos",
+        "710",
+        "44438"
+      ],
+      [
+        "4",
+        "Supply and install Class C brick masonry 6mm diameter",
+        "233",
+        "ltr",
+        "2300",
+        "13062"
+      ],
+      [
+        "5",
+        "Supply GI pipe 100 x 100mm",
+        "341",
+        "ltr",
+        "839",
+        "93285"
+      ],
+      [
+        "6",
+        "Supply and install Fe500 MS plate 230mm thick",
+        "423",
+        "set",
+        "4945",
+        "36240"
+      ],
+      [
+        "7",
+        "Lay glass 16mm thick",
+        "324",
+        "cum",
+        "3538",
+        "72858"
+      ],
+      [
+        "8",
+        "Lay M30 M25 concrete 6mm diameter",
+        "82",
+        "ltr",
+        "3281",
+        "80551"
+      ],
+      [
+        "9",
+        "Lay Class 1 paint 16mm diameter",
+        "129",
+        "ltr",
+        "4734",
+        "16507"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "300mm thick",
+        "quantity": 257,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 356,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 199,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "6mm diameter",
+        "quantity": 233,
+        "unit": "ltr",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 341,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "230mm thick",
+        "quantity": 423,
+        "unit": "set",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 324,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Lay",
+        "material": "M25 concrete",
+        "grade": "M30",
+        "dimension": "6mm diameter",
+        "quantity": 82,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Lay",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "16mm diameter",
+        "quantity": 129,
+        "unit": "ltr",
+        "standard": [
+          "IS 15622"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

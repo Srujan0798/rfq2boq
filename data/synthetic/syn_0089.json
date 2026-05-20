@@ -1,0 +1,267 @@
+{
+  "id": "syn_0089",
+  "project_name": "IT Park Phase 2",
+  "category": "steel",
+  "text": "Supply and installation of GI sheet, rebar, TMT steel for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster Class 2 paint  350  kg  3554  30908\n2  Erect membrane 16mm diameter  480  ltr  3063  4901\n3  Fix light fixture  15  sqm  3390  22538\n4  Erect M20 M35 concrete 300mm thick  398  cum  573  83786\n5  Erect Fe500 rebar 150 x 150mm  215  nos  164  37671\n6  Apply SWR pipe 10mm diameter  216  set  2928  86033\n7  Supply Class A hollow block  164  sqm  3294  96040\n8  Provide and install aluminum window 12mm thick  57  nos  328  71770\n9  Provide and install Class 2 putty 16mm diameter  436  nos  591  49887\n10  Supply and lay integral waterproofing 100mm thick  34  sqm  2876  31945\n11  Provide and fix DB 300mm thick  163  nos  3193  69113\n12  Supply and lay M25 RCC 200 x 200mm  177  kg  902  20209\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI sheet, rebar, TMT steel for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice. Plaster Class 2 paint Erect membrane 16mm diameter Fix light fixture Erect M20 M35 concrete 300mm thick Erect Fe500 rebar 150 x 150mm Apply SWR pipe 10mm diameter Supply Class A hollow block Provide and install aluminum window 12mm thick Provide and install Class 2 putty 16mm diameter Supply and lay integral waterproofing 100mm thick Provide and fix DB 300mm thick Supply and lay M25 RCC 200 x 200mm",
+  "sections": {
+    "scope": "Supply and installation of GI sheet, rebar, TMT steel for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster Class 2 paint",
+        "350",
+        "kg",
+        "3554",
+        "30908"
+      ],
+      [
+        "2",
+        "Erect membrane 16mm diameter",
+        "480",
+        "ltr",
+        "3063",
+        "4901"
+      ],
+      [
+        "3",
+        "Fix light fixture",
+        "15",
+        "sqm",
+        "3390",
+        "22538"
+      ],
+      [
+        "4",
+        "Erect M20 M35 concrete 300mm thick",
+        "398",
+        "cum",
+        "573",
+        "83786"
+      ],
+      [
+        "5",
+        "Erect Fe500 rebar 150 x 150mm",
+        "215",
+        "nos",
+        "164",
+        "37671"
+      ],
+      [
+        "6",
+        "Apply SWR pipe 10mm diameter",
+        "216",
+        "set",
+        "2928",
+        "86033"
+      ],
+      [
+        "7",
+        "Supply Class A hollow block",
+        "164",
+        "sqm",
+        "3294",
+        "96040"
+      ],
+      [
+        "8",
+        "Provide and install aluminum window 12mm thick",
+        "57",
+        "nos",
+        "328",
+        "71770"
+      ],
+      [
+        "9",
+        "Provide and install Class 2 putty 16mm diameter",
+        "436",
+        "nos",
+        "591",
+        "49887"
+      ],
+      [
+        "10",
+        "Supply and lay integral waterproofing 100mm thick",
+        "34",
+        "sqm",
+        "2876",
+        "31945"
+      ],
+      [
+        "11",
+        "Provide and fix DB 300mm thick",
+        "163",
+        "nos",
+        "3193",
+        "69113"
+      ],
+      [
+        "12",
+        "Supply and lay M25 RCC 200 x 200mm",
+        "177",
+        "kg",
+        "902",
+        "20209"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 350,
+        "unit": "kg",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 480,
+        "unit": "ltr",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 15,
+        "unit": "m^2",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "M35 concrete",
+        "grade": "M20",
+        "dimension": "300mm thick",
+        "quantity": 398,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "150 x 150mm",
+        "quantity": 215,
+        "unit": "no.",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 216,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 164,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 57,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and install",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "16mm diameter",
+        "quantity": 436,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 34,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and fix",
+        "material": "DB",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 163,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Supply and lay",
+        "material": "RCC",
+        "grade": "M25",
+        "dimension": "200 x 200mm",
+        "quantity": 177,
+        "unit": "kg",
+        "standard": [
+          "IS 383"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

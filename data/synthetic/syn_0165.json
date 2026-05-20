@@ -1,0 +1,187 @@
+{
+  "id": "syn_0165",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "piping",
+  "text": "Supply and installation of HDPE pipe, GI pipe, PVC pipe for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fabricate and erect Fe500 structural steel 16mm thick  170  kg  1086  39747\n2  Lay cable  419  nos  3565  92835\n3  Provide and lay flush door  114  rmt  3552  11316\n4  Fix Class 2 tile 6mm diameter  475  rmt  1385  78836\n5  Supply and lay CI pipe 16mm thick  489  nos  3813  38324\n6  Provide and fix membrane  499  cum  4626  63534\n7  Provide and fix Class A fly ash brick 8mm diameter  435  ltr  2753  52843\n8  Cast M30 M25 concrete 150 x 150mm  438  cum  4757  6161\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of HDPE pipe, GI pipe, PVC pipe for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice. Fabricate and erect Fe500 structural steel 16mm thick Lay cable Provide and lay flush door Fix Class 2 tile 6mm diameter Supply and lay CI pipe 16mm thick Provide and fix membrane Provide and fix Class A fly ash brick 8mm diameter Cast M30 M25 concrete 150 x 150mm",
+  "sections": {
+    "scope": "Supply and installation of HDPE pipe, GI pipe, PVC pipe for Hospital Building at Hebbal as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fabricate and erect Fe500 structural steel 16mm thick",
+        "170",
+        "kg",
+        "1086",
+        "39747"
+      ],
+      [
+        "2",
+        "Lay cable",
+        "419",
+        "nos",
+        "3565",
+        "92835"
+      ],
+      [
+        "3",
+        "Provide and lay flush door",
+        "114",
+        "rmt",
+        "3552",
+        "11316"
+      ],
+      [
+        "4",
+        "Fix Class 2 tile 6mm diameter",
+        "475",
+        "rmt",
+        "1385",
+        "78836"
+      ],
+      [
+        "5",
+        "Supply and lay CI pipe 16mm thick",
+        "489",
+        "nos",
+        "3813",
+        "38324"
+      ],
+      [
+        "6",
+        "Provide and fix membrane",
+        "499",
+        "cum",
+        "4626",
+        "63534"
+      ],
+      [
+        "7",
+        "Provide and fix Class A fly ash brick 8mm diameter",
+        "435",
+        "ltr",
+        "2753",
+        "52843"
+      ],
+      [
+        "8",
+        "Cast M30 M25 concrete 150 x 150mm",
+        "438",
+        "cum",
+        "4757",
+        "6161"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fabricate and erect",
+        "material": "structural steel",
+        "grade": "Fe500",
+        "dimension": "16mm thick",
+        "quantity": 170,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 419,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 114,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fix",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "6mm diameter",
+        "quantity": 475,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 489,
+        "unit": "no.",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 499,
+        "unit": "m^3",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and fix",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "8mm diameter",
+        "quantity": 435,
+        "unit": "ltr",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Cast",
+        "material": "M25 concrete",
+        "grade": "M30",
+        "dimension": "150 x 150mm",
+        "quantity": 438,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

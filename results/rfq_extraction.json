@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "item_no": 1,
+      "action": "supply",
+      "material": "M25",
+      "grade": "",
+      "dimension": "",
+      "quantity": "450",
+      "unit": "m\u00b3",
+      "location": "RCC",
+      "description_raw": "Supply and install M25 grade RCC work 450 cum for raft foundation at basement level",
+      "confidence": 0.85,
+      "warnings": []
+    },
+    {
+      "item_no": 2,
+      "action": "provide",
+      "material": "brick",
+      "grade": "Class A",
+      "dimension": "230mm",
+      "quantity": "1200",
+      "unit": "m\u00b3",
+      "location": "compound wall",
+      "description_raw": "Provide and lay 230mm thick brick masonry using Class A brickwork 1200 cum for external compound wall",
+      "confidence": 0.85,
+      "warnings": []
+    },
+    {
+      "item_no": 3,
+      "action": "install",
+      "material": "GI pipe",
+      "grade": "",
+      "dimension": "50mm",
+      "quantity": "150",
+      "unit": "nos",
+      "location": "ground floor",
+      "description_raw": "Install GI pipe line 50mm diameter 150 running meter for water supply at ground floor",
+      "confidence": 0.85,
+      "warnings": []
+    },
+    {
+      "item_no": 4,
+      "action": "supply",
+      "material": "TMT",
+      "grade": "",
+      "dimension": "",
+      "quantity": "800",
+      "unit": "kg",
+      "location": "first floor",
+      "description_raw": "Supply TMT steel bars Fe500D 800 kg for reinforcement work at first floor slab",
+      "confidence": 0.85,
+      "warnings": []
+    },
+    {
+      "item_no": 5,
+      "action": "apply",
+      "material": "waterproofing membrane",
+      "grade": "",
+      "dimension": "2mm",
+      "quantity": "200",
+      "unit": "m\u00b2",
+      "location": "terrace",
+      "description_raw": "Apply waterproofing membrane 2mm thick 200 sqm on terrace area waterproofing work",
+      "confidence": 0.85,
+      "warnings": []
+    },
+    {
+      "item_no": 6,
+      "action": "supply",
+      "material": "glass",
+      "grade": "",
+      "dimension": "16mm",
+      "quantity": "75",
+      "unit": "m\u00b2",
+      "location": "balcony",
+      "description_raw": "Supply and fix 16mm thick tinted glass panels 75 sqm for glazing work at balcony",
+      "confidence": 0.85,
+      "warnings": []
+    },
+    {
+      "item_no": 7,
+      "action": "construct",
+      "material": "M30 concrete",
+      "grade": "",
+      "dimension": "0m",
+      "quantity": "25",
+      "unit": "m\u00b3",
+      "location": "RCC",
+      "description_raw": "Construct RCC column M30 concrete 25 cum for structural work at +5.0m level",
+      "confidence": 0.85,
+      "warnings": []
+    },
+    {
+      "item_no": 8,
+      "action": "supply",
+      "material": "Plaster",
+      "grade": "",
+      "dimension": "12mm",
+      "quantity": "250",
+      "unit": "m\u00b2",
+      "location": "",
+      "description_raw": "Plaster walls with 12mm thick cement plaster 250 sqm for interior finishing work",
+      "confidence": 0.85,
+      "warnings": []
+    }
+  ],
+  "texts": [
+    "Supply and install M25 grade RCC work 450 cum for raft foundation at basement level",
+    "Provide and lay 230mm thick brick masonry using Class A brickwork 1200 cum for external compound wall",
+    "Install GI pipe line 50mm diameter 150 running meter for water supply at ground floor",
+    "Supply TMT steel bars Fe500D 800 kg for reinforcement work at first floor slab",
+    "Apply waterproofing membrane 2mm thick 200 sqm on terrace area waterproofing work",
+    "Supply and fix 16mm thick tinted glass panels 75 sqm for glazing work at balcony",
+    "Construct RCC column M30 concrete 25 cum for structural work at +5.0m level",
+    "Plaster walls with 12mm thick cement plaster 250 sqm for interior finishing work"
+  ]
+}

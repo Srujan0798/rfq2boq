@@ -1,0 +1,207 @@
+{
+  "id": "syn_0129",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "finishes",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay M40 M30 concrete 8mm diameter  63  cum  4083  37671\n2  Supply Class 1 cement plaster 16mm thick  80  kg  3150  96015\n3  Provide and install GI conduit 10mm diameter  367  set  274  66392\n4  Provide and lay Fe500 TMT steel 200mm thick  311  ltr  2386  80920\n5  Supply and install Class B hollow block 150mm thick  451  ltr  1785  50719\n6  Lay PVC pipe  36  nos  312  80788\n7  Fix integral waterproofing 150 x 150mm  395  kg  3655  57039\n8  Lay flush door 10mm diameter  208  nos  4790  95269\n9  Provide and lay M40 PCC 20mm thick  93  ltr  224  37791\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications. Lay M40 M30 concrete 8mm diameter Supply Class 1 cement plaster 16mm thick Provide and install GI conduit 10mm diameter Provide and lay Fe500 TMT steel 200mm thick Supply and install Class B hollow block 150mm thick Lay PVC pipe Fix integral waterproofing 150 x 150mm Lay flush door 10mm diameter Provide and lay M40 PCC 20mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at compound wall for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay M40 M30 concrete 8mm diameter",
+        "63",
+        "cum",
+        "4083",
+        "37671"
+      ],
+      [
+        "2",
+        "Supply Class 1 cement plaster 16mm thick",
+        "80",
+        "kg",
+        "3150",
+        "96015"
+      ],
+      [
+        "3",
+        "Provide and install GI conduit 10mm diameter",
+        "367",
+        "set",
+        "274",
+        "66392"
+      ],
+      [
+        "4",
+        "Provide and lay Fe500 TMT steel 200mm thick",
+        "311",
+        "ltr",
+        "2386",
+        "80920"
+      ],
+      [
+        "5",
+        "Supply and install Class B hollow block 150mm thick",
+        "451",
+        "ltr",
+        "1785",
+        "50719"
+      ],
+      [
+        "6",
+        "Lay PVC pipe",
+        "36",
+        "nos",
+        "312",
+        "80788"
+      ],
+      [
+        "7",
+        "Fix integral waterproofing 150 x 150mm",
+        "395",
+        "kg",
+        "3655",
+        "57039"
+      ],
+      [
+        "8",
+        "Lay flush door 10mm diameter",
+        "208",
+        "nos",
+        "4790",
+        "95269"
+      ],
+      [
+        "9",
+        "Provide and lay M40 PCC 20mm thick",
+        "93",
+        "ltr",
+        "224",
+        "37791"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "M30 concrete",
+        "grade": "M40",
+        "dimension": "8mm diameter",
+        "quantity": 63,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "16mm thick",
+        "quantity": 80,
+        "unit": "kg",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 367,
+        "unit": "set",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "200mm thick",
+        "quantity": 311,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "150mm thick",
+        "quantity": 451,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 36,
+        "unit": "no.",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 395,
+        "unit": "kg",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Lay",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 208,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and lay",
+        "material": "PCC",
+        "grade": "M40",
+        "dimension": "20mm thick",
+        "quantity": 93,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

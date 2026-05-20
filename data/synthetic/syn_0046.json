@@ -1,0 +1,147 @@
+{
+  "id": "syn_0046",
+  "project_name": "Commercial Building at MG Road",
+  "category": "brickwork",
+  "text": "The scope of work includes fly ash brick, AAC block, hollow block for the Commercial Building at MG Road project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply Class 2 tile 200mm thick  234  nos  2907  24969\n2  Erect GI pipe 12mm diameter  243  nos  1466  15818\n3  Apply Class C AAC block  40  rmt  4054  75572\n4  Cast light fixture 300mm thick  204  ls  4098  15802\n5  Supply and install glass 100mm thick  42  nos  2871  69039\n6  Supply and lay M40 PCC 6mm diameter  231  kg  4673  81335\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes fly ash brick, AAC block, hollow block for the Commercial Building at MG Road project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Supply Class 2 tile 200mm thick Erect GI pipe 12mm diameter Apply Class C AAC block Cast light fixture 300mm thick Supply and install glass 100mm thick Supply and lay M40 PCC 6mm diameter",
+  "sections": {
+    "scope": "The scope of work includes fly ash brick, AAC block, hollow block for the Commercial Building at MG Road project located at interior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply Class 2 tile 200mm thick",
+        "234",
+        "nos",
+        "2907",
+        "24969"
+      ],
+      [
+        "2",
+        "Erect GI pipe 12mm diameter",
+        "243",
+        "nos",
+        "1466",
+        "15818"
+      ],
+      [
+        "3",
+        "Apply Class C AAC block",
+        "40",
+        "rmt",
+        "4054",
+        "75572"
+      ],
+      [
+        "4",
+        "Cast light fixture 300mm thick",
+        "204",
+        "ls",
+        "4098",
+        "15802"
+      ],
+      [
+        "5",
+        "Supply and install glass 100mm thick",
+        "42",
+        "nos",
+        "2871",
+        "69039"
+      ],
+      [
+        "6",
+        "Supply and lay M40 PCC 6mm diameter",
+        "231",
+        "kg",
+        "4673",
+        "81335"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "200mm thick",
+        "quantity": 234,
+        "unit": "no.",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Erect",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 243,
+        "unit": "no.",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 40,
+        "unit": "rmt",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 204,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 42,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "PCC",
+        "grade": "M40",
+        "dimension": "6mm diameter",
+        "quantity": 231,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

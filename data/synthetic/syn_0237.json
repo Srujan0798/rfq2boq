@@ -1,0 +1,187 @@
+{
+  "id": "syn_0237",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "doors_windows",
+  "text": "The work comprises glass, aluminum window, flush door for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect integral waterproofing 100 x 100mm  385  sqm  4472  4664\n2  Provide and fix Class B fly ash brick 16mm diameter  15  rmt  181  43816\n3  Install GI conduit  464  cum  3857  6122\n4  Provide and lay Fe500 GI sheet  293  cum  1567  36462\n5  Lay MS door  63  kg  437  44238\n6  Plaster Class 2 paint 12mm diameter  427  kg  968  73526\n7  Install M35 M30 concrete  131  cum  3135  2667\n8  Provide and install GI pipe 6mm diameter  33  ls  4951  79176\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises glass, aluminum window, flush door for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Erect integral waterproofing 100 x 100mm Provide and fix Class B fly ash brick 16mm diameter Install GI conduit Provide and lay Fe500 GI sheet Lay MS door Plaster Class 2 paint 12mm diameter Install M35 M30 concrete Provide and install GI pipe 6mm diameter",
+  "sections": {
+    "scope": "The work comprises glass, aluminum window, flush door for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect integral waterproofing 100 x 100mm",
+        "385",
+        "sqm",
+        "4472",
+        "4664"
+      ],
+      [
+        "2",
+        "Provide and fix Class B fly ash brick 16mm diameter",
+        "15",
+        "rmt",
+        "181",
+        "43816"
+      ],
+      [
+        "3",
+        "Install GI conduit",
+        "464",
+        "cum",
+        "3857",
+        "6122"
+      ],
+      [
+        "4",
+        "Provide and lay Fe500 GI sheet",
+        "293",
+        "cum",
+        "1567",
+        "36462"
+      ],
+      [
+        "5",
+        "Lay MS door",
+        "63",
+        "kg",
+        "437",
+        "44238"
+      ],
+      [
+        "6",
+        "Plaster Class 2 paint 12mm diameter",
+        "427",
+        "kg",
+        "968",
+        "73526"
+      ],
+      [
+        "7",
+        "Install M35 M30 concrete",
+        "131",
+        "cum",
+        "3135",
+        "2667"
+      ],
+      [
+        "8",
+        "Provide and install GI pipe 6mm diameter",
+        "33",
+        "ls",
+        "4951",
+        "79176"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 385,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "16mm diameter",
+        "quantity": 15,
+        "unit": "rmt",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 464,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 293,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 63,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "12mm diameter",
+        "quantity": 427,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "M30 concrete",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 131,
+        "unit": "m^3",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and install",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 33,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

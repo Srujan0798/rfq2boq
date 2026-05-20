@@ -1,0 +1,147 @@
+{
+  "id": "syn_0127",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "finishes",
+  "text": "The scope of work includes putty, cement plaster, tile for the Shopping Mall at Outer Ring Road project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster switch  383  set  4772  63093\n2  Provide and fix SWR pipe 10mm diameter  326  rmt  3181  10288\n3  Fix flush door  274  nos  1988  7747\n4  Provide and install Class A fly ash brick 25mm thick  430  nos  3031  9906\n5  Supply and lay membrane 16mm diameter  283  kg  3370  82087\n6  Apply Fe550 TMT steel 25mm thick  466  sqm  345  5230\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes putty, cement plaster, tile for the Shopping Mall at Outer Ring Road project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below. Plaster switch Provide and fix SWR pipe 10mm diameter Fix flush door Provide and install Class A fly ash brick 25mm thick Supply and lay membrane 16mm diameter Apply Fe550 TMT steel 25mm thick",
+  "sections": {
+    "scope": "The scope of work includes putty, cement plaster, tile for the Shopping Mall at Outer Ring Road project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster switch",
+        "383",
+        "set",
+        "4772",
+        "63093"
+      ],
+      [
+        "2",
+        "Provide and fix SWR pipe 10mm diameter",
+        "326",
+        "rmt",
+        "3181",
+        "10288"
+      ],
+      [
+        "3",
+        "Fix flush door",
+        "274",
+        "nos",
+        "1988",
+        "7747"
+      ],
+      [
+        "4",
+        "Provide and install Class A fly ash brick 25mm thick",
+        "430",
+        "nos",
+        "3031",
+        "9906"
+      ],
+      [
+        "5",
+        "Supply and lay membrane 16mm diameter",
+        "283",
+        "kg",
+        "3370",
+        "82087"
+      ],
+      [
+        "6",
+        "Apply Fe550 TMT steel 25mm thick",
+        "466",
+        "sqm",
+        "345",
+        "5230"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "switch",
+        "grade": "",
+        "dimension": "",
+        "quantity": 383,
+        "unit": "set",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 326,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 274,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and install",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "25mm thick",
+        "quantity": 430,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 283,
+        "unit": "kg",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "25mm thick",
+        "quantity": 466,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

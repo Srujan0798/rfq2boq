@@ -1,0 +1,147 @@
+{
+  "id": "syn_0288",
+  "project_name": "Commercial Building at MG Road",
+  "category": "piping",
+  "text": "The work comprises HDPE pipe, CI pipe, SWR pipe for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay GI pipe 10mm diameter  366  set  2695  29004\n2  Install brickbat coba  362  cum  2739  38409\n3  Fabricate and erect M35 M25 concrete 16mm diameter  343  ltr  524  92536\n4  Lay Fe500 rebar  36  cum  4490  63970\n5  Provide and lay Class A AAC block 200mm thick  115  sqm  1974  57771\n6  Supply and fix Class 2 paint 100mm thick  333  sqm  4593  11173\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises HDPE pipe, CI pipe, SWR pipe for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Provide and lay GI pipe 10mm diameter Install brickbat coba Fabricate and erect M35 M25 concrete 16mm diameter Lay Fe500 rebar Provide and lay Class A AAC block 200mm thick Supply and fix Class 2 paint 100mm thick",
+  "sections": {
+    "scope": "The work comprises HDPE pipe, CI pipe, SWR pipe for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay GI pipe 10mm diameter",
+        "366",
+        "set",
+        "2695",
+        "29004"
+      ],
+      [
+        "2",
+        "Install brickbat coba",
+        "362",
+        "cum",
+        "2739",
+        "38409"
+      ],
+      [
+        "3",
+        "Fabricate and erect M35 M25 concrete 16mm diameter",
+        "343",
+        "ltr",
+        "524",
+        "92536"
+      ],
+      [
+        "4",
+        "Lay Fe500 rebar",
+        "36",
+        "cum",
+        "4490",
+        "63970"
+      ],
+      [
+        "5",
+        "Provide and lay Class A AAC block 200mm thick",
+        "115",
+        "sqm",
+        "1974",
+        "57771"
+      ],
+      [
+        "6",
+        "Supply and fix Class 2 paint 100mm thick",
+        "333",
+        "sqm",
+        "4593",
+        "11173"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 366,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 362,
+        "unit": "m^3",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "M25 concrete",
+        "grade": "M35",
+        "dimension": "16mm diameter",
+        "quantity": 343,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 36,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "200mm thick",
+        "quantity": 115,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "paint",
+        "grade": "Class 2",
+        "dimension": "100mm thick",
+        "quantity": 333,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

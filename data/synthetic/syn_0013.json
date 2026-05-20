@@ -1,0 +1,227 @@
+{
+  "id": "syn_0013",
+  "project_name": "School Building at Electronic City",
+  "category": "finishes",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the School Building at Electronic City project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install brickbat coba 20mm thick  472  nos  2986  29705\n2  Plaster GI conduit 150mm thick  396  rmt  3711  5373\n3  Apply Fe500 rebar 150 x 150mm  77  sqm  3503  24021\n4  Fix Class 1 POP 25mm thick  286  ls  2205  64156\n5  Fix M30 M30 concrete 300mm thick  68  set  3355  74048\n6  Fix Class A fly ash brick  212  cum  3825  49311\n7  Install MS door  336  ls  3962  4280\n8  Supply SWR pipe 10mm diameter  322  kg  2575  86097\n9  Supply and fix DPC 12mm diameter  33  cum  896  31775\n10  Erect DB 8mm diameter  242  ls  1365  55379\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the School Building at Electronic City project. All work to be carried out as per specifications. Install brickbat coba 20mm thick Plaster GI conduit 150mm thick Apply Fe500 rebar 150 x 150mm Fix Class 1 POP 25mm thick Fix M30 M30 concrete 300mm thick Fix Class A fly ash brick Install MS door Supply SWR pipe 10mm diameter Supply and fix DPC 12mm diameter Erect DB 8mm diameter",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the School Building at Electronic City project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install brickbat coba 20mm thick",
+        "472",
+        "nos",
+        "2986",
+        "29705"
+      ],
+      [
+        "2",
+        "Plaster GI conduit 150mm thick",
+        "396",
+        "rmt",
+        "3711",
+        "5373"
+      ],
+      [
+        "3",
+        "Apply Fe500 rebar 150 x 150mm",
+        "77",
+        "sqm",
+        "3503",
+        "24021"
+      ],
+      [
+        "4",
+        "Fix Class 1 POP 25mm thick",
+        "286",
+        "ls",
+        "2205",
+        "64156"
+      ],
+      [
+        "5",
+        "Fix M30 M30 concrete 300mm thick",
+        "68",
+        "set",
+        "3355",
+        "74048"
+      ],
+      [
+        "6",
+        "Fix Class A fly ash brick",
+        "212",
+        "cum",
+        "3825",
+        "49311"
+      ],
+      [
+        "7",
+        "Install MS door",
+        "336",
+        "ls",
+        "3962",
+        "4280"
+      ],
+      [
+        "8",
+        "Supply SWR pipe 10mm diameter",
+        "322",
+        "kg",
+        "2575",
+        "86097"
+      ],
+      [
+        "9",
+        "Supply and fix DPC 12mm diameter",
+        "33",
+        "cum",
+        "896",
+        "31775"
+      ],
+      [
+        "10",
+        "Erect DB 8mm diameter",
+        "242",
+        "ls",
+        "1365",
+        "55379"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 472,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Plaster",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 396,
+        "unit": "rmt",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "150 x 150mm",
+        "quantity": 77,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fix",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "25mm thick",
+        "quantity": 286,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "300mm thick",
+        "quantity": 68,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 212,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 336,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 322,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and fix",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 33,
+        "unit": "m^3",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Erect",
+        "material": "DB",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 242,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

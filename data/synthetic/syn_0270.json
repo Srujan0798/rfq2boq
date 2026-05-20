@@ -1,0 +1,187 @@
+{
+  "id": "syn_0270",
+  "project_name": "Office Building at Manyata Tech Park",
+  "category": "finishes",
+  "text": "The work comprises tile, paint, POP for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay SWR pipe  309  sqm  2642  75310\n2  Supply and fix light fixture 12mm thick  393  cum  4396  51718\n3  Erect membrane  298  rmt  3361  10525\n4  Supply and fix glass 300mm thick  106  ls  1864  43023\n5  Install M35 PCC 10mm diameter  214  set  1634  49780\n6  Provide and lay Class 1 paint  72  kg  500  69584\n7  Install Fe550 structural steel 16mm diameter  136  sqm  1653  79576\n8  Supply and fix Class A brick masonry  216  cum  2472  39992\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises tile, paint, POP for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards. Provide and lay SWR pipe Supply and fix light fixture 12mm thick Erect membrane Supply and fix glass 300mm thick Install M35 PCC 10mm diameter Provide and lay Class 1 paint Install Fe550 structural steel 16mm diameter Supply and fix Class A brick masonry",
+  "sections": {
+    "scope": "The work comprises tile, paint, POP for the proposed Office Building at Manyata Tech Park. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay SWR pipe",
+        "309",
+        "sqm",
+        "2642",
+        "75310"
+      ],
+      [
+        "2",
+        "Supply and fix light fixture 12mm thick",
+        "393",
+        "cum",
+        "4396",
+        "51718"
+      ],
+      [
+        "3",
+        "Erect membrane",
+        "298",
+        "rmt",
+        "3361",
+        "10525"
+      ],
+      [
+        "4",
+        "Supply and fix glass 300mm thick",
+        "106",
+        "ls",
+        "1864",
+        "43023"
+      ],
+      [
+        "5",
+        "Install M35 PCC 10mm diameter",
+        "214",
+        "set",
+        "1634",
+        "49780"
+      ],
+      [
+        "6",
+        "Provide and lay Class 1 paint",
+        "72",
+        "kg",
+        "500",
+        "69584"
+      ],
+      [
+        "7",
+        "Install Fe550 structural steel 16mm diameter",
+        "136",
+        "sqm",
+        "1653",
+        "79576"
+      ],
+      [
+        "8",
+        "Supply and fix Class A brick masonry",
+        "216",
+        "cum",
+        "2472",
+        "39992"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 309,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 393,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 298,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 106,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "PCC",
+        "grade": "M35",
+        "dimension": "10mm diameter",
+        "quantity": 214,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and lay",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 72,
+        "unit": "kg",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "16mm diameter",
+        "quantity": 136,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and fix",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 216,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

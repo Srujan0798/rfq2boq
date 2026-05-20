@@ -1,0 +1,167 @@
+{
+  "id": "syn_0218",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "concrete",
+  "text": "Supply and installation of M25 concrete, M35 concrete, RCC for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect switch 16mm thick  64  sqm  3142  44557\n2  Cast flush door 12mm diameter  393  set  871  51032\n3  Fix brickbat coba 12mm diameter  405  ls  1869  9803\n4  Cast Class 2 putty 12mm diameter  492  rmt  4270  37190\n5  Install M30 M30 concrete 300mm thick  37  sqm  4005  22300\n6  Supply and fix GI pipe 300mm thick  292  kg  1973  18730\n7  Provide and lay Class A AAC block  55  nos  1831  96832\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of M25 concrete, M35 concrete, RCC for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Erect switch 16mm thick Cast flush door 12mm diameter Fix brickbat coba 12mm diameter Cast Class 2 putty 12mm diameter Install M30 M30 concrete 300mm thick Supply and fix GI pipe 300mm thick Provide and lay Class A AAC block",
+  "sections": {
+    "scope": "Supply and installation of M25 concrete, M35 concrete, RCC for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect switch 16mm thick",
+        "64",
+        "sqm",
+        "3142",
+        "44557"
+      ],
+      [
+        "2",
+        "Cast flush door 12mm diameter",
+        "393",
+        "set",
+        "871",
+        "51032"
+      ],
+      [
+        "3",
+        "Fix brickbat coba 12mm diameter",
+        "405",
+        "ls",
+        "1869",
+        "9803"
+      ],
+      [
+        "4",
+        "Cast Class 2 putty 12mm diameter",
+        "492",
+        "rmt",
+        "4270",
+        "37190"
+      ],
+      [
+        "5",
+        "Install M30 M30 concrete 300mm thick",
+        "37",
+        "sqm",
+        "4005",
+        "22300"
+      ],
+      [
+        "6",
+        "Supply and fix GI pipe 300mm thick",
+        "292",
+        "kg",
+        "1973",
+        "18730"
+      ],
+      [
+        "7",
+        "Provide and lay Class A AAC block",
+        "55",
+        "nos",
+        "1831",
+        "96832"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "switch",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 64,
+        "unit": "m^2",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 393,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 405,
+        "unit": "ls",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "12mm diameter",
+        "quantity": 492,
+        "unit": "rmt",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "300mm thick",
+        "quantity": 37,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 292,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and lay",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 55,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

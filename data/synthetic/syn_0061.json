@@ -1,0 +1,247 @@
+{
+  "id": "syn_0061",
+  "project_name": "IT Park Phase 2",
+  "category": "doors_windows",
+  "text": "The scope of work includes glass, MS door, flush door for the IT Park Phase 2 project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay Fe500 MS plate 16mm thick  111  set  4394  33275\n2  Provide and lay membrane 200mm thick  407  ltr  3488  56514\n3  Provide and install Class B fly ash brick 100mm thick  174  ls  1486  46838\n4  Fabricate and erect glass  32  kg  1377  96484\n5  Apply cable 300mm thick  37  kg  212  45993\n6  Fabricate and erect Class 2 cement plaster 16mm thick  251  cum  4576  69585\n7  Fabricate and erect M40 M30 concrete 100mm thick  328  rmt  4875  87969\n8  Provide and lay SWR pipe  97  cum  2322  7957\n9  Supply and install Fe550 GI sheet 200 x 200mm  44  ltr  256  39337\n10  Erect DPC 12mm diameter  270  sqm  4454  12537\n11  Lay Class A AAC block  244  cum  2597  44721\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes glass, MS door, flush door for the IT Park Phase 2 project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below. Lay Fe500 MS plate 16mm thick Provide and lay membrane 200mm thick Provide and install Class B fly ash brick 100mm thick Fabricate and erect glass Apply cable 300mm thick Fabricate and erect Class 2 cement plaster 16mm thick Fabricate and erect M40 M30 concrete 100mm thick Provide and lay SWR pipe Supply and install Fe550 GI sheet 200 x 200mm Erect DPC 12mm diameter Lay Class A AAC block",
+  "sections": {
+    "scope": "The scope of work includes glass, MS door, flush door for the IT Park Phase 2 project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay Fe500 MS plate 16mm thick",
+        "111",
+        "set",
+        "4394",
+        "33275"
+      ],
+      [
+        "2",
+        "Provide and lay membrane 200mm thick",
+        "407",
+        "ltr",
+        "3488",
+        "56514"
+      ],
+      [
+        "3",
+        "Provide and install Class B fly ash brick 100mm thick",
+        "174",
+        "ls",
+        "1486",
+        "46838"
+      ],
+      [
+        "4",
+        "Fabricate and erect glass",
+        "32",
+        "kg",
+        "1377",
+        "96484"
+      ],
+      [
+        "5",
+        "Apply cable 300mm thick",
+        "37",
+        "kg",
+        "212",
+        "45993"
+      ],
+      [
+        "6",
+        "Fabricate and erect Class 2 cement plaster 16mm thick",
+        "251",
+        "cum",
+        "4576",
+        "69585"
+      ],
+      [
+        "7",
+        "Fabricate and erect M40 M30 concrete 100mm thick",
+        "328",
+        "rmt",
+        "4875",
+        "87969"
+      ],
+      [
+        "8",
+        "Provide and lay SWR pipe",
+        "97",
+        "cum",
+        "2322",
+        "7957"
+      ],
+      [
+        "9",
+        "Supply and install Fe550 GI sheet 200 x 200mm",
+        "44",
+        "ltr",
+        "256",
+        "39337"
+      ],
+      [
+        "10",
+        "Erect DPC 12mm diameter",
+        "270",
+        "sqm",
+        "4454",
+        "12537"
+      ],
+      [
+        "11",
+        "Lay Class A AAC block",
+        "244",
+        "cum",
+        "2597",
+        "44721"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "16mm thick",
+        "quantity": 111,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 407,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "100mm thick",
+        "quantity": 174,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 32,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "cable",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 37,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fabricate and erect",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "16mm thick",
+        "quantity": 251,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fabricate and erect",
+        "material": "M30 concrete",
+        "grade": "M40",
+        "dimension": "100mm thick",
+        "quantity": 328,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and lay",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 97,
+        "unit": "m^3",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "200 x 200mm",
+        "quantity": 44,
+        "unit": "ltr",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Erect",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 270,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Lay",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 244,
+        "unit": "m^3",
+        "standard": [
+          "IS 12894"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

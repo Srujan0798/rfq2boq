@@ -1,0 +1,207 @@
+{
+  "id": "syn_0121",
+  "project_name": "Warehouse at Peenya",
+  "category": "concrete",
+  "text": "The scope of work includes M35 concrete, M20 concrete, RCC for the Warehouse at Peenya project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Erect light fixture 230mm thick  162  set  941  4838\n2  Install Fe415 MS plate  15  rmt  3669  30667\n3  Provide and install aluminum window 100mm thick  380  ls  2227  6646\n4  Provide and lay M20 M20 concrete 6mm diameter  48  nos  1495  19056\n5  Supply and lay Class 2 putty 8mm diameter  74  ls  3760  88586\n6  Cast brickbat coba 150 x 150mm  254  set  4054  30600\n7  Fix Class B brick masonry 20mm thick  161  sqm  1786  92090\n8  Fabricate and erect GI pipe  40  kg  3935  51470\n9  Supply and lay GI conduit 16mm diameter  184  kg  2667  41871\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes M35 concrete, M20 concrete, RCC for the Warehouse at Peenya project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below. Erect light fixture 230mm thick Install Fe415 MS plate Provide and install aluminum window 100mm thick Provide and lay M20 M20 concrete 6mm diameter Supply and lay Class 2 putty 8mm diameter Cast brickbat coba 150 x 150mm Fix Class B brick masonry 20mm thick Fabricate and erect GI pipe Supply and lay GI conduit 16mm diameter",
+  "sections": {
+    "scope": "The scope of work includes M35 concrete, M20 concrete, RCC for the Warehouse at Peenya project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Erect light fixture 230mm thick",
+        "162",
+        "set",
+        "941",
+        "4838"
+      ],
+      [
+        "2",
+        "Install Fe415 MS plate",
+        "15",
+        "rmt",
+        "3669",
+        "30667"
+      ],
+      [
+        "3",
+        "Provide and install aluminum window 100mm thick",
+        "380",
+        "ls",
+        "2227",
+        "6646"
+      ],
+      [
+        "4",
+        "Provide and lay M20 M20 concrete 6mm diameter",
+        "48",
+        "nos",
+        "1495",
+        "19056"
+      ],
+      [
+        "5",
+        "Supply and lay Class 2 putty 8mm diameter",
+        "74",
+        "ls",
+        "3760",
+        "88586"
+      ],
+      [
+        "6",
+        "Cast brickbat coba 150 x 150mm",
+        "254",
+        "set",
+        "4054",
+        "30600"
+      ],
+      [
+        "7",
+        "Fix Class B brick masonry 20mm thick",
+        "161",
+        "sqm",
+        "1786",
+        "92090"
+      ],
+      [
+        "8",
+        "Fabricate and erect GI pipe",
+        "40",
+        "kg",
+        "3935",
+        "51470"
+      ],
+      [
+        "9",
+        "Supply and lay GI conduit 16mm diameter",
+        "184",
+        "kg",
+        "2667",
+        "41871"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Erect",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 162,
+        "unit": "set",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 15,
+        "unit": "rmt",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 380,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "M20 concrete",
+        "grade": "M20",
+        "dimension": "6mm diameter",
+        "quantity": 48,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "8mm diameter",
+        "quantity": 74,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 254,
+        "unit": "set",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "20mm thick",
+        "quantity": 161,
+        "unit": "m^2",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fabricate and erect",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 40,
+        "unit": "kg",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 184,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

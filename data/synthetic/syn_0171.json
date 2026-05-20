@@ -1,0 +1,187 @@
+{
+  "id": "syn_0171",
+  "project_name": "Commercial Building at MG Road",
+  "category": "steel",
+  "text": "The work comprises structural steel, GI sheet, MS plate for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster PVC pipe 12mm diameter  289  ls  1619  77299\n2  Lay Class 1 paint  30  kg  1191  98863\n3  Provide and fix light fixture  40  cum  2278  77752\n4  Supply flush door 20mm thick  425  rmt  1849  25728\n5  Fabricate and erect Fe500 GI sheet  119  sqm  4535  10295\n6  Install membrane 200mm thick  271  rmt  4305  10514\n7  Provide and install M25 PCC 200 x 200mm  330  ltr  2250  54266\n8  Supply and install Class B brick masonry 100mm thick  455  ls  3161  52219\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises structural steel, GI sheet, MS plate for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Plaster PVC pipe 12mm diameter Lay Class 1 paint Provide and fix light fixture Supply flush door 20mm thick Fabricate and erect Fe500 GI sheet Install membrane 200mm thick Provide and install M25 PCC 200 x 200mm Supply and install Class B brick masonry 100mm thick",
+  "sections": {
+    "scope": "The work comprises structural steel, GI sheet, MS plate for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster PVC pipe 12mm diameter",
+        "289",
+        "ls",
+        "1619",
+        "77299"
+      ],
+      [
+        "2",
+        "Lay Class 1 paint",
+        "30",
+        "kg",
+        "1191",
+        "98863"
+      ],
+      [
+        "3",
+        "Provide and fix light fixture",
+        "40",
+        "cum",
+        "2278",
+        "77752"
+      ],
+      [
+        "4",
+        "Supply flush door 20mm thick",
+        "425",
+        "rmt",
+        "1849",
+        "25728"
+      ],
+      [
+        "5",
+        "Fabricate and erect Fe500 GI sheet",
+        "119",
+        "sqm",
+        "4535",
+        "10295"
+      ],
+      [
+        "6",
+        "Install membrane 200mm thick",
+        "271",
+        "rmt",
+        "4305",
+        "10514"
+      ],
+      [
+        "7",
+        "Provide and install M25 PCC 200 x 200mm",
+        "330",
+        "ltr",
+        "2250",
+        "54266"
+      ],
+      [
+        "8",
+        "Supply and install Class B brick masonry 100mm thick",
+        "455",
+        "ls",
+        "3161",
+        "52219"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 289,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 30,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "",
+        "quantity": 40,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 425,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 119,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 271,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "PCC",
+        "grade": "M25",
+        "dimension": "200 x 200mm",
+        "quantity": 330,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and install",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "100mm thick",
+        "quantity": 455,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

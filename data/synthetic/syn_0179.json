@@ -1,0 +1,207 @@
+{
+  "id": "syn_0179",
+  "project_name": "Hotel at Airport Road",
+  "category": "concrete",
+  "text": "Supply and installation of M25 concrete, M35 concrete, PCC for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install Fe550 GI sheet 16mm diameter  143  rmt  4166  80493\n2  Supply and install Class 2 POP 12mm diameter  211  ls  3038  67699\n3  Plaster MS door 20mm thick  371  ltr  2775  28596\n4  Supply and fix Class B AAC block  370  rmt  4914  16429\n5  Fabricate and erect M20 M25 concrete 100 x 100mm  74  rmt  2721  76926\n6  Erect membrane 100 x 100mm  219  sqm  1818  63026\n7  Supply and fix cable 150mm thick  210  kg  2165  52060\n8  Fabricate and erect PVC pipe 150 x 150mm  347  ltr  1188  43848\n9  Provide and fix Fe550 GI sheet  500  rmt  2152  55499\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of M25 concrete, M35 concrete, PCC for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install Fe550 GI sheet 16mm diameter Supply and install Class 2 POP 12mm diameter Plaster MS door 20mm thick Supply and fix Class B AAC block Fabricate and erect M20 M25 concrete 100 x 100mm Erect membrane 100 x 100mm Supply and fix cable 150mm thick Fabricate and erect PVC pipe 150 x 150mm Provide and fix Fe550 GI sheet",
+  "sections": {
+    "scope": "Supply and installation of M25 concrete, M35 concrete, PCC for Hotel at Airport Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install Fe550 GI sheet 16mm diameter",
+        "143",
+        "rmt",
+        "4166",
+        "80493"
+      ],
+      [
+        "2",
+        "Supply and install Class 2 POP 12mm diameter",
+        "211",
+        "ls",
+        "3038",
+        "67699"
+      ],
+      [
+        "3",
+        "Plaster MS door 20mm thick",
+        "371",
+        "ltr",
+        "2775",
+        "28596"
+      ],
+      [
+        "4",
+        "Supply and fix Class B AAC block",
+        "370",
+        "rmt",
+        "4914",
+        "16429"
+      ],
+      [
+        "5",
+        "Fabricate and erect M20 M25 concrete 100 x 100mm",
+        "74",
+        "rmt",
+        "2721",
+        "76926"
+      ],
+      [
+        "6",
+        "Erect membrane 100 x 100mm",
+        "219",
+        "sqm",
+        "1818",
+        "63026"
+      ],
+      [
+        "7",
+        "Supply and fix cable 150mm thick",
+        "210",
+        "kg",
+        "2165",
+        "52060"
+      ],
+      [
+        "8",
+        "Fabricate and erect PVC pipe 150 x 150mm",
+        "347",
+        "ltr",
+        "1188",
+        "43848"
+      ],
+      [
+        "9",
+        "Provide and fix Fe550 GI sheet",
+        "500",
+        "rmt",
+        "2152",
+        "55499"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "16mm diameter",
+        "quantity": 143,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "12mm diameter",
+        "quantity": 211,
+        "unit": "ls",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 371,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 370,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "100 x 100mm",
+        "quantity": 74,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 219,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 210,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fabricate and erect",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 347,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "GI sheet",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 500,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

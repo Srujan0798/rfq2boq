@@ -1,0 +1,38 @@
+Supply and installation of GI sheet, TMT steel, structural steel for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and install Class A hollow block  310  sqm  426  8925
+2  Provide and lay M40 M35 concrete 6mm diameter  331  ltr  4495  71471
+3  Supply and lay membrane 16mm thick  168  sqm  4494  43827
+4  Provide and lay light fixture 20mm thick  367  ltr  2102  12300
+5  Fabricate and erect CI pipe 12mm thick  323  cum  203  93785
+6  Supply and fix Class 1 POP 25mm thick  264  ls  3146  17637
+7  Supply Fe550 structural steel 8mm diameter  70  cum  4391  9371
+8  Fabricate and erect MS door  243  ls  3112  21618
+9  Supply Class A fly ash brick  303  sqm  121  6772
+10  Supply and install M25 M20 concrete 300mm thick  251  ls  389  73465
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

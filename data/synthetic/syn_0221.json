@@ -1,0 +1,127 @@
+{
+  "id": "syn_0221",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "brickwork",
+  "text": "The work comprises fly ash brick, AAC block, brick masonry for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply Class 1 POP 6mm diameter  169  sqm  1907  27347\n2  Fix Fe500 rebar 100 x 100mm  132  rmt  1629  48924\n3  Lay Class B brick masonry  130  kg  384  91377\n4  Supply and lay M20 M25 concrete 16mm diameter  371  ls  3423  4668\n5  Provide and fix integral waterproofing 6mm diameter  452  set  4717  89491\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises fly ash brick, AAC block, brick masonry for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards. Apply Class 1 POP 6mm diameter Fix Fe500 rebar 100 x 100mm Lay Class B brick masonry Supply and lay M20 M25 concrete 16mm diameter Provide and fix integral waterproofing 6mm diameter",
+  "sections": {
+    "scope": "The work comprises fly ash brick, AAC block, brick masonry for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply Class 1 POP 6mm diameter",
+        "169",
+        "sqm",
+        "1907",
+        "27347"
+      ],
+      [
+        "2",
+        "Fix Fe500 rebar 100 x 100mm",
+        "132",
+        "rmt",
+        "1629",
+        "48924"
+      ],
+      [
+        "3",
+        "Lay Class B brick masonry",
+        "130",
+        "kg",
+        "384",
+        "91377"
+      ],
+      [
+        "4",
+        "Supply and lay M20 M25 concrete 16mm diameter",
+        "371",
+        "ls",
+        "3423",
+        "4668"
+      ],
+      [
+        "5",
+        "Provide and fix integral waterproofing 6mm diameter",
+        "452",
+        "set",
+        "4717",
+        "89491"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "6mm diameter",
+        "quantity": 169,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "100 x 100mm",
+        "quantity": 132,
+        "unit": "rmt",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 130,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "16mm diameter",
+        "quantity": 371,
+        "unit": "ls",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 452,
+        "unit": "set",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

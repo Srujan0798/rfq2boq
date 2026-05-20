@@ -1,0 +1,33 @@
+The scope of work includes CI pipe, GI pipe, PVC pipe for the Hospital Building at Hebbal project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Fabricate and erect SWR pipe 16mm thick  390  sqm  1784  41600
+2  Supply and fix DPC 16mm diameter  319  nos  3859  37102
+3  Supply and fix M20 M25 concrete 20mm thick  238  sqm  2794  75609
+4  Fabricate and erect Fe500 GI sheet 100 x 100mm  304  cum  3838  46453
+5  Cast MS door 12mm thick  431  rmt  3850  51418
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

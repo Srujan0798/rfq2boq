@@ -1,0 +1,247 @@
+{
+  "id": "syn_0028",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "concrete",
+  "text": "The scope of work includes PCC, M30 concrete, RCC for the Apartment Block at HSR Layout project located at ground floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install Class 2 putty 200mm thick  191  nos  3426  61161\n2  Apply DB 200mm thick  125  nos  359  13255\n3  Erect glass  292  set  1503  11837\n4  Plaster Fe500 GI sheet 230mm thick  411  ls  448  31115\n5  Provide and lay PVC pipe 25mm thick  33  sqm  4716  87259\n6  Supply brickbat coba  445  ls  4908  19899\n7  Supply M35 RCC  49  nos  4742  52007\n8  Fix Class B fly ash brick 200mm thick  388  rmt  2933  8038\n9  Provide and install Class 2 cement plaster 6mm diameter  439  sqm  342  84115\n10  Fabricate and erect switch 6mm diameter  126  ls  1621  90088\n11  Fix glass 200mm thick  326  nos  2295  21214\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes PCC, M30 concrete, RCC for the Apartment Block at HSR Layout project located at ground floor. The contractor shall supply all materials and execute the works as per the specifications given below. Install Class 2 putty 200mm thick Apply DB 200mm thick Erect glass Plaster Fe500 GI sheet 230mm thick Provide and lay PVC pipe 25mm thick Supply brickbat coba Supply M35 RCC Fix Class B fly ash brick 200mm thick Provide and install Class 2 cement plaster 6mm diameter Fabricate and erect switch 6mm diameter Fix glass 200mm thick",
+  "sections": {
+    "scope": "The scope of work includes PCC, M30 concrete, RCC for the Apartment Block at HSR Layout project located at ground floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install Class 2 putty 200mm thick",
+        "191",
+        "nos",
+        "3426",
+        "61161"
+      ],
+      [
+        "2",
+        "Apply DB 200mm thick",
+        "125",
+        "nos",
+        "359",
+        "13255"
+      ],
+      [
+        "3",
+        "Erect glass",
+        "292",
+        "set",
+        "1503",
+        "11837"
+      ],
+      [
+        "4",
+        "Plaster Fe500 GI sheet 230mm thick",
+        "411",
+        "ls",
+        "448",
+        "31115"
+      ],
+      [
+        "5",
+        "Provide and lay PVC pipe 25mm thick",
+        "33",
+        "sqm",
+        "4716",
+        "87259"
+      ],
+      [
+        "6",
+        "Supply brickbat coba",
+        "445",
+        "ls",
+        "4908",
+        "19899"
+      ],
+      [
+        "7",
+        "Supply M35 RCC",
+        "49",
+        "nos",
+        "4742",
+        "52007"
+      ],
+      [
+        "8",
+        "Fix Class B fly ash brick 200mm thick",
+        "388",
+        "rmt",
+        "2933",
+        "8038"
+      ],
+      [
+        "9",
+        "Provide and install Class 2 cement plaster 6mm diameter",
+        "439",
+        "sqm",
+        "342",
+        "84115"
+      ],
+      [
+        "10",
+        "Fabricate and erect switch 6mm diameter",
+        "126",
+        "ls",
+        "1621",
+        "90088"
+      ],
+      [
+        "11",
+        "Fix glass 200mm thick",
+        "326",
+        "nos",
+        "2295",
+        "21214"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "200mm thick",
+        "quantity": 191,
+        "unit": "no.",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Apply",
+        "material": "DB",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 125,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 292,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "230mm thick",
+        "quantity": 411,
+        "unit": "ls",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 33,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 445,
+        "unit": "ls",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "RCC",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 49,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "200mm thick",
+        "quantity": 388,
+        "unit": "rmt",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and install",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "6mm diameter",
+        "quantity": 439,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fabricate and erect",
+        "material": "switch",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 126,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 326,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

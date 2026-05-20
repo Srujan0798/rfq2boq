@@ -1,0 +1,247 @@
+{
+  "id": "syn_0068",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "brickwork",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Hospital Building at Hebbal project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply Class 1 cement plaster 300mm thick  463  set  1224  85180\n2  Supply DPC 10mm diameter  413  ltr  3574  73358\n3  Provide and fix M35 M35 concrete 100mm thick  125  rmt  4180  96802\n4  Erect PVC pipe  484  ls  4754  64342\n5  Cast Fe415 structural steel  256  sqm  4412  99380\n6  Lay MS door  50  sqm  4517  76973\n7  Supply switch 16mm diameter  185  cum  4801  97182\n8  Provide and fix Class B fly ash brick  418  nos  4995  99228\n9  Supply and install Class 2 tile 150mm thick  332  set  2490  97649\n10  Fabricate and erect brickbat coba 25mm thick  52  rmt  1185  81713\n11  Install M30 M30 concrete 12mm thick  141  cum  1338  87396\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Hospital Building at Hebbal project. All work to be carried out as per specifications. Apply Class 1 cement plaster 300mm thick Supply DPC 10mm diameter Provide and fix M35 M35 concrete 100mm thick Erect PVC pipe Cast Fe415 structural steel Lay MS door Supply switch 16mm diameter Provide and fix Class B fly ash brick Supply and install Class 2 tile 150mm thick Fabricate and erect brickbat coba 25mm thick Install M30 M30 concrete 12mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Hospital Building at Hebbal project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply Class 1 cement plaster 300mm thick",
+        "463",
+        "set",
+        "1224",
+        "85180"
+      ],
+      [
+        "2",
+        "Supply DPC 10mm diameter",
+        "413",
+        "ltr",
+        "3574",
+        "73358"
+      ],
+      [
+        "3",
+        "Provide and fix M35 M35 concrete 100mm thick",
+        "125",
+        "rmt",
+        "4180",
+        "96802"
+      ],
+      [
+        "4",
+        "Erect PVC pipe",
+        "484",
+        "ls",
+        "4754",
+        "64342"
+      ],
+      [
+        "5",
+        "Cast Fe415 structural steel",
+        "256",
+        "sqm",
+        "4412",
+        "99380"
+      ],
+      [
+        "6",
+        "Lay MS door",
+        "50",
+        "sqm",
+        "4517",
+        "76973"
+      ],
+      [
+        "7",
+        "Supply switch 16mm diameter",
+        "185",
+        "cum",
+        "4801",
+        "97182"
+      ],
+      [
+        "8",
+        "Provide and fix Class B fly ash brick",
+        "418",
+        "nos",
+        "4995",
+        "99228"
+      ],
+      [
+        "9",
+        "Supply and install Class 2 tile 150mm thick",
+        "332",
+        "set",
+        "2490",
+        "97649"
+      ],
+      [
+        "10",
+        "Fabricate and erect brickbat coba 25mm thick",
+        "52",
+        "rmt",
+        "1185",
+        "81713"
+      ],
+      [
+        "11",
+        "Install M30 M30 concrete 12mm thick",
+        "141",
+        "cum",
+        "1338",
+        "87396"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "300mm thick",
+        "quantity": 463,
+        "unit": "set",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 413,
+        "unit": "ltr",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "100mm thick",
+        "quantity": 125,
+        "unit": "rmt",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 484,
+        "unit": "ls",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 256,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 50,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "switch",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 185,
+        "unit": "m^3",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Provide and fix",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 418,
+        "unit": "no.",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "150mm thick",
+        "quantity": 332,
+        "unit": "set",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fabricate and erect",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 52,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Install",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "12mm thick",
+        "quantity": 141,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

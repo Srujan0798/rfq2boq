@@ -1,0 +1,127 @@
+{
+  "id": "syn_0147",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "electrical",
+  "text": "The scope of work includes DB, cable, switch for the Apartment Block at HSR Layout project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast cable 16mm diameter  57  sqm  4801  62400\n2  Fix aluminum window 10mm diameter  360  ltr  1346  86254\n3  Supply and fix Fe415 structural steel 8mm diameter  341  ls  3388  76332\n4  Cast Class 1 tile  434  ltr  2740  56987\n5  Install Class B AAC block 16mm thick  124  ls  3005  94703\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes DB, cable, switch for the Apartment Block at HSR Layout project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Cast cable 16mm diameter Fix aluminum window 10mm diameter Supply and fix Fe415 structural steel 8mm diameter Cast Class 1 tile Install Class B AAC block 16mm thick",
+  "sections": {
+    "scope": "The scope of work includes DB, cable, switch for the Apartment Block at HSR Layout project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast cable 16mm diameter",
+        "57",
+        "sqm",
+        "4801",
+        "62400"
+      ],
+      [
+        "2",
+        "Fix aluminum window 10mm diameter",
+        "360",
+        "ltr",
+        "1346",
+        "86254"
+      ],
+      [
+        "3",
+        "Supply and fix Fe415 structural steel 8mm diameter",
+        "341",
+        "ls",
+        "3388",
+        "76332"
+      ],
+      [
+        "4",
+        "Cast Class 1 tile",
+        "434",
+        "ltr",
+        "2740",
+        "56987"
+      ],
+      [
+        "5",
+        "Install Class B AAC block 16mm thick",
+        "124",
+        "ls",
+        "3005",
+        "94703"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "cable",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 57,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fix",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 360,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "8mm diameter",
+        "quantity": 341,
+        "unit": "ls",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 434,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "16mm thick",
+        "quantity": 124,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

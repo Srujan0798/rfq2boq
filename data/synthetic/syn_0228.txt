@@ -1,0 +1,39 @@
+Items described in the Bill of Quantities are to be supplied and installed at terrace for the School Building at Electronic City project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Provide and lay Fe550 structural steel 100 x 100mm  412  sqm  1093  52841
+2  Cast M40 PCC 25mm thick  135  kg  4837  60099
+3  Cast switch 25mm thick  461  nos  4407  89607
+4  Supply and fix SWR pipe 16mm diameter  124  cum  1151  80356
+5  Cast glass  352  nos  948  2045
+6  Supply and install DPC  363  rmt  455  63774
+7  Supply Class B fly ash brick  446  ls  3481  49567
+8  Fix Class 2 tile 300mm thick  309  rmt  2102  2331
+9  Provide and lay Fe500 TMT steel 6mm diameter  300  ltr  1315  95835
+10  Cast M25 PCC  37  cum  3014  14977
+11  Provide and install GI conduit 6mm diameter  385  set  4431  93665
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

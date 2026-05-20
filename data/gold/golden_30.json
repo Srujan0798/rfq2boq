@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1,
+    "input_text": "Supply and install 450 cum of M25 grade RCC work for raft foundation as per IS 456:2000",
+    "expected_entities": [
+      {"text": "Supply", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "install", "label": "ACTION", "start": 11, "end": 18},
+      {"text": "450", "label": "QUANTITY", "start": 19, "end": 22},
+      {"text": "cum", "label": "UNIT", "start": 23, "end": 26},
+      {"text": "M25", "label": "GRADE", "start": 32, "end": 35},
+      {"text": "RCC work", "label": "MATERIAL", "start": 41, "end": 49},
+      {"text": "raft foundation", "label": "LOCATION", "start": 58, "end": 72},
+      {"text": "IS 456", "label": "STANDARD", "start": 80, "end": 86}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "RCC work", "tail": "450"},
+      {"type": "HAS_UNIT", "head": "450", "tail": "cum"},
+      {"type": "OF_GRADE", "head": "RCC work", "tail": "M25"},
+      {"type": "AT_LOCATION", "head": "RCC work", "tail": "raft foundation"},
+      {"type": "COMPLIES_WITH", "head": "RCC work", "tail": "IS 456"}
+    ],
+    "expected_boq_count": 1,
+    "category": "concrete_work"
+  },
+  {
+    "id": 2,
+    "input_text": "Provide and lay M30 grade plain cement concrete 200 cum for basement slab as per IS 456",
+    "expected_entities": [
+      {"text": "Provide", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "lay", "label": "ACTION", "start": 11, "end": 14},
+      {"text": "M30", "label": "GRADE", "start": 15, "end": 18},
+      {"text": "plain cement concrete", "label": "MATERIAL", "start": 19, "end": 40},
+      {"text": "200", "label": "QUANTITY", "start": 41, "end": 44},
+      {"text": "cum", "label": "UNIT", "start": 45, "end": 48},
+      {"text": "basement slab", "label": "LOCATION", "start": 52, "end": 64},
+      {"text": "IS 456", "label": "STANDARD", "start": 70, "end": 76}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "plain cement concrete", "tail": "200"},
+      {"type": "OF_GRADE", "head": "plain cement concrete", "tail": "M30"},
+      {"type": "AT_LOCATION", "head": "plain cement concrete", "tail": "basement slab"},
+      {"type": "COMPLIES_WITH", "head": "plain cement concrete", "tail": "IS 456"}
+    ],
+    "expected_boq_count": 1,
+    "category": "concrete_work"
+  },
+  {
+    "id": 3,
+    "input_text": "Construct M40 grade RCC column 25 cum for +5.0m level structure as per IS 456:2000",
+    "expected_entities": [
+      {"text": "Construct", "label": "ACTION", "start": 0, "end": 9},
+      {"text": "M40", "label": "GRADE", "start": 10, "end": 13},
+      {"text": "RCC column", "label": "MATERIAL", "start": 18, "end": 28},
+      {"text": "25", "label": "QUANTITY", "start": 29, "end": 31},
+      {"text": "cum", "label": "UNIT", "start": 32, "end": 35},
+      {"text": "+5.0m level", "label": "LOCATION", "start": 41, "end": 50},
+      {"text": "IS 456", "label": "STANDARD", "start": 59, "end": 65}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "RCC column", "tail": "25"},
+      {"type": "OF_GRADE", "head": "RCC column", "tail": "M40"},
+      {"type": "AT_LOCATION", "head": "RCC column", "tail": "+5.0m level"}
+    ],
+    "expected_boq_count": 1,
+    "category": "concrete_work"
+  },
+  {
+    "id": 4,
+    "input_text": "Supply TMT steel bars Fe500D 800 kg for beam reinforcement at first floor as per IS 1786",
+    "expected_entities": [
+      {"text": "Supply", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "TMT steel bars", "label": "MATERIAL", "start": 11, "end": 24},
+      {"text": "Fe500D", "label": "GRADE", "start": 25, "end": 31},
+      {"text": "800", "label": "QUANTITY", "start": 32, "end": 35},
+      {"text": "kg", "label": "UNIT", "start": 36, "end": 38},
+      {"text": "beam reinforcement", "label": "LOCATION", "start": 45, "end": 62},
+      {"text": "first floor", "label": "LOCATION", "start": 66, "end": 76},
+      {"text": "IS 1786", "label": "STANDARD", "start": 82, "end": 89}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "TMT steel bars", "tail": "800"},
+      {"type": "HAS_UNIT", "head": "800", "tail": "kg"},
+      {"type": "OF_GRADE", "head": "TMT steel bars", "tail": "Fe500D"},
+      {"type": "AT_LOCATION", "head": "TMT steel bars", "tail": "first floor"}
+    ],
+    "expected_boq_count": 1,
+    "category": "steel_reinforcement"
+  },
+  {
+    "id": 5,
+    "input_text": "Provide Fe415 grade MS bars 500 kg for slab reinforcement at +3.0m level as per IS 1786",
+    "expected_entities": [
+      {"text": "Provide", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "Fe415", "label": "GRADE", "start": 7, "end": 12},
+      {"text": "MS bars", "label": "MATERIAL", "start": 13, "end": 20},
+      {"text": "500", "label": "QUANTITY", "start": 21, "end": 24},
+      {"text": "kg", "label": "UNIT", "start": 25, "end": 27},
+      {"text": "slab reinforcement", "label": "LOCATION", "start": 33, "end": 49},
+      {"text": "+3.0m level", "label": "LOCATION", "start": 53, "end": 62},
+      {"text": "IS 1786", "label": "STANDARD", "start": 68, "end": 75}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "MS bars", "tail": "500"},
+      {"type": "OF_GRADE", "head": "MS bars", "tail": "Fe415"},
+      {"type": "AT_LOCATION", "head": "MS bars", "tail": "+3.0m level"}
+    ],
+    "expected_boq_count": 1,
+    "category": "steel_reinforcement"
+  },
+  {
+    "id": 6,
+    "input_text": "Supply and fix structural steel sections ISMC 150 250 kg for portal frame at roof level",
+    "expected_entities": [
+      {"text": "Supply", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "fix", "label": "ACTION", "start": 11, "end": 14},
+      {"text": "structural steel", "label": "MATERIAL", "start": 15, "end": 31},
+      {"text": "ISMC 150", "label": "STANDARD", "start": 32, "end": 40},
+      {"text": "250", "label": "QUANTITY", "start": 41, "end": 44},
+      {"text": "kg", "label": "UNIT", "start": 45, "end": 47},
+      {"text": "portal frame", "label": "LOCATION", "start": 54, "end": 66},
+      {"text": "roof level", "label": "LOCATION", "start": 70, "end": 80}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "structural steel", "tail": "250"},
+      {"type": "AT_LOCATION", "head": "structural steel", "tail": "roof level"}
+    ],
+    "expected_boq_count": 1,
+    "category": "steel_structural"
+  },
+  {
+    "id": 7,
+    "input_text": "Install 500 sqm of 2mm galvanized steel cladding to exterior walls as per IS 2062 Grade 43",
+    "expected_entities": [
+      {"text": "Install", "label": "ACTION", "start": 0, "end": 7},
+      {"text": "500", "label": "QUANTITY", "start": 8, "end": 11},
+      {"text": "sqm", "label": "UNIT", "start": 12, "end": 15},
+      {"text": "2mm", "label": "DIMENSION", "start": 19, "end": 22},
+      {"text": "galvanized steel cladding", "label": "MATERIAL", "start": 23, "end": 48},
+      {"text": "exterior walls", "label": "LOCATION", "start": 52, "end": 66},
+      {"text": "IS 2062", "label": "STANDARD", "start": 74, "end": 81},
+      {"text": "Grade 43", "label": "GRADE", "start": 82, "end": 90}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "galvanized steel cladding", "tail": "500"},
+      {"type": "HAS_UNIT", "head": "500", "tail": "sqm"},
+      {"type": "AT_LOCATION", "head": "galvanized steel cladding", "tail": "exterior walls"},
+      {"type": "COMPLIES_WITH", "head": "galvanized steel cladding", "tail": "IS 2062"},
+      {"type": "OF_GRADE", "head": "galvanized steel cladding", "tail": "Grade 43"},
+      {"type": "HAS_DIMENSION", "head": "galvanized steel cladding", "tail": "2mm"}
+    ],
+    "expected_boq_count": 1,
+    "category": "steel_structural"
+  },
+  {
+    "id": 8,
+    "input_text": "Supply stainless steel sheets Grade 316 50 sqm for kitchen counter at ground floor",
+    "expected_entities": [
+      {"text": "Supply", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "stainless steel sheets", "label": "MATERIAL", "start": 6, "end": 28},
+      {"text": "Grade 316", "label": "GRADE", "start": 29, "end": 38},
+      {"text": "50", "label": "QUANTITY", "start": 39, "end": 41},
+      {"text": "sqm", "label": "UNIT", "start": 42, "end": 45},
+      {"text": "kitchen counter", "label": "LOCATION", "start": 52, "end": 66},
+      {"text": "ground floor", "label": "LOCATION", "start": 70, "end": 81}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "stainless steel sheets", "tail": "50"},
+      {"type": "OF_GRADE", "head": "stainless steel sheets", "tail": "Grade 316"},
+      {"type": "AT_LOCATION", "head": "stainless steel sheets", "tail": "ground floor"}
+    ],
+    "expected_boq_count": 1,
+    "category": "steel_structural"
+  },
+  {
+    "id": 9,
+    "input_text": "Provide and lay 230mm thick fly ash brick masonry 1500 cum for compound wall as per IS 13880",
+    "expected_entities": [
+      {"text": "Provide", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "lay", "label": "ACTION", "start": 11, "end": 14},
+      {"text": "230mm", "label": "DIMENSION", "start": 15, "end": 20},
+      {"text": "fly ash brick masonry", "label": "MATERIAL", "start": 21, "end": 41},
+      {"text": "1500", "label": "QUANTITY", "start": 42, "end": 46},
+      {"text": "cum", "label": "UNIT", "start": 47, "end": 50},
+      {"text": "compound wall", "label": "LOCATION", "start": 54, "end": 66},
+      {"text": "IS 13880", "label": "STANDARD", "start": 73, "end": 81}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "fly ash brick masonry", "tail": "1500"},
+      {"type": "HAS_DIMENSION", "head": "fly ash brick masonry", "tail": "230mm"},
+      {"type": "AT_LOCATION", "head": "fly ash brick masonry", "tail": "compound wall"}
+    ],
+    "expected_boq_count": 1,
+    "category": "masonry_brickwork"
+  },
+  {
+    "id": 10,
+    "input_text": "Erect AAC block masonry 100mm thick 300 cum for internal partition walls with Class M1 mortar",
+    "expected_entities": [
+      {"text": "Erect", "label": "ACTION", "start": 0, "end": 5},
+      {"text": "AAC block masonry", "label": "MATERIAL", "start": 5, "end": 20},
+      {"text": "100mm", "label": "DIMENSION", "start": 21, "end": 26},
+      {"text": "300", "label": "QUANTITY", "start": 27, "end": 30},
+      {"text": "cum", "label": "UNIT", "start": 31, "end": 34},
+      {"text": "internal partition walls", "label": "LOCATION", "start": 40, "end": 63},
+      {"text": "Class M1", "label": "GRADE", "start": 73, "end": 81}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "AAC block masonry", "tail": "300"},
+      {"type": "HAS_DIMENSION", "head": "AAC block masonry", "tail": "100mm"},
+      {"type": "AT_LOCATION", "head": "AAC block masonry", "tail": "internal partition walls"}
+    ],
+    "expected_boq_count": 1,
+    "category": "masonry_brickwork"
+  },
+  {
+    "id": 11,
+    "input_text": "Construct 200mm thick clay brick masonry 800 cum for basement retaining wall as per IS 1905",
+    "expected_entities": [
+      {"text": "Construct", "label": "ACTION", "start": 0, "end": 9},
+      {"text": "200mm", "label": "DIMENSION", "start": 10, "end": 15},
+      {"text": "clay brick masonry", "label": "MATERIAL", "start": 16, "end": 32},
+      {"text": "800", "label": "QUANTITY", "start": 33, "end": 36},
+      {"text": "cum", "label": "UNIT", "start": 37, "end": 40},
+      {"text": "basement retaining wall", "label": "LOCATION", "start": 44, "end": 65},
+      {"text": "IS 1905", "label": "STANDARD", "start": 72, "end": 79}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "clay brick masonry", "tail": "800"},
+      {"type": "HAS_DIMENSION", "head": "clay brick masonry", "tail": "200mm"},
+      {"type": "AT_LOCATION", "head": "clay brick masonry", "tail": "basement retaining wall"}
+    ],
+    "expected_boq_count": 1,
+    "category": "masonry_brickwork"
+  },
+  {
+    "id": 12,
+    "input_text": "Lay 115mm thick Shahabad stone flooring 150 sqm at ground floor entrance as per IS 1122",
+    "expected_entities": [
+      {"text": "Lay", "label": "ACTION", "start": 0, "end": 3},
+      {"text": "115mm", "label": "DIMENSION", "start": 4, "end": 9},
+      {"text": "Shahabad stone flooring", "label": "MATERIAL", "start": 10, "end": 33},
+      {"text": "150", "label": "QUANTITY", "start": 34, "end": 37},
+      {"text": "sqm", "label": "UNIT", "start": 38, "end": 41},
+      {"text": "ground floor entrance", "label": "LOCATION", "start": 47, "end": 67},
+      {"text": "IS 1122", "label": "STANDARD", "start": 74, "end": 81}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "Shahabad stone flooring", "tail": "150"},
+      {"type": "HAS_DIMENSION", "head": "Shahabad stone flooring", "tail": "115mm"},
+      {"type": "AT_LOCATION", "head": "Shahabad stone flooring", "tail": "ground floor entrance"}
+    ],
+    "expected_boq_count": 1,
+    "category": "flooring"
+  },
+  {
+    "id": 13,
+    "input_text": "Apply waterproofing membrane 2mm thick 200 sqm on terrace area as per IS 1322",
+    "expected_entities": [
+      {"text": "Apply", "label": "ACTION", "start": 0, "end": 5},
+      {"text": "waterproofing membrane", "label": "MATERIAL", "start": 6, "end": 28},
+      {"text": "2mm", "label": "DIMENSION", "start": 29, "end": 32},
+      {"text": "200", "label": "QUANTITY", "start": 33, "end": 36},
+      {"text": "sqm", "label": "UNIT", "start": 37, "end": 40},
+      {"text": "terrace area", "label": "LOCATION", "start": 44, "end": 56},
+      {"text": "IS 1322", "label": "STANDARD", "start": 63, "end": 70}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "waterproofing membrane", "tail": "200"},
+      {"type": "HAS_DIMENSION", "head": "waterproofing membrane", "tail": "2mm"},
+      {"type": "AT_LOCATION", "head": "waterproofing membrane", "tail": "terrace area"}
+    ],
+    "expected_boq_count": 1,
+    "category": "waterproofing"
+  },
+  {
+    "id": 14,
+    "input_text": "Install 3mm thick APP membrane waterproofing 180 sqm on basement raft as per IS 1322",
+    "expected_entities": [
+      {"text": "Install", "label": "ACTION", "start": 0, "end": 7},
+      {"text": "3mm", "label": "DIMENSION", "start": 8, "end": 11},
+      {"text": "APP membrane waterproofing", "label": "MATERIAL", "start": 12, "end": 40},
+      {"text": "180", "label": "QUANTITY", "start": 41, "end": 44},
+      {"text": "sqm", "label": "UNIT", "start": 45, "end": 48},
+      {"text": "basement raft", "label": "LOCATION", "start": 54, "end": 66},
+      {"text": "IS 1322", "label": "STANDARD", "start": 73, "end": 80}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "APP membrane waterproofing", "tail": "180"},
+      {"type": "HAS_DIMENSION", "head": "APP membrane waterproofing", "tail": "3mm"},
+      {"type": "AT_LOCATION", "head": "APP membrane waterproofing", "tail": "basement raft"}
+    ],
+    "expected_boq_count": 1,
+    "category": "waterproofing"
+  },
+  {
+    "id": 15,
+    "input_text": "Fix 600x600mm granite flooring 120 sqm for reception lobby at ground floor as per IS 14223",
+    "expected_entities": [
+      {"text": "Fix", "label": "ACTION", "start": 0, "end": 3},
+      {"text": "600x600mm", "label": "DIMENSION", "start": 4, "end": 12},
+      {"text": "granite flooring", "label": "MATERIAL", "start": 13, "end": 29},
+      {"text": "120", "label": "QUANTITY", "start": 30, "end": 33},
+      {"text": "sqm", "label": "UNIT", "start": 34, "end": 37},
+      {"text": "reception lobby", "label": "LOCATION", "start": 43, "end": 57},
+      {"text": "ground floor", "label": "LOCATION", "start": 61, "end": 72},
+      {"text": "IS 14223", "label": "STANDARD", "start": 79, "end": 87}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "granite flooring", "tail": "120"},
+      {"type": "HAS_DIMENSION", "head": "granite flooring", "tail": "600x600mm"},
+      {"type": "AT_LOCATION", "head": "granite flooring", "tail": "ground floor"}
+    ],
+    "expected_boq_count": 1,
+    "category": "flooring"
+  },
+  {
+    "id": 16,
+    "input_text": "Apply 2 coats of acrylic primer 50 sqm on interior wall surface before painting",
+    "expected_entities": [
+      {"text": "Apply", "label": "ACTION", "start": 0, "end": 5},
+      {"text": "2 coats", "label": "DIMENSION", "start": 6, "end": 13},
+      {"text": "acrylic primer", "label": "MATERIAL", "start": 14, "end": 27},
+      {"text": "50", "label": "QUANTITY", "start": 28, "end": 30},
+      {"text": "sqm", "label": "UNIT", "start": 31, "end": 34},
+      {"text": "interior wall surface", "label": "LOCATION", "start": 40, "end": 61}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "acrylic primer", "tail": "50"},
+      {"type": "AT_LOCATION", "head": "acrylic primer", "tail": "interior wall surface"}
+    ],
+    "expected_boq_count": 1,
+    "category": "painting"
+  },
+  {
+    "id": 17,
+    "input_text": "Apply 3 coats of weatherproof exterior emulsion 200 sqm on building exterior walls as per IS 14231",
+    "expected_entities": [
+      {"text": "Apply", "label": "ACTION", "start": 0, "end": 5},
+      {"text": "3 coats", "label": "DIMENSION", "start": 6, "end": 12},
+      {"text": "weatherproof exterior emulsion", "label": "MATERIAL", "start": 13, "end": 43},
+      {"text": "200", "label": "QUANTITY", "start": 44, "end": 47},
+      {"text": "sqm", "label": "UNIT", "start": 48, "end": 51},
+      {"text": "building exterior walls", "label": "LOCATION", "start": 57, "end": 79},
+      {"text": "IS 14231", "label": "STANDARD", "start": 86, "end": 94}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "weatherproof exterior emulsion", "tail": "200"},
+      {"type": "AT_LOCATION", "head": "weatherproof exterior emulsion", "tail": "building exterior walls"}
+    ],
+    "expected_boq_count": 1,
+    "category": "painting"
+  },
+  {
+    "id": 18,
+    "input_text": "Install CPVC pipe line 25mm diameter 150 running meter for cold water supply at ground floor",
+    "expected_entities": [
+      {"text": "Install", "label": "ACTION", "start": 0, "end": 7},
+      {"text": "CPVC pipe line", "label": "MATERIAL", "start": 8, "end": 21},
+      {"text": "25mm", "label": "DIMENSION", "start": 22, "end": 26},
+      {"text": "150", "label": "QUANTITY", "start": 27, "end": 30},
+      {"text": "running meter", "label": "UNIT", "start": 31, "end": 43},
+      {"text": "cold water supply", "label": "LOCATION", "start": 50, "end": 65},
+      {"text": "ground floor", "label": "LOCATION", "start": 69, "end": 80}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "CPVC pipe line", "tail": "150"},
+      {"type": "HAS_DIMENSION", "head": "CPVC pipe line", "tail": "25mm"},
+      {"type": "AT_LOCATION", "head": "CPVC pipe line", "tail": "ground floor"}
+    ],
+    "expected_boq_count": 1,
+    "category": "plumbing"
+  },
+  {
+    "id": 19,
+    "input_text": "Provide PVC drain pipe 110mm diameter 80 running meter for soil waste at basement level",
+    "expected_entities": [
+      {"text": "Provide", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "PVC drain pipe", "label": "MATERIAL", "start": 6, "end": 19},
+      {"text": "110mm", "label": "DIMENSION", "start": 20, "end": 25},
+      {"text": "80", "label": "QUANTITY", "start": 26, "end": 28},
+      {"text": "running meter", "label": "UNIT", "start": 29, "end": 41},
+      {"text": "soil waste", "label": "LOCATION", "start": 47, "end": 56},
+      {"text": "basement level", "label": "LOCATION", "start": 60, "end": 73}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "PVC drain pipe", "tail": "80"},
+      {"type": "HAS_DIMENSION", "head": "PVC drain pipe", "tail": "110mm"},
+      {"type": "AT_LOCATION", "head": "PVC drain pipe", "tail": "basement level"}
+    ],
+    "expected_boq_count": 1,
+    "category": "plumbing"
+  },
+  {
+    "id": 20,
+    "input_text": "Install GI pipe 50mm diameter 200 running meter for fire fighting system at terrace level",
+    "expected_entities": [
+      {"text": "Install", "label": "ACTION", "start": 0, "end": 7},
+      {"text": "GI pipe", "label": "MATERIAL", "start": 8, "end": 14},
+      {"text": "50mm", "label": "DIMENSION", "start": 15, "end": 19},
+      {"text": "200", "label": "QUANTITY", "start": 20, "end": 23},
+      {"text": "running meter", "label": "UNIT", "start": 24, "end": 36},
+      {"text": "fire fighting system", "label": "LOCATION", "start": 43, "end": 60},
+      {"text": "terrace level", "label": "LOCATION", "start": 64, "end": 76}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "GI pipe", "tail": "200"},
+      {"type": "HAS_DIMENSION", "head": "GI pipe", "tail": "50mm"},
+      {"type": "AT_LOCATION", "head": "GI pipe", "tail": "terrace level"}
+    ],
+    "expected_boq_count": 1,
+    "category": "plumbing"
+  },
+  {
+    "id": 21,
+    "input_text": "Lay 20mm thick Kota stone flooring 250 sqm in corridor at first floor as per IS 1122",
+    "expected_entities": [
+      {"text": "Lay", "label": "ACTION", "start": 0, "end": 3},
+      {"text": "20mm", "label": "DIMENSION", "start": 4, "end": 8},
+      {"text": "Kota stone flooring", "label": "MATERIAL", "start": 9, "end": 28},
+      {"text": "250", "label": "QUANTITY", "start": 29, "end": 32},
+      {"text": "sqm", "label": "UNIT", "start": 33, "end": 36},
+      {"text": "corridor", "label": "LOCATION", "start": 40, "end": 47},
+      {"text": "first floor", "label": "LOCATION", "start": 51, "end": 61},
+      {"text": "IS 1122", "label": "STANDARD", "start": 68, "end": 75}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "Kota stone flooring", "tail": "250"},
+      {"type": "HAS_DIMENSION", "head": "Kota stone flooring", "tail": "20mm"},
+      {"type": "AT_LOCATION", "head": "Kota stone flooring", "tail": "first floor"}
+    ],
+    "expected_boq_count": 1,
+    "category": "flooring"
+  },
+  {
+    "id": 22,
+    "input_text": "Install ladder type cable tray 100mm wide 50 running meter in electrical basement as per IS 1646",
+    "expected_entities": [
+      {"text": "Install", "label": "ACTION", "start": 0, "end": 7},
+      {"text": "ladder type cable tray", "label": "MATERIAL", "start": 8, "end": 27},
+      {"text": "100mm", "label": "DIMENSION", "start": 28, "end": 33},
+      {"text": "50", "label": "QUANTITY", "start": 34, "end": 36},
+      {"text": "running meter", "label": "UNIT", "start": 37, "end": 49},
+      {"text": "electrical basement", "label": "LOCATION", "start": 55, "end": 74},
+      {"text": "IS 1646", "label": "STANDARD", "start": 81, "end": 88}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "ladder type cable tray", "tail": "50"},
+      {"type": "HAS_DIMENSION", "head": "ladder type cable tray", "tail": "100mm"},
+      {"type": "AT_LOCATION", "head": "ladder type cable tray", "tail": "electrical basement"}
+    ],
+    "expected_boq_count": 1,
+    "category": "electrical"
+  },
+  {
+    "id": 23,
+    "input_text": "Fix 16mm thick tinted glass panels 75 sqm for glazing work at balcony area as per IS 2553",
+    "expected_entities": [
+      {"text": "Fix", "label": "ACTION", "start": 0, "end": 3},
+      {"text": "16mm", "label": "DIMENSION", "start": 4, "end": 8},
+      {"text": "tinted glass panels", "label": "MATERIAL", "start": 9, "end": 27},
+      {"text": "75", "label": "QUANTITY", "start": 28, "end": 30},
+      {"text": "sqm", "label": "UNIT", "start": 31, "end": 34},
+      {"text": "balcony area", "label": "LOCATION", "start": 47, "end": 58},
+      {"text": "IS 2553", "label": "STANDARD", "start": 70, "end": 77}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "tinted glass panels", "tail": "75"},
+      {"type": "HAS_DIMENSION", "head": "tinted glass panels", "tail": "16mm"},
+      {"type": "AT_LOCATION", "head": "tinted glass panels", "tail": "balcony area"}
+    ],
+    "expected_boq_count": 1,
+    "category": "glass_glazing"
+  },
+  {
+    "id": 24,
+    "input_text": "Supply marble slabs 18mm thick 100 sqm for counter top at kitchen as per IS 1130",
+    "expected_entities": [
+      {"text": "Supply", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "marble slabs", "label": "MATERIAL", "start": 6, "end": 18},
+      {"text": "18mm", "label": "DIMENSION", "start": 19, "end": 23},
+      {"text": "100", "label": "QUANTITY", "start": 24, "end": 27},
+      {"text": "sqm", "label": "UNIT", "start": 28, "end": 31},
+      {"text": "counter top", "label": "LOCATION", "start": 37, "end": 47},
+      {"text": "kitchen", "label": "LOCATION", "start": 51, "end": 58},
+      {"text": "IS 1130", "label": "STANDARD", "start": 65, "end": 72}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "marble slabs", "tail": "100"},
+      {"type": "HAS_DIMENSION", "head": "marble slabs", "tail": "18mm"},
+      {"type": "AT_LOCATION", "head": "marble slabs", "tail": "kitchen"}
+    ],
+    "expected_boq_count": 1,
+    "category": "flooring"
+  },
+  {
+    "id": 25,
+    "input_text": "Apply bitumen waterproofing 40 sqm on terrace garden area as per IS 3346",
+    "expected_entities": [
+      {"text": "Apply", "label": "ACTION", "start": 0, "end": 5},
+      {"text": "bitumen waterproofing", "label": "MATERIAL", "start": 6, "end": 28},
+      {"text": "40", "label": "QUANTITY", "start": 29, "end": 31},
+      {"text": "sqm", "label": "UNIT", "start": 32, "end": 35},
+      {"text": "terrace garden area", "label": "LOCATION", "start": 41, "end": 58},
+      {"text": "IS 3346", "label": "STANDARD", "start": 65, "end": 72}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "bitumen waterproofing", "tail": "40"},
+      {"type": "AT_LOCATION", "head": "bitumen waterproofing", "tail": "terrace garden area"}
+    ],
+    "expected_boq_count": 1,
+    "category": "waterproofing"
+  },
+  {
+    "id": 26,
+    "input_text": "Construct RCC lintel M20 concrete 5 cum over window openings at +3.0m level as per IS 456",
+    "expected_entities": [
+      {"text": "Construct", "label": "ACTION", "start": 0, "end": 9},
+      {"text": "RCC lintel", "label": "MATERIAL", "start": 10, "end": 19},
+      {"text": "M20", "label": "GRADE", "start": 20, "end": 23},
+      {"text": "concrete", "label": "MATERIAL", "start": 24, "end": 32},
+      {"text": "5", "label": "QUANTITY", "start": 33, "end": 34},
+      {"text": "cum", "label": "UNIT", "start": 35, "end": 38},
+      {"text": "window openings", "label": "LOCATION", "start": 44, "end": 59},
+      {"text": "+3.0m level", "label": "LOCATION", "start": 65, "end": 74},
+      {"text": "IS 456", "label": "STANDARD", "start": 81, "end": 87}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "RCC lintel", "tail": "5"},
+      {"type": "OF_GRADE", "head": "concrete", "tail": "M20"},
+      {"type": "AT_LOCATION", "head": "RCC lintel", "tail": "+3.0m level"}
+    ],
+    "expected_boq_count": 1,
+    "category": "concrete_work"
+  },
+  {
+    "id": 27,
+    "input_text": "Erect hollow concrete block masonry 200mm thick 600 cum for boundary wall at site as per IS 2185",
+    "expected_entities": [
+      {"text": "Erect", "label": "ACTION", "start": 0, "end": 5},
+      {"text": "hollow concrete block masonry", "label": "MATERIAL", "start": 5, "end": 32},
+      {"text": "200mm", "label": "DIMENSION", "start": 33, "end": 38},
+      {"text": "600", "label": "QUANTITY", "start": 39, "end": 42},
+      {"text": "cum", "label": "UNIT", "start": 43, "end": 46},
+      {"text": "boundary wall", "label": "LOCATION", "start": 50, "end": 63},
+      {"text": "site", "label": "LOCATION", "start": 67, "end": 70},
+      {"text": "IS 2185", "label": "STANDARD", "start": 77, "end": 84}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "hollow concrete block masonry", "tail": "600"},
+      {"type": "HAS_DIMENSION", "head": "hollow concrete block masonry", "tail": "200mm"},
+      {"type": "AT_LOCATION", "head": "hollow concrete block masonry", "tail": "site"}
+    ],
+    "expected_boq_count": 1,
+    "category": "masonry_brickwork"
+  },
+  {
+    "id": 28,
+    "input_text": "Plaster ceiling with 6mm thick cement plaster 150 sqm for interior finish as per IS 1661",
+    "expected_entities": [
+      {"text": "Plaster", "label": "ACTION", "start": 0, "end": 7},
+      {"text": "ceiling", "label": "LOCATION", "start": 8, "end": 15},
+      {"text": "6mm", "label": "DIMENSION", "start": 20, "end": 23},
+      {"text": "cement plaster", "label": "MATERIAL", "start": 24, "end": 38},
+      {"text": "150", "label": "QUANTITY", "start": 39, "end": 42},
+      {"text": "sqm", "label": "UNIT", "start": 43, "end": 46},
+      {"text": "interior finish", "label": "LOCATION", "start": 52, "end": 66},
+      {"text": "IS 1661", "label": "STANDARD", "start": 73, "end": 79}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "cement plaster", "tail": "150"},
+      {"type": "HAS_DIMENSION", "head": "cement plaster", "tail": "6mm"},
+      {"type": "AT_LOCATION", "head": "cement plaster", "tail": "ceiling"}
+    ],
+    "expected_boq_count": 1,
+    "category": "painting"
+  },
+  {
+    "id": 29,
+    "input_text": "Supply and apply epoxy coating 25 sqm on machine room floor as per IS 9198",
+    "expected_entities": [
+      {"text": "Supply", "label": "ACTION", "start": 0, "end": 6},
+      {"text": "apply", "label": "ACTION", "start": 11, "end": 16},
+      {"text": "epoxy coating", "label": "MATERIAL", "start": 17, "end": 30},
+      {"text": "25", "label": "QUANTITY", "start": 31, "end": 33},
+      {"text": "sqm", "label": "UNIT", "start": 34, "end": 37},
+      {"text": "machine room floor", "label": "LOCATION", "start": 43, "end": 58},
+      {"text": "IS 9198", "label": "STANDARD", "start": 65, "end": 72}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "epoxy coating", "tail": "25"},
+      {"type": "AT_LOCATION", "head": "epoxy coating", "tail": "machine room floor"}
+    ],
+    "expected_boq_count": 1,
+    "category": "coating"
+  },
+  {
+    "id": 30,
+    "input_text": "Install 450mm diameter RCC hume pipe 100 running meter for storm water drainage at site boundary",
+    "expected_entities": [
+      {"text": "Install", "label": "ACTION", "start": 0, "end": 7},
+      {"text": "450mm", "label": "DIMENSION", "start": 8, "end": 13},
+      {"text": "RCC hume pipe", "label": "MATERIAL", "start": 14, "end": 26},
+      {"text": "100", "label": "QUANTITY", "start": 27, "end": 30},
+      {"text": "running meter", "label": "UNIT", "start": 31, "end": 43},
+      {"text": "storm water drainage", "label": "LOCATION", "start": 50, "end": 69},
+      {"text": "site boundary", "label": "LOCATION", "start": 73, "end": 85}
+    ],
+    "expected_relations": [
+      {"type": "HAS_QUANTITY", "head": "RCC hume pipe", "tail": "100"},
+      {"type": "HAS_DIMENSION", "head": "RCC hume pipe", "tail": "450mm"},
+      {"type": "AT_LOCATION", "head": "RCC hume pipe", "tail": "site boundary"}
+    ],
+    "expected_boq_count": 1,
+    "category": "plumbing"
+  }
+]

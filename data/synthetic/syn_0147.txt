@@ -1,0 +1,33 @@
+The scope of work includes DB, cable, switch for the Apartment Block at HSR Layout project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Cast cable 16mm diameter  57  sqm  4801  62400
+2  Fix aluminum window 10mm diameter  360  ltr  1346  86254
+3  Supply and fix Fe415 structural steel 8mm diameter  341  ls  3388  76332
+4  Cast Class 1 tile  434  ltr  2740  56987
+5  Install Class B AAC block 16mm thick  124  ls  3005  94703
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

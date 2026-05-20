@@ -1,0 +1,133 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rfq2boq.com/schema/boq.v1.json",
+  "title": "Bill of Quantities Schema",
+  "description": "Canonical BOQ output schema for RFQ to BOQ extraction system",
+  "version": "1.0.0",
+  "type": "object",
+  "required": ["metadata", "boq"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["generated_at", "source", "version"],
+      "properties": {
+        "generated_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp of generation"
+        },
+        "source": {
+          "type": "string",
+          "const": "RFQ to BOQ NLP System"
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$"
+        }
+      }
+    },
+    "boq": {
+      "type": "object",
+      "required": ["items", "summary"],
+      "properties": {
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/BoqItem"
+          }
+        },
+        "summary": {
+          "$ref": "#/definitions/Summary"
+        }
+      }
+    }
+  },
+  "definitions": {
+    "BoqItem": {
+      "type": "object",
+      "required": ["item_code", "description", "quantity", "unit", "material", "confidence"],
+      "properties": {
+        "item_code": {
+          "type": "string",
+          "pattern": "^BOQ-\\d{3}$",
+          "description": "Sequential item code (BOQ-001, BOQ-002, ...)"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Full item description"
+        },
+        "quantity": {
+          "oneOf": [
+            {"type": "number"},
+            {"type": "string"}
+          ],
+          "description": "Numeric quantity"
+        },
+        "unit": {
+          "type": "string",
+          "description": "Canonical unit (m², m³, kg, bags, no.)"
+        },
+        "unit_rate": {
+          "type": ["number", "null"],
+          "description": "Rate per unit (optional)"
+        },
+        "total_amount": {
+          "type": ["number", "null"],
+          "description": "Total amount = quantity × unit_rate (optional)"
+        },
+        "material": {
+          "type": ["string", "null"],
+          "description": "Primary material type"
+        },
+        "specification": {
+          "type": ["string", "null"],
+          "description": "Material specification/standard"
+        },
+        "dimension": {
+          "type": ["string", "null"],
+          "description": "Physical dimensions (e.g., 20mm thick)"
+        },
+        "location": {
+          "type": ["string", "null"],
+          "description": "Location in building"
+        },
+        "remarks": {
+          "type": "string",
+          "default": "",
+          "description": "Additional notes or observations"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Confidence score (0-1)"
+        },
+        "validation_flags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Validation warnings",
+          "examples": ["SCOPE_GAP_WARNING", "UNIT_AMBIGUOUS"]
+        }
+      }
+    },
+    "Summary": {
+      "type": "object",
+      "required": ["total_items", "total_quantity", "total_amount"],
+      "properties": {
+        "total_items": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "total_quantity": {
+          "type": "number"
+        },
+        "total_amount": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}

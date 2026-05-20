@@ -1,0 +1,125 @@
+{
+  "micro_f1": 0.6704545454545455,
+  "macro_f1": 0.665083497513838,
+  "documents": 10,
+  "per_entity": {
+    "ACTION": {
+      "precision": 0.8461538461538461,
+      "recall": 0.9166666666666666,
+      "tp": 11,
+      "fp": 2,
+      "fn": 1
+    },
+    "GRADE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "tp": 4,
+      "fp": 0,
+      "fn": 0
+    },
+    "MATERIAL": {
+      "precision": 0.29411764705882354,
+      "recall": 0.4166666666666667,
+      "tp": 5,
+      "fp": 12,
+      "fn": 7
+    },
+    "QUANTITY": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0
+    },
+    "UNIT": {
+      "precision": 0.4166666666666667,
+      "recall": 1.0,
+      "tp": 10,
+      "fp": 14,
+      "fn": 0
+    },
+    "LOCATION": {
+      "precision": 0.4444444444444444,
+      "recall": 0.25,
+      "tp": 4,
+      "fp": 5,
+      "fn": 12
+    },
+    "STANDARD": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0
+    },
+    "DIMENSION": {
+      "precision": 0.625,
+      "recall": 0.7142857142857143,
+      "tp": 5,
+      "fp": 3,
+      "fn": 2
+    }
+  },
+  "document_results": [
+    {
+      "doc_id": "real_rfq_001",
+      "precision": 0.6,
+      "recall": 0.75,
+      "f1": 0.6666666666666665
+    },
+    {
+      "doc_id": "real_rfq_002",
+      "precision": 0.8333333333333334,
+      "recall": 1.0,
+      "f1": 0.9090909090909091
+    },
+    {
+      "doc_id": "real_rfq_003",
+      "precision": 0.6363636363636364,
+      "recall": 0.875,
+      "f1": 0.7368421052631579
+    },
+    {
+      "doc_id": "real_rfq_004",
+      "precision": 0.625,
+      "recall": 0.7142857142857143,
+      "f1": 0.6666666666666666
+    },
+    {
+      "doc_id": "real_rfq_005",
+      "precision": 0.6,
+      "recall": 0.75,
+      "f1": 0.6666666666666665
+    },
+    {
+      "doc_id": "real_rfq_006",
+      "precision": 0.45454545454545453,
+      "recall": 0.5555555555555556,
+      "f1": 0.5
+    },
+    {
+      "doc_id": "real_rfq_007",
+      "precision": 0.7142857142857143,
+      "recall": 0.625,
+      "f1": 0.6666666666666666
+    },
+    {
+      "doc_id": "real_rfq_008",
+      "precision": 0.5555555555555556,
+      "recall": 0.625,
+      "f1": 0.5882352941176471
+    },
+    {
+      "doc_id": "real_rfq_009",
+      "precision": 0.5555555555555556,
+      "recall": 0.7142857142857143,
+      "f1": 0.6250000000000001
+    },
+    {
+      "doc_id": "real_rfq_010",
+      "precision": 0.625,
+      "recall": 0.625,
+      "f1": 0.625
+    }
+  ]
+}

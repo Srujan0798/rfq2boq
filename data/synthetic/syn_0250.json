@@ -1,0 +1,127 @@
+{
+  "id": "syn_0250",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "steel",
+  "text": "The scope of work includes rebar, MS plate, GI sheet for the Residential Complex at Whitefield project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast Class 2 putty 300mm thick  482  nos  1252  5414\n2  Lay DB 150 x 150mm  464  sqm  3930  30805\n3  Erect integral waterproofing 20mm thick  169  rmt  3822  3280\n4  Supply and lay Fe500 TMT steel 300mm thick  91  sqm  2819  15048\n5  Plaster M20 PCC 150 x 150mm  224  sqm  4724  3346\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes rebar, MS plate, GI sheet for the Residential Complex at Whitefield project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below. Cast Class 2 putty 300mm thick Lay DB 150 x 150mm Erect integral waterproofing 20mm thick Supply and lay Fe500 TMT steel 300mm thick Plaster M20 PCC 150 x 150mm",
+  "sections": {
+    "scope": "The scope of work includes rebar, MS plate, GI sheet for the Residential Complex at Whitefield project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast Class 2 putty 300mm thick",
+        "482",
+        "nos",
+        "1252",
+        "5414"
+      ],
+      [
+        "2",
+        "Lay DB 150 x 150mm",
+        "464",
+        "sqm",
+        "3930",
+        "30805"
+      ],
+      [
+        "3",
+        "Erect integral waterproofing 20mm thick",
+        "169",
+        "rmt",
+        "3822",
+        "3280"
+      ],
+      [
+        "4",
+        "Supply and lay Fe500 TMT steel 300mm thick",
+        "91",
+        "sqm",
+        "2819",
+        "15048"
+      ],
+      [
+        "5",
+        "Plaster M20 PCC 150 x 150mm",
+        "224",
+        "sqm",
+        "4724",
+        "3346"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "300mm thick",
+        "quantity": 482,
+        "unit": "no.",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 464,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 169,
+        "unit": "rmt",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "300mm thick",
+        "quantity": 91,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Plaster",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "150 x 150mm",
+        "quantity": 224,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

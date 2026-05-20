@@ -1,0 +1,40 @@
+Supply and installation of GI sheet, rebar, TMT steel for IT Park Phase 2 as per the drawings and specifications. All works to be completed as per IS codes and good practice.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Plaster Class 2 paint  350  kg  3554  30908
+2  Erect membrane 16mm diameter  480  ltr  3063  4901
+3  Fix light fixture  15  sqm  3390  22538
+4  Erect M20 M35 concrete 300mm thick  398  cum  573  83786
+5  Erect Fe500 rebar 150 x 150mm  215  nos  164  37671
+6  Apply SWR pipe 10mm diameter  216  set  2928  86033
+7  Supply Class A hollow block  164  sqm  3294  96040
+8  Provide and install aluminum window 12mm thick  57  nos  328  71770
+9  Provide and install Class 2 putty 16mm diameter  436  nos  591  49887
+10  Supply and lay integral waterproofing 100mm thick  34  sqm  2876  31945
+11  Provide and fix DB 300mm thick  163  nos  3193  69113
+12  Supply and lay M25 RCC 200 x 200mm  177  kg  902  20209
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

@@ -1,0 +1,167 @@
+{
+  "id": "syn_0251",
+  "project_name": "School Building at Electronic City",
+  "category": "waterproofing",
+  "text": "The scope of work includes brickbat coba, DPC, membrane for the School Building at Electronic City project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay Fe415 TMT steel 100mm thick  134  rmt  1539  27280\n2  Supply and lay aluminum window  189  sqm  4461  94759\n3  Fabricate and erect integral waterproofing 150 x 150mm  386  ltr  2218  41901\n4  Supply CI pipe 10mm diameter  166  rmt  1892  84101\n5  Install switch 150 x 150mm  22  sqm  156  48965\n6  Apply Class C hollow block 100 x 100mm  418  kg  1319  35009\n7  Lay M30 M25 concrete 8mm diameter  225  sqm  1485  22388\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes brickbat coba, DPC, membrane for the School Building at Electronic City project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below. Lay Fe415 TMT steel 100mm thick Supply and lay aluminum window Fabricate and erect integral waterproofing 150 x 150mm Supply CI pipe 10mm diameter Install switch 150 x 150mm Apply Class C hollow block 100 x 100mm Lay M30 M25 concrete 8mm diameter",
+  "sections": {
+    "scope": "The scope of work includes brickbat coba, DPC, membrane for the School Building at Electronic City project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay Fe415 TMT steel 100mm thick",
+        "134",
+        "rmt",
+        "1539",
+        "27280"
+      ],
+      [
+        "2",
+        "Supply and lay aluminum window",
+        "189",
+        "sqm",
+        "4461",
+        "94759"
+      ],
+      [
+        "3",
+        "Fabricate and erect integral waterproofing 150 x 150mm",
+        "386",
+        "ltr",
+        "2218",
+        "41901"
+      ],
+      [
+        "4",
+        "Supply CI pipe 10mm diameter",
+        "166",
+        "rmt",
+        "1892",
+        "84101"
+      ],
+      [
+        "5",
+        "Install switch 150 x 150mm",
+        "22",
+        "sqm",
+        "156",
+        "48965"
+      ],
+      [
+        "6",
+        "Apply Class C hollow block 100 x 100mm",
+        "418",
+        "kg",
+        "1319",
+        "35009"
+      ],
+      [
+        "7",
+        "Lay M30 M25 concrete 8mm diameter",
+        "225",
+        "sqm",
+        "1485",
+        "22388"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "100mm thick",
+        "quantity": 134,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 189,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 386,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 166,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 22,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "100 x 100mm",
+        "quantity": 418,
+        "unit": "kg",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "M25 concrete",
+        "grade": "M30",
+        "dimension": "8mm diameter",
+        "quantity": 225,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

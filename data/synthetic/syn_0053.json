@@ -1,0 +1,147 @@
+{
+  "id": "syn_0053",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "brickwork",
+  "text": "Supply and installation of fly ash brick, brick masonry, AAC block for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install SWR pipe  86  sqm  419  70655\n2  Fabricate and erect Class A brick masonry 100mm thick  347  rmt  3634  69425\n3  Install glass  32  ltr  3223  46943\n4  Supply and lay M40 PCC  227  rmt  786  38128\n5  Erect Fe550 rebar  141  kg  158  76757\n6  Erect brickbat coba 150 x 150mm  345  kg  3067  14970\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of fly ash brick, brick masonry, AAC block for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install SWR pipe Fabricate and erect Class A brick masonry 100mm thick Install glass Supply and lay M40 PCC Erect Fe550 rebar Erect brickbat coba 150 x 150mm",
+  "sections": {
+    "scope": "Supply and installation of fly ash brick, brick masonry, AAC block for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install SWR pipe",
+        "86",
+        "sqm",
+        "419",
+        "70655"
+      ],
+      [
+        "2",
+        "Fabricate and erect Class A brick masonry 100mm thick",
+        "347",
+        "rmt",
+        "3634",
+        "69425"
+      ],
+      [
+        "3",
+        "Install glass",
+        "32",
+        "ltr",
+        "3223",
+        "46943"
+      ],
+      [
+        "4",
+        "Supply and lay M40 PCC",
+        "227",
+        "rmt",
+        "786",
+        "38128"
+      ],
+      [
+        "5",
+        "Erect Fe550 rebar",
+        "141",
+        "kg",
+        "158",
+        "76757"
+      ],
+      [
+        "6",
+        "Erect brickbat coba 150 x 150mm",
+        "345",
+        "kg",
+        "3067",
+        "14970"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 86,
+        "unit": "m^2",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "100mm thick",
+        "quantity": 347,
+        "unit": "rmt",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 32,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and lay",
+        "material": "PCC",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 227,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Erect",
+        "material": "rebar",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 141,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 345,
+        "unit": "kg",
+        "standard": [
+          "IS 1322"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

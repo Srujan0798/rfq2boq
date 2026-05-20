@@ -1,0 +1,227 @@
+{
+  "id": "syn_0099",
+  "project_name": "IT Park Phase 2",
+  "category": "brickwork",
+  "text": "The scope of work includes hollow block, fly ash brick, brick masonry for the IT Park Phase 2 project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay Class A AAC block  192  ls  2690  2570\n2  Fabricate and erect M25 M35 concrete 25mm thick  122  sqm  3122  6759\n3  Erect flush door 230mm thick  164  set  2163  13418\n4  Plaster DB 300mm thick  366  ltr  1536  84277\n5  Supply and lay integral waterproofing 10mm diameter  181  cum  4286  84963\n6  Cast Fe550 MS plate  370  cum  1116  41481\n7  Fix PVC pipe  134  sqm  4185  39877\n8  Erect Class 1 POP  114  cum  4999  59160\n9  Provide and lay Class A fly ash brick 8mm diameter  172  cum  2463  99376\n10  Install M25 M20 concrete 16mm thick  385  ls  542  88163\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes hollow block, fly ash brick, brick masonry for the IT Park Phase 2 project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and lay Class A AAC block Fabricate and erect M25 M35 concrete 25mm thick Erect flush door 230mm thick Plaster DB 300mm thick Supply and lay integral waterproofing 10mm diameter Cast Fe550 MS plate Fix PVC pipe Erect Class 1 POP Provide and lay Class A fly ash brick 8mm diameter Install M25 M20 concrete 16mm thick",
+  "sections": {
+    "scope": "The scope of work includes hollow block, fly ash brick, brick masonry for the IT Park Phase 2 project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay Class A AAC block",
+        "192",
+        "ls",
+        "2690",
+        "2570"
+      ],
+      [
+        "2",
+        "Fabricate and erect M25 M35 concrete 25mm thick",
+        "122",
+        "sqm",
+        "3122",
+        "6759"
+      ],
+      [
+        "3",
+        "Erect flush door 230mm thick",
+        "164",
+        "set",
+        "2163",
+        "13418"
+      ],
+      [
+        "4",
+        "Plaster DB 300mm thick",
+        "366",
+        "ltr",
+        "1536",
+        "84277"
+      ],
+      [
+        "5",
+        "Supply and lay integral waterproofing 10mm diameter",
+        "181",
+        "cum",
+        "4286",
+        "84963"
+      ],
+      [
+        "6",
+        "Cast Fe550 MS plate",
+        "370",
+        "cum",
+        "1116",
+        "41481"
+      ],
+      [
+        "7",
+        "Fix PVC pipe",
+        "134",
+        "sqm",
+        "4185",
+        "39877"
+      ],
+      [
+        "8",
+        "Erect Class 1 POP",
+        "114",
+        "cum",
+        "4999",
+        "59160"
+      ],
+      [
+        "9",
+        "Provide and lay Class A fly ash brick 8mm diameter",
+        "172",
+        "cum",
+        "2463",
+        "99376"
+      ],
+      [
+        "10",
+        "Install M25 M20 concrete 16mm thick",
+        "385",
+        "ls",
+        "542",
+        "88163"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 192,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "25mm thick",
+        "quantity": 122,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 164,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "DB",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 366,
+        "unit": "ltr",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 181,
+        "unit": "m^3",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "",
+        "quantity": 370,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 134,
+        "unit": "m^2",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 114,
+        "unit": "m^3",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and lay",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "8mm diameter",
+        "quantity": 172,
+        "unit": "m^3",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "M20 concrete",
+        "grade": "M25",
+        "dimension": "16mm thick",
+        "quantity": 385,
+        "unit": "ls",
+        "standard": [
+          "IS 269"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

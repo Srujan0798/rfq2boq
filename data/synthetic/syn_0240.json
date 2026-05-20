@@ -1,0 +1,167 @@
+{
+  "id": "syn_0240",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "brickwork",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix MS door 230mm thick  171  sqm  2604  54555\n2  Supply integral waterproofing 16mm diameter  177  kg  931  68093\n3  Provide and fix M20 PCC  227  set  3225  66085\n4  Fabricate and erect GI pipe 6mm diameter  390  ltr  634  41683\n5  Install Class 1 POP 25mm thick  212  rmt  3622  35339\n6  Cast switch 230mm thick  310  cum  4460  79063\n7  Provide and install Class B fly ash brick 20mm thick  305  cum  2888  22459\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications. Supply and fix MS door 230mm thick Supply integral waterproofing 16mm diameter Provide and fix M20 PCC Fabricate and erect GI pipe 6mm diameter Install Class 1 POP 25mm thick Cast switch 230mm thick Provide and install Class B fly ash brick 20mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at bathroom for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix MS door 230mm thick",
+        "171",
+        "sqm",
+        "2604",
+        "54555"
+      ],
+      [
+        "2",
+        "Supply integral waterproofing 16mm diameter",
+        "177",
+        "kg",
+        "931",
+        "68093"
+      ],
+      [
+        "3",
+        "Provide and fix M20 PCC",
+        "227",
+        "set",
+        "3225",
+        "66085"
+      ],
+      [
+        "4",
+        "Fabricate and erect GI pipe 6mm diameter",
+        "390",
+        "ltr",
+        "634",
+        "41683"
+      ],
+      [
+        "5",
+        "Install Class 1 POP 25mm thick",
+        "212",
+        "rmt",
+        "3622",
+        "35339"
+      ],
+      [
+        "6",
+        "Cast switch 230mm thick",
+        "310",
+        "cum",
+        "4460",
+        "79063"
+      ],
+      [
+        "7",
+        "Provide and install Class B fly ash brick 20mm thick",
+        "305",
+        "cum",
+        "2888",
+        "22459"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 171,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 177,
+        "unit": "kg",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 227,
+        "unit": "set",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 390,
+        "unit": "ltr",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "25mm thick",
+        "quantity": 212,
+        "unit": "rmt",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "switch",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 310,
+        "unit": "m^3",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "20mm thick",
+        "quantity": 305,
+        "unit": "m^3",
+        "standard": [
+          "IS 12894"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

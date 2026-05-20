@@ -1,0 +1,267 @@
+{
+  "id": "syn_0273",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "doors_windows",
+  "text": "The work comprises flush door, MS door, glass for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster M40 M25 concrete  69  ltr  3973  1352\n2  Supply and install Fe500 TMT steel 100mm thick  310  kg  2651  42803\n3  Lay integral waterproofing 20mm thick  151  cum  4572  20609\n4  Fix Class 1 POP 6mm diameter  286  cum  1413  97785\n5  Lay cable 25mm thick  200  ltr  272  87516\n6  Supply and fix glass  210  ls  841  51087\n7  Erect Class C fly ash brick 20mm thick  373  kg  3520  18321\n8  Supply PVC pipe  107  set  4221  67483\n9  Fabricate and erect M35 M20 concrete 150mm thick  31  set  1477  6377\n10  Apply Fe550 TMT steel 100 x 100mm  324  sqm  746  13042\n11  Fix membrane  209  ltr  4500  37133\n12  Lay Class 2 putty  34  ls  2074  25441\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises flush door, MS door, glass for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards. Plaster M40 M25 concrete Supply and install Fe500 TMT steel 100mm thick Lay integral waterproofing 20mm thick Fix Class 1 POP 6mm diameter Lay cable 25mm thick Supply and fix glass Erect Class C fly ash brick 20mm thick Supply PVC pipe Fabricate and erect M35 M20 concrete 150mm thick Apply Fe550 TMT steel 100 x 100mm Fix membrane Lay Class 2 putty",
+  "sections": {
+    "scope": "The work comprises flush door, MS door, glass for the proposed Residential Complex at Whitefield. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster M40 M25 concrete",
+        "69",
+        "ltr",
+        "3973",
+        "1352"
+      ],
+      [
+        "2",
+        "Supply and install Fe500 TMT steel 100mm thick",
+        "310",
+        "kg",
+        "2651",
+        "42803"
+      ],
+      [
+        "3",
+        "Lay integral waterproofing 20mm thick",
+        "151",
+        "cum",
+        "4572",
+        "20609"
+      ],
+      [
+        "4",
+        "Fix Class 1 POP 6mm diameter",
+        "286",
+        "cum",
+        "1413",
+        "97785"
+      ],
+      [
+        "5",
+        "Lay cable 25mm thick",
+        "200",
+        "ltr",
+        "272",
+        "87516"
+      ],
+      [
+        "6",
+        "Supply and fix glass",
+        "210",
+        "ls",
+        "841",
+        "51087"
+      ],
+      [
+        "7",
+        "Erect Class C fly ash brick 20mm thick",
+        "373",
+        "kg",
+        "3520",
+        "18321"
+      ],
+      [
+        "8",
+        "Supply PVC pipe",
+        "107",
+        "set",
+        "4221",
+        "67483"
+      ],
+      [
+        "9",
+        "Fabricate and erect M35 M20 concrete 150mm thick",
+        "31",
+        "set",
+        "1477",
+        "6377"
+      ],
+      [
+        "10",
+        "Apply Fe550 TMT steel 100 x 100mm",
+        "324",
+        "sqm",
+        "746",
+        "13042"
+      ],
+      [
+        "11",
+        "Fix membrane",
+        "209",
+        "ltr",
+        "4500",
+        "37133"
+      ],
+      [
+        "12",
+        "Lay Class 2 putty",
+        "34",
+        "ls",
+        "2074",
+        "25441"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "M25 concrete",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 69,
+        "unit": "ltr",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "100mm thick",
+        "quantity": 310,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 151,
+        "unit": "m^3",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fix",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "6mm diameter",
+        "quantity": 286,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "cable",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 200,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 210,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Erect",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "20mm thick",
+        "quantity": 373,
+        "unit": "kg",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 107,
+        "unit": "set",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fabricate and erect",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "150mm thick",
+        "quantity": 31,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Apply",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "100 x 100mm",
+        "quantity": 324,
+        "unit": "m^2",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 209,
+        "unit": "ltr",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Lay",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 34,
+        "unit": "ls",
+        "standard": [
+          "IS 101"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "test_f1": 0.0,
+  "test_precision": 0.0,
+  "test_recall": 0.0,
+  "test_loss": 0.6809195876121521,
+  "per_entity_f1": {
+    "MATERIAL": 0.0,
+    "QUANTITY": 0.0,
+    "UNIT": 0.0,
+    "LOCATION": 0.0,
+    "DIMENSION": 0.0,
+    "STANDARD": 0.0,
+    "ACTION": 0.0,
+    "GRADE": 0.0
+  },
+  "training_samples": 217,
+  "validation_samples": 45,
+  "test_samples": 45,
+  "real_samples": 7,
+  "base_model": "allenai/scibert_scivocab_uncased",
+  "epochs": 10,
+  "learning_rate": 2e-05,
+  "batch_size": 16,
+  "real_test_f1": 0,
+  "real_test_precision": 0,
+  "real_test_recall": 0
+}

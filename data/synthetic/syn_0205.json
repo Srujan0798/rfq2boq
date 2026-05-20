@@ -1,0 +1,227 @@
+{
+  "id": "syn_0205",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "piping",
+  "text": "Supply and installation of GI pipe, CI pipe, SWR pipe for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay CI pipe  289  rmt  1918  35854\n2  Lay M35 PCC 8mm diameter  366  kg  2217  52798\n3  Fix DPC 200mm thick  279  set  280  82689\n4  Provide and lay Class A brick masonry 230mm thick  47  kg  2133  47890\n5  Apply aluminum window  218  sqm  3439  1055\n6  Provide and install switch 16mm diameter  32  nos  3381  44574\n7  Provide and fix Class 1 cement plaster 12mm diameter  474  nos  2247  17327\n8  Erect Fe415 rebar 100 x 100mm  172  cum  331  75346\n9  Install CI pipe 12mm diameter  42  set  635  68605\n10  Cast M30 M25 concrete 100mm thick  285  cum  3882  73240\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI pipe, CI pipe, SWR pipe for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Lay CI pipe Lay M35 PCC 8mm diameter Fix DPC 200mm thick Provide and lay Class A brick masonry 230mm thick Apply aluminum window Provide and install switch 16mm diameter Provide and fix Class 1 cement plaster 12mm diameter Erect Fe415 rebar 100 x 100mm Install CI pipe 12mm diameter Cast M30 M25 concrete 100mm thick",
+  "sections": {
+    "scope": "Supply and installation of GI pipe, CI pipe, SWR pipe for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay CI pipe",
+        "289",
+        "rmt",
+        "1918",
+        "35854"
+      ],
+      [
+        "2",
+        "Lay M35 PCC 8mm diameter",
+        "366",
+        "kg",
+        "2217",
+        "52798"
+      ],
+      [
+        "3",
+        "Fix DPC 200mm thick",
+        "279",
+        "set",
+        "280",
+        "82689"
+      ],
+      [
+        "4",
+        "Provide and lay Class A brick masonry 230mm thick",
+        "47",
+        "kg",
+        "2133",
+        "47890"
+      ],
+      [
+        "5",
+        "Apply aluminum window",
+        "218",
+        "sqm",
+        "3439",
+        "1055"
+      ],
+      [
+        "6",
+        "Provide and install switch 16mm diameter",
+        "32",
+        "nos",
+        "3381",
+        "44574"
+      ],
+      [
+        "7",
+        "Provide and fix Class 1 cement plaster 12mm diameter",
+        "474",
+        "nos",
+        "2247",
+        "17327"
+      ],
+      [
+        "8",
+        "Erect Fe415 rebar 100 x 100mm",
+        "172",
+        "cum",
+        "331",
+        "75346"
+      ],
+      [
+        "9",
+        "Install CI pipe 12mm diameter",
+        "42",
+        "set",
+        "635",
+        "68605"
+      ],
+      [
+        "10",
+        "Cast M30 M25 concrete 100mm thick",
+        "285",
+        "cum",
+        "3882",
+        "73240"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 289,
+        "unit": "rmt",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "PCC",
+        "grade": "M35",
+        "dimension": "8mm diameter",
+        "quantity": 366,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 279,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "230mm thick",
+        "quantity": 47,
+        "unit": "kg",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "",
+        "quantity": 218,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 32,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and fix",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "12mm diameter",
+        "quantity": 474,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "100 x 100mm",
+        "quantity": 172,
+        "unit": "m^3",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 42,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Cast",
+        "material": "M25 concrete",
+        "grade": "M30",
+        "dimension": "100mm thick",
+        "quantity": 285,
+        "unit": "m^3",
+        "standard": [
+          "IS 383"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

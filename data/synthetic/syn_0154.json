@@ -1,0 +1,167 @@
+{
+  "id": "syn_0154",
+  "project_name": "Hotel at Airport Road",
+  "category": "steel",
+  "text": "The work comprises MS plate, GI sheet, TMT steel for the proposed Hotel at Airport Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix glass  16  nos  4058  58534\n2  Lay Class C hollow block 16mm diameter  300  kg  3373  83215\n3  Apply DPC 25mm thick  417  ls  3132  48777\n4  Lay GI conduit 300mm thick  192  sqm  2122  71552\n5  Supply and lay Fe415 rebar 230mm thick  479  set  1966  95385\n6  Fabricate and erect Class 1 tile 10mm diameter  147  cum  4941  58171\n7  Supply and install M25 M20 concrete 150mm thick  296  set  4004  93577\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises MS plate, GI sheet, TMT steel for the proposed Hotel at Airport Road. Materials to be of best quality conforming to relevant Indian Standards. Supply and fix glass Lay Class C hollow block 16mm diameter Apply DPC 25mm thick Lay GI conduit 300mm thick Supply and lay Fe415 rebar 230mm thick Fabricate and erect Class 1 tile 10mm diameter Supply and install M25 M20 concrete 150mm thick",
+  "sections": {
+    "scope": "The work comprises MS plate, GI sheet, TMT steel for the proposed Hotel at Airport Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix glass",
+        "16",
+        "nos",
+        "4058",
+        "58534"
+      ],
+      [
+        "2",
+        "Lay Class C hollow block 16mm diameter",
+        "300",
+        "kg",
+        "3373",
+        "83215"
+      ],
+      [
+        "3",
+        "Apply DPC 25mm thick",
+        "417",
+        "ls",
+        "3132",
+        "48777"
+      ],
+      [
+        "4",
+        "Lay GI conduit 300mm thick",
+        "192",
+        "sqm",
+        "2122",
+        "71552"
+      ],
+      [
+        "5",
+        "Supply and lay Fe415 rebar 230mm thick",
+        "479",
+        "set",
+        "1966",
+        "95385"
+      ],
+      [
+        "6",
+        "Fabricate and erect Class 1 tile 10mm diameter",
+        "147",
+        "cum",
+        "4941",
+        "58171"
+      ],
+      [
+        "7",
+        "Supply and install M25 M20 concrete 150mm thick",
+        "296",
+        "set",
+        "4004",
+        "93577"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 16,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "16mm diameter",
+        "quantity": 300,
+        "unit": "kg",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 417,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 192,
+        "unit": "m^2",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "230mm thick",
+        "quantity": 479,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fabricate and erect",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "10mm diameter",
+        "quantity": 147,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and install",
+        "material": "M20 concrete",
+        "grade": "M25",
+        "dimension": "150mm thick",
+        "quantity": 296,
+        "unit": "set",
+        "standard": [
+          "IS 383"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0054",
+  "project_name": "IT Park Phase 2",
+  "category": "waterproofing",
+  "text": "The work comprises integral waterproofing, DPC, membrane for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay M30 M25 concrete  294  set  4832  46135\n2  Install light fixture 10mm diameter  452  sqm  1425  14143\n3  Erect Class C AAC block 150mm thick  412  ls  3287  84345\n4  Install brickbat coba 8mm diameter  84  set  624  35483\n5  Supply and lay Fe500 MS plate 6mm diameter  321  cum  4368  38548\n6  Fix Class 1 putty 10mm diameter  429  rmt  1752  87099\n7  Supply and install MS door 150mm thick  411  kg  2059  86854\n8  Supply and lay GI pipe 6mm diameter  151  ltr  4901  27255\n9  Apply M20 PCC 100 x 100mm  370  sqm  4680  77406\n10  Install switch 16mm thick  151  kg  3409  76354\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises integral waterproofing, DPC, membrane for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards. Lay M30 M25 concrete Install light fixture 10mm diameter Erect Class C AAC block 150mm thick Install brickbat coba 8mm diameter Supply and lay Fe500 MS plate 6mm diameter Fix Class 1 putty 10mm diameter Supply and install MS door 150mm thick Supply and lay GI pipe 6mm diameter Apply M20 PCC 100 x 100mm Install switch 16mm thick",
+  "sections": {
+    "scope": "The work comprises integral waterproofing, DPC, membrane for the proposed IT Park Phase 2. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay M30 M25 concrete",
+        "294",
+        "set",
+        "4832",
+        "46135"
+      ],
+      [
+        "2",
+        "Install light fixture 10mm diameter",
+        "452",
+        "sqm",
+        "1425",
+        "14143"
+      ],
+      [
+        "3",
+        "Erect Class C AAC block 150mm thick",
+        "412",
+        "ls",
+        "3287",
+        "84345"
+      ],
+      [
+        "4",
+        "Install brickbat coba 8mm diameter",
+        "84",
+        "set",
+        "624",
+        "35483"
+      ],
+      [
+        "5",
+        "Supply and lay Fe500 MS plate 6mm diameter",
+        "321",
+        "cum",
+        "4368",
+        "38548"
+      ],
+      [
+        "6",
+        "Fix Class 1 putty 10mm diameter",
+        "429",
+        "rmt",
+        "1752",
+        "87099"
+      ],
+      [
+        "7",
+        "Supply and install MS door 150mm thick",
+        "411",
+        "kg",
+        "2059",
+        "86854"
+      ],
+      [
+        "8",
+        "Supply and lay GI pipe 6mm diameter",
+        "151",
+        "ltr",
+        "4901",
+        "27255"
+      ],
+      [
+        "9",
+        "Apply M20 PCC 100 x 100mm",
+        "370",
+        "sqm",
+        "4680",
+        "77406"
+      ],
+      [
+        "10",
+        "Install switch 16mm thick",
+        "151",
+        "kg",
+        "3409",
+        "76354"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "M25 concrete",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 294,
+        "unit": "set",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 452,
+        "unit": "m^2",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Erect",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "150mm thick",
+        "quantity": 412,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 84,
+        "unit": "set",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "6mm diameter",
+        "quantity": 321,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "10mm diameter",
+        "quantity": 429,
+        "unit": "rmt",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and install",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 411,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 151,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Apply",
+        "material": "PCC",
+        "grade": "M20",
+        "dimension": "100 x 100mm",
+        "quantity": 370,
+        "unit": "m^2",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 151,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0117",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "electrical",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install Class 2 tile 12mm diameter  87  set  1030  89335\n2  Lay Class B hollow block 300mm thick  379  cum  3780  84744\n3  Provide and install flush door 12mm thick  391  kg  1870  46624\n4  Plaster Fe415 MS plate 200 x 200mm  305  cum  2573  41234\n5  Apply SWR pipe 200 x 200mm  265  set  4543  56816\n6  Supply and lay M30 PCC 200 x 200mm  484  rmt  4628  78973\n7  Erect GI conduit 230mm thick  155  ltr  950  12749\n8  Supply and lay brickbat coba 16mm diameter  264  sqm  367  88518\n9  Provide and install Class 2 tile 230mm thick  124  set  3946  17310\n10  Erect Class B fly ash brick  474  ltr  1934  67527\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the Apartment Block at HSR Layout project. All work to be carried out as per specifications. Supply and install Class 2 tile 12mm diameter Lay Class B hollow block 300mm thick Provide and install flush door 12mm thick Plaster Fe415 MS plate 200 x 200mm Apply SWR pipe 200 x 200mm Supply and lay M30 PCC 200 x 200mm Erect GI conduit 230mm thick Supply and lay brickbat coba 16mm diameter Provide and install Class 2 tile 230mm thick Erect Class B fly ash brick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at interior walls for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install Class 2 tile 12mm diameter",
+        "87",
+        "set",
+        "1030",
+        "89335"
+      ],
+      [
+        "2",
+        "Lay Class B hollow block 300mm thick",
+        "379",
+        "cum",
+        "3780",
+        "84744"
+      ],
+      [
+        "3",
+        "Provide and install flush door 12mm thick",
+        "391",
+        "kg",
+        "1870",
+        "46624"
+      ],
+      [
+        "4",
+        "Plaster Fe415 MS plate 200 x 200mm",
+        "305",
+        "cum",
+        "2573",
+        "41234"
+      ],
+      [
+        "5",
+        "Apply SWR pipe 200 x 200mm",
+        "265",
+        "set",
+        "4543",
+        "56816"
+      ],
+      [
+        "6",
+        "Supply and lay M30 PCC 200 x 200mm",
+        "484",
+        "rmt",
+        "4628",
+        "78973"
+      ],
+      [
+        "7",
+        "Erect GI conduit 230mm thick",
+        "155",
+        "ltr",
+        "950",
+        "12749"
+      ],
+      [
+        "8",
+        "Supply and lay brickbat coba 16mm diameter",
+        "264",
+        "sqm",
+        "367",
+        "88518"
+      ],
+      [
+        "9",
+        "Provide and install Class 2 tile 230mm thick",
+        "124",
+        "set",
+        "3946",
+        "17310"
+      ],
+      [
+        "10",
+        "Erect Class B fly ash brick",
+        "474",
+        "ltr",
+        "1934",
+        "67527"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "12mm diameter",
+        "quantity": 87,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Lay",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "300mm thick",
+        "quantity": 379,
+        "unit": "m^3",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 391,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "200 x 200mm",
+        "quantity": 305,
+        "unit": "m^3",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 265,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "PCC",
+        "grade": "M30",
+        "dimension": "200 x 200mm",
+        "quantity": 484,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Erect",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 155,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 264,
+        "unit": "m^2",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and install",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "230mm thick",
+        "quantity": 124,
+        "unit": "set",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Erect",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 474,
+        "unit": "ltr",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0245",
+  "project_name": "School Building at Electronic City",
+  "category": "steel",
+  "text": "Supply and installation of MS plate, TMT steel, structural steel for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply brickbat coba 25mm thick  363  set  4728  29192\n2  Provide and fix PVC pipe 200mm thick  409  kg  4054  94662\n3  Plaster MS door  482  rmt  4556  62029\n4  Apply Class C brick masonry  386  set  2195  76279\n5  Supply and fix M25 M35 concrete  100  ls  2545  19894\n6  Supply and install Fe500 MS plate  145  kg  983  70936\n7  Supply and install Class 1 putty 8mm diameter  108  nos  3225  29195\n8  Supply and install cable 12mm thick  86  ltr  1340  5606\n9  Fix brickbat coba 8mm diameter  415  kg  1210  10185\n10  Provide and install SWR pipe  219  cum  3997  80287\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of MS plate, TMT steel, structural steel for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice. Apply brickbat coba 25mm thick Provide and fix PVC pipe 200mm thick Plaster MS door Apply Class C brick masonry Supply and fix M25 M35 concrete Supply and install Fe500 MS plate Supply and install Class 1 putty 8mm diameter Supply and install cable 12mm thick Fix brickbat coba 8mm diameter Provide and install SWR pipe",
+  "sections": {
+    "scope": "Supply and installation of MS plate, TMT steel, structural steel for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply brickbat coba 25mm thick",
+        "363",
+        "set",
+        "4728",
+        "29192"
+      ],
+      [
+        "2",
+        "Provide and fix PVC pipe 200mm thick",
+        "409",
+        "kg",
+        "4054",
+        "94662"
+      ],
+      [
+        "3",
+        "Plaster MS door",
+        "482",
+        "rmt",
+        "4556",
+        "62029"
+      ],
+      [
+        "4",
+        "Apply Class C brick masonry",
+        "386",
+        "set",
+        "2195",
+        "76279"
+      ],
+      [
+        "5",
+        "Supply and fix M25 M35 concrete",
+        "100",
+        "ls",
+        "2545",
+        "19894"
+      ],
+      [
+        "6",
+        "Supply and install Fe500 MS plate",
+        "145",
+        "kg",
+        "983",
+        "70936"
+      ],
+      [
+        "7",
+        "Supply and install Class 1 putty 8mm diameter",
+        "108",
+        "nos",
+        "3225",
+        "29195"
+      ],
+      [
+        "8",
+        "Supply and install cable 12mm thick",
+        "86",
+        "ltr",
+        "1340",
+        "5606"
+      ],
+      [
+        "9",
+        "Fix brickbat coba 8mm diameter",
+        "415",
+        "kg",
+        "1210",
+        "10185"
+      ],
+      [
+        "10",
+        "Provide and install SWR pipe",
+        "219",
+        "cum",
+        "3997",
+        "80287"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 363,
+        "unit": "set",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 409,
+        "unit": "kg",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 482,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 386,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 100,
+        "unit": "ls",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 145,
+        "unit": "kg",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and install",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "8mm diameter",
+        "quantity": 108,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and install",
+        "material": "cable",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 86,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Fix",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 415,
+        "unit": "kg",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 219,
+        "unit": "m^3",
+        "standard": [
+          "IS 4985"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

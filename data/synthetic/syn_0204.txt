@@ -1,0 +1,40 @@
+The scope of work includes SWR pipe, GI pipe, CI pipe for the Residential Complex at Whitefield project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Install SWR pipe 6mm diameter  430  sqm  2591  71137
+2  Fix Fe415 MS plate 200 x 200mm  71  set  4303  97658
+3  Lay GI conduit 12mm thick  201  set  310  35013
+4  Fabricate and erect flush door 12mm thick  173  set  3215  74849
+5  Cast Class 2 cement plaster 200mm thick  216  sqm  4285  66494
+6  Cast integral waterproofing 16mm diameter  353  ltr  3895  96185
+7  Plaster M40 M35 concrete 150mm thick  486  set  453  78180
+8  Apply Class A fly ash brick 200mm thick  70  nos  3569  15744
+9  Supply and install HDPE pipe  263  kg  4631  74162
+10  Apply Fe500 MS plate  203  ls  4859  87328
+11  Provide and lay light fixture 8mm diameter  337  cum  2418  80930
+12  Lay glass 8mm diameter  137  nos  2276  60383
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

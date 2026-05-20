@@ -1,0 +1,267 @@
+{
+  "id": "syn_0092",
+  "project_name": "School Building at Electronic City",
+  "category": "electrical",
+  "text": "The work comprises GI conduit, switch, DB for the proposed School Building at Electronic City. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster Class 1 cement plaster 12mm diameter  98  ltr  4508  11636\n2  Supply GI pipe 200 x 200mm  436  set  3032  51692\n3  Supply and install Class C AAC block 16mm thick  73  set  176  30035\n4  Plaster brickbat coba  481  ls  2583  95084\n5  Fabricate and erect Fe415 MS plate  195  cum  1812  1935\n6  Supply and lay GI conduit 12mm diameter  455  nos  4620  26397\n7  Plaster M40 RCC  359  rmt  632  17702\n8  Supply MS door  277  nos  4465  81538\n9  Supply and install Class 2 tile 150mm thick  490  ltr  3643  54330\n10  Plaster HDPE pipe 16mm diameter  275  set  1939  7155\n11  Lay Class B fly ash brick  239  ls  2841  11722\n12  Apply brickbat coba 16mm thick  226  sqm  2797  41737\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises GI conduit, switch, DB for the proposed School Building at Electronic City. Materials to be of best quality conforming to relevant Indian Standards. Plaster Class 1 cement plaster 12mm diameter Supply GI pipe 200 x 200mm Supply and install Class C AAC block 16mm thick Plaster brickbat coba Fabricate and erect Fe415 MS plate Supply and lay GI conduit 12mm diameter Plaster M40 RCC Supply MS door Supply and install Class 2 tile 150mm thick Plaster HDPE pipe 16mm diameter Lay Class B fly ash brick Apply brickbat coba 16mm thick",
+  "sections": {
+    "scope": "The work comprises GI conduit, switch, DB for the proposed School Building at Electronic City. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster Class 1 cement plaster 12mm diameter",
+        "98",
+        "ltr",
+        "4508",
+        "11636"
+      ],
+      [
+        "2",
+        "Supply GI pipe 200 x 200mm",
+        "436",
+        "set",
+        "3032",
+        "51692"
+      ],
+      [
+        "3",
+        "Supply and install Class C AAC block 16mm thick",
+        "73",
+        "set",
+        "176",
+        "30035"
+      ],
+      [
+        "4",
+        "Plaster brickbat coba",
+        "481",
+        "ls",
+        "2583",
+        "95084"
+      ],
+      [
+        "5",
+        "Fabricate and erect Fe415 MS plate",
+        "195",
+        "cum",
+        "1812",
+        "1935"
+      ],
+      [
+        "6",
+        "Supply and lay GI conduit 12mm diameter",
+        "455",
+        "nos",
+        "4620",
+        "26397"
+      ],
+      [
+        "7",
+        "Plaster M40 RCC",
+        "359",
+        "rmt",
+        "632",
+        "17702"
+      ],
+      [
+        "8",
+        "Supply MS door",
+        "277",
+        "nos",
+        "4465",
+        "81538"
+      ],
+      [
+        "9",
+        "Supply and install Class 2 tile 150mm thick",
+        "490",
+        "ltr",
+        "3643",
+        "54330"
+      ],
+      [
+        "10",
+        "Plaster HDPE pipe 16mm diameter",
+        "275",
+        "set",
+        "1939",
+        "7155"
+      ],
+      [
+        "11",
+        "Lay Class B fly ash brick",
+        "239",
+        "ls",
+        "2841",
+        "11722"
+      ],
+      [
+        "12",
+        "Apply brickbat coba 16mm thick",
+        "226",
+        "sqm",
+        "2797",
+        "41737"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "12mm diameter",
+        "quantity": 98,
+        "unit": "ltr",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 436,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "16mm thick",
+        "quantity": 73,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 481,
+        "unit": "ls",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "",
+        "quantity": 195,
+        "unit": "m^3",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 455,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Plaster",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "",
+        "quantity": 359,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 277,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "150mm thick",
+        "quantity": 490,
+        "unit": "ltr",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Plaster",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 275,
+        "unit": "set",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Lay",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 239,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Apply",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 226,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

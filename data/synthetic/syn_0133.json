@@ -1,0 +1,127 @@
+{
+  "id": "syn_0133",
+  "project_name": "Commercial Building at MG Road",
+  "category": "doors_windows",
+  "text": "The scope of work includes glass, flush door, aluminum window for the Commercial Building at MG Road project located at roof level. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix MS door 100 x 100mm  258  rmt  1726  84200\n2  Install Class C brick masonry  380  kg  4119  74103\n3  Apply DB 25mm thick  101  cum  3215  83709\n4  Plaster Class 1 putty 12mm thick  188  set  1999  39288\n5  Fix CI pipe 12mm diameter  332  ltr  890  29695\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes glass, flush door, aluminum window for the Commercial Building at MG Road project located at roof level. The contractor shall supply all materials and execute the works as per the specifications given below. Supply and fix MS door 100 x 100mm Install Class C brick masonry Apply DB 25mm thick Plaster Class 1 putty 12mm thick Fix CI pipe 12mm diameter",
+  "sections": {
+    "scope": "The scope of work includes glass, flush door, aluminum window for the Commercial Building at MG Road project located at roof level. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix MS door 100 x 100mm",
+        "258",
+        "rmt",
+        "1726",
+        "84200"
+      ],
+      [
+        "2",
+        "Install Class C brick masonry",
+        "380",
+        "kg",
+        "4119",
+        "74103"
+      ],
+      [
+        "3",
+        "Apply DB 25mm thick",
+        "101",
+        "cum",
+        "3215",
+        "83709"
+      ],
+      [
+        "4",
+        "Plaster Class 1 putty 12mm thick",
+        "188",
+        "set",
+        "1999",
+        "39288"
+      ],
+      [
+        "5",
+        "Fix CI pipe 12mm diameter",
+        "332",
+        "ltr",
+        "890",
+        "29695"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 258,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "brick masonry",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 380,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "DB",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 101,
+        "unit": "m^3",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 188,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 332,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

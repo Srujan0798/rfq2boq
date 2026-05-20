@@ -1,0 +1,39 @@
+Items described in the Bill of Quantities are to be supplied and installed at exterior walls for the Hospital Building at Hebbal project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Apply Class 1 cement plaster 300mm thick  463  set  1224  85180
+2  Supply DPC 10mm diameter  413  ltr  3574  73358
+3  Provide and fix M35 M35 concrete 100mm thick  125  rmt  4180  96802
+4  Erect PVC pipe  484  ls  4754  64342
+5  Cast Fe415 structural steel  256  sqm  4412  99380
+6  Lay MS door  50  sqm  4517  76973
+7  Supply switch 16mm diameter  185  cum  4801  97182
+8  Provide and fix Class B fly ash brick  418  nos  4995  99228
+9  Supply and install Class 2 tile 150mm thick  332  set  2490  97649
+10  Fabricate and erect brickbat coba 25mm thick  52  rmt  1185  81713
+11  Install M30 M30 concrete 12mm thick  141  cum  1338  87396
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

@@ -1,0 +1,147 @@
+{
+  "id": "syn_0264",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "steel",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay Class C fly ash brick  232  nos  912  51998\n2  Supply MS door  428  nos  3866  24419\n3  Plaster CI pipe 12mm diameter  468  ltr  359  56311\n4  Fix M25 RCC  138  nos  2372  57173\n5  Provide and fix cable  449  ls  3715  3591\n6  Cast Fe500 TMT steel  325  kg  1597  6397\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Apartment Block at HSR Layout project. All work to be carried out as per specifications. Supply and lay Class C fly ash brick Supply MS door Plaster CI pipe 12mm diameter Fix M25 RCC Provide and fix cable Cast Fe500 TMT steel",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Apartment Block at HSR Layout project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay Class C fly ash brick",
+        "232",
+        "nos",
+        "912",
+        "51998"
+      ],
+      [
+        "2",
+        "Supply MS door",
+        "428",
+        "nos",
+        "3866",
+        "24419"
+      ],
+      [
+        "3",
+        "Plaster CI pipe 12mm diameter",
+        "468",
+        "ltr",
+        "359",
+        "56311"
+      ],
+      [
+        "4",
+        "Fix M25 RCC",
+        "138",
+        "nos",
+        "2372",
+        "57173"
+      ],
+      [
+        "5",
+        "Provide and fix cable",
+        "449",
+        "ls",
+        "3715",
+        "3591"
+      ],
+      [
+        "6",
+        "Cast Fe500 TMT steel",
+        "325",
+        "kg",
+        "1597",
+        "6397"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 232,
+        "unit": "no.",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 428,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 468,
+        "unit": "ltr",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fix",
+        "material": "RCC",
+        "grade": "M25",
+        "dimension": "",
+        "quantity": 138,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 449,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 325,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

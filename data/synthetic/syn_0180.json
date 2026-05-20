@@ -1,0 +1,267 @@
+{
+  "id": "syn_0180",
+  "project_name": "Commercial Building at MG Road",
+  "category": "electrical",
+  "text": "The work comprises GI conduit, cable, light fixture for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Fix switch 230mm thick  324  ls  4204  27438\n2  Provide and fix Class A AAC block 16mm diameter  358  nos  1711  58008\n3  Fabricate and erect M20 RCC 10mm diameter  378  nos  2430  44595\n4  Cast Class 2 cement plaster 8mm diameter  331  sqm  4784  31270\n5  Fabricate and erect integral waterproofing 150mm thick  145  nos  4847  34310\n6  Supply and install glass  281  kg  2057  53032\n7  Supply and install Fe500 TMT steel 25mm thick  500  sqm  4577  55624\n8  Fix GI pipe 16mm thick  317  cum  4624  38690\n9  Supply cable  209  ls  1740  2862\n10  Provide and fix Class A hollow block 100mm thick  341  kg  1163  99226\n11  Supply and fix M30 RCC 8mm diameter  346  nos  3593  27750\n12  Supply and lay Class 2 POP 200mm thick  401  nos  1374  16917\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises GI conduit, cable, light fixture for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards. Fix switch 230mm thick Provide and fix Class A AAC block 16mm diameter Fabricate and erect M20 RCC 10mm diameter Cast Class 2 cement plaster 8mm diameter Fabricate and erect integral waterproofing 150mm thick Supply and install glass Supply and install Fe500 TMT steel 25mm thick Fix GI pipe 16mm thick Supply cable Provide and fix Class A hollow block 100mm thick Supply and fix M30 RCC 8mm diameter Supply and lay Class 2 POP 200mm thick",
+  "sections": {
+    "scope": "The work comprises GI conduit, cable, light fixture for the proposed Commercial Building at MG Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Fix switch 230mm thick",
+        "324",
+        "ls",
+        "4204",
+        "27438"
+      ],
+      [
+        "2",
+        "Provide and fix Class A AAC block 16mm diameter",
+        "358",
+        "nos",
+        "1711",
+        "58008"
+      ],
+      [
+        "3",
+        "Fabricate and erect M20 RCC 10mm diameter",
+        "378",
+        "nos",
+        "2430",
+        "44595"
+      ],
+      [
+        "4",
+        "Cast Class 2 cement plaster 8mm diameter",
+        "331",
+        "sqm",
+        "4784",
+        "31270"
+      ],
+      [
+        "5",
+        "Fabricate and erect integral waterproofing 150mm thick",
+        "145",
+        "nos",
+        "4847",
+        "34310"
+      ],
+      [
+        "6",
+        "Supply and install glass",
+        "281",
+        "kg",
+        "2057",
+        "53032"
+      ],
+      [
+        "7",
+        "Supply and install Fe500 TMT steel 25mm thick",
+        "500",
+        "sqm",
+        "4577",
+        "55624"
+      ],
+      [
+        "8",
+        "Fix GI pipe 16mm thick",
+        "317",
+        "cum",
+        "4624",
+        "38690"
+      ],
+      [
+        "9",
+        "Supply cable",
+        "209",
+        "ls",
+        "1740",
+        "2862"
+      ],
+      [
+        "10",
+        "Provide and fix Class A hollow block 100mm thick",
+        "341",
+        "kg",
+        "1163",
+        "99226"
+      ],
+      [
+        "11",
+        "Supply and fix M30 RCC 8mm diameter",
+        "346",
+        "nos",
+        "3593",
+        "27750"
+      ],
+      [
+        "12",
+        "Supply and lay Class 2 POP 200mm thick",
+        "401",
+        "nos",
+        "1374",
+        "16917"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Fix",
+        "material": "switch",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 324,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "16mm diameter",
+        "quantity": 358,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fabricate and erect",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "10mm diameter",
+        "quantity": 378,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "8mm diameter",
+        "quantity": 331,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 145,
+        "unit": "no.",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "glass",
+        "grade": "",
+        "dimension": "",
+        "quantity": 281,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and install",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "25mm thick",
+        "quantity": 500,
+        "unit": "m^2",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 317,
+        "unit": "m^3",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 209,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and fix",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "100mm thick",
+        "quantity": 341,
+        "unit": "kg",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and fix",
+        "material": "RCC",
+        "grade": "M30",
+        "dimension": "8mm diameter",
+        "quantity": 346,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Supply and lay",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "200mm thick",
+        "quantity": 401,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

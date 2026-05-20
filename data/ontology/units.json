@@ -1,0 +1,626 @@
+{
+  "units": [
+    {
+      "symbol": "deg",
+      "aliases": [
+        "degree",
+        "degrees",
+        "°"
+      ],
+      "full_name": "degree",
+      "dimension": "angle"
+    },
+    {
+      "symbol": "acre",
+      "aliases": [
+        "acre",
+        "acres"
+      ],
+      "full_name": "acre",
+      "dimension": "area"
+    },
+    {
+      "symbol": "cm2",
+      "aliases": [
+        "cm²",
+        "sq cm",
+        "square centimeter"
+      ],
+      "full_name": "square centimeter",
+      "dimension": "area"
+    },
+    {
+      "symbol": "ft^2",
+      "aliases": [
+        "sq.ft",
+        "sq ft",
+        "sft",
+        "ft2",
+        "square foot",
+        "square feet"
+      ],
+      "full_name": "square feet",
+      "dimension": "area"
+    },
+    {
+      "symbol": "ha",
+      "aliases": [
+        "hectare",
+        "hectares"
+      ],
+      "full_name": "hectare",
+      "dimension": "area"
+    },
+    {
+      "symbol": "m2",
+      "aliases": [
+        "m²"
+      ],
+      "full_name": "square meter",
+      "dimension": "area"
+    },
+    {
+      "symbol": "mm2",
+      "aliases": [
+        "mm²",
+        "sq mm",
+        "square millimeter"
+      ],
+      "full_name": "square millimeter",
+      "dimension": "area"
+    },
+    {
+      "symbol": "sq.cm",
+      "aliases": [
+        "cm2"
+      ],
+      "full_name": "square centimeter",
+      "dimension": "area"
+    },
+    {
+      "symbol": "sq.mm",
+      "aliases": [
+        "mm2"
+      ],
+      "full_name": "square millimeter",
+      "dimension": "area"
+    },
+    {
+      "symbol": "sqft",
+      "aliases": [
+        "sq.ft",
+        "sf",
+        "square feet",
+        "square foot"
+      ],
+      "full_name": "square feet",
+      "dimension": "area"
+    },
+    {
+      "symbol": "sqin",
+      "aliases": [
+        "sq.in",
+        "square inch",
+        "square inches"
+      ],
+      "full_name": "square inch",
+      "dimension": "area"
+    },
+    {
+      "symbol": "sqm",
+      "aliases": [
+        "sq.m",
+        "sq.m.",
+        "m2",
+        "m²",
+        "square meter",
+        "square metre"
+      ],
+      "full_name": "square meter",
+      "dimension": "area"
+    },
+    {
+      "symbol": "kl",
+      "aliases": [
+        "kiloliter",
+        "kilolitre"
+      ],
+      "full_name": "kiloliter",
+      "dimension": "capacity"
+    },
+    {
+      "symbol": "bag",
+      "aliases": [
+        "bag",
+        "bags",
+        "sack"
+      ],
+      "full_name": "bag",
+      "dimension": "count"
+    },
+    {
+      "symbol": "box",
+      "aliases": [
+        "box",
+        "boxes"
+      ],
+      "full_name": "box",
+      "dimension": "count"
+    },
+    {
+      "symbol": "bundle",
+      "aliases": [
+        "bundle",
+        "bundles",
+        "bdl"
+      ],
+      "full_name": "bundle",
+      "dimension": "count"
+    },
+    {
+      "symbol": "coil",
+      "aliases": [
+        "coil",
+        "coils"
+      ],
+      "full_name": "coil",
+      "dimension": "count"
+    },
+    {
+      "symbol": "drum",
+      "aliases": [
+        "drum",
+        "drums",
+        "barrel"
+      ],
+      "full_name": "drum",
+      "dimension": "count"
+    },
+    {
+      "symbol": "job",
+      "aliases": [
+        "jobs"
+      ],
+      "full_name": "job",
+      "dimension": "count"
+    },
+    {
+      "symbol": "lot",
+      "aliases": [
+        "lot",
+        "lots"
+      ],
+      "full_name": "lot",
+      "dimension": "count"
+    },
+    {
+      "symbol": "no.",
+      "aliases": [
+        "no",
+        "nos",
+        "nos.",
+        "nr",
+        "numbers",
+        "each"
+      ],
+      "full_name": "numbers",
+      "dimension": "count"
+    },
+    {
+      "symbol": "nos",
+      "aliases": [
+        "no",
+        "no.",
+        "nos.",
+        "nr",
+        "number",
+        "numbers",
+        "each",
+        "ea",
+        "piece",
+        "pieces",
+        "pce"
+      ],
+      "full_name": "numbers",
+      "dimension": "count"
+    },
+    {
+      "symbol": "pair",
+      "aliases": [
+        "pair",
+        "pairs",
+        "pr"
+      ],
+      "full_name": "pair",
+      "dimension": "count"
+    },
+    {
+      "symbol": "plate",
+      "aliases": [
+        "plate",
+        "plates"
+      ],
+      "full_name": "plate",
+      "dimension": "count"
+    },
+    {
+      "symbol": "point",
+      "aliases": [
+        "points"
+      ],
+      "full_name": "point",
+      "dimension": "count"
+    },
+    {
+      "symbol": "roll",
+      "aliases": [
+        "roll",
+        "rolls"
+      ],
+      "full_name": "roll",
+      "dimension": "count"
+    },
+    {
+      "symbol": "set",
+      "aliases": [
+        "set",
+        "sets",
+        "kit",
+        "unit"
+      ],
+      "full_name": "set",
+      "dimension": "count"
+    },
+    {
+      "symbol": "sheet",
+      "aliases": [
+        "sheet",
+        "sheets"
+      ],
+      "full_name": "sheet",
+      "dimension": "count"
+    },
+    {
+      "symbol": "A",
+      "aliases": [
+        "amp",
+        "amps",
+        "ampere",
+        "amperes"
+      ],
+      "full_name": "ampere",
+      "dimension": "electrical"
+    },
+    {
+      "symbol": "V",
+      "aliases": [
+        "v",
+        "volt",
+        "volts"
+      ],
+      "full_name": "volt",
+      "dimension": "electrical"
+    },
+    {
+      "symbol": "VA",
+      "aliases": [
+        "va",
+        "volt ampere"
+      ],
+      "full_name": "volt ampere",
+      "dimension": "electrical"
+    },
+    {
+      "symbol": "kVA",
+      "aliases": [
+        "kva",
+        "kilovolt ampere"
+      ],
+      "full_name": "kilovolt ampere",
+      "dimension": "electrical"
+    },
+    {
+      "symbol": "cm",
+      "aliases": [
+        "centimeter",
+        "centimetre"
+      ],
+      "full_name": "centimeter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "ft",
+      "aliases": [
+        "feet",
+        "foot"
+      ],
+      "full_name": "feet",
+      "dimension": "length"
+    },
+    {
+      "symbol": "in",
+      "aliases": [
+        "inch",
+        "inches",
+        "\"",
+        "in."
+      ],
+      "full_name": "inch",
+      "dimension": "length"
+    },
+    {
+      "symbol": "lm",
+      "aliases": [
+        "l.m.",
+        "linear meter",
+        "lineal meter",
+        "running meter"
+      ],
+      "full_name": "linear meter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "m",
+      "aliases": [
+        "meter",
+        "metre",
+        "meters",
+        "metres"
+      ],
+      "full_name": "meter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "mm",
+      "aliases": [
+        "millimeter",
+        "millimetre"
+      ],
+      "full_name": "millimeter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "rm",
+      "aliases": [
+        "r.m.",
+        "running meter",
+        "running metre"
+      ],
+      "full_name": "running meter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "rmt",
+      "aliases": [
+        "r.m.",
+        "r.m",
+        "running meter",
+        "running metre",
+        "linear meter",
+        "lineal meter"
+      ],
+      "full_name": "running meter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "ls",
+      "aliases": [
+        "LS",
+        "Lump-sum",
+        "lump-sum",
+        "l.s.",
+        "lumpsum",
+        "lump sum"
+      ],
+      "full_name": "lump sum",
+      "dimension": "lumpsum"
+    },
+    {
+      "symbol": "g",
+      "aliases": [
+        "gram",
+        "grams",
+        "gm"
+      ],
+      "full_name": "gram",
+      "dimension": "mass"
+    },
+    {
+      "symbol": "kg",
+      "aliases": [
+        "kgs",
+        "kilogram",
+        "kilograms"
+      ],
+      "full_name": "kilogram",
+      "dimension": "mass"
+    },
+    {
+      "symbol": "lb",
+      "aliases": [
+        "lbs",
+        "pound",
+        "pounds"
+      ],
+      "full_name": "pound",
+      "dimension": "mass"
+    },
+    {
+      "symbol": "t",
+      "aliases": [
+        "MT",
+        "Tonne",
+        "tonne",
+        "ton",
+        "tons",
+        "metric ton"
+      ],
+      "full_name": "tonne",
+      "dimension": "mass"
+    },
+    {
+      "symbol": "carton",
+      "aliases": [
+        "cartons"
+      ],
+      "full_name": "carton",
+      "dimension": "packaging"
+    },
+    {
+      "symbol": "W",
+      "aliases": [
+        "w",
+        "watt",
+        "watts"
+      ],
+      "full_name": "watt",
+      "dimension": "power"
+    },
+    {
+      "symbol": "hp",
+      "aliases": [
+        "horsepower",
+        "HP"
+      ],
+      "full_name": "horsepower",
+      "dimension": "power"
+    },
+    {
+      "symbol": "kW",
+      "aliases": [
+        "kw",
+        "kilowatt",
+        "kilowatts"
+      ],
+      "full_name": "kilowatt",
+      "dimension": "power"
+    },
+    {
+      "symbol": "Pa",
+      "aliases": [
+        "pa",
+        "pascal"
+      ],
+      "full_name": "pascal",
+      "dimension": "pressure"
+    },
+    {
+      "symbol": "bar",
+      "aliases": [
+        "bars"
+      ],
+      "full_name": "bar",
+      "dimension": "pressure"
+    },
+    {
+      "symbol": "kPa",
+      "aliases": [
+        "kpa",
+        "kilopascal"
+      ],
+      "full_name": "kilopascal",
+      "dimension": "pressure"
+    },
+    {
+      "symbol": "psi",
+      "aliases": [
+        "pound per square inch"
+      ],
+      "full_name": "pound per square inch",
+      "dimension": "pressure"
+    },
+    {
+      "symbol": "%",
+      "aliases": [
+        "percent",
+        "percentage"
+      ],
+      "full_name": "percent",
+      "dimension": "ratio"
+    },
+    {
+      "symbol": "cu.cm",
+      "aliases": [
+        "cm3",
+        "cc"
+      ],
+      "full_name": "cubic centimeter",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "cuft",
+      "aliases": [
+        "cu.ft",
+        "cf",
+        "cubic feet",
+        "cubic foot"
+      ],
+      "full_name": "cubic feet",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "cum",
+      "aliases": [
+        "cu.m",
+        "cu.m.",
+        "m3",
+        "m³",
+        "cubic meter",
+        "cubic metre"
+      ],
+      "full_name": "cubic meter",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "ft^3",
+      "aliases": [
+        "cft",
+        "ft3",
+        "cubic foot",
+        "cubic feet"
+      ],
+      "full_name": "cubic feet",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "gal",
+      "aliases": [
+        "gallon",
+        "gallons"
+      ],
+      "full_name": "gallon",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "ltr",
+      "aliases": [
+        "l",
+        "L",
+        "liter",
+        "litre",
+        "liters",
+        "litres"
+      ],
+      "full_name": "liter",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "m3",
+      "aliases": [
+        "m³"
+      ],
+      "full_name": "cubic meter",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "ml",
+      "aliases": [
+        "mL",
+        "milliliter",
+        "millilitre"
+      ],
+      "full_name": "milliliter",
+      "dimension": "volume"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "syn_0084",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "waterproofing",
+  "text": "The work comprises membrane, brickbat coba, DPC for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Apply cable 25mm thick  114  kg  4148  51079\n2  Install Fe500 MS plate 100 x 100mm  115  kg  1651  55831\n3  Fix Class B AAC block  84  cum  2029  81960\n4  Provide and fix DPC  308  set  1191  43368\n5  Apply Class 1 paint 25mm thick  206  ltr  880  74007\n6  Provide and fix GI pipe 200 x 200mm  486  kg  5000  94004\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises membrane, brickbat coba, DPC for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards. Apply cable 25mm thick Install Fe500 MS plate 100 x 100mm Fix Class B AAC block Provide and fix DPC Apply Class 1 paint 25mm thick Provide and fix GI pipe 200 x 200mm",
+  "sections": {
+    "scope": "The work comprises membrane, brickbat coba, DPC for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Apply cable 25mm thick",
+        "114",
+        "kg",
+        "4148",
+        "51079"
+      ],
+      [
+        "2",
+        "Install Fe500 MS plate 100 x 100mm",
+        "115",
+        "kg",
+        "1651",
+        "55831"
+      ],
+      [
+        "3",
+        "Fix Class B AAC block",
+        "84",
+        "cum",
+        "2029",
+        "81960"
+      ],
+      [
+        "4",
+        "Provide and fix DPC",
+        "308",
+        "set",
+        "1191",
+        "43368"
+      ],
+      [
+        "5",
+        "Apply Class 1 paint 25mm thick",
+        "206",
+        "ltr",
+        "880",
+        "74007"
+      ],
+      [
+        "6",
+        "Provide and fix GI pipe 200 x 200mm",
+        "486",
+        "kg",
+        "5000",
+        "94004"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Apply",
+        "material": "cable",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 114,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "100 x 100mm",
+        "quantity": 115,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Fix",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 84,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and fix",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "",
+        "quantity": 308,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Apply",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "25mm thick",
+        "quantity": 206,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 486,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

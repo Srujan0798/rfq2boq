@@ -1,0 +1,127 @@
+{
+  "id": "syn_0249",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "waterproofing",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at ground floor for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay Fe500 MS plate 20mm thick  465  sqm  775  13598\n2  Provide and fix DB 150 x 150mm  57  ls  1259  76147\n3  Supply and install Class 1 tile 100mm thick  106  nos  3073  27667\n4  Provide and lay Class A fly ash brick  221  ltr  3172  76334\n5  Cast MS door 8mm diameter  465  nos  1314  94862\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at ground floor for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications. Supply and lay Fe500 MS plate 20mm thick Provide and fix DB 150 x 150mm Supply and install Class 1 tile 100mm thick Provide and lay Class A fly ash brick Cast MS door 8mm diameter",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at ground floor for the Shopping Mall at Outer Ring Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay Fe500 MS plate 20mm thick",
+        "465",
+        "sqm",
+        "775",
+        "13598"
+      ],
+      [
+        "2",
+        "Provide and fix DB 150 x 150mm",
+        "57",
+        "ls",
+        "1259",
+        "76147"
+      ],
+      [
+        "3",
+        "Supply and install Class 1 tile 100mm thick",
+        "106",
+        "nos",
+        "3073",
+        "27667"
+      ],
+      [
+        "4",
+        "Provide and lay Class A fly ash brick",
+        "221",
+        "ltr",
+        "3172",
+        "76334"
+      ],
+      [
+        "5",
+        "Cast MS door 8mm diameter",
+        "465",
+        "nos",
+        "1314",
+        "94862"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "20mm thick",
+        "quantity": 465,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "DB",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 57,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and install",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "100mm thick",
+        "quantity": 106,
+        "unit": "no.",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 221,
+        "unit": "ltr",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 465,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 5
+  }
+}

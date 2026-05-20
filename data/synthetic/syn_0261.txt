@@ -1,0 +1,37 @@
+Items described in the Bill of Quantities are to be supplied and installed at balcony for the Hospital Building at Hebbal project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Cast integral waterproofing 230mm thick  114  set  1184  24699
+2  Supply and lay Class 2 paint  369  kg  2001  95705
+3  Erect light fixture 300mm thick  447  nos  4267  83517
+4  Erect CI pipe 8mm diameter  62  rmt  3774  30958
+5  Cast M20 M20 concrete 25mm thick  313  rmt  1225  36452
+6  Supply and fix Fe415 TMT steel  371  sqm  1986  44498
+7  Provide and fix Class A fly ash brick  58  nos  922  77269
+8  Provide and install flush door 10mm diameter  351  cum  4943  61423
+9  Fabricate and erect membrane 25mm thick  319  rmt  1356  13245
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

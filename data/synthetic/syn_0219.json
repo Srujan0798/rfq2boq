@@ -1,0 +1,187 @@
+{
+  "id": "syn_0219",
+  "project_name": "IT Park Phase 2",
+  "category": "steel",
+  "text": "The scope of work includes GI sheet, structural steel, rebar for the IT Park Phase 2 project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply Class 2 cement plaster  375  rmt  1169  94970\n2  Provide and fix Class B hollow block 230mm thick  445  rmt  3155  95090\n3  Supply PVC pipe 8mm diameter  407  rmt  485  54367\n4  Provide and install integral waterproofing 20mm thick  11  cum  3843  61240\n5  Supply switch 20mm thick  309  sqm  681  90625\n6  Supply and fix Fe550 TMT steel 200mm thick  316  sqm  2545  50560\n7  Cast flush door  393  kg  2259  33498\n8  Install M40 RCC 6mm diameter  151  sqm  1335  75381\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes GI sheet, structural steel, rebar for the IT Park Phase 2 project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below. Supply Class 2 cement plaster Provide and fix Class B hollow block 230mm thick Supply PVC pipe 8mm diameter Provide and install integral waterproofing 20mm thick Supply switch 20mm thick Supply and fix Fe550 TMT steel 200mm thick Cast flush door Install M40 RCC 6mm diameter",
+  "sections": {
+    "scope": "The scope of work includes GI sheet, structural steel, rebar for the IT Park Phase 2 project located at kitchen. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply Class 2 cement plaster",
+        "375",
+        "rmt",
+        "1169",
+        "94970"
+      ],
+      [
+        "2",
+        "Provide and fix Class B hollow block 230mm thick",
+        "445",
+        "rmt",
+        "3155",
+        "95090"
+      ],
+      [
+        "3",
+        "Supply PVC pipe 8mm diameter",
+        "407",
+        "rmt",
+        "485",
+        "54367"
+      ],
+      [
+        "4",
+        "Provide and install integral waterproofing 20mm thick",
+        "11",
+        "cum",
+        "3843",
+        "61240"
+      ],
+      [
+        "5",
+        "Supply switch 20mm thick",
+        "309",
+        "sqm",
+        "681",
+        "90625"
+      ],
+      [
+        "6",
+        "Supply and fix Fe550 TMT steel 200mm thick",
+        "316",
+        "sqm",
+        "2545",
+        "50560"
+      ],
+      [
+        "7",
+        "Cast flush door",
+        "393",
+        "kg",
+        "2259",
+        "33498"
+      ],
+      [
+        "8",
+        "Install M40 RCC 6mm diameter",
+        "151",
+        "sqm",
+        "1335",
+        "75381"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "",
+        "quantity": 375,
+        "unit": "rmt",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and fix",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "230mm thick",
+        "quantity": 445,
+        "unit": "rmt",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 407,
+        "unit": "rmt",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and install",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 11,
+        "unit": "m^3",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply",
+        "material": "switch",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 309,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "TMT steel",
+        "grade": "Fe550",
+        "dimension": "200mm thick",
+        "quantity": 316,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Cast",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 393,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Install",
+        "material": "RCC",
+        "grade": "M40",
+        "dimension": "6mm diameter",
+        "quantity": 151,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

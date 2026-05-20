@@ -1,0 +1,38 @@
+Items described in the Bill of Quantities are to be supplied and installed at kitchen for the Warehouse at Peenya project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay PVC pipe 25mm thick  492  rmt  1497  31800
+2  Provide and lay Class A brick masonry  376  rmt  2524  61090
+3  Supply and lay Class 1 cement plaster 300mm thick  242  rmt  526  49929
+4  Install brickbat coba 25mm thick  459  ltr  4576  61629
+5  Install M20 RCC 12mm diameter  479  set  2233  55253
+6  Supply cable 20mm thick  145  cum  3710  21196
+7  Supply and fix Fe550 GI sheet  183  sqm  428  77668
+8  Erect MS door 16mm diameter  398  nos  2126  64631
+9  Fabricate and erect PVC pipe 230mm thick  303  sqm  792  12265
+10  Lay Class A brick masonry  244  cum  4628  55516
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

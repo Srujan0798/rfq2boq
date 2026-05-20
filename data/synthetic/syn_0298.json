@@ -1,0 +1,147 @@
+{
+  "id": "syn_0298",
+  "project_name": "Warehouse at Peenya",
+  "category": "finishes",
+  "text": "Supply and installation of POP, putty, tile for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install integral waterproofing  476  set  1347  80465\n2  Supply and install Class A fly ash brick 20mm thick  30  cum  2857  33198\n3  Install Class 1 putty  134  sqm  3682  46164\n4  Erect DB  323  kg  4485  94533\n5  Fabricate and erect M20 M30 concrete 12mm diameter  347  kg  2905  75727\n6  Supply Fe500 TMT steel  117  rmt  2351  88464\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of POP, putty, tile for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice. Provide and install integral waterproofing Supply and install Class A fly ash brick 20mm thick Install Class 1 putty Erect DB Fabricate and erect M20 M30 concrete 12mm diameter Supply Fe500 TMT steel",
+  "sections": {
+    "scope": "Supply and installation of POP, putty, tile for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install integral waterproofing",
+        "476",
+        "set",
+        "1347",
+        "80465"
+      ],
+      [
+        "2",
+        "Supply and install Class A fly ash brick 20mm thick",
+        "30",
+        "cum",
+        "2857",
+        "33198"
+      ],
+      [
+        "3",
+        "Install Class 1 putty",
+        "134",
+        "sqm",
+        "3682",
+        "46164"
+      ],
+      [
+        "4",
+        "Erect DB",
+        "323",
+        "kg",
+        "4485",
+        "94533"
+      ],
+      [
+        "5",
+        "Fabricate and erect M20 M30 concrete 12mm diameter",
+        "347",
+        "kg",
+        "2905",
+        "75727"
+      ],
+      [
+        "6",
+        "Supply Fe500 TMT steel",
+        "117",
+        "rmt",
+        "2351",
+        "88464"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 476,
+        "unit": "set",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and install",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "20mm thick",
+        "quantity": 30,
+        "unit": "m^3",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 134,
+        "unit": "m^2",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Erect",
+        "material": "DB",
+        "grade": "",
+        "dimension": "",
+        "quantity": 323,
+        "unit": "kg",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "M30 concrete",
+        "grade": "M20",
+        "dimension": "12mm diameter",
+        "quantity": 347,
+        "unit": "kg",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 117,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

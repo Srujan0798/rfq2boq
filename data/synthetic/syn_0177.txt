@@ -1,0 +1,34 @@
+Items described in the Bill of Quantities are to be supplied and installed at bathroom for the Commercial Building at MG Road project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Fix M25 M25 concrete  478  kg  2359  52694
+2  Supply and install Fe415 MS plate 16mm thick  165  cum  4763  26383
+3  Erect CI pipe 16mm thick  290  nos  642  22416
+4  Apply flush door  257  sqm  4142  15973
+5  Fix cable 200 x 200mm  470  ls  2214  76634
+6  Plaster Class 2 putty 16mm diameter  350  ls  2385  78837
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

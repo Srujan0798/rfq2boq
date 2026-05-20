@@ -1,0 +1,247 @@
+{
+  "id": "syn_0130",
+  "project_name": "School Building at Electronic City",
+  "category": "steel",
+  "text": "Supply and installation of rebar, structural steel, MS plate for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay DB 12mm thick  167  ls  3890  3263\n2  Fabricate and erect Fe415 GI sheet 16mm thick  28  ls  579  76965\n3  Supply Class 2 cement plaster 10mm diameter  322  ls  2213  37194\n4  Supply and fix integral waterproofing  126  rmt  506  31496\n5  Supply and fix flush door 150mm thick  360  set  598  94657\n6  Supply and install Class B fly ash brick 150mm thick  357  ls  2022  46839\n7  Lay GI pipe 20mm thick  237  sqm  2768  75758\n8  Supply and lay M35 M30 concrete 300mm thick  338  ltr  2775  80556\n9  Erect switch 100 x 100mm  469  ls  355  22012\n10  Provide and lay Fe415 structural steel 100mm thick  486  rmt  1832  42039\n11  Provide and install Class 2 putty 300mm thick  203  cum  742  11133\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of rebar, structural steel, MS plate for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and lay DB 12mm thick Fabricate and erect Fe415 GI sheet 16mm thick Supply Class 2 cement plaster 10mm diameter Supply and fix integral waterproofing Supply and fix flush door 150mm thick Supply and install Class B fly ash brick 150mm thick Lay GI pipe 20mm thick Supply and lay M35 M30 concrete 300mm thick Erect switch 100 x 100mm Provide and lay Fe415 structural steel 100mm thick Provide and install Class 2 putty 300mm thick",
+  "sections": {
+    "scope": "Supply and installation of rebar, structural steel, MS plate for School Building at Electronic City as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay DB 12mm thick",
+        "167",
+        "ls",
+        "3890",
+        "3263"
+      ],
+      [
+        "2",
+        "Fabricate and erect Fe415 GI sheet 16mm thick",
+        "28",
+        "ls",
+        "579",
+        "76965"
+      ],
+      [
+        "3",
+        "Supply Class 2 cement plaster 10mm diameter",
+        "322",
+        "ls",
+        "2213",
+        "37194"
+      ],
+      [
+        "4",
+        "Supply and fix integral waterproofing",
+        "126",
+        "rmt",
+        "506",
+        "31496"
+      ],
+      [
+        "5",
+        "Supply and fix flush door 150mm thick",
+        "360",
+        "set",
+        "598",
+        "94657"
+      ],
+      [
+        "6",
+        "Supply and install Class B fly ash brick 150mm thick",
+        "357",
+        "ls",
+        "2022",
+        "46839"
+      ],
+      [
+        "7",
+        "Lay GI pipe 20mm thick",
+        "237",
+        "sqm",
+        "2768",
+        "75758"
+      ],
+      [
+        "8",
+        "Supply and lay M35 M30 concrete 300mm thick",
+        "338",
+        "ltr",
+        "2775",
+        "80556"
+      ],
+      [
+        "9",
+        "Erect switch 100 x 100mm",
+        "469",
+        "ls",
+        "355",
+        "22012"
+      ],
+      [
+        "10",
+        "Provide and lay Fe415 structural steel 100mm thick",
+        "486",
+        "rmt",
+        "1832",
+        "42039"
+      ],
+      [
+        "11",
+        "Provide and install Class 2 putty 300mm thick",
+        "203",
+        "cum",
+        "742",
+        "11133"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "DB",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 167,
+        "unit": "ls",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "16mm thick",
+        "quantity": 28,
+        "unit": "ls",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "10mm diameter",
+        "quantity": 322,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 126,
+        "unit": "rmt",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 360,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and install",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "150mm thick",
+        "quantity": 357,
+        "unit": "ls",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Lay",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 237,
+        "unit": "m^2",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "M30 concrete",
+        "grade": "M35",
+        "dimension": "300mm thick",
+        "quantity": 338,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Erect",
+        "material": "switch",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 469,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and lay",
+        "material": "structural steel",
+        "grade": "Fe415",
+        "dimension": "100mm thick",
+        "quantity": 486,
+        "unit": "rmt",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Provide and install",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "300mm thick",
+        "quantity": 203,
+        "unit": "m^3",
+        "standard": [
+          "IS 101"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

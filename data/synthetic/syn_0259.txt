@@ -1,0 +1,40 @@
+The scope of work includes cable, DB, GI conduit for the IT Park Phase 2 project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and fix Class B brick masonry  325  ls  4625  53972
+2  Supply and install DB 8mm diameter  201  rmt  164  28175
+3  Supply and fix Fe415 rebar 100mm thick  25  rmt  2280  25167
+4  Fabricate and erect glass  434  sqm  685  60058
+5  Supply Class 1 paint 16mm thick  120  sqm  422  45883
+6  Supply and install M20 RCC  159  kg  3858  25056
+7  Erect HDPE pipe 10mm diameter  305  kg  4713  37521
+8  Provide and install DPC 150mm thick  478  cum  3357  43611
+9  Supply and fix Class A fly ash brick 150 x 150mm  461  ls  1893  97752
+10  Supply and fix DB 12mm diameter  246  rmt  4531  12404
+11  Supply and lay Fe550 MS plate  430  ltr  491  40120
+12  Supply and fix glass 10mm diameter  435  ltr  2812  23497
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

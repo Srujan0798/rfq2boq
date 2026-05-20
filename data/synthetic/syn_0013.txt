@@ -1,0 +1,38 @@
+Items described in the Bill of Quantities are to be supplied and installed at interior walls for the School Building at Electronic City project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Install brickbat coba 20mm thick  472  nos  2986  29705
+2  Plaster GI conduit 150mm thick  396  rmt  3711  5373
+3  Apply Fe500 rebar 150 x 150mm  77  sqm  3503  24021
+4  Fix Class 1 POP 25mm thick  286  ls  2205  64156
+5  Fix M30 M30 concrete 300mm thick  68  set  3355  74048
+6  Fix Class A fly ash brick  212  cum  3825  49311
+7  Install MS door  336  ls  3962  4280
+8  Supply SWR pipe 10mm diameter  322  kg  2575  86097
+9  Supply and fix DPC 12mm diameter  33  cum  896  31775
+10  Erect DB 8mm diameter  242  ls  1365  55379
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0111",
+  "project_name": "Residential Complex at Whitefield",
+  "category": "steel",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the Residential Complex at Whitefield project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix Class B hollow block  471  set  3863  25251\n2  Cast M25 M25 concrete 100mm thick  261  rmt  1434  24295\n3  Supply and lay glass 10mm diameter  83  sqm  921  95936\n4  Cast membrane 230mm thick  61  ltr  458  18324\n5  Provide and lay Class 1 POP 100mm thick  83  cum  4543  97486\n6  Provide and install switch 10mm diameter  81  set  2618  44483\n7  Provide and install Fe415 GI sheet 230mm thick  38  nos  464  14476\n8  Supply and lay SWR pipe  271  ltr  296  30710\n9  Supply and fix Class B hollow block  190  nos  3251  91015\n10  Fabricate and erect M20 RCC  96  sqm  3027  10999\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the Residential Complex at Whitefield project. All work to be carried out as per specifications. Supply and fix Class B hollow block Cast M25 M25 concrete 100mm thick Supply and lay glass 10mm diameter Cast membrane 230mm thick Provide and lay Class 1 POP 100mm thick Provide and install switch 10mm diameter Provide and install Fe415 GI sheet 230mm thick Supply and lay SWR pipe Supply and fix Class B hollow block Fabricate and erect M20 RCC",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the Residential Complex at Whitefield project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix Class B hollow block",
+        "471",
+        "set",
+        "3863",
+        "25251"
+      ],
+      [
+        "2",
+        "Cast M25 M25 concrete 100mm thick",
+        "261",
+        "rmt",
+        "1434",
+        "24295"
+      ],
+      [
+        "3",
+        "Supply and lay glass 10mm diameter",
+        "83",
+        "sqm",
+        "921",
+        "95936"
+      ],
+      [
+        "4",
+        "Cast membrane 230mm thick",
+        "61",
+        "ltr",
+        "458",
+        "18324"
+      ],
+      [
+        "5",
+        "Provide and lay Class 1 POP 100mm thick",
+        "83",
+        "cum",
+        "4543",
+        "97486"
+      ],
+      [
+        "6",
+        "Provide and install switch 10mm diameter",
+        "81",
+        "set",
+        "2618",
+        "44483"
+      ],
+      [
+        "7",
+        "Provide and install Fe415 GI sheet 230mm thick",
+        "38",
+        "nos",
+        "464",
+        "14476"
+      ],
+      [
+        "8",
+        "Supply and lay SWR pipe",
+        "271",
+        "ltr",
+        "296",
+        "30710"
+      ],
+      [
+        "9",
+        "Supply and fix Class B hollow block",
+        "190",
+        "nos",
+        "3251",
+        "91015"
+      ],
+      [
+        "10",
+        "Fabricate and erect M20 RCC",
+        "96",
+        "sqm",
+        "3027",
+        "10999"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 471,
+        "unit": "set",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "M25 concrete",
+        "grade": "M25",
+        "dimension": "100mm thick",
+        "quantity": 261,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "glass",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 83,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 61,
+        "unit": "ltr",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and lay",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "100mm thick",
+        "quantity": 83,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 81,
+        "unit": "set",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Provide and install",
+        "material": "GI sheet",
+        "grade": "Fe415",
+        "dimension": "230mm thick",
+        "quantity": 38,
+        "unit": "no.",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 271,
+        "unit": "ltr",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and fix",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "",
+        "quantity": 190,
+        "unit": "no.",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Fabricate and erect",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 96,
+        "unit": "m^2",
+        "standard": [
+          "IS 383"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

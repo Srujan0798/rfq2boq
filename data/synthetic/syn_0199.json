@@ -1,0 +1,267 @@
+{
+  "id": "syn_0199",
+  "project_name": "Warehouse at Peenya",
+  "category": "concrete",
+  "text": "Supply and installation of M35 concrete, RCC, M20 concrete for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Lay M30 M30 concrete 6mm diameter  331  nos  4779  5285\n2  Cast HDPE pipe 20mm thick  56  set  937  52445\n3  Apply flush door 12mm thick  235  sqm  3845  91109\n4  Fabricate and erect Class 1 POP 12mm thick  413  kg  2769  24827\n5  Cast GI conduit 12mm thick  499  kg  3598  43854\n6  Plaster Fe415 rebar 300mm thick  165  kg  1464  43611\n7  Fix integral waterproofing 100 x 100mm  305  kg  3523  17011\n8  Plaster Class C hollow block  247  set  2474  33392\n9  Provide and fix M40 M20 concrete 12mm diameter  143  nos  1054  24653\n10  Supply and install CI pipe 12mm thick  105  rmt  2812  33307\n11  Apply glass 150 x 150mm  67  kg  4847  74179\n12  Supply and fix Class 1 putty 230mm thick  86  cum  3084  53052\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of M35 concrete, RCC, M20 concrete for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice. Lay M30 M30 concrete 6mm diameter Cast HDPE pipe 20mm thick Apply flush door 12mm thick Fabricate and erect Class 1 POP 12mm thick Cast GI conduit 12mm thick Plaster Fe415 rebar 300mm thick Fix integral waterproofing 100 x 100mm Plaster Class C hollow block Provide and fix M40 M20 concrete 12mm diameter Supply and install CI pipe 12mm thick Apply glass 150 x 150mm Supply and fix Class 1 putty 230mm thick",
+  "sections": {
+    "scope": "Supply and installation of M35 concrete, RCC, M20 concrete for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Lay M30 M30 concrete 6mm diameter",
+        "331",
+        "nos",
+        "4779",
+        "5285"
+      ],
+      [
+        "2",
+        "Cast HDPE pipe 20mm thick",
+        "56",
+        "set",
+        "937",
+        "52445"
+      ],
+      [
+        "3",
+        "Apply flush door 12mm thick",
+        "235",
+        "sqm",
+        "3845",
+        "91109"
+      ],
+      [
+        "4",
+        "Fabricate and erect Class 1 POP 12mm thick",
+        "413",
+        "kg",
+        "2769",
+        "24827"
+      ],
+      [
+        "5",
+        "Cast GI conduit 12mm thick",
+        "499",
+        "kg",
+        "3598",
+        "43854"
+      ],
+      [
+        "6",
+        "Plaster Fe415 rebar 300mm thick",
+        "165",
+        "kg",
+        "1464",
+        "43611"
+      ],
+      [
+        "7",
+        "Fix integral waterproofing 100 x 100mm",
+        "305",
+        "kg",
+        "3523",
+        "17011"
+      ],
+      [
+        "8",
+        "Plaster Class C hollow block",
+        "247",
+        "set",
+        "2474",
+        "33392"
+      ],
+      [
+        "9",
+        "Provide and fix M40 M20 concrete 12mm diameter",
+        "143",
+        "nos",
+        "1054",
+        "24653"
+      ],
+      [
+        "10",
+        "Supply and install CI pipe 12mm thick",
+        "105",
+        "rmt",
+        "2812",
+        "33307"
+      ],
+      [
+        "11",
+        "Apply glass 150 x 150mm",
+        "67",
+        "kg",
+        "4847",
+        "74179"
+      ],
+      [
+        "12",
+        "Supply and fix Class 1 putty 230mm thick",
+        "86",
+        "cum",
+        "3084",
+        "53052"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Lay",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "6mm diameter",
+        "quantity": 331,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 56,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 235,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fabricate and erect",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "12mm thick",
+        "quantity": 413,
+        "unit": "kg",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 499,
+        "unit": "kg",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Plaster",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "300mm thick",
+        "quantity": 165,
+        "unit": "kg",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Fix",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 305,
+        "unit": "kg",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Plaster",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "",
+        "quantity": 247,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "M20 concrete",
+        "grade": "M40",
+        "dimension": "12mm diameter",
+        "quantity": 143,
+        "unit": "no.",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 105,
+        "unit": "rmt",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Apply",
+        "material": "glass",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 67,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Supply and fix",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 86,
+        "unit": "m^3",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

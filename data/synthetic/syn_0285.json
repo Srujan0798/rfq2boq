@@ -1,0 +1,227 @@
+{
+  "id": "syn_0285",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "steel",
+  "text": "The work comprises structural steel, rebar, GI sheet for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast Class 2 putty 25mm thick  318  kg  466  41786\n2  Supply and lay integral waterproofing  49  nos  521  86380\n3  Supply GI pipe 16mm thick  126  ls  4488  59191\n4  Plaster Fe500 TMT steel 200mm thick  394  ltr  406  77386\n5  Cast Class B hollow block 300mm thick  238  cum  2578  83255\n6  Erect M30 M30 concrete  272  nos  4806  39462\n7  Install flush door 8mm diameter  405  ltr  277  9702\n8  Supply and fix light fixture 12mm diameter  323  ls  1806  16600\n9  Provide and fix Class 2 tile 300mm thick  241  rmt  3697  31608\n10  Lay brickbat coba 300mm thick  406  kg  826  44440\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises structural steel, rebar, GI sheet for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards. Cast Class 2 putty 25mm thick Supply and lay integral waterproofing Supply GI pipe 16mm thick Plaster Fe500 TMT steel 200mm thick Cast Class B hollow block 300mm thick Erect M30 M30 concrete Install flush door 8mm diameter Supply and fix light fixture 12mm diameter Provide and fix Class 2 tile 300mm thick Lay brickbat coba 300mm thick",
+  "sections": {
+    "scope": "The work comprises structural steel, rebar, GI sheet for the proposed Hospital Building at Hebbal. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast Class 2 putty 25mm thick",
+        "318",
+        "kg",
+        "466",
+        "41786"
+      ],
+      [
+        "2",
+        "Supply and lay integral waterproofing",
+        "49",
+        "nos",
+        "521",
+        "86380"
+      ],
+      [
+        "3",
+        "Supply GI pipe 16mm thick",
+        "126",
+        "ls",
+        "4488",
+        "59191"
+      ],
+      [
+        "4",
+        "Plaster Fe500 TMT steel 200mm thick",
+        "394",
+        "ltr",
+        "406",
+        "77386"
+      ],
+      [
+        "5",
+        "Cast Class B hollow block 300mm thick",
+        "238",
+        "cum",
+        "2578",
+        "83255"
+      ],
+      [
+        "6",
+        "Erect M30 M30 concrete",
+        "272",
+        "nos",
+        "4806",
+        "39462"
+      ],
+      [
+        "7",
+        "Install flush door 8mm diameter",
+        "405",
+        "ltr",
+        "277",
+        "9702"
+      ],
+      [
+        "8",
+        "Supply and fix light fixture 12mm diameter",
+        "323",
+        "ls",
+        "1806",
+        "16600"
+      ],
+      [
+        "9",
+        "Provide and fix Class 2 tile 300mm thick",
+        "241",
+        "rmt",
+        "3697",
+        "31608"
+      ],
+      [
+        "10",
+        "Lay brickbat coba 300mm thick",
+        "406",
+        "kg",
+        "826",
+        "44440"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "putty",
+        "grade": "Class 2",
+        "dimension": "25mm thick",
+        "quantity": 318,
+        "unit": "kg",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 49,
+        "unit": "no.",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply",
+        "material": "GI pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 126,
+        "unit": "ls",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "TMT steel",
+        "grade": "Fe500",
+        "dimension": "200mm thick",
+        "quantity": 394,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "hollow block",
+        "grade": "Class B",
+        "dimension": "300mm thick",
+        "quantity": 238,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 272,
+        "unit": "no.",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 405,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and fix",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 323,
+        "unit": "ls",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Provide and fix",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "300mm thick",
+        "quantity": 241,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 406,
+        "unit": "kg",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

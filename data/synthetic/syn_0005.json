@@ -1,0 +1,167 @@
+{
+  "id": "syn_0005",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "concrete",
+  "text": "The scope of work includes M20 concrete, M25 concrete, RCC for the Apartment Block at HSR Layout project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster Class 1 POP 8mm diameter  62  ls  1366  32029\n2  Supply GI conduit  221  cum  3472  88806\n3  Supply and fix aluminum window 150mm thick  413  sqm  1922  27158\n4  Provide and lay CI pipe  430  kg  1682  53227\n5  Install Class B fly ash brick 16mm diameter  45  nos  4492  44404\n6  Supply M20 M20 concrete 25mm thick  143  rmt  988  79193\n7  Apply Fe500 GI sheet 16mm diameter  412  ls  3255  76574\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes M20 concrete, M25 concrete, RCC for the Apartment Block at HSR Layout project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below. Plaster Class 1 POP 8mm diameter Supply GI conduit Supply and fix aluminum window 150mm thick Provide and lay CI pipe Install Class B fly ash brick 16mm diameter Supply M20 M20 concrete 25mm thick Apply Fe500 GI sheet 16mm diameter",
+  "sections": {
+    "scope": "The scope of work includes M20 concrete, M25 concrete, RCC for the Apartment Block at HSR Layout project located at exterior walls. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster Class 1 POP 8mm diameter",
+        "62",
+        "ls",
+        "1366",
+        "32029"
+      ],
+      [
+        "2",
+        "Supply GI conduit",
+        "221",
+        "cum",
+        "3472",
+        "88806"
+      ],
+      [
+        "3",
+        "Supply and fix aluminum window 150mm thick",
+        "413",
+        "sqm",
+        "1922",
+        "27158"
+      ],
+      [
+        "4",
+        "Provide and lay CI pipe",
+        "430",
+        "kg",
+        "1682",
+        "53227"
+      ],
+      [
+        "5",
+        "Install Class B fly ash brick 16mm diameter",
+        "45",
+        "nos",
+        "4492",
+        "44404"
+      ],
+      [
+        "6",
+        "Supply M20 M20 concrete 25mm thick",
+        "143",
+        "rmt",
+        "988",
+        "79193"
+      ],
+      [
+        "7",
+        "Apply Fe500 GI sheet 16mm diameter",
+        "412",
+        "ls",
+        "3255",
+        "76574"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "8mm diameter",
+        "quantity": 62,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 221,
+        "unit": "m^3",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "150mm thick",
+        "quantity": 413,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 430,
+        "unit": "kg",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "16mm diameter",
+        "quantity": 45,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply",
+        "material": "M20 concrete",
+        "grade": "M20",
+        "dimension": "25mm thick",
+        "quantity": 143,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "16mm diameter",
+        "quantity": 412,
+        "unit": "ls",
+        "standard": [
+          "IS 2062"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

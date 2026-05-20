@@ -1,0 +1,247 @@
+{
+  "id": "syn_0263",
+  "project_name": "Warehouse at Peenya",
+  "category": "piping",
+  "text": "Supply and installation of HDPE pipe, SWR pipe, GI pipe for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix cable  383  ltr  3763  23557\n2  Provide and install M35 PCC 100mm thick  311  nos  1488  22302\n3  Supply and lay Class 2 POP 100mm thick  157  rmt  3520  52697\n4  Supply and install membrane 25mm thick  78  ltr  531  77115\n5  Provide and install MS door 100 x 100mm  104  sqm  253  95001\n6  Supply and lay Fe550 MS plate 20mm thick  35  sqm  1744  71614\n7  Supply and fix SWR pipe 200mm thick  92  nos  4948  30123\n8  Apply Class A hollow block 16mm diameter  33  ltr  3879  64681\n9  Erect cable  153  ltr  3524  8194\n10  Install M35 M35 concrete  76  ltr  4406  94484\n11  Supply and install Class 1 tile  303  ls  1737  36569\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of HDPE pipe, SWR pipe, GI pipe for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice. Provide and fix cable Provide and install M35 PCC 100mm thick Supply and lay Class 2 POP 100mm thick Supply and install membrane 25mm thick Provide and install MS door 100 x 100mm Supply and lay Fe550 MS plate 20mm thick Supply and fix SWR pipe 200mm thick Apply Class A hollow block 16mm diameter Erect cable Install M35 M35 concrete Supply and install Class 1 tile",
+  "sections": {
+    "scope": "Supply and installation of HDPE pipe, SWR pipe, GI pipe for Warehouse at Peenya as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix cable",
+        "383",
+        "ltr",
+        "3763",
+        "23557"
+      ],
+      [
+        "2",
+        "Provide and install M35 PCC 100mm thick",
+        "311",
+        "nos",
+        "1488",
+        "22302"
+      ],
+      [
+        "3",
+        "Supply and lay Class 2 POP 100mm thick",
+        "157",
+        "rmt",
+        "3520",
+        "52697"
+      ],
+      [
+        "4",
+        "Supply and install membrane 25mm thick",
+        "78",
+        "ltr",
+        "531",
+        "77115"
+      ],
+      [
+        "5",
+        "Provide and install MS door 100 x 100mm",
+        "104",
+        "sqm",
+        "253",
+        "95001"
+      ],
+      [
+        "6",
+        "Supply and lay Fe550 MS plate 20mm thick",
+        "35",
+        "sqm",
+        "1744",
+        "71614"
+      ],
+      [
+        "7",
+        "Supply and fix SWR pipe 200mm thick",
+        "92",
+        "nos",
+        "4948",
+        "30123"
+      ],
+      [
+        "8",
+        "Apply Class A hollow block 16mm diameter",
+        "33",
+        "ltr",
+        "3879",
+        "64681"
+      ],
+      [
+        "9",
+        "Erect cable",
+        "153",
+        "ltr",
+        "3524",
+        "8194"
+      ],
+      [
+        "10",
+        "Install M35 M35 concrete",
+        "76",
+        "ltr",
+        "4406",
+        "94484"
+      ],
+      [
+        "11",
+        "Supply and install Class 1 tile",
+        "303",
+        "ls",
+        "1737",
+        "36569"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 383,
+        "unit": "ltr",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and install",
+        "material": "PCC",
+        "grade": "M35",
+        "dimension": "100mm thick",
+        "quantity": 311,
+        "unit": "no.",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "100mm thick",
+        "quantity": 157,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 78,
+        "unit": "ltr",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Provide and install",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 104,
+        "unit": "m^2",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and lay",
+        "material": "MS plate",
+        "grade": "Fe550",
+        "dimension": "20mm thick",
+        "quantity": 35,
+        "unit": "m^2",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 92,
+        "unit": "no.",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Apply",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "16mm diameter",
+        "quantity": 33,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Erect",
+        "material": "cable",
+        "grade": "",
+        "dimension": "",
+        "quantity": 153,
+        "unit": "ltr",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Install",
+        "material": "M35 concrete",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 76,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Supply and install",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 303,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 11
+  }
+}

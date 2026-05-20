@@ -1,0 +1,36 @@
+Items described in the Bill of Quantities are to be supplied and installed at second floor for the Residential Complex at Whitefield project. All work to be carried out as per specifications.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Supply and lay MS door 100 x 100mm  162  set  3041  88231
+2  Lay Class B brick masonry 6mm diameter  112  set  2299  74801
+3  Supply and lay Class 2 putty 12mm thick  397  ltr  3589  13182
+4  Fabricate and erect GI pipe 300mm thick  356  kg  4419  83517
+5  Provide and lay Fe415 rebar  249  ltr  2560  20478
+6  Install GI conduit  137  ltr  4613  11031
+7  Supply and lay M40 M20 concrete 10mm diameter  271  ltr  4756  34211
+8  Cast integral waterproofing  51  cum  3891  24534
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

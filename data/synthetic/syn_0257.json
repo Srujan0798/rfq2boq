@@ -1,0 +1,227 @@
+{
+  "id": "syn_0257",
+  "project_name": "IT Park Phase 2",
+  "category": "electrical",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the IT Park Phase 2 project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and fix Class 1 tile 12mm diameter  129  ls  906  45743\n2  Supply and fix Class B fly ash brick 10mm diameter  202  cum  1960  97252\n3  Supply and fix CI pipe 200 x 200mm  161  nos  3563  61630\n4  Supply and install DPC 100mm thick  193  sqm  1767  9014\n5  Supply and lay Fe500 rebar 12mm diameter  195  ltr  1983  64065\n6  Provide and install M20 RCC 20mm thick  60  set  230  25341\n7  Install light fixture 150 x 150mm  47  nos  3860  89043\n8  Supply and install aluminum window 6mm diameter  92  rmt  1308  60096\n9  Supply and install Class 2 POP 300mm thick  239  ltr  3748  86551\n10  Provide and install Class C hollow block 16mm thick  83  set  1805  96240\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the IT Park Phase 2 project. All work to be carried out as per specifications. Supply and fix Class 1 tile 12mm diameter Supply and fix Class B fly ash brick 10mm diameter Supply and fix CI pipe 200 x 200mm Supply and install DPC 100mm thick Supply and lay Fe500 rebar 12mm diameter Provide and install M20 RCC 20mm thick Install light fixture 150 x 150mm Supply and install aluminum window 6mm diameter Supply and install Class 2 POP 300mm thick Provide and install Class C hollow block 16mm thick",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at roof level for the IT Park Phase 2 project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and fix Class 1 tile 12mm diameter",
+        "129",
+        "ls",
+        "906",
+        "45743"
+      ],
+      [
+        "2",
+        "Supply and fix Class B fly ash brick 10mm diameter",
+        "202",
+        "cum",
+        "1960",
+        "97252"
+      ],
+      [
+        "3",
+        "Supply and fix CI pipe 200 x 200mm",
+        "161",
+        "nos",
+        "3563",
+        "61630"
+      ],
+      [
+        "4",
+        "Supply and install DPC 100mm thick",
+        "193",
+        "sqm",
+        "1767",
+        "9014"
+      ],
+      [
+        "5",
+        "Supply and lay Fe500 rebar 12mm diameter",
+        "195",
+        "ltr",
+        "1983",
+        "64065"
+      ],
+      [
+        "6",
+        "Provide and install M20 RCC 20mm thick",
+        "60",
+        "set",
+        "230",
+        "25341"
+      ],
+      [
+        "7",
+        "Install light fixture 150 x 150mm",
+        "47",
+        "nos",
+        "3860",
+        "89043"
+      ],
+      [
+        "8",
+        "Supply and install aluminum window 6mm diameter",
+        "92",
+        "rmt",
+        "1308",
+        "60096"
+      ],
+      [
+        "9",
+        "Supply and install Class 2 POP 300mm thick",
+        "239",
+        "ltr",
+        "3748",
+        "86551"
+      ],
+      [
+        "10",
+        "Provide and install Class C hollow block 16mm thick",
+        "83",
+        "set",
+        "1805",
+        "96240"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and fix",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "12mm diameter",
+        "quantity": 129,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and fix",
+        "material": "fly ash brick",
+        "grade": "Class B",
+        "dimension": "10mm diameter",
+        "quantity": 202,
+        "unit": "m^3",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and fix",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "200 x 200mm",
+        "quantity": 161,
+        "unit": "no.",
+        "standard": [
+          "IS 4985"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "100mm thick",
+        "quantity": 193,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and lay",
+        "material": "rebar",
+        "grade": "Fe500",
+        "dimension": "12mm diameter",
+        "quantity": 195,
+        "unit": "ltr",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and install",
+        "material": "RCC",
+        "grade": "M20",
+        "dimension": "20mm thick",
+        "quantity": 60,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Install",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "150 x 150mm",
+        "quantity": 47,
+        "unit": "no.",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and install",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "6mm diameter",
+        "quantity": 92,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply and install",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "300mm thick",
+        "quantity": 239,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and install",
+        "material": "hollow block",
+        "grade": "Class C",
+        "dimension": "16mm thick",
+        "quantity": 83,
+        "unit": "set",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

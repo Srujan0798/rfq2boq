@@ -1,0 +1,167 @@
+{
+  "id": "syn_0253",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "piping",
+  "text": "The work comprises PVC pipe, HDPE pipe, SWR pipe for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Plaster Fe415 TMT steel 200mm thick  373  set  1302  61764\n2  Install GI conduit  352  ltr  2863  89757\n3  Apply integral waterproofing 8mm diameter  43  nos  290  54104\n4  Install CI pipe 230mm thick  406  cum  458  24821\n5  Install Class A brick masonry 25mm thick  459  ls  1627  33392\n6  Apply flush door 16mm diameter  215  cum  134  32420\n7  Supply and lay Class 1 paint  375  ltr  1759  22385\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises PVC pipe, HDPE pipe, SWR pipe for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards. Plaster Fe415 TMT steel 200mm thick Install GI conduit Apply integral waterproofing 8mm diameter Install CI pipe 230mm thick Install Class A brick masonry 25mm thick Apply flush door 16mm diameter Supply and lay Class 1 paint",
+  "sections": {
+    "scope": "The work comprises PVC pipe, HDPE pipe, SWR pipe for the proposed Apartment Block at HSR Layout. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Plaster Fe415 TMT steel 200mm thick",
+        "373",
+        "set",
+        "1302",
+        "61764"
+      ],
+      [
+        "2",
+        "Install GI conduit",
+        "352",
+        "ltr",
+        "2863",
+        "89757"
+      ],
+      [
+        "3",
+        "Apply integral waterproofing 8mm diameter",
+        "43",
+        "nos",
+        "290",
+        "54104"
+      ],
+      [
+        "4",
+        "Install CI pipe 230mm thick",
+        "406",
+        "cum",
+        "458",
+        "24821"
+      ],
+      [
+        "5",
+        "Install Class A brick masonry 25mm thick",
+        "459",
+        "ls",
+        "1627",
+        "33392"
+      ],
+      [
+        "6",
+        "Apply flush door 16mm diameter",
+        "215",
+        "cum",
+        "134",
+        "32420"
+      ],
+      [
+        "7",
+        "Supply and lay Class 1 paint",
+        "375",
+        "ltr",
+        "1759",
+        "22385"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Plaster",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "200mm thick",
+        "quantity": 373,
+        "unit": "set",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 352,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Apply",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "8mm diameter",
+        "quantity": 43,
+        "unit": "no.",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Install",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 406,
+        "unit": "m^3",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Install",
+        "material": "brick masonry",
+        "grade": "Class A",
+        "dimension": "25mm thick",
+        "quantity": 459,
+        "unit": "ls",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Apply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 215,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and lay",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 375,
+        "unit": "ltr",
+        "standard": [
+          "IS 1661"
+        ]
+      }
+    ],
+    "num_items": 7
+  }
+}

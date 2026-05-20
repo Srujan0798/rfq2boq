@@ -1,0 +1,227 @@
+{
+  "id": "syn_0106",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "electrical",
+  "text": "Supply and installation of DB, light fixture, switch for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Install GI conduit 16mm thick  436  kg  3041  37358\n2  Cast Class C AAC block 25mm thick  226  sqm  1437  53436\n3  Provide and lay CI pipe 300mm thick  356  ltr  1769  10248\n4  Apply Fe550 structural steel 16mm diameter  340  kg  1443  56009\n5  Fix membrane  232  ltr  2127  11161\n6  Lay M20 M30 concrete  66  ltr  828  48555\n7  Supply and fix MS door  454  kg  3189  30127\n8  Fix Class 1 paint  483  sqm  2611  78178\n9  Lay light fixture 230mm thick  188  nos  1498  42680\n10  Provide and fix Class A hollow block 300mm thick  422  ltr  177  91001\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of DB, light fixture, switch for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice. Install GI conduit 16mm thick Cast Class C AAC block 25mm thick Provide and lay CI pipe 300mm thick Apply Fe550 structural steel 16mm diameter Fix membrane Lay M20 M30 concrete Supply and fix MS door Fix Class 1 paint Lay light fixture 230mm thick Provide and fix Class A hollow block 300mm thick",
+  "sections": {
+    "scope": "Supply and installation of DB, light fixture, switch for Shopping Mall at Outer Ring Road as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Install GI conduit 16mm thick",
+        "436",
+        "kg",
+        "3041",
+        "37358"
+      ],
+      [
+        "2",
+        "Cast Class C AAC block 25mm thick",
+        "226",
+        "sqm",
+        "1437",
+        "53436"
+      ],
+      [
+        "3",
+        "Provide and lay CI pipe 300mm thick",
+        "356",
+        "ltr",
+        "1769",
+        "10248"
+      ],
+      [
+        "4",
+        "Apply Fe550 structural steel 16mm diameter",
+        "340",
+        "kg",
+        "1443",
+        "56009"
+      ],
+      [
+        "5",
+        "Fix membrane",
+        "232",
+        "ltr",
+        "2127",
+        "11161"
+      ],
+      [
+        "6",
+        "Lay M20 M30 concrete",
+        "66",
+        "ltr",
+        "828",
+        "48555"
+      ],
+      [
+        "7",
+        "Supply and fix MS door",
+        "454",
+        "kg",
+        "3189",
+        "30127"
+      ],
+      [
+        "8",
+        "Fix Class 1 paint",
+        "483",
+        "sqm",
+        "2611",
+        "78178"
+      ],
+      [
+        "9",
+        "Lay light fixture 230mm thick",
+        "188",
+        "nos",
+        "1498",
+        "42680"
+      ],
+      [
+        "10",
+        "Provide and fix Class A hollow block 300mm thick",
+        "422",
+        "ltr",
+        "177",
+        "91001"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Install",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 436,
+        "unit": "kg",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Cast",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "25mm thick",
+        "quantity": 226,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and lay",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "300mm thick",
+        "quantity": 356,
+        "unit": "ltr",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Apply",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "16mm diameter",
+        "quantity": 340,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "",
+        "quantity": 232,
+        "unit": "ltr",
+        "standard": [
+          "IS 1582"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "M30 concrete",
+        "grade": "M20",
+        "dimension": "",
+        "quantity": 66,
+        "unit": "ltr",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 454,
+        "unit": "kg",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fix",
+        "material": "paint",
+        "grade": "Class 1",
+        "dimension": "",
+        "quantity": 483,
+        "unit": "m^2",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 188,
+        "unit": "no.",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Provide and fix",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "300mm thick",
+        "quantity": 422,
+        "unit": "ltr",
+        "standard": [
+          "IS 2185"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

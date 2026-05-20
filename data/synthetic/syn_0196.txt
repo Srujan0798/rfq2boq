@@ -1,0 +1,40 @@
+The scope of work includes GI sheet, rebar, structural steel for the Apartment Block at HSR Layout project located at bathroom. The contractor shall supply all materials and execute the works as per the specifications given below.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Install M25 RCC 16mm thick  437  rmt  412  85319
+2  Erect MS door 20mm thick  339  rmt  524  92160
+3  Plaster Class A fly ash brick 6mm diameter  468  ls  2818  90864
+4  Supply and install Class 1 paint  354  sqm  1541  98841
+5  Provide and lay switch 6mm diameter  138  rmt  4962  52651
+6  Provide and fix Fe415 MS plate  433  nos  1190  90591
+7  Fix SWR pipe 16mm thick  210  kg  4790  14513
+8  Supply and fix integral waterproofing 150 x 150mm  143  sqm  4466  45287
+9  Supply and fix M35 RCC 12mm thick  477  ls  4926  30052
+10  Lay aluminum window  321  ls  4686  94141
+11  Provide and fix Class B hollow block 6mm diameter  23  set  2757  3048
+12  Fix Class 2 putty 20mm thick  259  nos  1690  41189
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.

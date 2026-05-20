@@ -1,0 +1,187 @@
+{
+  "id": "syn_0158",
+  "project_name": "Hotel at Airport Road",
+  "category": "concrete",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hotel at Airport Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and fix Class C AAC block 6mm diameter  95  nos  4493  38544\n2  Supply and lay HDPE pipe 16mm thick  399  sqm  4644  66269\n3  Lay Class 1 POP 230mm thick  28  set  411  51864\n4  Fix GI conduit  365  sqm  3138  58423\n5  Cast membrane 16mm diameter  403  cum  1823  96015\n6  Cast M20 M30 concrete 25mm thick  17  rmt  2968  61559\n7  Erect aluminum window 16mm diameter  204  rmt  1945  25112\n8  Plaster Fe500 MS plate  379  set  668  33214\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hotel at Airport Road project. All work to be carried out as per specifications. Provide and fix Class C AAC block 6mm diameter Supply and lay HDPE pipe 16mm thick Lay Class 1 POP 230mm thick Fix GI conduit Cast membrane 16mm diameter Cast M20 M30 concrete 25mm thick Erect aluminum window 16mm diameter Plaster Fe500 MS plate",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at terrace for the Hotel at Airport Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and fix Class C AAC block 6mm diameter",
+        "95",
+        "nos",
+        "4493",
+        "38544"
+      ],
+      [
+        "2",
+        "Supply and lay HDPE pipe 16mm thick",
+        "399",
+        "sqm",
+        "4644",
+        "66269"
+      ],
+      [
+        "3",
+        "Lay Class 1 POP 230mm thick",
+        "28",
+        "set",
+        "411",
+        "51864"
+      ],
+      [
+        "4",
+        "Fix GI conduit",
+        "365",
+        "sqm",
+        "3138",
+        "58423"
+      ],
+      [
+        "5",
+        "Cast membrane 16mm diameter",
+        "403",
+        "cum",
+        "1823",
+        "96015"
+      ],
+      [
+        "6",
+        "Cast M20 M30 concrete 25mm thick",
+        "17",
+        "rmt",
+        "2968",
+        "61559"
+      ],
+      [
+        "7",
+        "Erect aluminum window 16mm diameter",
+        "204",
+        "rmt",
+        "1945",
+        "25112"
+      ],
+      [
+        "8",
+        "Plaster Fe500 MS plate",
+        "379",
+        "set",
+        "668",
+        "33214"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and fix",
+        "material": "AAC block",
+        "grade": "Class C",
+        "dimension": "6mm diameter",
+        "quantity": 95,
+        "unit": "no.",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 399,
+        "unit": "m^2",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Lay",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 28,
+        "unit": "set",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fix",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 365,
+        "unit": "m^2",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 403,
+        "unit": "m^3",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Cast",
+        "material": "M30 concrete",
+        "grade": "M20",
+        "dimension": "25mm thick",
+        "quantity": 17,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Erect",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 204,
+        "unit": "rmt",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Plaster",
+        "material": "MS plate",
+        "grade": "Fe500",
+        "dimension": "",
+        "quantity": 379,
+        "unit": "set",
+        "standard": [
+          "IS 1786"
+        ]
+      }
+    ],
+    "num_items": 8
+  }
+}

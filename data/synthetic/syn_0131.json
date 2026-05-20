@@ -1,0 +1,267 @@
+{
+  "id": "syn_0131",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "waterproofing",
+  "text": "The scope of work includes brickbat coba, integral waterproofing, membrane for the Hospital Building at Hebbal project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and install Class 2 POP 230mm thick  243  ls  2074  59328\n2  Supply and lay light fixture 12mm diameter  190  sqm  1987  59847\n3  Cast M25 M35 concrete 20mm thick  433  rmt  4890  88281\n4  Fix membrane 200mm thick  156  ls  3549  67194\n5  Plaster PVC pipe 10mm diameter  461  kg  1466  16832\n6  Fix Fe500 GI sheet 300mm thick  293  set  3634  4136\n7  Supply and fix Class A AAC block 200 x 200mm  273  ltr  3395  92347\n8  Supply and lay aluminum window 230mm thick  182  ls  704  97829\n9  Supply Class 2 tile 8mm diameter  219  set  4008  92765\n10  Apply GI conduit  402  sqm  4962  78732\n11  Erect M35 M30 concrete  174  set  4917  37608\n12  Provide and lay brickbat coba  262  ls  4402  76999\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes brickbat coba, integral waterproofing, membrane for the Hospital Building at Hebbal project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below. Provide and install Class 2 POP 230mm thick Supply and lay light fixture 12mm diameter Cast M25 M35 concrete 20mm thick Fix membrane 200mm thick Plaster PVC pipe 10mm diameter Fix Fe500 GI sheet 300mm thick Supply and fix Class A AAC block 200 x 200mm Supply and lay aluminum window 230mm thick Supply Class 2 tile 8mm diameter Apply GI conduit Erect M35 M30 concrete Provide and lay brickbat coba",
+  "sections": {
+    "scope": "The scope of work includes brickbat coba, integral waterproofing, membrane for the Hospital Building at Hebbal project located at terrace. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and install Class 2 POP 230mm thick",
+        "243",
+        "ls",
+        "2074",
+        "59328"
+      ],
+      [
+        "2",
+        "Supply and lay light fixture 12mm diameter",
+        "190",
+        "sqm",
+        "1987",
+        "59847"
+      ],
+      [
+        "3",
+        "Cast M25 M35 concrete 20mm thick",
+        "433",
+        "rmt",
+        "4890",
+        "88281"
+      ],
+      [
+        "4",
+        "Fix membrane 200mm thick",
+        "156",
+        "ls",
+        "3549",
+        "67194"
+      ],
+      [
+        "5",
+        "Plaster PVC pipe 10mm diameter",
+        "461",
+        "kg",
+        "1466",
+        "16832"
+      ],
+      [
+        "6",
+        "Fix Fe500 GI sheet 300mm thick",
+        "293",
+        "set",
+        "3634",
+        "4136"
+      ],
+      [
+        "7",
+        "Supply and fix Class A AAC block 200 x 200mm",
+        "273",
+        "ltr",
+        "3395",
+        "92347"
+      ],
+      [
+        "8",
+        "Supply and lay aluminum window 230mm thick",
+        "182",
+        "ls",
+        "704",
+        "97829"
+      ],
+      [
+        "9",
+        "Supply Class 2 tile 8mm diameter",
+        "219",
+        "set",
+        "4008",
+        "92765"
+      ],
+      [
+        "10",
+        "Apply GI conduit",
+        "402",
+        "sqm",
+        "4962",
+        "78732"
+      ],
+      [
+        "11",
+        "Erect M35 M30 concrete",
+        "174",
+        "set",
+        "4917",
+        "37608"
+      ],
+      [
+        "12",
+        "Provide and lay brickbat coba",
+        "262",
+        "ls",
+        "4402",
+        "76999"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and install",
+        "material": "POP",
+        "grade": "Class 2",
+        "dimension": "230mm thick",
+        "quantity": 243,
+        "unit": "ls",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply and lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 190,
+        "unit": "m^2",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Cast",
+        "material": "M35 concrete",
+        "grade": "M25",
+        "dimension": "20mm thick",
+        "quantity": 433,
+        "unit": "rmt",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Fix",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "200mm thick",
+        "quantity": 156,
+        "unit": "ls",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Plaster",
+        "material": "PVC pipe",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 461,
+        "unit": "kg",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Fix",
+        "material": "GI sheet",
+        "grade": "Fe500",
+        "dimension": "300mm thick",
+        "quantity": 293,
+        "unit": "set",
+        "standard": [
+          "IS 2062"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply and fix",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "200 x 200mm",
+        "quantity": 273,
+        "unit": "ltr",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and lay",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 182,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "tile",
+        "grade": "Class 2",
+        "dimension": "8mm diameter",
+        "quantity": 219,
+        "unit": "set",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Apply",
+        "material": "GI conduit",
+        "grade": "",
+        "dimension": "",
+        "quantity": 402,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 11,
+        "action": "Erect",
+        "material": "M30 concrete",
+        "grade": "M35",
+        "dimension": "",
+        "quantity": 174,
+        "unit": "set",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 12,
+        "action": "Provide and lay",
+        "material": "brickbat coba",
+        "grade": "",
+        "dimension": "",
+        "quantity": 262,
+        "unit": "ls",
+        "standard": [
+          "IS 1582"
+        ]
+      }
+    ],
+    "num_items": 12
+  }
+}

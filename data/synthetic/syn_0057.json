@@ -1,0 +1,147 @@
+{
+  "id": "syn_0057",
+  "project_name": "Hospital Building at Hebbal",
+  "category": "piping",
+  "text": "The scope of work includes PVC pipe, SWR pipe, CI pipe for the Hospital Building at Hebbal project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast Class B brick masonry 6mm diameter  89  sqm  1978  33426\n2  Plaster integral waterproofing 12mm thick  74  rmt  387  87972\n3  Install switch 25mm thick  253  set  3744  18709\n4  Plaster aluminum window 100 x 100mm  393  ltr  4045  71735\n5  Fabricate and erect M20 M25 concrete 300mm thick  167  ls  186  1012\n6  Provide and fix SWR pipe 12mm diameter  156  set  2554  2197\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The scope of work includes PVC pipe, SWR pipe, CI pipe for the Hospital Building at Hebbal project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below. Cast Class B brick masonry 6mm diameter Plaster integral waterproofing 12mm thick Install switch 25mm thick Plaster aluminum window 100 x 100mm Fabricate and erect M20 M25 concrete 300mm thick Provide and fix SWR pipe 12mm diameter",
+  "sections": {
+    "scope": "The scope of work includes PVC pipe, SWR pipe, CI pipe for the Hospital Building at Hebbal project located at first floor. The contractor shall supply all materials and execute the works as per the specifications given below.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast Class B brick masonry 6mm diameter",
+        "89",
+        "sqm",
+        "1978",
+        "33426"
+      ],
+      [
+        "2",
+        "Plaster integral waterproofing 12mm thick",
+        "74",
+        "rmt",
+        "387",
+        "87972"
+      ],
+      [
+        "3",
+        "Install switch 25mm thick",
+        "253",
+        "set",
+        "3744",
+        "18709"
+      ],
+      [
+        "4",
+        "Plaster aluminum window 100 x 100mm",
+        "393",
+        "ltr",
+        "4045",
+        "71735"
+      ],
+      [
+        "5",
+        "Fabricate and erect M20 M25 concrete 300mm thick",
+        "167",
+        "ls",
+        "186",
+        "1012"
+      ],
+      [
+        "6",
+        "Provide and fix SWR pipe 12mm diameter",
+        "156",
+        "set",
+        "2554",
+        "2197"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "6mm diameter",
+        "quantity": 89,
+        "unit": "m^2",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Plaster",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 74,
+        "unit": "rmt",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 253,
+        "unit": "set",
+        "standard": [
+          "IS 3043"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Plaster",
+        "material": "aluminum window",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 393,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "M25 concrete",
+        "grade": "M20",
+        "dimension": "300mm thick",
+        "quantity": 167,
+        "unit": "ls",
+        "standard": [
+          "IS 383"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Provide and fix",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 156,
+        "unit": "set",
+        "standard": [
+          "IS 4985"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "syn_0075",
+  "project_name": "Hotel at Airport Road",
+  "category": "concrete",
+  "text": "Items described in the Bill of Quantities are to be supplied and installed at second floor for the Hotel at Airport Road project. All work to be carried out as per specifications.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Provide and lay Class 1 putty 16mm thick  228  nos  763  82324\n2  Supply Class C fly ash brick 230mm thick  38  ls  3094  61994\n3  Provide and fix Fe415 rebar 200mm thick  197  rmt  1777  19141\n4  Lay HDPE pipe 16mm thick  68  set  1946  43003\n5  Lay M30 M30 concrete  358  ltr  3154  46249\n6  Lay DPC 100 x 100mm  279  sqm  3115  89251\n7  Supply flush door  462  set  1564  38797\n8  Supply and fix cable 12mm diameter  151  sqm  1773  69247\n9  Erect Class 2 cement plaster 8mm diameter  359  rmt  275  39209\n10  Supply and install Class A AAC block 16mm diameter  456  kg  2851  54961\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Items described in the Bill of Quantities are to be supplied and installed at second floor for the Hotel at Airport Road project. All work to be carried out as per specifications. Provide and lay Class 1 putty 16mm thick Supply Class C fly ash brick 230mm thick Provide and fix Fe415 rebar 200mm thick Lay HDPE pipe 16mm thick Lay M30 M30 concrete Lay DPC 100 x 100mm Supply flush door Supply and fix cable 12mm diameter Erect Class 2 cement plaster 8mm diameter Supply and install Class A AAC block 16mm diameter",
+  "sections": {
+    "scope": "Items described in the Bill of Quantities are to be supplied and installed at second floor for the Hotel at Airport Road project. All work to be carried out as per specifications.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Provide and lay Class 1 putty 16mm thick",
+        "228",
+        "nos",
+        "763",
+        "82324"
+      ],
+      [
+        "2",
+        "Supply Class C fly ash brick 230mm thick",
+        "38",
+        "ls",
+        "3094",
+        "61994"
+      ],
+      [
+        "3",
+        "Provide and fix Fe415 rebar 200mm thick",
+        "197",
+        "rmt",
+        "1777",
+        "19141"
+      ],
+      [
+        "4",
+        "Lay HDPE pipe 16mm thick",
+        "68",
+        "set",
+        "1946",
+        "43003"
+      ],
+      [
+        "5",
+        "Lay M30 M30 concrete",
+        "358",
+        "ltr",
+        "3154",
+        "46249"
+      ],
+      [
+        "6",
+        "Lay DPC 100 x 100mm",
+        "279",
+        "sqm",
+        "3115",
+        "89251"
+      ],
+      [
+        "7",
+        "Supply flush door",
+        "462",
+        "set",
+        "1564",
+        "38797"
+      ],
+      [
+        "8",
+        "Supply and fix cable 12mm diameter",
+        "151",
+        "sqm",
+        "1773",
+        "69247"
+      ],
+      [
+        "9",
+        "Erect Class 2 cement plaster 8mm diameter",
+        "359",
+        "rmt",
+        "275",
+        "39209"
+      ],
+      [
+        "10",
+        "Supply and install Class A AAC block 16mm diameter",
+        "456",
+        "kg",
+        "2851",
+        "54961"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Provide and lay",
+        "material": "putty",
+        "grade": "Class 1",
+        "dimension": "16mm thick",
+        "quantity": 228,
+        "unit": "no.",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Supply",
+        "material": "fly ash brick",
+        "grade": "Class C",
+        "dimension": "230mm thick",
+        "quantity": 38,
+        "unit": "ls",
+        "standard": [
+          "IS 2185"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Provide and fix",
+        "material": "rebar",
+        "grade": "Fe415",
+        "dimension": "200mm thick",
+        "quantity": 197,
+        "unit": "rmt",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Lay",
+        "material": "HDPE pipe",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 68,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Lay",
+        "material": "M30 concrete",
+        "grade": "M30",
+        "dimension": "",
+        "quantity": 358,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Lay",
+        "material": "DPC",
+        "grade": "",
+        "dimension": "100 x 100mm",
+        "quantity": 279,
+        "unit": "m^2",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "flush door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 462,
+        "unit": "set",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Supply and fix",
+        "material": "cable",
+        "grade": "",
+        "dimension": "12mm diameter",
+        "quantity": 151,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Erect",
+        "material": "cement plaster",
+        "grade": "Class 2",
+        "dimension": "8mm diameter",
+        "quantity": 359,
+        "unit": "rmt",
+        "standard": [
+          "IS 101"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and install",
+        "material": "AAC block",
+        "grade": "Class A",
+        "dimension": "16mm diameter",
+        "quantity": 456,
+        "unit": "kg",
+        "standard": [
+          "IS 12894"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

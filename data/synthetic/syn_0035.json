@@ -1,0 +1,227 @@
+{
+  "id": "syn_0035",
+  "project_name": "Apartment Block at HSR Layout",
+  "category": "steel",
+  "text": "Supply and installation of GI sheet, TMT steel, structural steel for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and install Class A hollow block  310  sqm  426  8925\n2  Provide and lay M40 M35 concrete 6mm diameter  331  ltr  4495  71471\n3  Supply and lay membrane 16mm thick  168  sqm  4494  43827\n4  Provide and lay light fixture 20mm thick  367  ltr  2102  12300\n5  Fabricate and erect CI pipe 12mm thick  323  cum  203  93785\n6  Supply and fix Class 1 POP 25mm thick  264  ls  3146  17637\n7  Supply Fe550 structural steel 8mm diameter  70  cum  4391  9371\n8  Fabricate and erect MS door  243  ls  3112  21618\n9  Supply Class A fly ash brick  303  sqm  121  6772\n10  Supply and install M25 M20 concrete 300mm thick  251  ls  389  73465\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "Supply and installation of GI sheet, TMT steel, structural steel for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice. Supply and install Class A hollow block Provide and lay M40 M35 concrete 6mm diameter Supply and lay membrane 16mm thick Provide and lay light fixture 20mm thick Fabricate and erect CI pipe 12mm thick Supply and fix Class 1 POP 25mm thick Supply Fe550 structural steel 8mm diameter Fabricate and erect MS door Supply Class A fly ash brick Supply and install M25 M20 concrete 300mm thick",
+  "sections": {
+    "scope": "Supply and installation of GI sheet, TMT steel, structural steel for Apartment Block at HSR Layout as per the drawings and specifications. All works to be completed as per IS codes and good practice.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and install Class A hollow block",
+        "310",
+        "sqm",
+        "426",
+        "8925"
+      ],
+      [
+        "2",
+        "Provide and lay M40 M35 concrete 6mm diameter",
+        "331",
+        "ltr",
+        "4495",
+        "71471"
+      ],
+      [
+        "3",
+        "Supply and lay membrane 16mm thick",
+        "168",
+        "sqm",
+        "4494",
+        "43827"
+      ],
+      [
+        "4",
+        "Provide and lay light fixture 20mm thick",
+        "367",
+        "ltr",
+        "2102",
+        "12300"
+      ],
+      [
+        "5",
+        "Fabricate and erect CI pipe 12mm thick",
+        "323",
+        "cum",
+        "203",
+        "93785"
+      ],
+      [
+        "6",
+        "Supply and fix Class 1 POP 25mm thick",
+        "264",
+        "ls",
+        "3146",
+        "17637"
+      ],
+      [
+        "7",
+        "Supply Fe550 structural steel 8mm diameter",
+        "70",
+        "cum",
+        "4391",
+        "9371"
+      ],
+      [
+        "8",
+        "Fabricate and erect MS door",
+        "243",
+        "ls",
+        "3112",
+        "21618"
+      ],
+      [
+        "9",
+        "Supply Class A fly ash brick",
+        "303",
+        "sqm",
+        "121",
+        "6772"
+      ],
+      [
+        "10",
+        "Supply and install M25 M20 concrete 300mm thick",
+        "251",
+        "ls",
+        "389",
+        "73465"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and install",
+        "material": "hollow block",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 310,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Provide and lay",
+        "material": "M35 concrete",
+        "grade": "M40",
+        "dimension": "6mm diameter",
+        "quantity": 331,
+        "unit": "ltr",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Supply and lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "16mm thick",
+        "quantity": 168,
+        "unit": "m^2",
+        "standard": [
+          "IS 3144"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Provide and lay",
+        "material": "light fixture",
+        "grade": "",
+        "dimension": "20mm thick",
+        "quantity": 367,
+        "unit": "ltr",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Fabricate and erect",
+        "material": "CI pipe",
+        "grade": "",
+        "dimension": "12mm thick",
+        "quantity": 323,
+        "unit": "m^3",
+        "standard": [
+          "IS 1239"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Supply and fix",
+        "material": "POP",
+        "grade": "Class 1",
+        "dimension": "25mm thick",
+        "quantity": 264,
+        "unit": "ls",
+        "standard": [
+          "IS 1661"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Supply",
+        "material": "structural steel",
+        "grade": "Fe550",
+        "dimension": "8mm diameter",
+        "quantity": 70,
+        "unit": "m^3",
+        "standard": [
+          "IS 1786"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Fabricate and erect",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "",
+        "quantity": 243,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Supply",
+        "material": "fly ash brick",
+        "grade": "Class A",
+        "dimension": "",
+        "quantity": 303,
+        "unit": "m^2",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 10,
+        "action": "Supply and install",
+        "material": "M20 concrete",
+        "grade": "M25",
+        "dimension": "300mm thick",
+        "quantity": 251,
+        "unit": "ls",
+        "standard": [
+          "IS 456"
+        ]
+      }
+    ],
+    "num_items": 10
+  }
+}

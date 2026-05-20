@@ -1,0 +1,147 @@
+{
+  "id": "syn_0151",
+  "project_name": "Warehouse at Peenya",
+  "category": "brickwork",
+  "text": "The work comprises fly ash brick, AAC block, hollow block for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Supply and lay Class 1 cement plaster 230mm thick  126  set  2522  17554\n2  Fabricate and erect switch 16mm diameter  233  sqm  3356  67965\n3  Install Fe415 MS plate 16mm thick  358  kg  2999  69888\n4  Cast M25 PCC 200 x 200mm  450  cum  1987  91923\n5  Supply and fix Class B AAC block 20mm thick  61  rmt  1345  71886\n6  Install SWR pipe  113  nos  2528  52088\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises fly ash brick, AAC block, hollow block for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards. Supply and lay Class 1 cement plaster 230mm thick Fabricate and erect switch 16mm diameter Install Fe415 MS plate 16mm thick Cast M25 PCC 200 x 200mm Supply and fix Class B AAC block 20mm thick Install SWR pipe",
+  "sections": {
+    "scope": "The work comprises fly ash brick, AAC block, hollow block for the proposed Warehouse at Peenya. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Supply and lay Class 1 cement plaster 230mm thick",
+        "126",
+        "set",
+        "2522",
+        "17554"
+      ],
+      [
+        "2",
+        "Fabricate and erect switch 16mm diameter",
+        "233",
+        "sqm",
+        "3356",
+        "67965"
+      ],
+      [
+        "3",
+        "Install Fe415 MS plate 16mm thick",
+        "358",
+        "kg",
+        "2999",
+        "69888"
+      ],
+      [
+        "4",
+        "Cast M25 PCC 200 x 200mm",
+        "450",
+        "cum",
+        "1987",
+        "91923"
+      ],
+      [
+        "5",
+        "Supply and fix Class B AAC block 20mm thick",
+        "61",
+        "rmt",
+        "1345",
+        "71886"
+      ],
+      [
+        "6",
+        "Install SWR pipe",
+        "113",
+        "nos",
+        "2528",
+        "52088"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Supply and lay",
+        "material": "cement plaster",
+        "grade": "Class 1",
+        "dimension": "230mm thick",
+        "quantity": 126,
+        "unit": "set",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Fabricate and erect",
+        "material": "switch",
+        "grade": "",
+        "dimension": "16mm diameter",
+        "quantity": 233,
+        "unit": "m^2",
+        "standard": [
+          "IS 694"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Install",
+        "material": "MS plate",
+        "grade": "Fe415",
+        "dimension": "16mm thick",
+        "quantity": 358,
+        "unit": "kg",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Cast",
+        "material": "PCC",
+        "grade": "M25",
+        "dimension": "200 x 200mm",
+        "quantity": 450,
+        "unit": "m^3",
+        "standard": [
+          "IS 269"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Supply and fix",
+        "material": "AAC block",
+        "grade": "Class B",
+        "dimension": "20mm thick",
+        "quantity": 61,
+        "unit": "rmt",
+        "standard": [
+          "IS 12894"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Install",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 113,
+        "unit": "no.",
+        "standard": [
+          "IS 4985"
+        ]
+      }
+    ],
+    "num_items": 6
+  }
+}

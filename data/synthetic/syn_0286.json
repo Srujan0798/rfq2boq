@@ -1,0 +1,207 @@
+{
+  "id": "syn_0286",
+  "project_name": "Shopping Mall at Outer Ring Road",
+  "category": "doors_windows",
+  "text": "The work comprises aluminum window, flush door, MS door for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.\n\nBILL OF QUANTITIES\n\nS.No  Description  Qty  Unit  Rate  Amount\n1  Cast integral waterproofing  231  ltr  1798  40307\n2  Install switch 230mm thick  251  nos  4788  47758\n3  Plaster SWR pipe  52  set  1041  56665\n4  Supply and install M35 M20 concrete 12mm thick  182  cum  4307  88084\n5  Cast Class B brick masonry 100 x 100mm  292  sqm  1967  40302\n6  Erect MS door 25mm thick  367  cum  4088  59949\n7  Apply Class 1 tile 100 x 100mm  75  rmt  2077  27382\n8  Erect Fe415 TMT steel 100mm thick  446  ls  4893  51393\n9  Lay membrane 10mm diameter  466  kg  1108  79614\n\nTECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n\n\nGENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n",
+  "text_for_ner": "The work comprises aluminum window, flush door, MS door for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards. Cast integral waterproofing Install switch 230mm thick Plaster SWR pipe Supply and install M35 M20 concrete 12mm thick Cast Class B brick masonry 100 x 100mm Erect MS door 25mm thick Apply Class 1 tile 100 x 100mm Erect Fe415 TMT steel 100mm thick Lay membrane 10mm diameter",
+  "sections": {
+    "scope": "The work comprises aluminum window, flush door, MS door for the proposed Shopping Mall at Outer Ring Road. Materials to be of best quality conforming to relevant Indian Standards.",
+    "boq_table": [
+      [
+        "S.No",
+        "Description",
+        "Qty",
+        "Unit",
+        "Rate",
+        "Amount"
+      ],
+      [
+        "1",
+        "Cast integral waterproofing",
+        "231",
+        "ltr",
+        "1798",
+        "40307"
+      ],
+      [
+        "2",
+        "Install switch 230mm thick",
+        "251",
+        "nos",
+        "4788",
+        "47758"
+      ],
+      [
+        "3",
+        "Plaster SWR pipe",
+        "52",
+        "set",
+        "1041",
+        "56665"
+      ],
+      [
+        "4",
+        "Supply and install M35 M20 concrete 12mm thick",
+        "182",
+        "cum",
+        "4307",
+        "88084"
+      ],
+      [
+        "5",
+        "Cast Class B brick masonry 100 x 100mm",
+        "292",
+        "sqm",
+        "1967",
+        "40302"
+      ],
+      [
+        "6",
+        "Erect MS door 25mm thick",
+        "367",
+        "cum",
+        "4088",
+        "59949"
+      ],
+      [
+        "7",
+        "Apply Class 1 tile 100 x 100mm",
+        "75",
+        "rmt",
+        "2077",
+        "27382"
+      ],
+      [
+        "8",
+        "Erect Fe415 TMT steel 100mm thick",
+        "446",
+        "ls",
+        "4893",
+        "51393"
+      ],
+      [
+        "9",
+        "Lay membrane 10mm diameter",
+        "466",
+        "kg",
+        "1108",
+        "79614"
+      ]
+    ],
+    "specifications": "TECHNICAL SPECIFICATIONS\n\n1. MATERIALS\n   All materials shall be of best quality conforming to relevant Indian Standards.\n   The contractor shall submit samples of all materials for approval before use.\n\n2. WORKMANSHIP\n   All works shall be carried out as per IS codes and good construction practice.\n   The engineer-in-charge shall have the right to reject any defective material or workmanship.\n\n3. TESTING\n   All materials shall be tested as per relevant IS codes.\n   Test certificates from NABL accredited labs shall be submitted.\n",
+    "terms": "GENERAL TERMS AND CONDITIONS\n\n1. Payment: 80% advance on materials at site, balance within 15 days of completion.\n2. Completion: Within 60 days from date of work order.\n3. Validity: Quotation valid for 90 days from submission date.\n4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.\n5. Taxes: GST extra as applicable.\n"
+  },
+  "metadata": {
+    "boq_ground_truth": [
+      {
+        "item_no": 1,
+        "action": "Cast",
+        "material": "integral waterproofing",
+        "grade": "",
+        "dimension": "",
+        "quantity": 231,
+        "unit": "ltr",
+        "standard": [
+          "IS 1322"
+        ]
+      },
+      {
+        "item_no": 2,
+        "action": "Install",
+        "material": "switch",
+        "grade": "",
+        "dimension": "230mm thick",
+        "quantity": 251,
+        "unit": "no.",
+        "standard": [
+          "IS 9537"
+        ]
+      },
+      {
+        "item_no": 3,
+        "action": "Plaster",
+        "material": "SWR pipe",
+        "grade": "",
+        "dimension": "",
+        "quantity": 52,
+        "unit": "set",
+        "standard": [
+          "IS 4984"
+        ]
+      },
+      {
+        "item_no": 4,
+        "action": "Supply and install",
+        "material": "M20 concrete",
+        "grade": "M35",
+        "dimension": "12mm thick",
+        "quantity": 182,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 5,
+        "action": "Cast",
+        "material": "brick masonry",
+        "grade": "Class B",
+        "dimension": "100 x 100mm",
+        "quantity": 292,
+        "unit": "m^2",
+        "standard": [
+          "IS 1077"
+        ]
+      },
+      {
+        "item_no": 6,
+        "action": "Erect",
+        "material": "MS door",
+        "grade": "",
+        "dimension": "25mm thick",
+        "quantity": 367,
+        "unit": "m^3",
+        "standard": [
+          "IS 456"
+        ]
+      },
+      {
+        "item_no": 7,
+        "action": "Apply",
+        "material": "tile",
+        "grade": "Class 1",
+        "dimension": "100 x 100mm",
+        "quantity": 75,
+        "unit": "rmt",
+        "standard": [
+          "IS 15622"
+        ]
+      },
+      {
+        "item_no": 8,
+        "action": "Erect",
+        "material": "TMT steel",
+        "grade": "Fe415",
+        "dimension": "100mm thick",
+        "quantity": 446,
+        "unit": "ls",
+        "standard": [
+          "IS 1139"
+        ]
+      },
+      {
+        "item_no": 9,
+        "action": "Lay",
+        "material": "membrane",
+        "grade": "",
+        "dimension": "10mm diameter",
+        "quantity": 466,
+        "unit": "kg",
+        "standard": [
+          "IS 1322"
+        ]
+      }
+    ],
+    "num_items": 9
+  }
+}

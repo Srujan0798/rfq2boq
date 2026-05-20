@@ -1,0 +1,12 @@
+{
+  "arcbert_f1": 0.029055690072639223,
+  "arcbert_precision": 0.039735099337748346,
+  "arcbert_recall": 0.022900763358778626,
+  "baseline_f1": 0.5227,
+  "baseline_final_f1": 0.0,
+  "baseline_final_precision": 0.0,
+  "baseline_final_recall": 0.0,
+  "improvement_vs_bert": -0.49364430992736086,
+  "improvement_vs_final": 0.029055690072639223,
+  "note": "SciBERT used as ARCBERT fallback (ARCBERT requires auth). Fine-tuning only completed 1 epoch due to timeout."
+}

@@ -1,0 +1,38 @@
+The scope of work includes GI conduit, switch, DB for the Residential Complex at Whitefield project located at compound wall. The contractor shall supply all materials and execute the works as per the specifications given below.
+
+BILL OF QUANTITIES
+
+S.No  Description  Qty  Unit  Rate  Amount
+1  Plaster glass 200mm thick  104  sqm  2040  84898
+2  Fabricate and erect Class C AAC block 25mm thick  263  rmt  4569  96880
+3  Lay GI conduit 12mm thick  174  ls  4887  88633
+4  Plaster integral waterproofing  440  ls  930  54225
+5  Fabricate and erect GI pipe 150mm thick  198  sqm  527  70349
+6  Provide and lay Fe500 TMT steel  316  sqm  2617  36290
+7  Fix M25 M35 concrete 300mm thick  197  kg  3691  70327
+8  Install Class 1 tile  414  set  2559  93055
+9  Provide and lay glass  158  kg  4100  67918
+10  Provide and install Class A brick masonry 200mm thick  73  kg  1746  32410
+
+TECHNICAL SPECIFICATIONS
+
+1. MATERIALS
+   All materials shall be of best quality conforming to relevant Indian Standards.
+   The contractor shall submit samples of all materials for approval before use.
+
+2. WORKMANSHIP
+   All works shall be carried out as per IS codes and good construction practice.
+   The engineer-in-charge shall have the right to reject any defective material or workmanship.
+
+3. TESTING
+   All materials shall be tested as per relevant IS codes.
+   Test certificates from NABL accredited labs shall be submitted.
+
+
+GENERAL TERMS AND CONDITIONS
+
+1. Payment: 80% advance on materials at site, balance within 15 days of completion.
+2. Completion: Within 60 days from date of work order.
+3. Validity: Quotation valid for 90 days from submission date.
+4. Warranty: Defects arising within 12 months from completion shall be rectified free of cost.
+5. Taxes: GST extra as applicable.
