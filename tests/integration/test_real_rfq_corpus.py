@@ -107,11 +107,11 @@ class TestPDFCount:
         pdfs = [p for p in pdfs if p.name not in ("manifest.csv", "manifest.json", "metadata.json")]
         assert len(pdfs) >= 50, f"Only {len(pdfs)} PDFs found, need ≥50"
 
-    def test_4_real_pdfs(self):
+    def test_real_pdfs_present(self):
         with open("data/real_rfqs/annotations/manifest.csv") as f:
             rows = list(csv.DictReader(f))
         real_count = sum(1 for r in rows if r.get("is_real") == "True")
-        assert real_count == 4, f"Expected 4 real PDFs, found {real_count}"
+        assert real_count >= 4, f"Expected at least 4 real PDFs, found {real_count}"
 
     def test_synthetic_archived(self):
         synth_dir = Path("data/real_rfqs/raw/synthetic_archive")

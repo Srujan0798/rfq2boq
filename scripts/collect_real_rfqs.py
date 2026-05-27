@@ -15,35 +15,34 @@ REAL_CATEGORIES = frozenset(
 )
 
 # Large tender PDFs: full-text extraction for manifest is unnecessary and very slow.
-_MANIFEST_SAMPLE_MAX_BYTES = 8 * 1024 * 1024
-_MANIFEST_SAMPLE_MAX_PAGES = 2
+_MANIFEST_SAMPLE_MAX_PAGES = 1
 
 
 def _manifest_pdf_stats(pdf_path: Path, extractor: PDFExtractor) -> tuple[int, int, bool]:
-    """Return (page_count, char_count, is_scanned) without running table extraction."""
+    """Return (page_count, approx_char_count, is_scanned).
 
-    import pdfplumber
+    This function is used only to build `manifest.json`/`manifest.csv` dashboards.
+    It intentionally samples *at most one page* to stay fast on 100+ PDF corpora.
+    """
 
-    with pdfplumber.open(str(pdf_path)) as pdf:
-        total_pages = len(pdf.pages)
-        if total_pages == 0:
-            return 0, 0, True
-        sample_pages = pdf.pages[:_MANIFEST_SAMPLE_MAX_PAGES]
-        texts = [p.extract_text() or "" for p in sample_pages]
-        chars_sample = sum(len(t) for t in texts)
+    # pdfplumber is accurate but slow on very large tender PDFs.
+    # Use PyMuPDF for fast page count and a single-page text sample.
+    import pymupdf
 
-    size = pdf_path.stat().st_size
-    if size <= _MANIFEST_SAMPLE_MAX_BYTES:
-        page_texts = extractor.extract_text(str(pdf_path))
-        chars = sum(len(p.text) for p in page_texts)
-        return len(page_texts), chars, extractor.is_scanned(page_texts)
+    doc = pymupdf.open(str(pdf_path))
+    total_pages = int(getattr(doc, "page_count", 0) or 0)
+    if total_pages == 0:
+        doc.close()
+        return 0, 0, True
+    try:
+        text0 = doc.load_page(0).get_text("text") or ""
+    except Exception:
+        text0 = ""
+    finally:
+        doc.close()
 
-    sample = [PageText(page_number=i + 1, text=texts[i]) for i in range(len(texts))]
-    # Rough total char estimate for dashboards (not used for training)
-    if chars_sample > 0 and total_pages > len(sample_pages):
-        chars = int(chars_sample * (total_pages / len(sample_pages)))
-    else:
-        chars = chars_sample
+    chars = len(text0) * total_pages if text0 else 0
+    sample = [PageText(page_number=1, text=text0)]
     return total_pages, chars, extractor.is_scanned(sample)
 
 
@@ -242,6 +241,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Organize real RFQ collection")
     parser.add_argument("--raw-dir", default="data/real_rfqs/raw", help="Raw PDFs directory")
     parser.add_argument("--output-dir", default="data/real_rfqs", help="Output directory")
+    parser.add_argument(
+        "--generate-sample-annotations",
+        action="store_true",
+        help="DANGEROUS: overwrite annotations/gold_annotations.json with dummy samples (dev-only).",
+    )
     args = parser.parse_args()
 
     raw_dir = Path(args.raw_dir)
@@ -263,5 +267,6 @@ if __name__ == "__main__":
     annotations_dir = output_dir / "annotations"
     annotations_dir.mkdir(exist_ok=True)
 
-    generate_sample_annotations(raw_dir, annotations_dir, count=20)
-    create_annotation_template(annotations_dir)
+    if args.generate_sample_annotations:
+        generate_sample_annotations(raw_dir, annotations_dir, count=20)
+        create_annotation_template(annotations_dir)

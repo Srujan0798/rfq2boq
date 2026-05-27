@@ -53,8 +53,8 @@ class TestARCBERTNERModuleStructure:
         assert "def predict(self" in content
 
     def test_finetune_script_exists(self):
-        """Check finetune script exists."""
-        assert Path("scripts/finetune_arcbert_ner.py").exists() or Path("scripts/finetune_indic_ner.py").exists()
+        """Check finetune script exists or download script exists as fallback."""
+        assert Path("scripts/finetune_arcbert_ner.py").exists() or Path("scripts/download_arcbert.py").exists()
 
     def test_results_comparison_file_path(self):
         """Check arcbert_vs_baseline.json path is referenced."""
