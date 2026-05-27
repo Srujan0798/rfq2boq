@@ -2,428 +2,419 @@
   "locations": [
     {
       "name": "basement",
-      "aliases": [
-        "basement level",
-        "below ground",
-        "cellar",
-        "basement floor",
-        "BMT"
-      ]
+      "aliases": ["basement level", "below ground", "cellar", "basement floor", "BMT", "basement zone", "BM", "BMT level"]
     },
     {
       "name": "ground floor",
-      "aliases": [
-        "GF",
-        "ground level",
-        "grade level",
-        "GFL",
-        "ground floor slab"
-      ]
+      "aliases": ["GF", "ground level", "grade level", "GFL", "ground floor slab", "floor 0", "ground", "GL", "G", "ground level slab", "natural ground level", "NGL"]
     },
     {
       "name": "first floor",
-      "aliases": [
-        "1st floor",
-        "FF",
-        "first floor level",
-        "floor 1"
-      ]
+      "aliases": ["1st floor", "FF", "first floor level", "floor 1", "1F", "first", "FFL", "floor one", "level 1", "L1"]
     },
     {
       "name": "second floor",
-      "aliases": [
-        "2nd floor",
-        "SF",
-        "second floor level",
-        "floor 2"
-      ]
+      "aliases": ["2nd floor", "SF", "second floor level", "floor 2", "2F", "second", "SFL", "floor two", "level 2", "L2"]
     },
     {
       "name": "third floor",
-      "aliases": [
-        "3rd floor",
-        "TF",
-        "third floor level",
-        "floor 3"
-      ]
+      "aliases": ["3rd floor", "TF", "third floor level", "floor 3", "3F", "third", "TFL", "floor three", "level 3", "L3"]
+    },
+    {
+      "name": "fourth floor",
+      "aliases": ["4th floor", "floor 4", "4F", "fourth", "level 4", "L4"]
+    },
+    {
+      "name": "fifth floor",
+      "aliases": ["5th floor", "floor 5", "5F", "fifth", "level 5", "L5"]
+    },
+    {
+      "name": "mezzanine floor",
+      "aliases": ["mezzanine", "MZ", "mezz", "mezzanine level", "raised floor", "platform"]
     },
     {
       "name": "roof level",
-      "aliases": [
-        "rooftop",
-        "terrace",
-        "roof",
-        "roof slab",
-        "top floor"
-      ]
+      "aliases": ["rooftop", "terrace", "roof", "roof slab", "top floor", "roof top", "RTL", "topmost floor", "top level", "TL"]
     },
     {
       "name": "attic",
-      "aliases": [
-        "loft",
-        "attic space"
-      ]
+      "aliases": ["loft", "attic space", "roof space", "attic level"]
     },
     {
       "name": "plinth",
-      "aliases": [
-        "plinth level",
-        "plinth",
-        "base"
-      ]
+      "aliases": ["plinth level", "plinth", "base", "plinth area", "ground level", "plinth beam"]
     },
     {
       "name": "foundation",
-      "aliases": [
-        "foundations",
-        "footings",
-        "base course",
-        "ground level"
-      ]
+      "aliases": ["foundations", "footings", "base course", "ground level", "foundation level", "foundation zone", "deep foundation", "pile foundation", "raft foundation", "raft", "pile", "pile cap"]
     },
     {
       "name": "superstructure",
-      "aliases": [
-        "super structure",
-        "above ground",
-        "building"
-      ]
+      "aliases": ["super structure", "above ground", "building", "superstructure zone", "structural zone above plinth"]
     },
     {
       "name": "exterior walls",
-      "aliases": [
-        "external walls",
-        "outer walls",
-        "facade",
-        "exterior",
-        "ext wall"
-      ]
+      "aliases": ["external walls", "outer walls", "facade", "exterior", "ext wall", "exterior wall", "outer leaf", "external envelope"]
     },
     {
       "name": "interior walls",
-      "aliases": [
-        "internal walls",
-        "inner walls",
-        "partition wall",
-        "int wall"
-      ]
+      "aliases": ["internal walls", "inner walls", "partition wall", "int wall", "interior partition", "internal partition", "non load bearing wall"]
     },
     {
       "name": "compound wall",
-      "aliases": [
-        "boundary wall",
-        "compound",
-        "perimeter wall",
-        "fencing wall"
-      ]
+      "aliases": ["boundary wall", "compound", "perimeter wall", "fencing wall", "compound fence", "retaining wall", "boundary", "compound wall perimeter"]
     },
     {
       "name": "living room",
-      "aliases": [
-        "living",
-        "lounge",
-        "drawing room",
-        "hall"
-      ]
+      "aliases": ["living", "lounge", "drawing room", "hall", "sitting room", "drawing hall", "DWR", "LR"]
     },
     {
       "name": "bedroom",
-      "aliases": [
-        "bed room",
-        "master bedroom",
-        "room"
-      ]
+      "aliases": ["bed room", "master bedroom", "room", "bedroom", "BR", "master room", "guest room"]
     },
     {
       "name": "bathroom",
-      "aliases": [
-        "toilet",
-        "WC",
-        "restroom",
-        "lavatory"
-      ]
+      "aliases": ["toilet", "WC", "restroom", "lavatory", "bath", "bathroom", "toilet block", "sanitary", "bath room", "W C"]
     },
     {
       "name": "kitchen",
-      "aliases": [
-        "cook house",
-        "pantry"
-      ]
+      "aliases": ["cook house", "pantry", "kitchenette", "cooking", "cookroom", "kitchen area", "cooking area"]
     },
     {
       "name": "balcony",
-      "aliases": [
-        "verandah",
-        "porch",
-        "deck"
-      ]
+      "aliases": ["verandah", "porch", "deck", "balcony area", " Juliette balcony", "cantilever balcony"]
     },
     {
       "name": "corridor",
-      "aliases": [
-        "hallway",
-        "passage",
-        "entry"
-      ]
+      "aliases": ["hallway", "passage", "entry", "corridor", "passageway", "walkway", "link corridor", "interconnecting corridor"]
     },
     {
       "name": "staircase",
-      "aliases": [
-        "stairs",
-        "stair",
-        "step"
-      ]
+      "aliases": ["stairs", "stair", "step", "stairwell", "stair way", "stair flight", "fire escape staircase", " stair", "staircase zone"]
     },
     {
       "name": "lift",
-      "aliases": [
-        "elevator",
-        "lift shaft",
-        "elevator shaft"
-      ]
+      "aliases": ["elevator", "lift shaft", "elevator shaft", "elevator machine room", "lift machine room", "MRL lift", "hydraulic lift"]
     },
     {
       "name": "parking",
-      "aliases": [
-        "car park",
-        "parking area",
-        "garage",
-        "shed"
-      ]
+      "aliases": ["car park", "parking area", "garage", "shed", "vehicle parking", "stilt parking", "open parking", "covered parking", "basement parking"]
     },
     {
       "name": "garden",
-      "aliases": [
-        "lawn",
-        "landscape area",
-        "soft landscape"
-      ]
+      "aliases": ["lawn", "landscape area", "soft landscape", "landscaped area", "green area", "planted area", "soft area"]
     },
     {
       "name": "terrace",
-      "aliases": [
-        "rooftop terrace",
-        "deck",
-        "balcony"
-      ]
+      "aliases": ["rooftop terrace", "deck", "balcony", "terrace area", "roof terrace", "sun terrace", "rooftop"]
     },
     {
       "name": "structural",
-      "aliases": [
-        "structural element",
-        "load bearing"
-      ]
+      "aliases": ["structural element", "load bearing", "structural zone", "load bearing element", "bearing member", "primary structural"]
     },
     {
       "name": "non structural",
-      "aliases": [
-        "non structural",
-        "partition",
-        "false ceiling"
-      ]
+      "aliases": ["non structural", "partition", "false ceiling", "non structural element", "secondary element", "non load bearing"]
     },
     {
       "name": "chajja",
-      "aliases": [
-        "chajja",
-        "sunshade",
-        "canopy",
-        "projection"
-      ]
+      "aliases": ["chajja", "sunshade", "canopy", "projection", "weather shade", "chajjaa", "overhang"]
     },
     {
       "name": "lintel",
-      "aliases": [
-        "lintel",
-        "beam over opening"
-      ]
+      "aliases": ["lintel", "beam over opening", "lintel beam", "window lintel", "door lintel", "RCC lintel"]
     },
     {
       "name": "sill",
-      "aliases": [
-        "window sill",
-        "shelf"
-      ]
+      "aliases": ["window sill", "shelf", "sill level", "window shelf"]
     },
     {
       "name": "soffit",
-      "aliases": [
-        "soffit",
-        "underside of arch"
-      ]
+      "aliases": ["soffit", "underside of arch", "soffit level", "ceiling soffit"]
     },
     {
       "name": "parapet",
-      "aliases": [
-        "parapet wall",
-        "railing"
-      ]
+      "aliases": ["parapet wall", "railing", "parapet", "compound parapet", "fire parapet", "railing parapet"]
     },
     {
       "name": "water tank",
-      "aliases": [
-        "tank",
-        "overhead tank",
-        "underground tank",
-        "sump"
-      ]
+      "aliases": ["tank", "overhead tank", "underground tank", "sump", "water storage tank", "OHTC", "UG tank", "elevated tank", "ground tank", "PVC tank", "HDPE tank", "RCC tank"]
     },
     {
       "name": "sump",
-      "aliases": [
-        "underground tank",
-        "water storage"
-      ]
+      "aliases": ["underground tank", "water storage", "sump well", "sump pit", "collection sump", "sump tank", "raw water sump", "clear water sump"]
     },
     {
       "name": "septic tank",
-      "aliases": [
-        "septic",
-        "sewage tank"
-      ]
+      "aliases": ["septic", "sewage tank", "septic tank system", "STP", "bio digester", "septic system"]
     },
     {
       "name": "drain",
-      "aliases": [
-        "drainage",
-        "sewer",
-        "sewer line"
-      ]
+      "aliases": ["drainage", "sewer", "sewer line", "drain line", "drainage system", "storm water drain", "SWD", "open drain", "covered drain"]
     },
     {
       "name": "manhole",
-      "aliases": [
-        "MH",
-        "inspection chamber",
-        "chamber"
-      ]
+      "aliases": ["MH", "inspection chamber", "chamber", "manhole chamber", "inspection pit", "sewer manhole", "drainage chamber"]
     },
     {
       "name": "approach road",
-      "aliases": [
-        "road",
-        "driveway",
-        "pathway",
-        "path"
-      ]
+      "aliases": ["road", "driveway", "pathway", "path", "approach", "entry road", "internal road", "access road", "service road", "roadway"]
     },
     {
       "name": "compound gate",
-      "aliases": [
-        "entrance gate",
-        "main gate",
-        "entry"
-      ]
+      "aliases": ["entrance gate", "main gate", "entry", "main entry gate", "compound entrance", "gate", "boundary gate", "front gate", "gate area"]
     },
     {
       "name": "electrical room",
-      "aliases": [
-        "meter room",
-        "transformer",
-        "panel room",
-        "substation"
-      ]
+      "aliases": ["meter room", "transformer", "panel room", "substation", "electrical", "LT panel room", "HT panel", "switch gear room", "electrical shaft"]
     },
     {
       "name": "pump room",
-      "aliases": [
-        "pump house",
-        "motor room"
-      ]
+      "aliases": ["pump house", "motor room", "pump", "water pump room", "pumping station", "pump set room", " sump room"]
     },
     {
       "name": "generator room",
-      "aliases": [
-        "DG room",
-        "diesel generator"
-      ]
+      "aliases": ["DG room", "diesel generator", "generator", "DG set", "diesel generator room", "backup power room", "genset room"]
     },
     {
       "name": "HVAC room",
-      "aliases": [
-        "AC plant room",
-        "AHU room",
-        "chiller room"
-      ]
+      "aliases": ["AC plant room", "AHU room", "chiller room", "HVAC", "air conditioning plant", "central AC", "AHU", "VRF", "ducting zone"]
     },
     {
       "name": "fire pump room",
-      "aliases": [
-        "fire fighting",
-        "pump"
-      ]
+      "aliases": ["fire fighting", "pump", "fire pump", "fire fighting room", "fire fighting system", "fire alarm", "sprinkler", "hydrant", "fire zone"]
     },
     {
       "name": "plot",
-      "aliases": [
-        "site",
-        "property",
-        "land"
-      ]
+      "aliases": ["site", "property", "land", "plot area", "project site", "work site", "construction site", "job site"]
     },
     {
       "name": "block a",
-      "aliases": [
-        "Block A",
-        "Block-A",
-        "wing A",
-        "building A"
-      ]
+      "aliases": ["Block A", "Block-A", "wing A", "building A", "block A area", "BA", "unit A", "tower A", "phase A", "zone A", "block-I A", "sector A"]
     },
     {
       "name": "block b",
-      "aliases": [
-        "Block B",
-        "Block-B",
-        "wing B",
-        "building B"
-      ]
+      "aliases": ["Block B", "Block-B", "wing B", "building B", "block B area", "BB", "unit B", "tower B", "phase B", "zone B", "block-I B", "sector B"]
     },
     {
       "name": "block c",
-      "aliases": [
-        "Block C",
-        "Block-C",
-        "wing C",
-        "building C"
-      ]
+      "aliases": ["Block C", "Block-C", "wing C", "building C", "block C area", "BC", "unit C", "tower C", "phase C", "zone C", "block-I C", "sector C"]
     },
     {
       "name": "basement 1",
-      "aliases": [
-        "B1",
-        "basement one",
-        "lower basement"
-      ]
+      "aliases": ["B1", "basement one", "lower basement", "basement level 1", "BM-1", "B-1", "basement zone 1"]
     },
     {
       "name": "basement 2",
-      "aliases": [
-        "B2",
-        "basement two",
-        "deeper basement"
-      ]
+      "aliases": ["B2", "basement two", "deeper basement", "basement level 2", "BM-2", "B-2", "basement zone 2"]
     },
     {
       "name": "mechanical",
-      "aliases": [
-        "Mech room",
-        "equipment area"
-      ]
+      "aliases": ["Mech room", "equipment area", "mechanical room", "MMR", "utility area", "equipment zone", "plant room"]
     },
     {
-      "name": "plumbing",
-      "aliases": [
-        "plumb area",
-        "pipe zone"
-      ]
+      "name": "plumbing zone",
+      "aliases": ["plumb area", "pipe zone", "plumbing", "wet area", "plumbing shaft", "water supply zone", "Drainage zone", "soil pipe zone"]
     },
     {
-      "name": "fire safety",
-      "aliases": [
-        "fire protection",
-        "sprinkler zone"
-      ]
+      "name": "fire safety zone",
+      "aliases": ["fire protection", "sprinkler zone", "fire safety", "fire alarm zone", "fire exit", "fire escape", "fire rated zone", "fire compartment"]
+    },
+    {
+      "name": "passage",
+      "aliases": ["passageway", "walkway", "interconnecting passage", "common passage", "covered passage", "alley"]
+    },
+    {
+      "name": "lobby",
+      "aliases": ["entry lobby", "main lobby", "lift lobby", "entrance lobby", "reception lobby", "lobby area", "ground floor lobby"]
+    },
+    {
+      "name": "store room",
+      "aliases": ["store", "storage", "store room", "storage room", "godown", "ware house", "stock room", "inventory room"]
+    },
+    {
+      "name": "control room",
+      "aliases": ["control", "control room", "SCADA room", "server room", "BMS room", "building management", "operation room", "security room"]
+    },
+    {
+      "name": "staff quarter",
+      "aliases": ["staff quarters", "residential quarters", "quarters", "dormitory", "staff hostel", "working women's hostel", "WWH", " boys hostel"]
+    },
+    {
+      "name": "auditorium",
+      "aliases": ["auditorium", "hall", "assembly hall", "seminar hall", "conference hall", "lecture hall", "amphitheatre", "multipurpose hall", "MP hall"]
+    },
+    {
+      "name": "classroom",
+      "aliases": ["class room", "classroom", "lecture room", "training room", "instruction room", " study room"]
+    },
+    {
+      "name": "laboratory",
+      "aliases": ["lab", "laboratory", "lab room", "test lab", "research lab", "quality control lab", "QC lab", "pathology lab"]
+    },
+    {
+      "name": "pharmacy",
+      "aliases": ["pharmacy", "dispensary", "medical store", "pharma store", "medicine store", "medical pharmacy"]
+    },
+    {
+      "name": "operation theatre",
+      "aliases": ["OT", "operation theatre", "operation theater", "surgery", "surgical suite", "operation room", "major OT", "minor OT"]
+    },
+    {
+      "name": "ICU",
+      "aliases": ["ICU", "intensive care unit", "critical care unit", "CCU", "critical care", "ICU ward", "intensive care", "NICU", "PICU"]
+    },
+    {
+      "name": "radiology",
+      "aliases": ["radiology", "X-ray room", "CT scan", "MRI room", "diagnostic imaging", "ultrasound room", "radiography", "imaging centre"]
+    },
+    {
+      "name": "blood bank",
+      "aliases": ["blood bank", "blood storage", "bloodcollection"]
+    },
+    {
+      "name": "casualty",
+      "aliases": ["casualty", "emergency", "emergency ward", "emergency department", "casualty ward", "trauma centre", "emergency room", "ER"]
+    },
+    {
+      "name": "OPDs",
+      "aliases": ["OPD", "outpatient", "out patient department", "consultation", "clinic", "outpatient department", "specialist clinic"]
+    },
+    {
+      "name": "central courtyard",
+      "aliases": ["central courtyard", "inner courtyard", "courtyard", "open courtyard", "atrium", "central open space", "open court"]
+    },
+    {
+      "name": "plant room",
+      "aliases": ["plant room", "utility plant", "equipment room", "system room", "water treatment plant", "ETP", "STP plant", "RO plant"]
+    },
+    {
+      "name": "reading room",
+      "aliases": ["reading room", "library", "reading hall", "reference section", "stack room", "digital library", "reading area"]
+    },
+    {
+      "name": "server room",
+      "aliases": ["server room", "data centre", "data center", "server", "IT room", "computer room", "server space", "LAN room", "hub room"]
+    },
+    {
+      "name": "security office",
+      "aliases": ["security", "security office", "watchman room", "guard room", "security zone", "entry check", "boom barrier"]
+    },
+    {
+      "name": "common toilet",
+      "aliases": ["common toilet", "public toilet", "shared toilet", "common WC", "public WC", "communal toilet", "public conveniences"]
+    },
+    {
+      "name": "PCC",
+      "aliases": ["PCC", "plain cement concrete", "concrete bed", "blinding concrete", "lean concrete", "concrete bed"]
+    },
+    {
+      "name": "column",
+      "aliases": ["column", "col", "pillar", "structural column", " RCC column", "brick column", "clmn", "stilt column", "ground floor column", "upper column"]
+    },
+    {
+      "name": "beam",
+      "aliases": ["beam", " RCC beam", "floor beam", "primary beam", "secondary beam", "T beam", "L beam", "drop beam", "hidden beam", "deep beam"]
+    },
+    {
+      "name": "slab",
+      "aliases": ["slab", " RCC slab", "floor slab", "roof slab", "plate slab", "flat slab", "waffle slab", "one way slab", "two way slab", "solid slab"]
+    },
+    {
+      "name": "shear wall",
+      "aliases": ["shear wall", "structural wall", "core wall", " RCC wall", "lift wall", "boundary wall", "shear panel"]
+    },
+    {
+      "name": "stilt",
+      "aliases": ["stilt", "stilt floor", "parking floor", "stilt level", "stilts", "stilt area"]
+    },
+    {
+      "name": "podium",
+      "aliases": ["podium", "podium floor", "plaza level", "civic plaza", "podium deck", "podium area"]
+    },
+    {
+      "name": "plaza",
+      "aliases": ["plaza", "public plaza", "civic plaza", "landscaped plaza", "open plaza", "courtyard plaza", "entry plaza"]
+    },
+    {
+      "name": "basement sump",
+      "aliases": ["basement sump", "sump in basement", "basement tank", "sump pit basement", "water pit basement"]
+    },
+    {
+      "name": "overhead tank",
+      "aliases": ["overhead tank", "OHT", "elevated tank", "raised tank", "RCC OHT", "plastic OHT", "tower tank", "overhead water tank"]
+    },
+    {
+      "name": "underground tank",
+      "aliases": ["underground tank", "UGT", "ground tank", "buried tank", "underground water tank", "rainwater harvesting tank", "RWH tank"]
+    },
+    {
+      "name": "rainwater harvesting",
+      "aliases": ["rainwater harvesting", "RWH", "recharge pit", "bore well recharge", "rooftop rainwater", "harvesting system"]
+    },
+    {
+      "name": "solar panel area",
+      "aliases": ["solar panel", "solar installation", "rooftop solar", "PV array", "solar farm", "solar mounting area", "solar zone"]
+    },
+    {
+      "name": "signage area",
+      "aliases": ["signage", "sign board", "signage zone", "hoarding", "directional sign", "safety sign", "site sign", "entrance sign"]
+    },
+    {
+      "name": "façade",
+      "aliases": ["façade", "facade", "building facade", "front facade", "external facade", "glazed facade", "curtain wall facade"]
+    },
+    {
+      "name": "external development",
+      "aliases": ["external development", "external works", "site development", "external infrastructure", "civil works external", "outside building works"]
+    },
+    {
+      "name": "approach slab",
+      "aliases": ["approach slab", "bridge approach", "runway slab", "access slab", "transition slab", "approach ramp"]
+    },
+    {
+      "name": "compound entry",
+      "aliases": ["compound entry", "site entry", "project entry", "main entry", "security entry", " controlled entry", "single entry", "dual entry"]
+    },
+    {
+      "name": "STP area",
+      "aliases": ["STP", "sewage treatment plant", "STP area", "treatment plant", "biological treatment", "sewage treatment zone"]
+    },
+    {
+      "name": "ETP area",
+      "aliases": ["ETP", "effluent treatment plant", "ETP area", "effluent treatment zone", "industrial effluent", "treatability zone"]
+    },
+    {
+      "name": "guard room",
+      "aliases": ["guard house", "guard room", "security booth", "checkpoint", "boom barrier entry", "entry booth", "gate booth"]
+    },
+    {
+      "name": "playground",
+      "aliases": ["play area", "children playground", "playground", "kids zone", "recreational area", "outdoor play", "nursery play"]
+    },
+    {
+      "name": "swimming pool",
+      "aliases": ["swimming pool", "pool", "lap pool", "children pool", "pool area", "deck area pool", "filtration pool"]
+    },
+    {
+      "name": "courtyard",
+      "aliases": ["courtyard", "inner courtyard", "central courtyard", "enclosed courtyard", "private courtyard", "landscaped courtyard", "paved courtyard"]
+    },
+    {
+      "name": "amphitheatre",
+      "aliases": ["open amphitheatre", "amphitheatre", "outdoor stage", "表演 arena", "community gathering", "outdoor theatre", "stepped seating"]
+    },
+    {
+      "name": "MMR",
+      "aliases": ["MMR", "municipal record room", "record room", "file room", "archival"]
+    },
+    {
+      "name": "records room",
+      "aliases": ["records room", "record storage", "file storage", "documentation room", "records office"]
+    },
+    {
+      "name": "chamber",
+      "aliases": ["chamber", "session court", "magistrate chamber", "judge chamber", "conference chamber"]
     }
   ]
 }
