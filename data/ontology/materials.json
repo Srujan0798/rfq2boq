@@ -7,8 +7,7 @@
         "split AC",
         "window AC",
         "cassette AC",
-        "Air Conditioner",
-        "air"
+        "Air Conditioner"
       ],
       "category": "hvac",
       "common_units": [
@@ -34,7 +33,6 @@
     {
       "name": "aluminium composite panel",
       "aliases": [
-        "ACP",
         "aluminum composite panel",
         "aluminium composite panel",
         "Aluminium Composite Panel",
@@ -54,7 +52,6 @@
         "cement board cladding",
         "fiber cement cladding",
         "Fiber Cement Cladding",
-        "fiber",
         "cement cladding"
       ],
       "category": "cladding",
@@ -70,7 +67,6 @@
         "compact laminate panel",
         "high pressure laminate cladding",
         "High Pressure Laminate Cladding",
-        "high",
         "pressure laminate cladding"
       ],
       "category": "cladding",
@@ -85,9 +81,7 @@
         "natural stone veneer",
         "stone veneer",
         "stone cladding",
-        "Stone Cladding",
-        "stone",
-        "cladding"
+        "Stone Cladding"
       ],
       "category": "cladding",
       "common_units": [
@@ -102,8 +96,7 @@
         "clay facade tile",
         "terracotta cladding",
         "Terracotta Cladding",
-        "terracotta",
-        "cladding"
+        "terracotta"
       ],
       "category": "cladding",
       "common_units": [
@@ -117,9 +110,7 @@
         "expansion joint",
         "movement joint",
         "Expansion Joint",
-        "Expansion joint",
-        "expansion",
-        "joint"
+        "Expansion joint"
       ],
       "category": "concrete",
       "common_units": [
@@ -132,7 +123,6 @@
       "aliases": [
         "bitumen",
         "asphalt",
-        "tar",
         "cutback",
         "Bitumen"
       ],
@@ -149,8 +139,7 @@
         "ordinary portland cement",
         "Portland cement",
         "PPC",
-        "PSC",
-        "cement"
+        "PSC"
       ],
       "category": "concrete",
       "common_units": [
@@ -176,7 +165,6 @@
     {
       "name": "coarse aggregate",
       "aliases": [
-        "aggregate",
         "crushed stone",
         "gravel",
         "jelly",
@@ -196,8 +184,7 @@
         "PCC",
         "cement concrete",
         "reinforced concrete",
-        "plain concrete",
-        "concrete"
+        "plain concrete"
       ],
       "category": "concrete",
       "common_units": [
@@ -209,11 +196,9 @@
       "name": "crusher run",
       "aliases": [
         "crusher run",
-        "aggregate",
         "moorum",
         "GSB",
-        "Crusher Run",
-        "crusher"
+        "Crusher Run"
       ],
       "category": "concrete",
       "common_units": [
@@ -223,11 +208,9 @@
     {
       "name": "dry lean concrete",
       "aliases": [
-        "DLC",
         "pavement lean concrete",
         "dry lean concrete",
         "Dry Lean Concrete",
-        "dry",
         "lean concrete"
       ],
       "category": "concrete",
@@ -240,11 +223,9 @@
     {
       "name": "fiber reinforced concrete",
       "aliases": [
-        "FRC",
         "fibre reinforced concrete",
         "fiber reinforced concrete",
         "Fiber Reinforced Concrete",
-        "fiber",
         "reinforced concrete"
       ],
       "category": "concrete",
@@ -257,12 +238,12 @@
     {
       "name": "fine aggregate",
       "aliases": [
+        "fine aggregate",
         "sand",
         "river sand",
         "crushed sand",
         "manufactured sand",
-        "M-sand",
-        "aggregate"
+        "M-sand"
       ],
       "category": "concrete",
       "common_units": [
@@ -276,9 +257,7 @@
         "LC concrete",
         "blinding concrete",
         "lean concrete",
-        "Lean Concrete",
-        "lean",
-        "concrete"
+        "Lean Concrete"
       ],
       "category": "concrete",
       "common_units": [
@@ -290,7 +269,6 @@
     {
       "name": "lightweight concrete",
       "aliases": [
-        "CLC",
         "foam concrete",
         "cellular concrete",
         "lightweight concrete",
@@ -311,8 +289,7 @@
         "20 MPa concrete",
         "m20 concrete",
         "M20 Concrete",
-        "m20",
-        "concrete"
+        "m20"
       ],
       "category": "concrete",
       "common_units": [
@@ -327,8 +304,7 @@
         "25 MPa concrete",
         "m25 concrete",
         "M25 Concrete",
-        "m25",
-        "concrete"
+        "m25"
       ],
       "category": "concrete",
       "common_units": [
@@ -343,8 +319,7 @@
         "30 MPa concrete",
         "m30 concrete",
         "M30 Concrete",
-        "m30",
-        "concrete"
+        "m30"
       ],
       "category": "concrete",
       "common_units": [
@@ -359,8 +334,7 @@
         "35 MPa concrete",
         "m35 concrete",
         "M35 Concrete",
-        "m35",
-        "concrete"
+        "m35"
       ],
       "category": "concrete",
       "common_units": [
@@ -375,8 +349,7 @@
         "40 MPa concrete",
         "m40 concrete",
         "M40 Concrete",
-        "m40",
-        "concrete"
+        "m40"
       ],
       "category": "concrete",
       "common_units": [
@@ -390,9 +363,7 @@
         "microconcrete",
         "repair micro concrete",
         "micro concrete",
-        "Micro Concrete",
-        "micro",
-        "concrete"
+        "Micro Concrete"
       ],
       "category": "concrete",
       "common_units": [
@@ -421,12 +392,10 @@
     {
       "name": "non shrink grout",
       "aliases": [
-        "NSG",
         "cementitious grout",
         "precision grout",
         "non shrink grout",
-        "Non Shrink Grout",
-        "non"
+        "Non Shrink Grout"
       ],
       "category": "concrete",
       "common_units": [
@@ -442,8 +411,7 @@
         "plain concrete",
         "cement concrete",
         "plain cement concrete",
-        "Plain Cement Concrete",
-        "plain"
+        "Plain Cement Concrete"
       ],
       "category": "concrete",
       "common_units": [
@@ -454,11 +422,9 @@
     {
       "name": "polymer modified mortar",
       "aliases": [
-        "PMM",
         "repair mortar",
         "polymer modified mortar",
         "Polymer Modified Mortar",
-        "polymer",
         "modified mortar"
       ],
       "category": "concrete",
@@ -471,11 +437,9 @@
     {
       "name": "rapid hardening cement",
       "aliases": [
-        "RHC",
         "quick setting cement",
         "rapid hardening cement",
         "Rapid Hardening Cement",
-        "rapid",
         "hardening cement"
       ],
       "category": "concrete",
@@ -488,12 +452,10 @@
     {
       "name": "ready mix concrete",
       "aliases": [
-        "RMC",
         "readymix",
         "ready mixed concrete",
         "ready mix concrete",
-        "Ready Mix Concrete",
-        "ready"
+        "Ready Mix Concrete"
       ],
       "category": "concrete",
       "common_units": [
@@ -518,11 +480,9 @@
     {
       "name": "self compacting concrete",
       "aliases": [
-        "SCC",
         "self consolidating concrete",
         "self compacting concrete",
         "Self Compacting Concrete",
-        "self",
         "compacting concrete"
       ],
       "category": "concrete",
@@ -593,7 +553,6 @@
     {
       "name": "sulphate resisting cement",
       "aliases": [
-        "SRC",
         "sulfate resisting cement",
         "sulphate resisting cement",
         "Sulphate Resisting Cement",
@@ -628,8 +587,7 @@
         "decorative cement",
         "white cement",
         "White Cement",
-        "white",
-        "cement"
+        "white"
       ],
       "category": "concrete",
       "common_units": [
@@ -645,8 +603,7 @@
         "aluminium glazed door",
         "aluminium door",
         "Aluminium Door",
-        "aluminium",
-        "door"
+        "aluminium"
       ],
       "category": "doors_windows",
       "common_units": [
@@ -661,8 +618,7 @@
         "sliding aluminium window",
         "aluminium window",
         "Aluminium Window",
-        "aluminium",
-        "window"
+        "aluminium"
       ],
       "category": "doors_windows",
       "common_units": [
@@ -677,7 +633,6 @@
         "floor spring",
         "door closer",
         "Door Closer",
-        "door",
         "closer"
       ],
       "category": "doors_windows",
@@ -692,9 +647,7 @@
         "architectural hardware",
         "ironmongery",
         "door hardware",
-        "Door Hardware",
-        "door",
-        "hardware"
+        "Door Hardware"
       ],
       "category": "doors_windows",
       "common_units": [
@@ -706,7 +659,6 @@
       "name": "fire rated door",
       "aliases": [
         "fire door",
-        "FRD",
         "fire rated door",
         "Fire Rated Door",
         "fire",
@@ -739,7 +691,6 @@
         "steel door shutter",
         "hollow metal door",
         "Hollow Metal Door",
-        "hollow",
         "metal door"
       ],
       "category": "doors_windows",
@@ -768,9 +719,7 @@
         "MS rolling shutter",
         "motorized shutter",
         "rolling shutter",
-        "Rolling Shutter",
-        "rolling",
-        "shutter"
+        "Rolling Shutter"
       ],
       "category": "doors_windows",
       "common_units": [
@@ -785,7 +734,6 @@
         "lath section",
         "shutter slat",
         "Shutter Slat",
-        "shutter",
         "slat"
       ],
       "category": "doors_windows",
@@ -814,10 +762,8 @@
       "name": "cement fiber board",
       "aliases": [
         "fibre cement board",
-        "FCB",
         "cement fiber board",
         "Cement Fiber Board",
-        "cement",
         "fiber board"
       ],
       "category": "drywall",
@@ -833,7 +779,6 @@
         "ceiling suspension grid",
         "false ceiling grid",
         "False Ceiling Grid",
-        "false",
         "ceiling grid"
       ],
       "category": "drywall",
@@ -846,11 +791,9 @@
       "name": "gypsum board",
       "aliases": [
         "gypsum plasterboard",
-        "GWB",
         "gypsum board",
         "Gypsum Board",
-        "gypsum",
-        "board"
+        "gypsum"
       ],
       "category": "drywall",
       "common_units": [
@@ -881,7 +824,6 @@
         "clip in tile",
         "metal ceiling tile",
         "Metal Ceiling Tile",
-        "metal",
         "ceiling tile"
       ],
       "category": "drywall",
@@ -913,8 +855,7 @@
         "aluminum conductor cable",
         "aluminium cable",
         "Aluminium Cable",
-        "aluminium",
-        "cable"
+        "aluminium"
       ],
       "category": "electrical",
       "common_units": [
@@ -930,8 +871,7 @@
         "SWA cable",
         "armoured cable",
         "Armoured Cable",
-        "armoured",
-        "cable"
+        "armoured"
       ],
       "category": "electrical",
       "common_units": [
@@ -943,11 +883,9 @@
     {
       "name": "cable",
       "aliases": [
-        "cable",
         "electric cable",
         "power cable",
-        "control cable",
-        "Cable"
+        "control cable"
       ],
       "category": "electrical",
       "common_units": [
@@ -961,9 +899,7 @@
         "perforated cable tray",
         "ladder tray",
         "cable tray",
-        "Cable Tray",
-        "cable",
-        "tray"
+        "Cable Tray"
       ],
       "category": "electrical",
       "common_units": [
@@ -978,9 +914,7 @@
         "raceway",
         "metal trunking",
         "cable trunking",
-        "Cable Trunking",
-        "cable",
-        "trunking"
+        "Cable Trunking"
       ],
       "category": "electrical",
       "common_units": [
@@ -992,11 +926,9 @@
     {
       "name": "conduit",
       "aliases": [
-        "conduit",
         "electrical conduit",
         "GI conduit",
-        "PVC conduit",
-        "Conduit"
+        "PVC conduit"
       ],
       "category": "electrical",
       "common_units": [
@@ -1011,8 +943,7 @@
         "copper conductor cable",
         "copper cable",
         "Copper Cable",
-        "copper",
-        "cable"
+        "copper"
       ],
       "category": "electrical",
       "common_units": [
@@ -1027,8 +958,7 @@
         "panel board",
         "distribution board",
         "Distribution Board",
-        "distribution",
-        "board"
+        "distribution"
       ],
       "category": "electrical",
       "common_units": [
@@ -1040,11 +970,9 @@
     {
       "name": "earthing",
       "aliases": [
-        "earthing",
         "grounding",
         "electrode",
-        "gi strip",
-        "Earthing"
+        "gi strip"
       ],
       "category": "electrical",
       "common_units": [
@@ -1060,7 +988,6 @@
         "chemical earthing electrode",
         "earthing electrode",
         "Earthing Electrode",
-        "earthing",
         "electrode"
       ],
       "category": "electrical",
@@ -1076,9 +1003,7 @@
         "GI earthing strip",
         "copper earth strip",
         "earthing strip",
-        "Earthing Strip",
-        "earthing",
-        "strip"
+        "Earthing Strip"
       ],
       "category": "electrical",
       "common_units": [
@@ -1108,7 +1033,6 @@
         "extinguisher",
         "CO2",
         "foam",
-        "ABC",
         "Fire Extinguisher"
       ],
       "category": "electrical",
@@ -1122,8 +1046,7 @@
         "GI electrical conduit",
         "galvanized conduit",
         "gi conduit",
-        "Gi Conduit",
-        "conduit"
+        "Gi Conduit"
       ],
       "category": "electrical",
       "common_units": [
@@ -1152,9 +1075,7 @@
         "luminaire",
         "LED light fitting",
         "light fixture",
-        "Light Fixture",
-        "light",
-        "fixture"
+        "Light Fixture"
       ],
       "category": "electrical",
       "common_units": [
@@ -1166,9 +1087,7 @@
     {
       "name": "lighting",
       "aliases": [
-        "light",
         "luminaire",
-        "LED",
         "tube light",
         "bulb",
         "lighting"
@@ -1211,10 +1130,8 @@
     {
       "name": "switch",
       "aliases": [
-        "switch",
         "switchgear",
-        "circuit breaker",
-        "Switch"
+        "circuit breaker"
       ],
       "category": "electrical",
       "common_units": [
@@ -1227,9 +1144,7 @@
         "switchboard",
         "modular switch",
         "switch socket",
-        "Switch Socket",
-        "switch",
-        "socket"
+        "Switch Socket"
       ],
       "category": "electrical",
       "common_units": [
@@ -1245,8 +1160,7 @@
         "corner strip",
         "PVC bead",
         "Corner Bead",
-        "Corner bead",
-        "corner"
+        "Corner bead"
       ],
       "category": "finishes",
       "common_units": [
@@ -1260,8 +1174,7 @@
         "acrylic wall putty",
         "acrylic putty",
         "Acrylic Putty",
-        "acrylic",
-        "putty"
+        "acrylic"
       ],
       "category": "finishes",
       "common_units": [
@@ -1307,7 +1220,6 @@
       "name": "carpet",
       "aliases": [
         "carpet",
-        "rug",
         "floor covering",
         "Carpet"
       ],
@@ -1322,9 +1234,7 @@
         "modular carpet",
         "carpet flooring",
         "carpet tile",
-        "Carpet Tile",
-        "carpet",
-        "tile"
+        "Carpet Tile"
       ],
       "category": "finishes",
       "common_units": [
@@ -1339,9 +1249,7 @@
         "wall primer",
         "cement paint primer",
         "cement primer",
-        "Cement Primer",
-        "cement",
-        "primer"
+        "Cement Primer"
       ],
       "category": "finishes",
       "common_units": [
@@ -1357,8 +1265,7 @@
         "ceramic floor tile",
         "ceramic tile",
         "Ceramic Tile",
-        "ceramic",
-        "tile"
+        "ceramic"
       ],
       "category": "finishes",
       "common_units": [
@@ -1401,9 +1308,7 @@
         "acrylic emulsion",
         "interior emulsion",
         "emulsion paint",
-        "Emulsion Paint",
-        "emulsion",
-        "paint"
+        "Emulsion Paint"
       ],
       "category": "finishes",
       "common_units": [
@@ -1418,9 +1323,7 @@
         "synthetic enamel",
         "oil enamel",
         "enamel paint",
-        "Enamel Paint",
-        "enamel",
-        "paint"
+        "Enamel Paint"
       ],
       "category": "finishes",
       "common_units": [
@@ -1453,8 +1356,7 @@
         "epoxy protective paint",
         "epoxy paint",
         "Epoxy Paint",
-        "epoxy",
-        "paint"
+        "epoxy"
       ],
       "category": "finishes",
       "common_units": [
@@ -1467,11 +1369,9 @@
       "name": "glazed tile",
       "aliases": [
         "glazed ceramic tile",
-        "GVT",
         "glazed tile",
         "Glazed Tile",
-        "glazed",
-        "tile"
+        "glazed"
       ],
       "category": "finishes",
       "common_units": [
@@ -1487,8 +1387,7 @@
         "gypsum finish",
         "gypsum plaster",
         "Gypsum Plaster",
-        "gypsum",
-        "plaster"
+        "gypsum"
       ],
       "category": "finishes",
       "common_units": [
@@ -1518,7 +1417,6 @@
         "HDF laminate",
         "laminate flooring",
         "Laminate Flooring",
-        "laminate",
         "flooring"
       ],
       "category": "finishes",
@@ -1535,8 +1433,7 @@
         "hydraulic lime plaster",
         "lime plaster",
         "Lime Plaster",
-        "lime",
-        "plaster"
+        "lime"
       ],
       "category": "finishes",
       "common_units": [
@@ -1567,8 +1464,7 @@
         "terrazzo tile",
         "chequered tile",
         "mosaic tile",
-        "Mosaic Tile",
-        "tile"
+        "Mosaic Tile"
       ],
       "category": "finishes",
       "common_units": [
@@ -1579,12 +1475,7 @@
     {
       "name": "paint",
       "aliases": [
-        "paint",
-        "emulsion paint",
-        "distemper",
-        "enamel",
-        "primer",
-        "Paint"
+        "emulsion paint"
       ],
       "category": "finishes",
       "common_units": [
@@ -1595,12 +1486,9 @@
     {
       "name": "plaster",
       "aliases": [
-        "plaster",
         "gypsum plaster",
-        "POP",
         "plaster of paris",
-        "cement plaster",
-        "Plaster"
+        "cement plaster"
       ],
       "category": "finishes",
       "common_units": [
@@ -1631,8 +1519,7 @@
         "porcelain floor tile",
         "porcelain tile",
         "Porcelain Tile",
-        "porcelain",
-        "tile"
+        "porcelain"
       ],
       "category": "finishes",
       "common_units": [
@@ -1644,11 +1531,9 @@
     {
       "name": "primer",
       "aliases": [
-        "primer",
         "wood primer",
         "metal primer",
-        "bonding primer",
-        "Primer"
+        "bonding primer"
       ],
       "category": "finishes",
       "common_units": [
@@ -1659,11 +1544,9 @@
     {
       "name": "putty",
       "aliases": [
-        "putty",
         "wall putty",
         "acrylic putty",
-        "cement putty",
-        "Putty"
+        "cement putty"
       ],
       "category": "finishes",
       "common_units": [
@@ -1738,8 +1621,7 @@
         "sandtex finish",
         "texture paint",
         "Texture Paint",
-        "texture",
-        "paint"
+        "texture"
       ],
       "category": "finishes",
       "common_units": [
@@ -1751,7 +1633,6 @@
     {
       "name": "tile",
       "aliases": [
-        "tile",
         "ceramic tile",
         "vitrified tile",
         "glazed tile",
@@ -1767,10 +1648,8 @@
     {
       "name": "upvc window",
       "aliases": [
-        "window",
         "uPVC window",
         "vinyl window",
-        "glazing",
         "upvc window",
         "Upvc Window"
       ],
@@ -1802,7 +1681,6 @@
         "vinyl tile",
         "vinyl flooring",
         "Vinyl Flooring",
-        "vinyl",
         "flooring"
       ],
       "category": "finishes",
@@ -1819,8 +1697,7 @@
         "vitrified flooring tile",
         "vitrified tile",
         "Vitrified Tile",
-        "vitrified",
-        "tile"
+        "vitrified"
       ],
       "category": "finishes",
       "common_units": [
@@ -1934,12 +1811,10 @@
     {
       "name": "glass",
       "aliases": [
-        "glass",
         "toughened glass",
         "tempered glass",
         "laminated glass",
-        "float glass",
-        "Glass"
+        "float glass"
       ],
       "category": "glass",
       "common_units": [
@@ -1952,9 +1827,7 @@
         "glass block",
         "glass brick",
         "hollow glass block",
-        "Glass Block",
-        "glass",
-        "block"
+        "Glass Block"
       ],
       "category": "glass",
       "common_units": [
@@ -1991,7 +1864,6 @@
     {
       "name": "double glazed unit",
       "aliases": [
-        "DGU",
         "insulated glass unit",
         "double glazed unit",
         "Double Glazed Unit",
@@ -2027,8 +1899,7 @@
         "annealed glass",
         "float glass",
         "Float Glass",
-        "float",
-        "glass"
+        "float"
       ],
       "category": "glass",
       "common_units": [
@@ -2043,7 +1914,6 @@
         "structural glazing",
         "glass curtain wall",
         "Glass Curtain Wall",
-        "glass",
         "curtain wall"
       ],
       "category": "glass",
@@ -2059,8 +1929,7 @@
         "PVB glass",
         "laminated glass",
         "Laminated Glass",
-        "laminated",
-        "glass"
+        "laminated"
       ],
       "category": "glass",
       "common_units": [
@@ -2075,8 +1944,7 @@
         "safety glass",
         "toughened glass",
         "Toughened Glass",
-        "toughened",
-        "glass"
+        "toughened"
       ],
       "category": "glass",
       "common_units": [
@@ -2091,8 +1959,7 @@
         "tactile tile",
         "chequered tile",
         "Chequered Tile",
-        "chequered",
-        "tile"
+        "chequered"
       ],
       "category": "hardscape",
       "common_units": [
@@ -2108,8 +1975,7 @@
         "concrete kerb",
         "kerb stone",
         "Kerb Stone",
-        "kerb",
-        "stone"
+        "kerb"
       ],
       "category": "hardscape",
       "common_units": [
@@ -2125,8 +1991,7 @@
         "concrete paver",
         "paver block",
         "Paver Block",
-        "paver",
-        "block"
+        "paver"
       ],
       "category": "hardscape",
       "common_units": [
@@ -2141,9 +2006,7 @@
         "wedge anchor",
         "mechanical anchor",
         "anchor fastener",
-        "Anchor Fastener",
-        "anchor",
-        "fastener"
+        "Anchor Fastener"
       ],
       "category": "hardware",
       "common_units": [
@@ -2158,8 +2021,7 @@
         "epoxy anchor",
         "chemical anchor",
         "Chemical Anchor",
-        "chemical",
-        "anchor"
+        "chemical"
       ],
       "category": "hardware",
       "common_units": [
@@ -2174,7 +2036,6 @@
         "HSFG bolt",
         "high tensile bolt",
         "High Tensile Bolt",
-        "high",
         "tensile bolt"
       ],
       "category": "hardware",
@@ -2190,7 +2051,6 @@
         "tek screw",
         "self drilling screw",
         "Self Drilling Screw",
-        "self",
         "drilling screw"
       ],
       "category": "hardware",
@@ -2315,7 +2175,6 @@
     {
       "name": "volume control damper",
       "aliases": [
-        "VCD",
         "air damper",
         "volume control damper",
         "Volume Control Damper",
@@ -2336,7 +2195,6 @@
         "VRV pipe",
         "vrf copper piping",
         "Vrf Copper Piping",
-        "vrf",
         "copper piping"
       ],
       "category": "hvac",
@@ -2351,8 +2209,6 @@
       "aliases": [
         "insulation",
         "thermocol",
-        "EPS",
-        "XPS",
         "polyfoam",
         "insulation board"
       ],
@@ -2400,7 +2256,6 @@
         "glass fibre wool",
         "glass wool insulation",
         "Glass Wool Insulation",
-        "glass",
         "wool insulation"
       ],
       "category": "insulation",
@@ -2428,7 +2283,6 @@
     {
       "name": "polyurethane foam",
       "aliases": [
-        "PUF",
         "spray foam",
         "polyurethane foam",
         "Polyurethane Foam",
@@ -2475,7 +2329,6 @@
     {
       "name": "aac block",
       "aliases": [
-        "AAC",
         "autoclaved aerated concrete",
         "lightweight block",
         "gas concrete block",
@@ -2524,10 +2377,8 @@
       "name": "fly ash brick",
       "aliases": [
         "fly ash brick",
-        "FAB",
         "brickbat",
         "Fly Ash Brick",
-        "fly",
         "ash brick"
       ],
       "category": "brick",
@@ -2541,7 +2392,6 @@
       "aliases": [
         "concrete block",
         "hollow block",
-        "CMU",
         "concrete masonry unit",
         "hollow concrete block",
         "Hollow Concrete Block"
@@ -2559,8 +2409,7 @@
         "rubble masonry",
         "ashlar masonry",
         "stone masonry",
-        "Stone Masonry",
-        "stone"
+        "Stone Masonry"
       ],
       "category": "brick",
       "common_units": [
@@ -2590,7 +2439,6 @@
         "mosquito mesh",
         "window screen",
         "Fly Screen",
-        "fly",
         "screen"
       ],
       "category": "steel",
@@ -2605,8 +2453,7 @@
         "aluminium extrusion",
         "aluminium section",
         "Aluminium Section",
-        "aluminium",
-        "section"
+        "aluminium"
       ],
       "category": "steel",
       "common_units": [
@@ -2621,7 +2468,6 @@
         "binding wire",
         "gi wire",
         "black annealed wire",
-        "wire",
         "Binding Wire",
         "binding"
       ],
@@ -2838,7 +2684,6 @@
     {
       "name": "steel pipe",
       "aliases": [
-        "pipe",
         "MS pipe",
         "GI pipe",
         "steel tube",
@@ -2986,7 +2831,6 @@
       "name": "check valve",
       "aliases": [
         "non return valve",
-        "NRV",
         "check valve",
         "Check Valve",
         "check",
@@ -3021,8 +2865,7 @@
         "Cu pipe",
         "copper pipe",
         "Copper Pipe",
-        "copper",
-        "pipe"
+        "copper"
       ],
       "category": "piping",
       "common_units": [
@@ -3037,8 +2880,7 @@
         "chlorinated PVC pipe",
         "cpvc pipe",
         "Cpvc Pipe",
-        "cpvc",
-        "pipe"
+        "cpvc"
       ],
       "category": "piping",
       "common_units": [
@@ -3068,7 +2910,6 @@
         "nahani trap",
         "floor trap",
         "Floor Trap",
-        "floor",
         "trap"
       ],
       "category": "piping",
@@ -3132,8 +2973,7 @@
         "PE pipe",
         "polyethylene pipe",
         "high density polyethylene pipe",
-        "High Density Polyethylene Pipe",
-        "high"
+        "High Density Polyethylene Pipe"
       ],
       "category": "piping",
       "common_units": [
@@ -3148,9 +2988,7 @@
         "PEX pipe",
         "cross linked polyethylene pipe",
         "pex pipe",
-        "Pex Pipe",
-        "pex",
-        "pipe"
+        "Pex Pipe"
       ],
       "category": "piping",
       "common_units": [
@@ -3162,11 +3000,9 @@
       "name": "pipe fitting",
       "aliases": [
         "elbow",
-        "tee",
         "reducer",
         "pipe fitting",
-        "Pipe Fitting",
-        "pipe"
+        "Pipe Fitting"
       ],
       "category": "piping",
       "common_units": [
@@ -3197,9 +3033,7 @@
         "PPR pipe",
         "polypropylene random pipe",
         "ppr pipe",
-        "Ppr Pipe",
-        "ppr",
-        "pipe"
+        "Ppr Pipe"
       ],
       "category": "piping",
       "common_units": [
@@ -3210,7 +3044,6 @@
     {
       "name": "pvc conduit",
       "aliases": [
-        "conduit",
         "PVC conduit",
         "electrical conduit",
         "pvc conduit",
@@ -3262,8 +3095,7 @@
         "vitrified clay pipe",
         "stoneware pipe",
         "Stoneware Pipe",
-        "stoneware",
-        "pipe"
+        "stoneware"
       ],
       "category": "piping",
       "common_units": [
@@ -3278,7 +3110,6 @@
         "bituminous concrete",
         "Bituminous Concrete",
         "bituminous",
-        "concrete",
         "bituminous concrete work"
       ],
       "category": "roads",
@@ -3378,7 +3209,6 @@
         "wet macadam",
         "wet mix macadam",
         "Wet Mix Macadam",
-        "wet",
         "mix macadam"
       ],
       "category": "roads",
@@ -3425,8 +3255,7 @@
         "PC sheet",
         "polycarbonate roofing",
         "polycarbonate sheet",
-        "Polycarbonate Sheet",
-        "sheet"
+        "Polycarbonate Sheet"
       ],
       "category": "roofing",
       "common_units": [
@@ -3453,7 +3282,6 @@
     {
       "name": "faucet",
       "aliases": [
-        "tap",
         "bib cock",
         "pillar cock",
         "faucet",
@@ -3471,7 +3299,6 @@
         "drain grating",
         "floor drain",
         "Floor Drain",
-        "floor",
         "drain"
       ],
       "category": "sanitary",
@@ -3560,8 +3387,7 @@
         "granite",
         "granite stone",
         "granite slab",
-        "Granite Slab",
-        "slab"
+        "Granite Slab"
       ],
       "category": "stone",
       "common_units": [
@@ -3576,8 +3402,7 @@
         "kadappa slab",
         "kadappa stone",
         "Kadappa Stone",
-        "kadappa",
-        "stone"
+        "kadappa"
       ],
       "category": "stone",
       "common_units": [
@@ -3592,8 +3417,7 @@
         "limestone slab",
         "kota stone",
         "Kota Stone",
-        "kota",
-        "stone"
+        "kota"
       ],
       "category": "stone",
       "common_units": [
@@ -3604,11 +3428,9 @@
     {
       "name": "marble slab",
       "aliases": [
-        "marble",
         "marble stone",
         "marble slab",
-        "Marble Slab",
-        "slab"
+        "Marble Slab"
       ],
       "category": "stone",
       "common_units": [
@@ -3623,8 +3445,7 @@
         "quartz slab",
         "quartz stone",
         "Quartz Stone",
-        "quartz",
-        "stone"
+        "quartz"
       ],
       "category": "stone",
       "common_units": [
@@ -3653,8 +3474,7 @@
         "natural slate",
         "slate stone",
         "Slate Stone",
-        "slate",
-        "stone"
+        "slate"
       ],
       "category": "stone",
       "common_units": [
@@ -3669,8 +3489,7 @@
         "gap seal",
         "joint seal",
         "Expansion Seal",
-        "Expansion seal",
-        "expansion"
+        "Expansion seal"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -3731,7 +3550,6 @@
     {
       "name": "damp proof course",
       "aliases": [
-        "DPC",
         "damp proof course",
         "damp proofing",
         "Damp Proof Course",
@@ -3751,7 +3569,6 @@
         "bitumen impregnated board",
         "expansion joint filler",
         "Expansion Joint Filler",
-        "expansion",
         "joint filler"
       ],
       "category": "waterproofing",
@@ -3765,7 +3582,6 @@
       "name": "liquid waterproofing",
       "aliases": [
         "liquid applied membrane",
-        "LAM",
         "liquid waterproofing",
         "Liquid Waterproofing",
         "liquid",
@@ -3802,8 +3618,7 @@
         "polyethylene sheet",
         "vapor barrier",
         "polythene sheet",
-        "Polythene Sheet",
-        "sheet"
+        "Polythene Sheet"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -3893,8 +3708,7 @@
         "wooden frame",
         "sal frame",
         "teak frame",
-        "Door Frame",
-        "door"
+        "Door Frame"
       ],
       "category": "wood",
       "common_units": [
@@ -3905,7 +3719,6 @@
     {
       "name": "flush door",
       "aliases": [
-        "door",
         "flush door",
         "ply door",
         "solid core door",
@@ -3923,7 +3736,6 @@
       "aliases": [
         "particle board",
         "chipboard",
-        "MDF",
         "medium density fiberboard",
         "Particle Board",
         "particle"
@@ -3937,7 +3749,6 @@
       "name": "plywood",
       "aliases": [
         "plywood",
-        "ply",
         "bwr plywood",
         "mr plywood",
         "marine plywood",
@@ -3978,7 +3789,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -3993,7 +3804,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4008,7 +3819,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4023,7 +3834,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4038,7 +3849,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4053,7 +3864,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4068,7 +3879,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4083,7 +3894,7 @@
       ],
       "category": "cement",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4113,7 +3924,7 @@
       ],
       "category": "brick",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4128,7 +3939,7 @@
       ],
       "category": "flooring",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4143,7 +3954,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4158,7 +3969,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4188,14 +3999,12 @@
       ],
       "category": "wood",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
       "name": "hardware",
       "aliases": [
-        "hardware",
-        "Hardware",
         "hardware work",
         "hardware supply",
         "hardware material",
@@ -4254,8 +4063,6 @@
     {
       "name": "fitting",
       "aliases": [
-        "fitting",
-        "Fitting",
         "fitting work",
         "fitting supply",
         "fitting material",
@@ -4398,7 +4205,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4413,7 +4220,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4428,7 +4235,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4443,7 +4250,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4488,7 +4295,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4659,8 +4466,6 @@
     {
       "name": "pump",
       "aliases": [
-        "pump",
-        "Pump",
         "pump work",
         "pump supply",
         "pump material",
@@ -4758,7 +4563,7 @@
       ],
       "category": "paint",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4773,7 +4578,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4788,7 +4593,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4803,7 +4608,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -4833,7 +4638,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4914,8 +4719,6 @@
     {
       "name": "sump",
       "aliases": [
-        "sump",
-        "Sump",
         "sump work",
         "sump supply",
         "sump material",
@@ -4953,7 +4756,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -4998,7 +4801,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -5043,7 +4846,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -5058,7 +4861,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -5073,7 +4876,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5118,7 +4921,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5133,7 +4936,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -5313,7 +5116,7 @@
       ],
       "category": "steel",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5328,7 +5131,7 @@
       ],
       "category": "steel",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5343,7 +5146,7 @@
       ],
       "category": "steel",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5358,7 +5161,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5373,14 +5176,12 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
       "name": "grouting",
       "aliases": [
-        "grouting",
-        "Grouting",
         "grouting work",
         "grouting supply",
         "grouting material",
@@ -5403,7 +5204,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5418,7 +5219,7 @@
       ],
       "category": "plaster",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5433,7 +5234,7 @@
       ],
       "category": "false ceiling",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5448,7 +5249,7 @@
       ],
       "category": "wood",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5463,7 +5264,7 @@
       ],
       "category": "wood",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5478,7 +5279,7 @@
       ],
       "category": "roofing",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5493,7 +5294,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5523,7 +5324,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5538,7 +5339,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5553,7 +5354,7 @@
       ],
       "category": "paint",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5568,7 +5369,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5583,7 +5384,7 @@
       ],
       "category": "cement",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5598,7 +5399,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5613,7 +5414,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5628,7 +5429,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -5784,8 +5585,6 @@
     {
       "name": "gland",
       "aliases": [
-        "gland",
-        "Gland",
         "gland work",
         "gland supply",
         "gland material",
@@ -5874,8 +5673,6 @@
     {
       "name": "socket",
       "aliases": [
-        "socket",
-        "Socket",
         "socket work",
         "socket supply",
         "socket material",
@@ -6003,7 +5800,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6018,7 +5815,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6033,7 +5830,7 @@
       ],
       "category": "brick",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6123,14 +5920,12 @@
       ],
       "category": "aggregate",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
       "name": "metal",
       "aliases": [
-        "metal",
-        "Metal",
         "metal work",
         "metal supply",
         "metal material",
@@ -6138,7 +5933,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -6153,7 +5948,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -6168,7 +5963,7 @@
       ],
       "category": "aggregate",
       "common_units": [
-        "m³"
+        "m\u00b3"
       ]
     },
     {
@@ -6303,7 +6098,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6318,7 +6113,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6333,7 +6128,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6348,7 +6143,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6378,7 +6173,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6408,7 +6203,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6438,7 +6233,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6483,7 +6278,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6543,7 +6338,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6573,7 +6368,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6639,8 +6434,6 @@
     {
       "name": "section",
       "aliases": [
-        "section",
-        "Section",
         "section work",
         "section supply",
         "section material",
@@ -6654,8 +6447,6 @@
     {
       "name": "anchor",
       "aliases": [
-        "anchor",
-        "Anchor",
         "anchor work",
         "anchor supply",
         "anchor material",
@@ -6669,8 +6460,6 @@
     {
       "name": "strip",
       "aliases": [
-        "strip",
-        "Strip",
         "strip work",
         "strip supply",
         "strip material",
@@ -6693,7 +6482,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6708,7 +6497,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6723,7 +6512,7 @@
       ],
       "category": "wood",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6738,7 +6527,7 @@
       ],
       "category": "miscellaneous",
       "common_units": [
-        "m²"
+        "m\u00b2"
       ]
     },
     {
@@ -6915,9 +6704,7 @@
       "name": "Low Heat Cement",
       "aliases": [
         "low heat cement",
-        "LHC",
         "Low Heat Cement",
-        "low",
         "heat cement",
         "low heat cement work"
       ],
@@ -7076,8 +6863,7 @@
         "coarse aggregate 20mm",
         "20Mm Aggregate",
         "20mm Aggregate",
-        "20mm",
-        "aggregate"
+        "20mm"
       ],
       "category": "aggregate",
       "common_units": [
@@ -7092,8 +6878,7 @@
         "coarse aggregate 40mm",
         "40Mm Aggregate",
         "40mm Aggregate",
-        "40mm",
-        "aggregate"
+        "40mm"
       ],
       "category": "aggregate",
       "common_units": [
@@ -7107,7 +6892,6 @@
         "stone dust",
         "crusher dust",
         "Stone Dust",
-        "stone",
         "dust"
       ],
       "category": "aggregate",
@@ -7122,8 +6906,7 @@
         "exterior emulsion",
         "weathercoat",
         "Exterior Emulsion",
-        "exterior",
-        "emulsion"
+        "exterior"
       ],
       "category": "paint",
       "common_units": [
@@ -7181,12 +6964,10 @@
     {
       "name": "MDF Board",
       "aliases": [
-        "MDF",
         "medium density fibreboard",
         "mdf board",
         "Mdf Board",
-        "MDF Board",
-        "mdf"
+        "MDF Board"
       ],
       "category": "wood",
       "common_units": [
@@ -7248,8 +7029,7 @@
         "aluminium wire",
         "al wire",
         "Aluminium Wire",
-        "aluminium",
-        "wire"
+        "aluminium"
       ],
       "category": "electrical",
       "common_units": [
@@ -7327,8 +7107,7 @@
         "asbestos cement sheet",
         "ac sheet",
         "Ac Sheet",
-        "AC Sheet",
-        "sheet"
+        "AC Sheet"
       ],
       "category": "roofing",
       "common_units": [
@@ -7342,7 +7121,6 @@
         "terracotta tile",
         "Terracotta Tile",
         "terracotta",
-        "tile",
         "terracotta tile work",
         "terracotta tile items"
       ],
@@ -7359,8 +7137,7 @@
         "plaster of paris",
         "pop plaster",
         "Pop Plaster",
-        "POP Plaster",
-        "pop"
+        "POP Plaster"
       ],
       "category": "plaster",
       "common_units": [
@@ -7374,7 +7151,6 @@
         "hydrophobic",
         "hydrophobic cement",
         "Hydrophobic Cement",
-        "cement",
         "hydrophobic cement work",
         "hydrophobic cement items"
       ],
@@ -7392,8 +7168,7 @@
         "Birla cement",
         "birla cement",
         "Birla Cement",
-        "birla",
-        "cement"
+        "birla"
       ],
       "category": "cement",
       "common_units": [
@@ -7405,12 +7180,9 @@
     {
       "name": "ACC Cement",
       "aliases": [
-        "ACC",
         "acc cement",
         "Acc Cement",
-        "ACC Cement",
-        "acc",
-        "cement"
+        "ACC Cement"
       ],
       "category": "cement",
       "common_units": [
@@ -7426,7 +7198,6 @@
         "ultratech cement",
         "Ultratech Cement",
         "ultratech",
-        "cement",
         "ultratech cement work"
       ],
       "category": "cement",
@@ -7443,7 +7214,6 @@
         "ambuja cement",
         "Ambuja Cement",
         "ambuja",
-        "cement",
         "ambuja cement work"
       ],
       "category": "cement",
@@ -7460,8 +7230,7 @@
         "larsen & toubro cement",
         "Larsen & Toubro Cement",
         "larsen",
-        "& toubro cement",
-        "LTC"
+        "& toubro cement"
       ],
       "category": "cement",
       "common_units": [
@@ -7477,7 +7246,6 @@
         "ramco cement",
         "Ramco Cement",
         "ramco",
-        "cement",
         "ramco cement work"
       ],
       "category": "cement",
@@ -7494,7 +7262,6 @@
         "madhav cement",
         "Madhav Cement",
         "madhav",
-        "cement",
         "madhav cement work"
       ],
       "category": "cement",
@@ -7511,8 +7278,7 @@
         "mild steel rod",
         "ms rod",
         "Ms Rod",
-        "MS Rod",
-        "rod"
+        "MS Rod"
       ],
       "category": "steel",
       "common_units": [
@@ -7542,9 +7308,7 @@
       "name": "Wire Rod",
       "aliases": [
         "wire rod",
-        "Wire Rod",
-        "wire",
-        "rod"
+        "Wire Rod"
       ],
       "category": "steel",
       "common_units": [
@@ -7576,9 +7340,7 @@
         "CRP sheet",
         "crp sheet",
         "Crp Sheet",
-        "CRP Sheet",
-        "crp",
-        "sheet"
+        "CRP Sheet"
       ],
       "category": "steel",
       "common_units": [
@@ -7679,8 +7441,7 @@
         "cellular lightweight",
         "clc block",
         "Clc Block",
-        "CLC Block",
-        "clc"
+        "CLC Block"
       ],
       "category": "brick",
       "common_units": [
@@ -7696,8 +7457,7 @@
         "fine aggregate",
         "10Mm Aggregate",
         "10mm Aggregate",
-        "10mm",
-        "aggregate"
+        "10mm"
       ],
       "category": "aggregate",
       "common_units": [
@@ -7774,7 +7534,6 @@
       "name": "Sal Wood",
       "aliases": [
         "sal wood",
-        "sal",
         "Sal Wood",
         "wood"
       ],
@@ -7808,8 +7567,7 @@
         "boiling waterproof",
         "bwp plywood",
         "Bwp Plywood",
-        "BWP Plywood",
-        "bwp"
+        "BWP Plywood"
       ],
       "category": "wood",
       "common_units": [
@@ -7856,7 +7614,6 @@
         "gloss paint",
         "Gloss Paint",
         "gloss",
-        "paint",
         "gloss paint work",
         "gloss paint items"
       ],
@@ -7873,7 +7630,6 @@
         "matt paint",
         "Matt Paint",
         "matt",
-        "paint",
         "matt paint work",
         "matt paint items"
       ],
@@ -7890,7 +7646,6 @@
         "eggshell paint",
         "Eggshell Paint",
         "eggshell",
-        "paint",
         "eggshell paint work",
         "eggshell paint items"
       ],
@@ -7908,7 +7663,6 @@
         "asian paint",
         "Asian Paint",
         "asian",
-        "paint",
         "asian paint work"
       ],
       "category": "paint",
@@ -7925,7 +7679,6 @@
         "berger paint",
         "Berger Paint",
         "berger",
-        "paint",
         "berger paint work"
       ],
       "category": "paint",
@@ -7942,7 +7695,6 @@
         "nippon paint",
         "Nippon Paint",
         "nippon",
-        "paint",
         "nippon paint work"
       ],
       "category": "paint",
@@ -7973,7 +7725,6 @@
         "cimestone",
         "cimestone tile",
         "Cimestone Tile",
-        "tile",
         "cimestone tile work",
         "cimestone tile items"
       ],
@@ -7990,7 +7741,6 @@
         "parking tile",
         "Parking Tile",
         "parking",
-        "tile",
         "parking tile work",
         "parking tile items"
       ],
@@ -8008,8 +7758,7 @@
         "anti-static tile",
         "Anti-Static Tile",
         "Anti-static Tile",
-        "anti-static",
-        "tile"
+        "anti-static"
       ],
       "category": "flooring",
       "common_units": [
@@ -8058,7 +7807,6 @@
         "rubber tile",
         "Rubber Tile",
         "rubber",
-        "tile",
         "rubber tile work",
         "rubber tile items"
       ],
@@ -8072,11 +7820,8 @@
     {
       "name": "Laminate Sheet",
       "aliases": [
-        "laminate",
-        "HPL",
         "laminate sheet",
-        "Laminate Sheet",
-        "sheet"
+        "Laminate Sheet"
       ],
       "category": "flooring",
       "common_units": [
@@ -8170,8 +7915,7 @@
         "water closet",
         "wc pan",
         "Wc Pan",
-        "WC Pan",
-        "pan"
+        "WC Pan"
       ],
       "category": "plumbing",
       "common_units": [
@@ -8199,8 +7943,7 @@
       "aliases": [
         "bath tub",
         "Bath Tub",
-        "bath",
-        "tub"
+        "bath"
       ],
       "category": "plumbing",
       "common_units": [
@@ -8308,8 +8051,7 @@
         "flex cable",
         "flexible wire",
         "Flex Cable",
-        "flex",
-        "cable"
+        "flex"
       ],
       "category": "electrical",
       "common_units": [
@@ -8324,9 +8066,7 @@
         "USB socket",
         "usb socket",
         "Usb Socket",
-        "USB Socket",
-        "usb",
-        "socket"
+        "USB Socket"
       ],
       "category": "electrical",
       "common_units": [
@@ -8339,9 +8079,7 @@
       "name": "Fan Box",
       "aliases": [
         "fan box",
-        "Fan Box",
-        "fan",
-        "box"
+        "Fan Box"
       ],
       "category": "electrical",
       "common_units": [
@@ -8354,9 +8092,7 @@
       "name": "Conduit Box",
       "aliases": [
         "conduit box",
-        "Conduit Box",
-        "conduit",
-        "box"
+        "Conduit Box"
       ],
       "category": "electrical",
       "common_units": [
@@ -8369,9 +8105,7 @@
       "name": "Junction Box",
       "aliases": [
         "junction box",
-        "Junction Box",
-        "junction",
-        "box"
+        "Junction Box"
       ],
       "category": "electrical",
       "common_units": [
@@ -8386,8 +8120,7 @@
         "GI box",
         "gi box",
         "Gi Box",
-        "GI Box",
-        "box"
+        "GI Box"
       ],
       "category": "electrical",
       "common_units": [
@@ -8402,8 +8135,6 @@
         "cement tile",
         "roofing tile",
         "Cement Tile",
-        "cement",
-        "tile",
         "cement tile work"
       ],
       "category": "roofing",
@@ -8418,8 +8149,6 @@
       "aliases": [
         "metal tile",
         "Metal Tile",
-        "metal",
-        "tile",
         "metal tile work",
         "metal tile items"
       ],
@@ -8436,7 +8165,6 @@
         "shingle tile",
         "Shingle Tile",
         "shingle",
-        "tile",
         "shingle tile work",
         "shingle tile items"
       ],
@@ -8452,8 +8180,7 @@
       "aliases": [
         "mosaic plaster",
         "Mosaic Plaster",
-        "mosaic",
-        "plaster"
+        "mosaic"
       ],
       "category": "plaster",
       "common_units": [
@@ -8467,7 +8194,6 @@
       "aliases": [
         "tile adhesive",
         "Tile Adhesive",
-        "tile",
         "adhesive",
         "tile adhesive work",
         "tile adhesive items"
@@ -8484,8 +8210,7 @@
       "aliases": [
         "panel door",
         "Panel Door",
-        "panel",
-        "door"
+        "panel"
       ],
       "category": "doors",
       "common_units": [
@@ -8499,8 +8224,7 @@
       "aliases": [
         "teak door",
         "Teak Door",
-        "teak",
-        "door"
+        "teak"
       ],
       "category": "doors",
       "common_units": [
@@ -8516,8 +8240,7 @@
         "upvc door",
         "Upvc Door",
         "UPVC Door",
-        "upvc",
-        "door"
+        "upvc"
       ],
       "category": "doors",
       "common_units": [
@@ -8546,7 +8269,6 @@
       "aliases": [
         "door stopper",
         "Door Stopper",
-        "door",
         "stopper"
       ],
       "category": "doors",
@@ -8561,8 +8283,7 @@
       "aliases": [
         "sliding window",
         "Sliding Window",
-        "sliding",
-        "window"
+        "sliding"
       ],
       "category": "doors",
       "common_units": [
@@ -8577,8 +8298,7 @@
         "Gyproc",
         "gyproc board",
         "Gyproc Board",
-        "gyproc",
-        "board"
+        "gyproc"
       ],
       "category": "false ceiling",
       "common_units": [
@@ -8594,8 +8314,7 @@
         "mineral fiber board",
         "Mineral Fiber Board",
         "mineral",
-        "fiber board",
-        "MFB"
+        "fiber board"
       ],
       "category": "false ceiling",
       "common_units": [
@@ -8627,7 +8346,6 @@
         "pop corn",
         "pop corn ceiling",
         "Pop Corn Ceiling",
-        "pop",
         "corn ceiling",
         "PCC"
       ],
@@ -8643,8 +8361,7 @@
       "aliases": [
         "wooden ceiling",
         "Wooden Ceiling",
-        "wooden",
-        "ceiling"
+        "wooden"
       ],
       "category": "false ceiling",
       "common_units": [
@@ -8657,9 +8374,7 @@
       "name": "Metal Ceiling",
       "aliases": [
         "metal ceiling",
-        "Metal Ceiling",
-        "metal",
-        "ceiling"
+        "Metal Ceiling"
       ],
       "category": "false ceiling",
       "common_units": [
@@ -8675,7 +8390,6 @@
         "mineral tile",
         "Acoustic Tile",
         "acoustic",
-        "tile",
         "acoustic tile work"
       ],
       "category": "false ceiling",
@@ -8692,7 +8406,6 @@
         "sbs membrane",
         "Sbs Membrane",
         "SBS Membrane",
-        "sbs",
         "membrane"
       ],
       "category": "waterproofing",
@@ -8799,7 +8512,6 @@
       "aliases": [
         "floor hardener",
         "Floor Hardener",
-        "floor",
         "hardener"
       ],
       "category": "miscellaneous",
@@ -8816,8 +8528,7 @@
         "fire resistant paint",
         "Fire Resistant Paint",
         "fire",
-        "resistant paint",
-        "FRP"
+        "resistant paint"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -8831,8 +8542,7 @@
       "aliases": [
         "lead sheet",
         "Lead Sheet",
-        "lead",
-        "sheet"
+        "lead"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -8944,9 +8654,7 @@
       "name": "Oil Well Cement",
       "aliases": [
         "oil well cement",
-        "OWC",
         "Oil Well Cement",
-        "oil",
         "well cement",
         "oil well cement work"
       ],
@@ -8963,7 +8671,6 @@
         "brick cement",
         "Brick Cement",
         "brick",
-        "cement",
         "brick cement work",
         "brick cement items"
       ],
@@ -8980,7 +8687,6 @@
         "masonry cement",
         "Masonry Cement",
         "masonry",
-        "cement",
         "masonry cement work",
         "masonry cement items"
       ],
@@ -9029,8 +8735,7 @@
         "ACC 53",
         "ACC cement",
         "acc 53",
-        "Acc 53",
-        "acc"
+        "Acc 53"
       ],
       "category": "cement",
       "common_units": [
@@ -9045,8 +8750,7 @@
         "ACC 43",
         "ACC gold",
         "acc 43",
-        "Acc 43",
-        "acc"
+        "Acc 43"
       ],
       "category": "cement",
       "common_units": [
@@ -9132,14 +8836,14 @@
       ]
     },
     {
-      "name": "B芸CP Cement",
+      "name": "B\u82b8CP Cement",
       "aliases": [
         "Birla CP",
         "Birla composite",
-        "b芸cp cement",
-        "B芸Cp Cement",
-        "B芸CP Cement",
-        "b芸cp"
+        "b\u82b8cp cement",
+        "B\u82b8Cp Cement",
+        "B\u82b8CP Cement",
+        "b\u82b8cp"
       ],
       "category": "cement",
       "common_units": [
@@ -9155,7 +8859,6 @@
         "CC cement",
         "Composite Cement",
         "composite",
-        "cement",
         "composite cement work"
       ],
       "category": "cement",
@@ -9169,9 +8872,7 @@
       "name": "Fly Ash Cement",
       "aliases": [
         "fly ash cement",
-        "FAC",
         "Fly Ash Cement",
-        "fly",
         "ash cement",
         "fly ash cement work"
       ],
@@ -9239,9 +8940,7 @@
         "HCR sheet",
         "hcr sheet",
         "Hcr Sheet",
-        "HCR Sheet",
-        "hcr",
-        "sheet"
+        "HCR Sheet"
       ],
       "category": "steel",
       "common_units": [
@@ -9257,8 +8956,7 @@
         "hot rolled coil",
         "hr coil",
         "Hr Coil",
-        "HR Coil",
-        "coil"
+        "HR Coil"
       ],
       "category": "steel",
       "common_units": [
@@ -9274,8 +8972,7 @@
         "cold rolled",
         "cr sheet",
         "Cr Sheet",
-        "CR Sheet",
-        "sheet"
+        "CR Sheet"
       ],
       "category": "steel",
       "common_units": [
@@ -9291,8 +8988,7 @@
         "galvanized plain",
         "gp sheet",
         "Gp Sheet",
-        "GP Sheet",
-        "sheet"
+        "GP Sheet"
       ],
       "category": "steel",
       "common_units": [
@@ -9308,8 +9004,7 @@
         "galvanized corrugated",
         "gc sheet",
         "Gc Sheet",
-        "GC Sheet",
-        "sheet"
+        "GC Sheet"
       ],
       "category": "steel",
       "common_units": [
@@ -9341,8 +9036,7 @@
         "aluminium sheet",
         "Al sheet",
         "Aluminium Sheet",
-        "aluminium",
-        "sheet"
+        "aluminium"
       ],
       "category": "steel",
       "common_units": [
@@ -9356,8 +9050,7 @@
       "aliases": [
         "zinc sheet",
         "Zinc Sheet",
-        "zinc",
-        "sheet"
+        "zinc"
       ],
       "category": "steel",
       "common_units": [
@@ -9370,11 +9063,9 @@
       "name": "Welded Wire Mesh",
       "aliases": [
         "welded wire mesh",
-        "WWF",
         "Welded Wire Mesh",
         "welded",
-        "wire mesh",
-        "WWM"
+        "wire mesh"
       ],
       "category": "steel",
       "common_units": [
@@ -9389,9 +9080,7 @@
         "cold rolled martensite",
         "crm bar",
         "Crm Bar",
-        "CRM Bar",
-        "crm",
-        "bar"
+        "CRM Bar"
       ],
       "category": "steel",
       "common_units": [
@@ -9404,7 +9093,6 @@
       "name": "Sand Lime Brick",
       "aliases": [
         "sand lime brick",
-        "SLB",
         "Sand Lime Brick",
         "sand",
         "lime brick",
@@ -9421,7 +9109,6 @@
       "name": "Stabilized Mud Brick",
       "aliases": [
         "stabilized mud brick",
-        "SMB",
         "Stabilized Mud Brick",
         "stabilized",
         "mud brick",
@@ -9440,7 +9127,6 @@
         "cement brick",
         "concrete brick",
         "Cement Brick",
-        "cement",
         "brick",
         "cement brick work"
       ],
@@ -9455,7 +9141,6 @@
       "name": "Interlocking Brick",
       "aliases": [
         "interlocking brick",
-        "ILB",
         "Interlocking Brick",
         "interlocking",
         "brick",
@@ -9526,8 +9211,7 @@
         "fine aggregate",
         "6Mm Aggregate",
         "6mm Aggregate",
-        "6mm",
-        "aggregate"
+        "6mm"
       ],
       "category": "aggregate",
       "common_units": [
@@ -9542,7 +9226,6 @@
         "pumped concrete",
         "Pumped Concrete",
         "pumped",
-        "concrete",
         "pumped concrete work",
         "pumped concrete items"
       ],
@@ -9559,7 +9242,6 @@
         "foamed concrete",
         "Foamed Concrete",
         "foamed",
-        "concrete",
         "foamed concrete work",
         "foamed concrete items"
       ],
@@ -9575,9 +9257,7 @@
       "aliases": [
         "fly ash concrete",
         "Fly Ash Concrete",
-        "fly",
         "ash concrete",
-        "FAC",
         "fly ash concrete work"
       ],
       "category": "aggregate",
@@ -9611,7 +9291,6 @@
         "silica fume",
         "micro silica concrete",
         "Micro Silica Concrete",
-        "micro",
         "silica concrete"
       ],
       "category": "aggregate",
@@ -9626,8 +9305,6 @@
       "aliases": [
         "polymer concrete",
         "Polymer Concrete",
-        "polymer",
-        "concrete",
         "polymer concrete work",
         "polymer concrete items"
       ],
@@ -9659,8 +9336,7 @@
         "film faced plywood",
         "Film Faced Plywood",
         "film",
-        "faced plywood",
-        "FFP"
+        "faced plywood"
       ],
       "category": "wood",
       "common_units": [
@@ -9707,9 +9383,7 @@
       "name": "Laminate Board",
       "aliases": [
         "laminate board",
-        "Laminate Board",
-        "laminate",
-        "board"
+        "Laminate Board"
       ],
       "category": "wood",
       "common_units": [
@@ -9775,8 +9449,7 @@
         "Century ply",
         "century ply",
         "Century Ply",
-        "century",
-        "ply"
+        "century"
       ],
       "category": "wood",
       "common_units": [
@@ -9809,8 +9482,7 @@
         "semi gloss paint",
         "Semi Gloss Paint",
         "semi",
-        "gloss paint",
-        "SGP"
+        "gloss paint"
       ],
       "category": "paint",
       "common_units": [
@@ -9825,9 +9497,7 @@
         "high gloss",
         "high gloss paint",
         "High Gloss Paint",
-        "high",
-        "gloss paint",
-        "HGP"
+        "gloss paint"
       ],
       "category": "paint",
       "common_units": [
@@ -9842,7 +9512,6 @@
         "flat paint",
         "Flat Paint",
         "flat",
-        "paint",
         "flat paint work",
         "flat paint items"
       ],
@@ -9859,7 +9528,6 @@
         "acrylic paint",
         "Acrylic Paint",
         "acrylic",
-        "paint",
         "acrylic paint work",
         "acrylic paint items"
       ],
@@ -9876,7 +9544,6 @@
         "silicone paint",
         "Silicone Paint",
         "silicone",
-        "paint",
         "silicone paint work",
         "silicone paint items"
       ],
@@ -9892,8 +9559,6 @@
       "aliases": [
         "cement paint",
         "Cement Paint",
-        "cement",
-        "paint",
         "cement paint work",
         "cement paint items"
       ],
@@ -9910,7 +9575,6 @@
         "decorative paint",
         "Decorative Paint",
         "decorative",
-        "paint",
         "decorative paint work",
         "decorative paint items"
       ],
@@ -9928,7 +9592,6 @@
         "indane paint",
         "Indane Paint",
         "indane",
-        "paint",
         "indane paint work"
       ],
       "category": "paint",
@@ -9944,8 +9607,7 @@
         "zinc chromate primer",
         "Zinc Chromate Primer",
         "zinc",
-        "chromate primer",
-        "ZCP"
+        "chromate primer"
       ],
       "category": "paint",
       "common_units": [
@@ -9959,9 +9621,7 @@
       "aliases": [
         "red oxide primer",
         "Red Oxide Primer",
-        "red",
-        "oxide primer",
-        "ROP"
+        "oxide primer"
       ],
       "category": "paint",
       "common_units": [
@@ -9975,8 +9635,7 @@
       "aliases": [
         "masonry primer",
         "Masonry Primer",
-        "masonry",
-        "primer"
+        "masonry"
       ],
       "category": "paint",
       "common_units": [
@@ -9990,8 +9649,7 @@
       "aliases": [
         "etch primer",
         "Etch Primer",
-        "etch",
-        "primer"
+        "etch"
       ],
       "category": "paint",
       "common_units": [
@@ -10005,7 +9663,6 @@
       "aliases": [
         "concrete flooring",
         "Concrete Flooring",
-        "concrete",
         "flooring",
         "concrete flooring work",
         "concrete flooring items"
@@ -10023,8 +9680,7 @@
         "Jodhpur stone",
         "jodhpur stone",
         "Jodhpur Stone",
-        "jodhpur",
-        "stone"
+        "jodhpur"
       ],
       "category": "flooring",
       "common_units": [
@@ -10039,8 +9695,7 @@
         "Patalgam",
         "patalgam stone",
         "Patalgam Stone",
-        "patalgam",
-        "stone"
+        "patalgam"
       ],
       "category": "flooring",
       "common_units": [
@@ -10055,8 +9710,7 @@
         "Dholpur stone",
         "dholpur stone",
         "Dholpur Stone",
-        "dholpur",
-        "stone"
+        "dholpur"
       ],
       "category": "flooring",
       "common_units": [
@@ -10071,8 +9725,7 @@
         "Tikamgarh",
         "tikamgarh stone",
         "Tikamgarh Stone",
-        "tikamgarh",
-        "stone"
+        "tikamgarh"
       ],
       "category": "flooring",
       "common_units": [
@@ -10087,8 +9740,7 @@
         "Kadapa stone",
         "kadapa stone",
         "Kadapa Stone",
-        "kadapa",
-        "stone"
+        "kadapa"
       ],
       "category": "flooring",
       "common_units": [
@@ -10103,8 +9755,7 @@
         "full body vitrified",
         "Full Body Vitrified",
         "full",
-        "body vitrified",
-        "FBV"
+        "body vitrified"
       ],
       "category": "flooring",
       "common_units": [
@@ -10120,8 +9771,7 @@
         "double charged tile",
         "Double Charged Tile",
         "double",
-        "charged tile",
-        "DCT"
+        "charged tile"
       ],
       "category": "flooring",
       "common_units": [
@@ -10137,7 +9787,6 @@
         "Salt Pepper Tile",
         "salt",
         "pepper tile",
-        "SPT",
         "salt pepper tile work"
       ],
       "category": "flooring",
@@ -10154,8 +9803,7 @@
         "asbestos cement",
         "ac pipe",
         "Ac Pipe",
-        "AC Pipe",
-        "pipe"
+        "AC Pipe"
       ],
       "category": "plumbing",
       "common_units": [
@@ -10170,7 +9818,6 @@
         "bamboo pipe",
         "Bamboo Pipe",
         "bamboo",
-        "pipe",
         "bamboo pipe work",
         "bamboo pipe items"
       ],
@@ -10204,8 +9851,7 @@
         "ductile iron fittings",
         "Ductile Iron Fittings",
         "ductile",
-        "iron fittings",
-        "DIF"
+        "iron fittings"
       ],
       "category": "plumbing",
       "common_units": [
@@ -10220,8 +9866,7 @@
         "Orissa pan",
         "orissa pan",
         "Orissa Pan",
-        "orissa",
-        "pan"
+        "orissa"
       ],
       "category": "plumbing",
       "common_units": [
@@ -10235,8 +9880,7 @@
       "aliases": [
         "towel rod",
         "Towel Rod",
-        "towel",
-        "rod"
+        "towel"
       ],
       "category": "plumbing",
       "common_units": [
@@ -10265,7 +9909,6 @@
       "aliases": [
         "glass shelf",
         "Glass Shelf",
-        "glass",
         "shelf"
       ],
       "category": "plumbing",
@@ -10280,7 +9923,6 @@
       "aliases": [
         "corner shelf",
         "Corner Shelf",
-        "corner",
         "shelf"
       ],
       "category": "plumbing",
@@ -10296,8 +9938,7 @@
         "grab bar",
         "safety bar",
         "Grab Bar",
-        "grab",
-        "bar"
+        "grab"
       ],
       "category": "plumbing",
       "common_units": [
@@ -10359,8 +10000,7 @@
         "squatting pan",
         "Indian pan",
         "Squatting Pan",
-        "squatting",
-        "pan"
+        "squatting"
       ],
       "category": "plumbing",
       "common_units": [
@@ -10375,9 +10015,7 @@
         "wall hung basin",
         "pedestal basin",
         "Wall Hung Basin",
-        "wall",
-        "hung basin",
-        "WHB"
+        "hung basin"
       ],
       "category": "plumbing",
       "common_units": [
@@ -10391,7 +10029,6 @@
       "aliases": [
         "column basin",
         "Column Basin",
-        "column",
         "basin"
       ],
       "category": "plumbing",
@@ -10406,8 +10043,7 @@
       "aliases": [
         "flexible conduit",
         "Flexible Conduit",
-        "flexible",
-        "conduit"
+        "flexible"
       ],
       "category": "electrical",
       "common_units": [
@@ -10438,8 +10074,7 @@
       "aliases": [
         "house wire",
         "House Wire",
-        "house",
-        "wire"
+        "house"
       ],
       "category": "electrical",
       "common_units": [
@@ -10453,8 +10088,7 @@
       "aliases": [
         "submersible cable",
         "Submersible Cable",
-        "submersible",
-        "cable"
+        "submersible"
       ],
       "category": "electrical",
       "common_units": [
@@ -10468,8 +10102,7 @@
       "aliases": [
         "screen cable",
         "Screen Cable",
-        "screen",
-        "cable"
+        "screen"
       ],
       "category": "electrical",
       "common_units": [
@@ -10483,8 +10116,7 @@
       "aliases": [
         "coaxial cable",
         "Coaxial Cable",
-        "coaxial",
-        "cable"
+        "coaxial"
       ],
       "category": "electrical",
       "common_units": [
@@ -10498,9 +10130,7 @@
       "aliases": [
         "fiber cable",
         "optical fiber",
-        "Fiber Cable",
-        "fiber",
-        "cable"
+        "Fiber Cable"
       ],
       "category": "electrical",
       "common_units": [
@@ -10546,8 +10176,7 @@
         "high rupturing",
         "hrc fuse",
         "Hrc Fuse",
-        "HRC Fuse",
-        "hrc"
+        "HRC Fuse"
       ],
       "category": "electrical",
       "common_units": [
@@ -10561,7 +10190,6 @@
       "aliases": [
         "din fuse",
         "Din Fuse",
-        "din",
         "fuse"
       ],
       "category": "electrical",
@@ -10593,8 +10221,7 @@
       "aliases": [
         "indicator light",
         "Indicator Light",
-        "indicator",
-        "light"
+        "indicator"
       ],
       "category": "electrical",
       "common_units": [
@@ -10624,8 +10251,7 @@
       "aliases": [
         "fluorescent fitting",
         "Fluorescent Fitting",
-        "fluorescent",
-        "fitting"
+        "fluorescent"
       ],
       "category": "electrical",
       "common_units": [
@@ -10641,8 +10267,7 @@
         "panel light",
         "led panel",
         "Led Panel",
-        "LED Panel",
-        "led"
+        "LED Panel"
       ],
       "category": "electrical",
       "common_units": [
@@ -10658,7 +10283,6 @@
         "led bulb",
         "Led Bulb",
         "LED Bulb",
-        "led",
         "bulb"
       ],
       "category": "electrical",
@@ -10675,8 +10299,7 @@
         "tube light",
         "led tube light",
         "Led Tube Light",
-        "LED Tube Light",
-        "led"
+        "LED Tube Light"
       ],
       "category": "electrical",
       "common_units": [
@@ -10724,8 +10347,7 @@
       "aliases": [
         "street light",
         "Street Light",
-        "street",
-        "light"
+        "street"
       ],
       "category": "electrical",
       "common_units": [
@@ -10739,8 +10361,7 @@
       "aliases": [
         "flood light",
         "Flood Light",
-        "flood",
-        "light"
+        "flood"
       ],
       "category": "electrical",
       "common_units": [
@@ -10754,9 +10375,7 @@
       "aliases": [
         "wall light",
         "sconce",
-        "Wall Light",
-        "wall",
-        "light"
+        "Wall Light"
       ],
       "category": "electrical",
       "common_units": [
@@ -10770,8 +10389,7 @@
       "aliases": [
         "garden light",
         "Garden Light",
-        "garden",
-        "light"
+        "garden"
       ],
       "category": "electrical",
       "common_units": [
@@ -10785,8 +10403,7 @@
       "aliases": [
         "emergency light",
         "Emergency Light",
-        "emergency",
-        "light"
+        "emergency"
       ],
       "category": "electrical",
       "common_units": [
@@ -10877,9 +10494,7 @@
       "aliases": [
         "earthing rod",
         "grounding rod",
-        "Earthing Rod",
-        "earthing",
-        "rod"
+        "Earthing Rod"
       ],
       "category": "electrical",
       "common_units": [
@@ -10908,9 +10523,7 @@
       "aliases": [
         "earthing wire",
         "ground wire",
-        "Earthing Wire",
-        "earthing",
-        "wire"
+        "Earthing Wire"
       ],
       "category": "electrical",
       "common_units": [
@@ -10942,8 +10555,7 @@
         "fiber reinforced",
         "frp sheet",
         "Frp Sheet",
-        "FRP Sheet",
-        "frp"
+        "FRP Sheet"
       ],
       "category": "roofing",
       "common_units": [
@@ -10972,8 +10584,7 @@
       "aliases": [
         "turret sheet",
         "Turret Sheet",
-        "turret",
-        "sheet"
+        "turret"
       ],
       "category": "roofing",
       "common_units": [
@@ -10987,9 +10598,7 @@
       "aliases": [
         "box profile sheet",
         "Box Profile Sheet",
-        "box",
-        "profile sheet",
-        "BPS"
+        "profile sheet"
       ],
       "category": "roofing",
       "common_units": [
@@ -11003,9 +10612,7 @@
       "aliases": [
         "tile profile sheet",
         "Tile Profile Sheet",
-        "tile",
         "profile sheet",
-        "TPS",
         "tile profile sheet work"
       ],
       "category": "roofing",
@@ -11019,9 +10626,7 @@
       "name": "Plain Sheet",
       "aliases": [
         "plain sheet",
-        "Plain Sheet",
-        "plain",
-        "sheet"
+        "Plain Sheet"
       ],
       "category": "roofing",
       "common_units": [
@@ -11035,8 +10640,7 @@
       "aliases": [
         "corrugated sheet",
         "Corrugated Sheet",
-        "corrugated",
-        "sheet"
+        "corrugated"
       ],
       "category": "roofing",
       "common_units": [
@@ -11050,8 +10654,7 @@
       "aliases": [
         "curved sheet",
         "Curved Sheet",
-        "curved",
-        "sheet"
+        "curved"
       ],
       "category": "roofing",
       "common_units": [
@@ -11066,8 +10669,7 @@
         "ridge cap",
         "gable end",
         "Ridge Cap",
-        "ridge",
-        "cap"
+        "ridge"
       ],
       "category": "roofing",
       "common_units": [
@@ -11080,10 +10682,8 @@
       "name": "Rainwater Pipe",
       "aliases": [
         "rainwater pipe",
-        "RWH",
         "Rainwater Pipe",
         "rainwater",
-        "pipe",
         "rainwater pipe work"
       ],
       "category": "roofing",
@@ -11115,7 +10715,6 @@
       "aliases": [
         "cement slurry",
         "Cement Slurry",
-        "cement",
         "slurry",
         "cement slurry work",
         "cement slurry items"
@@ -11149,7 +10748,6 @@
         "keene cement",
         "Keene Cement",
         "keene",
-        "cement",
         "keene cement work"
       ],
       "category": "plaster",
@@ -11160,14 +10758,13 @@
       ]
     },
     {
-      "name": "B芸CP Plaster",
+      "name": "B\u82b8CP Plaster",
       "aliases": [
         "Birla PPC plaster",
-        "b芸cp plaster",
-        "B芸Cp Plaster",
-        "B芸CP Plaster",
-        "b芸cp",
-        "plaster"
+        "b\u82b8cp plaster",
+        "B\u82b8Cp Plaster",
+        "B\u82b8CP Plaster",
+        "b\u82b8cp"
       ],
       "category": "plaster",
       "common_units": [
@@ -11181,8 +10778,7 @@
       "aliases": [
         "limestone plaster",
         "Limestone Plaster",
-        "limestone",
-        "plaster"
+        "limestone"
       ],
       "category": "plaster",
       "common_units": [
@@ -11196,8 +10792,7 @@
       "aliases": [
         "casement window",
         "Casement Window",
-        "casement",
-        "window"
+        "casement"
       ],
       "category": "doors",
       "common_units": [
@@ -11211,8 +10806,7 @@
       "aliases": [
         "louver window",
         "Louver Window",
-        "louver",
-        "window"
+        "louver"
       ],
       "category": "doors",
       "common_units": [
@@ -11226,8 +10820,7 @@
       "aliases": [
         "fixed window",
         "Fixed Window",
-        "fixed",
-        "window"
+        "fixed"
       ],
       "category": "doors",
       "common_units": [
@@ -11240,9 +10833,7 @@
       "name": "Glass Window",
       "aliases": [
         "glass window",
-        "Glass Window",
-        "glass",
-        "window"
+        "Glass Window"
       ],
       "category": "doors",
       "common_units": [
@@ -11257,8 +10848,7 @@
         "safety door",
         "burglar proof",
         "Safety Door",
-        "safety",
-        "door"
+        "safety"
       ],
       "category": "doors",
       "common_units": [
@@ -11273,8 +10863,7 @@
         "acoustic door",
         "soundproof",
         "Acoustic Door",
-        "acoustic",
-        "door"
+        "acoustic"
       ],
       "category": "doors",
       "common_units": [
@@ -11365,7 +10954,6 @@
       "aliases": [
         "joint compound",
         "Joint Compound",
-        "joint",
         "compound"
       ],
       "category": "false ceiling",
@@ -11442,8 +11030,7 @@
         "roof garden waterproofing",
         "Roof Garden Waterproofing",
         "roof",
-        "garden waterproofing",
-        "RGW"
+        "garden waterproofing"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -11459,8 +11046,7 @@
         "bridge deck waterproofing",
         "Bridge Deck Waterproofing",
         "bridge",
-        "deck waterproofing",
-        "BDW"
+        "deck waterproofing"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -11503,7 +11089,6 @@
         "cup lock",
         "scaffolding system",
         "Cup Lock",
-        "cup",
         "lock"
       ],
       "category": "miscellaneous",
@@ -11518,8 +11103,7 @@
       "aliases": [
         "scaffold coupler",
         "Scaffold Coupler",
-        "scaffold",
-        "coupler"
+        "scaffold"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -11533,8 +11117,7 @@
       "aliases": [
         "safety net",
         "Safety Net",
-        "safety",
-        "net"
+        "safety"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -11719,8 +11302,7 @@
         "VRV AC",
         "variable refrigerant",
         "vrv ac",
-        "Vrv Ac",
-        "vrv"
+        "Vrv Ac"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -11780,9 +11362,7 @@
       "name": "Pressure Pump",
       "aliases": [
         "pressure pump",
-        "Pressure Pump",
-        "pressure",
-        "pump"
+        "Pressure Pump"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -11796,8 +11376,7 @@
       "aliases": [
         "submersible pump",
         "Submersible Pump",
-        "submersible",
-        "pump"
+        "submersible"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -11811,8 +11390,7 @@
       "aliases": [
         "sewage pump",
         "Sewage Pump",
-        "sewage",
-        "pump"
+        "sewage"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -11826,8 +11404,7 @@
       "aliases": [
         "booster pump",
         "Booster Pump",
-        "booster",
-        "pump"
+        "booster"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12044,8 +11621,7 @@
         "solar water heater",
         "Solar Water Heater",
         "solar",
-        "water heater",
-        "SWH"
+        "water heater"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12059,8 +11635,7 @@
       "aliases": [
         "heat pump",
         "Heat Pump",
-        "heat",
-        "pump"
+        "heat"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12075,8 +11650,7 @@
         "extractor fan",
         "exhaust fan",
         "Extractor Fan",
-        "extractor",
-        "fan"
+        "extractor"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12089,9 +11663,7 @@
       "name": "Air Curtain",
       "aliases": [
         "air curtain",
-        "Air Curtain",
-        "air",
-        "curtain"
+        "Air Curtain"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12134,7 +11706,6 @@
       "name": "Fresh Air Unit",
       "aliases": [
         "fresh air unit",
-        "FAU",
         "Fresh Air Unit",
         "fresh",
         "air unit"
@@ -12165,8 +11736,7 @@
       "aliases": [
         "plenum box",
         "Plenum Box",
-        "plenum",
-        "box"
+        "plenum"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12180,8 +11750,7 @@
       "aliases": [
         "duct board",
         "Duct Board",
-        "duct",
-        "board"
+        "duct"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12270,8 +11839,7 @@
       "aliases": [
         "fire pump",
         "Fire Pump",
-        "fire",
-        "pump"
+        "fire"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12285,8 +11853,7 @@
       "aliases": [
         "jockey pump",
         "Jockey Pump",
-        "jockey",
-        "pump"
+        "jockey"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12315,7 +11882,6 @@
       "aliases": [
         "dry riser",
         "Dry Riser",
-        "dry",
         "riser"
       ],
       "category": "miscellaneous",
@@ -12330,7 +11896,6 @@
       "aliases": [
         "wet riser",
         "Wet Riser",
-        "wet",
         "riser"
       ],
       "category": "miscellaneous",
@@ -12390,7 +11955,6 @@
       "aliases": [
         "gas suppression",
         "Gas Suppression",
-        "gas",
         "suppression"
       ],
       "category": "miscellaneous",
@@ -12406,8 +11970,7 @@
         "fire door closer",
         "Fire Door Closer",
         "fire",
-        "door closer",
-        "FDC"
+        "door closer"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12422,8 +11985,7 @@
         "panic bar",
         "exit device",
         "Panic Bar",
-        "panic",
-        "bar"
+        "panic"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12483,8 +12045,7 @@
         "solar street light",
         "Solar Street Light",
         "solar",
-        "street light",
-        "SSL"
+        "street light"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12500,8 +12061,7 @@
         "signage",
         "led display",
         "Led Display",
-        "LED Display",
-        "led"
+        "LED Display"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12533,7 +12093,6 @@
         "Road Marking Paint",
         "road",
         "marking paint",
-        "RMP",
         "road marking paint work"
       ],
       "category": "miscellaneous",
@@ -12549,7 +12108,6 @@
         "thermoplastic paint",
         "Thermoplastic Paint",
         "thermoplastic",
-        "paint",
         "thermoplastic paint work",
         "thermoplastic paint items"
       ],
@@ -12566,8 +12124,7 @@
         "speed limit sign",
         "Speed Limit Sign",
         "speed",
-        "limit sign",
-        "SLS"
+        "limit sign"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12597,8 +12154,7 @@
         "street name board",
         "Street Name Board",
         "street",
-        "name board",
-        "SNB"
+        "name board"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -12900,8 +12456,7 @@
         "power cable 2.5",
         "cable 2.5sqmm",
         "Cable 2.5Sqmm",
-        "Cable 2.5sqmm",
-        "cable"
+        "Cable 2.5sqmm"
       ],
       "category": "insulation",
       "common_units": [
@@ -12916,7 +12471,6 @@
         "cable 4sqmm",
         "Cable 4Sqmm",
         "Cable 4sqmm",
-        "cable",
         "4sqmm"
       ],
       "category": "safety",
@@ -12932,7 +12486,6 @@
         "cable 6sqmm",
         "Cable 6Sqmm",
         "Cable 6sqmm",
-        "cable",
         "6sqmm"
       ],
       "category": "roads",
@@ -12948,7 +12501,6 @@
         "cable 10sqmm",
         "Cable 10Sqmm",
         "Cable 10sqmm",
-        "cable",
         "10sqmm"
       ],
       "category": "electrical",
@@ -12964,7 +12516,6 @@
         "cable 16sqmm",
         "Cable 16Sqmm",
         "Cable 16sqmm",
-        "cable",
         "16sqmm"
       ],
       "category": "plumbing",
@@ -12980,7 +12531,6 @@
         "cable 25sqmm",
         "Cable 25Sqmm",
         "Cable 25sqmm",
-        "cable",
         "25sqmm"
       ],
       "category": "flooring",
@@ -12996,7 +12546,6 @@
         "cable 35sqmm",
         "Cable 35Sqmm",
         "Cable 35sqmm",
-        "cable",
         "35sqmm"
       ],
       "category": "cement",
@@ -13012,7 +12561,6 @@
         "cable 50sqmm",
         "Cable 50Sqmm",
         "Cable 50sqmm",
-        "cable",
         "50sqmm"
       ],
       "category": "steel",
@@ -13427,9 +12975,7 @@
         "one way switch",
         "1 way switch",
         "One Way Switch",
-        "one",
-        "way switch",
-        "OWS"
+        "way switch"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -13443,9 +12989,7 @@
         "two way switch",
         "2 way switch",
         "Two Way Switch",
-        "two",
-        "way switch",
-        "TWS"
+        "way switch"
       ],
       "category": "insulation",
       "common_units": [
@@ -13458,8 +13002,7 @@
       "aliases": [
         "bell switch",
         "Bell Switch",
-        "bell",
-        "switch"
+        "bell"
       ],
       "category": "safety",
       "common_units": [
@@ -13474,8 +13017,7 @@
         "DP switch",
         "Double Pole Switch",
         "double",
-        "pole switch",
-        "DPS"
+        "pole switch"
       ],
       "category": "roads",
       "common_units": [
@@ -13488,8 +13030,7 @@
       "aliases": [
         "universal switch",
         "Universal Switch",
-        "universal",
-        "switch"
+        "universal"
       ],
       "category": "electrical",
       "common_units": [
@@ -13502,8 +13043,7 @@
       "aliases": [
         "step switch",
         "Step Switch",
-        "step",
-        "switch"
+        "step"
       ],
       "category": "plumbing",
       "common_units": [
@@ -13516,8 +13056,7 @@
       "aliases": [
         "hotel switch",
         "Hotel Switch",
-        "hotel",
-        "switch"
+        "hotel"
       ],
       "category": "flooring",
       "common_units": [
@@ -13530,8 +13069,7 @@
       "aliases": [
         "mood switch",
         "Mood Switch",
-        "mood",
-        "switch"
+        "mood"
       ],
       "category": "cement",
       "common_units": [
@@ -13544,8 +13082,7 @@
       "aliases": [
         "remote switch",
         "Remote Switch",
-        "remote",
-        "switch"
+        "remote"
       ],
       "category": "steel",
       "common_units": [
@@ -13558,8 +13095,7 @@
       "aliases": [
         "touch switch",
         "Touch Switch",
-        "touch",
-        "switch"
+        "touch"
       ],
       "category": "brick",
       "common_units": [
@@ -13617,9 +13153,7 @@
       "aliases": [
         "switch board",
         "switchboard",
-        "Switch Board",
-        "switch",
-        "board"
+        "Switch Board"
       ],
       "category": "doors",
       "common_units": [
@@ -13731,7 +13265,6 @@
         "tee 45deg",
         "Tee 45Deg",
         "Tee 45deg",
-        "tee",
         "45deg"
       ],
       "category": "electrical",
@@ -13757,7 +13290,6 @@
       "name": "Polished Vitrified Tile",
       "aliases": [
         "polished vitrified tile",
-        "PVT",
         "Polished Vitrified Tile",
         "polished",
         "vitrified tile",
@@ -13776,7 +13308,6 @@
         "Full Body Tile",
         "full",
         "body tile",
-        "FBT",
         "full body tile work"
       ],
       "category": "cement",
@@ -13792,7 +13323,6 @@
         "Double Charge Tile",
         "double",
         "charge tile",
-        "DCT",
         "double charge tile work"
       ],
       "category": "steel",
@@ -13808,7 +13338,6 @@
         "Soluble Salt Tile",
         "soluble",
         "salt tile",
-        "SST",
         "soluble salt tile work"
       ],
       "category": "brick",
@@ -13824,7 +13353,6 @@
         "Screen Printed Tile",
         "screen",
         "printed tile",
-        "SPT",
         "screen printed tile work"
       ],
       "category": "aggregate",
@@ -13839,7 +13367,6 @@
         "lapato tile",
         "Lapato Tile",
         "lapato",
-        "tile",
         "lapato tile work",
         "lapato tile items"
       ],
@@ -13855,7 +13382,6 @@
         "rustic tile",
         "Rustic Tile",
         "rustic",
-        "tile",
         "rustic tile work",
         "rustic tile items"
       ],
@@ -13871,7 +13397,6 @@
         "rock tile",
         "Rock Tile",
         "rock",
-        "tile",
         "rock tile work",
         "rock tile items"
       ],
@@ -13888,7 +13413,6 @@
         "wooden tile",
         "Wood Tile",
         "wood",
-        "tile",
         "wood tile work"
       ],
       "category": "roofing",
@@ -13904,7 +13428,6 @@
         "Cobble Stone Tile",
         "cobble",
         "stone tile",
-        "CST",
         "cobble stone tile work"
       ],
       "category": "plaster",
@@ -13919,7 +13442,6 @@
         "step tile",
         "Step Tile",
         "step",
-        "tile",
         "step tile work",
         "step tile items"
       ],
@@ -13935,7 +13457,6 @@
         "riser tile",
         "Riser Tile",
         "riser",
-        "tile",
         "riser tile work",
         "riser tile items"
       ],
@@ -13951,7 +13472,6 @@
         "pathway tile",
         "Pathway Tile",
         "pathway",
-        "tile",
         "pathway tile work",
         "pathway tile items"
       ],
@@ -13967,7 +13487,6 @@
         "garden tile",
         "Garden Tile",
         "garden",
-        "tile",
         "garden tile work",
         "garden tile items"
       ],
@@ -13983,7 +13502,6 @@
         "pool tile",
         "Pool Tile",
         "pool",
-        "tile",
         "pool tile work",
         "pool tile items"
       ],
@@ -14015,8 +13533,7 @@
         "12mm aggregate",
         "12Mm Aggregate",
         "12mm Aggregate",
-        "12mm",
-        "aggregate"
+        "12mm"
       ],
       "category": "plumbing",
       "common_units": [
@@ -14041,9 +13558,7 @@
       "name": "Fly Ash",
       "aliases": [
         "fly ash",
-        "Fly Ash",
-        "fly",
-        "ash"
+        "Fly Ash"
       ],
       "category": "cement",
       "common_units": [
@@ -14083,7 +13598,6 @@
       "name": "Rice Husk Ash",
       "aliases": [
         "rice husk ash",
-        "RHA",
         "Rice Husk Ash",
         "rice",
         "husk ash"
@@ -14101,8 +13615,7 @@
         "mild steel angle",
         "Mild Steel Angle",
         "mild",
-        "steel angle",
-        "MSA"
+        "steel angle"
       ],
       "category": "wood",
       "common_units": [
@@ -14117,8 +13630,7 @@
         "mild steel channel",
         "Mild Steel Channel",
         "mild",
-        "steel channel",
-        "MSC"
+        "steel channel"
       ],
       "category": "paint",
       "common_units": [
@@ -14149,8 +13661,7 @@
         "mild steel round",
         "Mild Steel Round",
         "mild",
-        "steel round",
-        "MSR"
+        "steel round"
       ],
       "category": "roofing",
       "common_units": [
@@ -14165,8 +13676,7 @@
         "mild steel square",
         "Mild Steel Square",
         "mild",
-        "steel square",
-        "MSS"
+        "steel square"
       ],
       "category": "plaster",
       "common_units": [
@@ -14181,8 +13691,7 @@
         "rectangular hollow section",
         "rsc box",
         "Rsc Box",
-        "RSC Box",
-        "rsc"
+        "RSC Box"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -14197,8 +13706,7 @@
         "square hollow section",
         "ssc box",
         "Ssc Box",
-        "SSC Box",
-        "ssc"
+        "SSC Box"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -14269,9 +13777,7 @@
       "aliases": [
         "self drill screw",
         "Self Drill Screw",
-        "self",
-        "drill screw",
-        "SDS"
+        "drill screw"
       ],
       "category": "plumbing",
       "common_units": [
@@ -14284,9 +13790,7 @@
       "aliases": [
         "self tapping screw",
         "Self Tapping Screw",
-        "self",
-        "tapping screw",
-        "STS"
+        "tapping screw"
       ],
       "category": "flooring",
       "common_units": [
@@ -14299,7 +13803,6 @@
       "aliases": [
         "anchor bolt",
         "Anchor Bolt",
-        "anchor",
         "bolt"
       ],
       "category": "cement",
@@ -14341,7 +13844,6 @@
       "aliases": [
         "eye bolt",
         "Eye Bolt",
-        "eye",
         "bolt"
       ],
       "category": "aggregate",
@@ -14433,7 +13935,6 @@
         "git clamp",
         "Git Clamp",
         "GIT Clamp",
-        "git",
         "clamp"
       ],
       "category": "waterproofing",
@@ -14449,7 +13950,6 @@
         "dtc clamp",
         "Dtc Clamp",
         "DTC Clamp",
-        "dtc",
         "clamp"
       ],
       "category": "miscellaneous",
@@ -14495,7 +13995,6 @@
         "Ceramic Tile Adhesive",
         "ceramic",
         "tile adhesive",
-        "CTA",
         "ceramic tile adhesive work"
       ],
       "category": "roads",
@@ -14609,7 +14108,6 @@
       "aliases": [
         "pop powder",
         "Pop Powder",
-        "pop",
         "powder"
       ],
       "category": "wood",
@@ -14623,7 +14121,6 @@
       "aliases": [
         "door handle",
         "Door Handle",
-        "door",
         "handle"
       ],
       "category": "paint",
@@ -14637,7 +14134,6 @@
       "aliases": [
         "window handle",
         "Window Handle",
-        "window",
         "handle"
       ],
       "category": "doors",
@@ -14741,7 +14237,6 @@
         "door viewer",
         "peephole",
         "Door Viewer",
-        "door",
         "viewer"
       ],
       "category": "roads",
@@ -14755,7 +14250,6 @@
       "aliases": [
         "door chain",
         "Door Chain",
-        "door",
         "chain"
       ],
       "category": "electrical",
@@ -14769,9 +14263,7 @@
       "aliases": [
         "floor door stopper",
         "Floor Door Stopper",
-        "floor",
-        "door stopper",
-        "FDS"
+        "door stopper"
       ],
       "category": "plumbing",
       "common_units": [
@@ -15073,7 +14565,6 @@
       "aliases": [
         "emulsion bitumen",
         "Emulsion Bitumen",
-        "emulsion",
         "bitumen"
       ],
       "category": "steel",
@@ -15086,9 +14577,7 @@
       "name": "Polymer Modified Bitumen",
       "aliases": [
         "polymer modified bitumen",
-        "PMB",
         "Polymer Modified Bitumen",
-        "polymer",
         "modified bitumen"
       ],
       "category": "brick",
@@ -15103,8 +14592,7 @@
         "bituminous macadam",
         "bm bituminous macadam",
         "Bm Bituminous Macadam",
-        "BM Bituminous Macadam",
-        "BBM"
+        "BM Bituminous Macadam"
       ],
       "category": "aggregate",
       "common_units": [
@@ -15151,7 +14639,6 @@
         "bc bituminous concrete",
         "Bc Bituminous Concrete",
         "BC Bituminous Concrete",
-        "BBC",
         "bc bituminous concrete work"
       ],
       "category": "doors",
@@ -15211,12 +14698,10 @@
     {
       "name": "PQC Pavement Quality Concrete",
       "aliases": [
-        "PQC",
         "pavement quality",
         "pqc pavement quality concrete",
         "Pqc Pavement Quality Concrete",
-        "PQC Pavement Quality Concrete",
-        "pqc"
+        "PQC Pavement Quality Concrete"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -15287,8 +14772,7 @@
         "base plate",
         "scaffolding base plate",
         "Scaffolding Base Plate",
-        "scaffolding",
-        "SBP"
+        "scaffolding"
       ],
       "category": "plumbing",
       "common_units": [
@@ -15302,8 +14786,7 @@
         "swivel coupler",
         "scaffolding swivel coupler",
         "Scaffolding Swivel Coupler",
-        "scaffolding",
-        "SSC"
+        "scaffolding"
       ],
       "category": "flooring",
       "common_units": [
@@ -15317,8 +14800,7 @@
         "fixed coupler",
         "scaffolding fixed coupler",
         "Scaffolding Fixed Coupler",
-        "scaffolding",
-        "SFC"
+        "scaffolding"
       ],
       "category": "cement",
       "common_units": [
@@ -15346,8 +14828,7 @@
       "aliases": [
         "scaffolding board",
         "Scaffolding Board",
-        "scaffolding",
-        "board"
+        "scaffolding"
       ],
       "category": "brick",
       "common_units": [
@@ -15416,8 +14897,7 @@
         "welded plate girder",
         "Welded Plate Girder",
         "welded",
-        "plate girder",
-        "WPG"
+        "plate girder"
       ],
       "category": "roofing",
       "common_units": [
@@ -15429,7 +14909,6 @@
       "name": "Rolled Steel Joist",
       "aliases": [
         "rolled steel joist",
-        "RSJ",
         "Rolled Steel Joist",
         "rolled",
         "steel joist",
@@ -15444,10 +14923,7 @@
     {
       "name": "ColUMN",
       "aliases": [
-        "column",
-        "steel column",
-        "Column",
-        "ColUMN"
+        "steel column"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -15458,9 +14934,7 @@
     {
       "name": "Beam",
       "aliases": [
-        "beam",
-        "steel beam",
-        "Beam"
+        "steel beam"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -15531,8 +15005,7 @@
       "aliases": [
         "clear glass",
         "Clear Glass",
-        "clear",
-        "glass"
+        "clear"
       ],
       "category": "plumbing",
       "common_units": [
@@ -15545,8 +15018,7 @@
       "aliases": [
         "frosted glass",
         "Frosted Glass",
-        "frosted",
-        "glass"
+        "frosted"
       ],
       "category": "flooring",
       "common_units": [
@@ -15559,8 +15031,7 @@
       "aliases": [
         "tinted glass",
         "Tinted Glass",
-        "tinted",
-        "glass"
+        "tinted"
       ],
       "category": "cement",
       "common_units": [
@@ -15573,8 +15044,7 @@
       "aliases": [
         "spandrel glass",
         "Spandrel Glass",
-        "spandrel",
-        "glass"
+        "spandrel"
       ],
       "category": "steel",
       "common_units": [
@@ -15586,9 +15056,7 @@
       "name": "Curtain Wall",
       "aliases": [
         "curtain wall",
-        "Curtain Wall",
-        "curtain",
-        "wall"
+        "Curtain Wall"
       ],
       "category": "brick",
       "common_units": [
@@ -15630,7 +15098,6 @@
       "aliases": [
         "ear plug",
         "Ear Plug",
-        "ear",
         "plug"
       ],
       "category": "paint",
@@ -15748,9 +15215,7 @@
       "aliases": [
         "pressure relief valve",
         "Pressure Relief Valve",
-        "pressure",
-        "relief valve",
-        "PRV"
+        "relief valve"
       ],
       "category": "roads",
       "common_units": [
@@ -15778,8 +15243,7 @@
         "angular stop valve",
         "Angular Stop Valve",
         "angular",
-        "stop valve",
-        "ASV"
+        "stop valve"
       ],
       "category": "plumbing",
       "common_units": [
@@ -15793,8 +15257,7 @@
         "straight stop valve",
         "Straight Stop Valve",
         "straight",
-        "stop valve",
-        "SSV"
+        "stop valve"
       ],
       "category": "flooring",
       "common_units": [
@@ -15863,7 +15326,6 @@
       "aliases": [
         "wall mixer",
         "Wall Mixer",
-        "wall",
         "mixer"
       ],
       "category": "wood",
@@ -15878,7 +15340,6 @@
         "expansion joint 25mm",
         "Expansion Joint 25Mm",
         "Expansion Joint 25mm",
-        "expansion",
         "joint 25mm"
       ],
       "category": "paint",
@@ -15893,7 +15354,6 @@
         "expansion joint 50mm",
         "Expansion Joint 50Mm",
         "Expansion Joint 50mm",
-        "expansion",
         "joint 50mm"
       ],
       "category": "doors",
@@ -15907,8 +15367,7 @@
       "aliases": [
         "flexible joint",
         "Flexible Joint",
-        "flexible",
-        "joint"
+        "flexible"
       ],
       "category": "roofing",
       "common_units": [
@@ -15921,8 +15380,7 @@
       "aliases": [
         "rubber joint",
         "Rubber Joint",
-        "rubber",
-        "joint"
+        "rubber"
       ],
       "category": "plaster",
       "common_units": [
@@ -15936,8 +15394,7 @@
         "belled mouth joint",
         "Belled Mouth Joint",
         "belled",
-        "mouth joint",
-        "BMJ"
+        "mouth joint"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -15952,7 +15409,6 @@
         "bwr grade plywood",
         "Bwr Grade Plywood",
         "BWR Grade Plywood",
-        "bwr",
         "grade plywood"
       ],
       "category": "miscellaneous",
@@ -15968,7 +15424,6 @@
         "bwp grade plywood",
         "Bwp Grade Plywood",
         "BWP Grade Plywood",
-        "bwp",
         "grade plywood"
       ],
       "category": "insulation",
@@ -15984,8 +15439,7 @@
         "marine grade plywood",
         "Marine Grade Plywood",
         "marine",
-        "grade plywood",
-        "MGP"
+        "grade plywood"
       ],
       "category": "safety",
       "common_units": [
@@ -16013,8 +15467,7 @@
         "cavity wall insulation",
         "Cavity Wall Insulation",
         "cavity",
-        "wall insulation",
-        "CWI"
+        "wall insulation"
       ],
       "category": "electrical",
       "common_units": [
@@ -16113,7 +15566,6 @@
       "aliases": [
         "Granular Sub-Base With Crusher Run",
         "granular sub-base with crusher run",
-        "run",
         "Granular sub-base with crusher run",
         "granular sub-base with crusher",
         "granular"
@@ -16216,7 +15668,6 @@
       "aliases": [
         "3 In Slab",
         "3 in slab",
-        "slab",
         "3 in",
         "in slab"
       ],
@@ -16313,7 +15764,6 @@
         "lean concrete m10 in",
         "Lean concrete M10 in floor",
         "lean concrete m10 in floor material",
-        "floor",
         "Lean Concrete M10 In Floor"
       ],
       "category": "concrete"
@@ -16322,7 +15772,6 @@
       "name": "Dry lean concrete DLC M15",
       "aliases": [
         "m15",
-        "DDM",
         "dry lean concrete dlc m15 items",
         "dry lean concrete dlc",
         "Dry Lean Concrete Dlc M15",
@@ -16357,6 +15806,7 @@
     {
       "name": "M20 concrete for flooring",
       "aliases": [
+        "M20 concrete for flooring",
         "m20 concrete for flooring items",
         "m20 concrete for",
         "m20 concrete for flooring supply",
@@ -16503,7 +15953,6 @@
       "aliases": [
         "Ms Binding Wire",
         "ms binding wire",
-        "wire",
         "ms binding",
         "MS binding wire",
         "binding wire"
@@ -16727,8 +16176,6 @@
     {
       "name": "Cement concrete",
       "aliases": [
-        "cement",
-        "concrete",
         "cement concrete work",
         "Cement Concrete",
         "Cement concrete",
@@ -16767,8 +16214,7 @@
         "sal wood door frame",
         "Sal wood door frame",
         "sal wood door",
-        "frame",
-        "sal"
+        "frame"
       ],
       "category": "wood"
     },
@@ -16779,8 +16225,7 @@
         "wood",
         "door shutter teak",
         "Door shutter teak wood",
-        "door shutter teak wood",
-        "door"
+        "door shutter teak wood"
       ],
       "category": "wood"
     },
@@ -16791,8 +16236,7 @@
         "Window frame teak wood",
         "wood",
         "window frame teak",
-        "Window Frame Teak Wood",
-        "window"
+        "Window Frame Teak Wood"
       ],
       "category": "wood"
     },
@@ -16812,7 +16256,6 @@
       "name": "Particle board door",
       "aliases": [
         "Particle board door",
-        "door",
         "Particle Board Door",
         "particle board",
         "particle board door",
@@ -16858,7 +16301,6 @@
       "aliases": [
         "ms square",
         "MS square bar",
-        "bar",
         "Ms Square Bar",
         "ms square bar",
         "square bar"
@@ -16896,8 +16338,7 @@
         "coats",
         "distemper 2",
         "Distemper 2 coats",
-        "distemper 2 coats",
-        "distemper"
+        "distemper 2 coats"
       ],
       "category": "miscellaneous"
     },
@@ -16920,8 +16361,7 @@
         "Enamel Paint 2 Coats",
         "enamel paint 2",
         "Enamel paint 2 coats",
-        "enamel paint 2 coats",
-        "enamel"
+        "enamel paint 2 coats"
       ],
       "category": "paint"
     },
@@ -16931,7 +16371,6 @@
         "synthetic enamel paint",
         "Synthetic enamel paint",
         "synthetic enamel",
-        "paint",
         "Synthetic Enamel Paint",
         "synthetic"
       ],
@@ -16944,8 +16383,7 @@
         "Primer One Coat On Wood",
         "wood",
         "Primer one coat on wood",
-        "primer one coat on wood",
-        "primer"
+        "primer one coat on wood"
       ],
       "category": "wood"
     },
@@ -16956,8 +16394,7 @@
         "Primer One Coat",
         "primer one coat",
         "coat",
-        "Primer one coat",
-        "primer"
+        "Primer one coat"
       ],
       "category": "miscellaneous"
     },
@@ -16966,10 +16403,8 @@
       "aliases": [
         "primer one coat on",
         "primer one coat on metal",
-        "metal",
         "Primer one coat on metal",
-        "Primer One Coat On Metal",
-        "primer"
+        "Primer One Coat On Metal"
       ],
       "category": "miscellaneous"
     },
@@ -16979,21 +16414,17 @@
         "Primer One Coat On Wall",
         "primer one coat on",
         "Primer one coat on wall",
-        "wall",
-        "primer one coat on wall",
-        "primer"
+        "primer one coat on wall"
       ],
       "category": "miscellaneous"
     },
     {
       "name": "Putty 2 coats on wall",
       "aliases": [
-        "wall",
         "putty 2 coats on",
         "putty 2 coats on wall",
         "Putty 2 Coats On Wall",
-        "Putty 2 coats on wall",
-        "putty"
+        "Putty 2 coats on wall"
       ],
       "category": "miscellaneous"
     },
@@ -17003,16 +16434,13 @@
         "wall care",
         "Wall Care Putty",
         "Wall care putty",
-        "wall care putty",
-        "putty",
-        "wall"
+        "wall care putty"
       ],
       "category": "miscellaneous"
     },
     {
       "name": "PVC pipe",
       "aliases": [
-        "pipe",
         "Pvc Pipe",
         "pvc pipe",
         "PVC pipe",
@@ -17024,7 +16452,6 @@
     {
       "name": "CI pipe",
       "aliases": [
-        "pipe",
         "ci pipe",
         "Ci Pipe",
         "CI pipe",
@@ -17038,8 +16465,7 @@
       "aliases": [
         "GI wire",
         "gi wire",
-        "Gi Wire",
-        "wire"
+        "Gi Wire"
       ],
       "category": "miscellaneous"
     },
@@ -17049,8 +16475,7 @@
         "Copper wire",
         "copper",
         "copper wire",
-        "Copper Wire",
-        "wire"
+        "Copper Wire"
       ],
       "category": "miscellaneous"
     },
@@ -17058,7 +16483,6 @@
       "name": "Aluminum wire",
       "aliases": [
         "Aluminum wire",
-        "wire",
         "aluminum wire",
         "aluminum",
         "Aluminum Wire"
@@ -17119,7 +16543,6 @@
         "fr pvc cable",
         "Fr Pvc Cable",
         "fr pvc",
-        "cable",
         "FR PVC cable",
         "pvc cable"
       ],
@@ -17179,7 +16602,6 @@
         "Xlpe Cable",
         "XLPE cable",
         "xlpe",
-        "cable",
         "xlpe cable"
       ],
       "category": "miscellaneous"
@@ -17203,8 +16625,7 @@
         "Led Panel 18W",
         "LED panel 18W",
         "18w",
-        "led panel 18w",
-        "led"
+        "led panel 18w"
       ],
       "category": "miscellaneous"
     },
@@ -17262,8 +16683,7 @@
         "Crash bar",
         "Crash Bar",
         "crash",
-        "crash bar",
-        "bar"
+        "crash bar"
       ],
       "category": "miscellaneous"
     },
@@ -17332,8 +16752,7 @@
         "Door lock Godrej",
         "door lock",
         "door lock godrej",
-        "Door Lock Godrej",
-        "door"
+        "Door Lock Godrej"
       ],
       "category": "miscellaneous"
     },
@@ -17351,7 +16770,6 @@
     {
       "name": "Patch fitting for glass door",
       "aliases": [
-        "door",
         "patch fitting for glass",
         "patch fitting for glass door",
         "Patch fitting for glass door",
@@ -17375,7 +16793,6 @@
     {
       "name": "Pump 5hp",
       "aliases": [
-        "pump",
         "5hp",
         "pump 5hp",
         "Pump 5Hp",
@@ -17423,7 +16840,6 @@
       "aliases": [
         "painting wood",
         "painting wood door",
-        "door",
         "Painting Wood Door",
         "Painting wood door",
         "painting"
@@ -17470,7 +16886,6 @@
         "Chipping Old Paint",
         "Chipping old paint",
         "chipping old paint",
-        "paint",
         "chipping old",
         "chipping"
       ],
@@ -17587,7 +17002,6 @@
       "name": "Shuttering for column",
       "aliases": [
         "Shuttering For Column",
-        "column",
         "shuttering for column",
         "Shuttering for column",
         "shuttering for",
@@ -17601,7 +17015,6 @@
         "Shuttering for slab",
         "Shuttering For Slab",
         "shuttering for slab",
-        "slab",
         "shuttering for",
         "shuttering"
       ],
@@ -17613,7 +17026,6 @@
         "shuttering for beam",
         "Shuttering for beam",
         "Shuttering For Beam",
-        "beam",
         "shuttering for",
         "shuttering"
       ],
@@ -17626,15 +17038,13 @@
         "cup lock system",
         "system",
         "Cup lock system",
-        "Cup Lock System",
-        "cup"
+        "Cup Lock System"
       ],
       "category": "miscellaneous"
     },
     {
       "name": "HDPE pipe",
       "aliases": [
-        "pipe",
         "Hdpe Pipe",
         "hdpe pipe",
         "hdpe",
@@ -17647,10 +17057,8 @@
       "name": "DWC pipe",
       "aliases": [
         "Dwc Pipe",
-        "pipe",
         "dwc pipe",
         "DWC pipe",
-        "dwc",
         "dwc pipe work"
       ],
       "category": "miscellaneous"
@@ -17755,7 +17163,6 @@
       "aliases": [
         "dismantling concrete work",
         "dismantling",
-        "concrete",
         "dismantling concrete material",
         "dismantling concrete supply",
         "Dismantling Concrete"
@@ -17792,7 +17199,6 @@
         "Barbed wire",
         "Barbed Wire",
         "barbed",
-        "wire",
         "barbed wire"
       ],
       "category": "miscellaneous"
@@ -17814,7 +17220,6 @@
       "aliases": [
         "m15",
         "Open drain CC M15",
-        "OCM",
         "Open Drain Cc M15",
         "open drain cc",
         "open drain cc m15"
@@ -17824,7 +17229,6 @@
     {
       "name": "Sewer pipe",
       "aliases": [
-        "pipe",
         "Sewer pipe",
         "sewer pipe",
         "sewer",
@@ -17851,7 +17255,6 @@
         "direction board",
         "Direction board",
         "direction",
-        "board",
         "Direction Board"
       ],
       "category": "miscellaneous"
@@ -17862,8 +17265,7 @@
         "Asbestos sheet",
         "asbestos sheet",
         "Asbestos Sheet",
-        "asbestos",
-        "sheet"
+        "asbestos"
       ],
       "category": "miscellaneous"
     },
@@ -17884,7 +17286,6 @@
       "aliases": [
         "gi sheet",
         "GI sheet",
-        "sheet",
         "Gi Sheet"
       ],
       "category": "miscellaneous"
@@ -17953,7 +17354,6 @@
       "name": "Epoxy grouting",
       "aliases": [
         "Epoxy Grouting",
-        "grouting",
         "epoxy grouting",
         "epoxy",
         "Epoxy grouting"
@@ -17964,7 +17364,6 @@
       "name": "Injection grouting",
       "aliases": [
         "Injection Grouting",
-        "grouting",
         "injection",
         "Injection grouting",
         "injection grouting"
@@ -17990,8 +17389,7 @@
         "false ceiling gypsum",
         "False Ceiling Gypsum",
         "False ceiling gypsum",
-        "gypsum",
-        "false"
+        "gypsum"
       ],
       "category": "miscellaneous"
     },
@@ -18060,7 +17458,6 @@
         "tower paint",
         "Tower paint",
         "tower",
-        "paint",
         "Tower Paint",
         "tower paint work"
       ],
@@ -18073,7 +17470,6 @@
         "Chimney paint",
         "chimney paint",
         "Chimney Paint",
-        "paint",
         "chimney paint work"
       ],
       "category": "paint"
@@ -18168,7 +17564,6 @@
         "hollow concrete",
         "hollow concrete supply",
         "Hollow Concrete",
-        "concrete",
         "hollow concrete items",
         "hollow concrete work"
       ],
@@ -18189,7 +17584,6 @@
     {
       "name": "mm sheet",
       "aliases": [
-        "sheet",
         "Mm Sheet",
         "mm sheet"
       ],
@@ -18234,7 +17628,6 @@
     {
       "name": "MS pipe",
       "aliases": [
-        "pipe",
         "ms pipe",
         "MS pipe",
         "Ms Pipe",
@@ -18247,7 +17640,6 @@
       "name": "Threaded rod",
       "aliases": [
         "Threaded Rod",
-        "rod",
         "threaded rod",
         "threaded",
         "Threaded rod"
@@ -18260,7 +17652,6 @@
         "Soldering Wire",
         "soldering wire",
         "Soldering wire",
-        "wire",
         "soldering"
       ],
       "category": "miscellaneous"
@@ -18272,8 +17663,7 @@
         "10hp",
         "Motor Starter 10Hp",
         "Motor starter 10HP",
-        "motor starter",
-        "motor"
+        "motor starter"
       ],
       "category": "miscellaneous"
     },
@@ -18284,7 +17674,6 @@
         "Light Switch 6A",
         "light switch",
         "light switch 6a",
-        "light",
         "switch 6a"
       ],
       "category": "miscellaneous"
@@ -18293,8 +17682,7 @@
       "name": "Socket 6A",
       "aliases": [
         "socket 6a",
-        "Socket 6A",
-        "socket"
+        "Socket 6A"
       ],
       "category": "miscellaneous"
     },
@@ -18302,7 +17690,6 @@
       "name": "Socket 16A",
       "aliases": [
         "socket 16a",
-        "socket",
         "Socket 16A",
         "16a"
       ],
@@ -18327,7 +17714,6 @@
         "Fan regulator 6A",
         "fan regulator",
         "Fan Regulator 6A",
-        "fan",
         "regulator 6a"
       ],
       "category": "miscellaneous"
@@ -18337,7 +17723,6 @@
       "aliases": [
         "bell",
         "door bell",
-        "door",
         "Door Bell",
         "Door bell"
       ],
@@ -18349,8 +17734,7 @@
         "telephone socket",
         "Telephone Socket",
         "Telephone socket",
-        "telephone",
-        "socket"
+        "telephone"
       ],
       "category": "miscellaneous"
     },
@@ -18359,7 +17743,6 @@
       "aliases": [
         "TV socket",
         "tv socket",
-        "socket",
         "Tv Socket"
       ],
       "category": "miscellaneous"
@@ -18381,7 +17764,6 @@
       "aliases": [
         "earth rod",
         "Earth rod",
-        "rod",
         "Earth Rod",
         "earth"
       ],
@@ -18462,7 +17844,6 @@
     {
       "name": "Aggregates for WBM",
       "aliases": [
-        "wbm",
         "aggregates for",
         "Aggregates for WBM",
         "Aggregates For Wbm",
@@ -18477,9 +17858,7 @@
         "crusher run",
         "Crusher run metal",
         "crusher run metal",
-        "metal",
-        "Crusher Run Metal",
-        "crusher"
+        "Crusher Run Metal"
       ],
       "category": "miscellaneous"
     },
@@ -18488,7 +17867,6 @@
       "aliases": [
         "Door Stoper",
         "Door stoper",
-        "door",
         "door stoper",
         "stoper"
       ],
@@ -18560,7 +17938,6 @@
         "Wood primer",
         "Wood Primer",
         "wood",
-        "primer",
         "wood primer"
       ],
       "category": "wood"
@@ -18568,8 +17945,6 @@
     {
       "name": "Metal primer",
       "aliases": [
-        "metal",
-        "primer",
         "Metal Primer",
         "Metal primer",
         "metal primer"
@@ -18582,7 +17957,6 @@
         "heat resisting paint",
         "Heat Resisting Paint",
         "Heat resisting paint",
-        "paint",
         "heat resisting",
         "heat"
       ],
@@ -18594,7 +17968,6 @@
         "Chlorinated Rubber Paint",
         "Chlorinated rubber paint",
         "chlorinated rubber paint",
-        "paint",
         "chlorinated rubber",
         "chlorinated"
       ],
@@ -18653,7 +18026,6 @@
       "aliases": [
         "chiselling concrete items",
         "chiselling",
-        "concrete",
         "Chiselling Concrete",
         "chiselling concrete material",
         "chiselling concrete supply"
@@ -18664,7 +18036,6 @@
       "name": "Concrete planter",
       "aliases": [
         "Concrete planter",
-        "concrete",
         "Concrete Planter",
         "concrete planter items",
         "planter",
@@ -18678,7 +18049,6 @@
         "Grass Paving Block",
         "grass paving",
         "grass paving block",
-        "block",
         "Grass paving block",
         "grass"
       ],
@@ -18689,7 +18059,6 @@
       "aliases": [
         "stay wire",
         "Stay wire",
-        "wire",
         "stay",
         "Stay Wire"
       ],
@@ -18700,7 +18069,6 @@
       "aliases": [
         "Staple Wire",
         "Staple wire",
-        "wire",
         "staple",
         "staple wire"
       ],
@@ -18710,7 +18078,6 @@
       "name": "Aluminum sheet",
       "aliases": [
         "Aluminum Sheet",
-        "sheet",
         "aluminum sheet",
         "aluminum",
         "Aluminum sheet"
@@ -18721,7 +18088,6 @@
       "name": "Transparent sheet",
       "aliases": [
         "Transparent Sheet",
-        "sheet",
         "transparent sheet",
         "Transparent sheet",
         "transparent"
@@ -18986,8 +18352,7 @@
         "concrete blocks",
         "CMU blocks",
         "hollow concrete blocks",
-        "Hollow Concrete Blocks",
-        "hollow"
+        "Hollow Concrete Blocks"
       ],
       "category": "brick"
     },
@@ -19007,7 +18372,6 @@
       "name": "Red Clay Bricks",
       "aliases": [
         "clay bricks",
-        "传统砖",
         "burnt clay bricks",
         "first class bricks",
         "red clay bricks",
@@ -19046,8 +18410,7 @@
         "Mortar 1:4",
         "cement sand mortar 1:4",
         "cement mortar 1:4",
-        "Cement Mortar 1:4",
-        "cement"
+        "Cement Mortar 1:4"
       ],
       "category": "mortar"
     },
@@ -19058,8 +18421,7 @@
         "Mortar 1:6",
         "cement sand mortar 1:6",
         "cement mortar 1:6",
-        "Cement Mortar 1:6",
-        "cement"
+        "Cement Mortar 1:6"
       ],
       "category": "mortar"
     },
@@ -19334,8 +18696,7 @@
         " EJ joint",
         "movement joint",
         "expansion joints",
-        "Expansion Joints",
-        "expansion"
+        "Expansion Joints"
       ],
       "category": "structural"
     },
@@ -19392,8 +18753,7 @@
       "aliases": [
         "acrylic distemper",
         "Acrylic Distemper",
-        "acrylic",
-        "distemper"
+        "acrylic"
       ],
       "category": "paint",
       "common_units": [
@@ -19409,8 +18769,7 @@
         "plastic emulsion paint",
         "Plastic Emulsion Paint",
         "plastic",
-        "emulsion paint",
-        "PEP"
+        "emulsion paint"
       ],
       "category": "adhesive",
       "common_units": [
@@ -19425,7 +18784,6 @@
         "mural paint",
         "Mural Paint",
         "mural",
-        "paint",
         "mural paint work",
         "mural paint items"
       ],
@@ -19442,7 +18800,6 @@
         "fascia paint",
         "Fascia Paint",
         "fascia",
-        "paint",
         "fascia paint work",
         "fascia paint items"
       ],
@@ -19460,7 +18817,6 @@
         "gutters paint",
         "Gutters Paint",
         "gutters",
-        "paint",
         "gutters paint work"
       ],
       "category": "plumbing",
@@ -19491,7 +18847,6 @@
       "aliases": [
         "paint thinner",
         "Paint Thinner",
-        "paint",
         "thinner",
         "paint thinner work",
         "paint thinner items"
@@ -19508,8 +18863,7 @@
       "aliases": [
         "linseed oil",
         "Linseed Oil",
-        "linseed",
-        "oil"
+        "linseed"
       ],
       "category": "plumbing",
       "common_units": [
@@ -19524,9 +18878,7 @@
         "raw linseed",
         "raw linseed oil",
         "Raw Linseed Oil",
-        "raw",
-        "linseed oil",
-        "RLO"
+        "linseed oil"
       ],
       "category": "plumbing",
       "common_units": [
@@ -19542,8 +18894,7 @@
         "boiled linseed oil",
         "Boiled Linseed Oil",
         "boiled",
-        "linseed oil",
-        "BLO"
+        "linseed oil"
       ],
       "category": "plumbing",
       "common_units": [
@@ -19557,8 +18908,7 @@
       "aliases": [
         "tung oil",
         "Tung Oil",
-        "tung",
-        "oil"
+        "tung"
       ],
       "category": "sanitary",
       "common_units": [
@@ -19571,7 +18921,6 @@
       "name": "Clear Polyurethane",
       "aliases": [
         "clear polyurethane",
-        "CPP",
         "Clear Polyurethane",
         "clear",
         "polyurethane"
@@ -19621,8 +18970,7 @@
         "fevicol frp",
         "Fevicol Frp",
         "Fevicol FRP",
-        "fevicol",
-        "frp"
+        "fevicol"
       ],
       "category": "window",
       "common_units": [
@@ -20478,8 +19826,7 @@
         "mdpe pipe",
         "Mdpe Pipe",
         "MDPE Pipe",
-        "mdpe",
-        "pipe"
+        "mdpe"
       ],
       "category": "sanitary",
       "common_units": [
@@ -20495,8 +19842,7 @@
         "galvanized tee",
         "gi tee",
         "Gi Tee",
-        "GI Tee",
-        "tee"
+        "GI Tee"
       ],
       "category": "doors",
       "common_units": [
@@ -20528,8 +19874,7 @@
         "GI socket",
         "gi socket",
         "Gi Socket",
-        "GI Socket",
-        "socket"
+        "GI Socket"
       ],
       "category": "window",
       "common_units": [
@@ -20608,8 +19953,7 @@
         "GI cap",
         "gi cap",
         "Gi Cap",
-        "GI Cap",
-        "cap"
+        "GI Cap"
       ],
       "category": "electrical",
       "common_units": [
@@ -20673,8 +20017,7 @@
         "cast iron tee",
         "ci tee",
         "Ci Tee",
-        "CI Tee",
-        "tee"
+        "CI Tee"
       ],
       "category": "electrical",
       "common_units": [
@@ -20799,7 +20142,6 @@
       "aliases": [
         "air valve",
         "Air Valve",
-        "air",
         "valve"
       ],
       "category": "civil",
@@ -21131,7 +20473,6 @@
       "aliases": [
         "gas valve",
         "Gas Valve",
-        "gas",
         "valve"
       ],
       "category": "reinforcement",
@@ -21160,9 +20501,7 @@
       "name": "Pressure Reducing Valve",
       "aliases": [
         "pressure reducing valve",
-        "PRV",
         "Pressure Reducing Valve",
-        "pressure",
         "reducing valve"
       ],
       "category": "landscaping",
@@ -21193,7 +20532,6 @@
       "aliases": [
         "mud drum",
         "Mud Drum",
-        "mud",
         "drum"
       ],
       "category": "adhesive",
@@ -21209,8 +20547,7 @@
         "western pan",
         "water closet",
         "Western Pan",
-        "western",
-        "pan"
+        "western"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -21224,8 +20561,7 @@
       "aliases": [
         "oriental pan",
         "Oriental Pan",
-        "oriental",
-        "pan"
+        "oriental"
       ],
       "category": "plumbing",
       "common_units": [
@@ -21240,8 +20576,7 @@
         "half stall urinal",
         "Half Stall Urinal",
         "half",
-        "stall urinal",
-        "HSU"
+        "stall urinal"
       ],
       "category": "plumbing",
       "common_units": [
@@ -21256,8 +20591,7 @@
         "full stall urinal",
         "Full Stall Urinal",
         "full",
-        "stall urinal",
-        "FSU"
+        "stall urinal"
       ],
       "category": "plumbing",
       "common_units": [
@@ -21271,9 +20605,7 @@
       "aliases": [
         "corner wash basin",
         "Corner Wash Basin",
-        "corner",
-        "wash basin",
-        "CWB"
+        "wash basin"
       ],
       "category": "plumbing",
       "common_units": [
@@ -21289,8 +20621,7 @@
         "vessel basin",
         "Table Top Basin",
         "table",
-        "top basin",
-        "TTB"
+        "top basin"
       ],
       "category": "plumbing",
       "common_units": [
@@ -21353,8 +20684,7 @@
         "toilet paper holder",
         "Toilet Paper Holder",
         "toilet",
-        "paper holder",
-        "TPH"
+        "paper holder"
       ],
       "category": "sanitary",
       "common_units": [
@@ -21458,7 +20788,6 @@
       "aliases": [
         "door guard",
         "Door Guard",
-        "door",
         "guard"
       ],
       "category": "electrical",
@@ -21473,7 +20802,6 @@
       "aliases": [
         "door knocker",
         "Door Knocker",
-        "door",
         "knocker"
       ],
       "category": "electrical",
@@ -21489,8 +20817,7 @@
         "overhead door closer",
         "Overhead Door Closer",
         "overhead",
-        "door closer",
-        "ODC"
+        "door closer"
       ],
       "category": "electrical",
       "common_units": [
@@ -21505,8 +20832,7 @@
         "fire exit device",
         "Fire Exit Device",
         "fire",
-        "exit device",
-        "FED"
+        "exit device"
       ],
       "category": "electrical",
       "common_units": [
@@ -21614,8 +20940,7 @@
         "rising butt hinge",
         "Rising Butt Hinge",
         "rising",
-        "butt hinge",
-        "RBH"
+        "butt hinge"
       ],
       "category": "civil",
       "common_units": [
@@ -21629,7 +20954,6 @@
       "aliases": [
         "non rising butt hinge",
         "Non Rising Butt Hinge",
-        "non",
         "rising butt hinge",
         "NRBH"
       ],
@@ -21705,8 +21029,7 @@
       "aliases": [
         "skeleton key",
         "Skeleton Key",
-        "skeleton",
-        "key"
+        "skeleton"
       ],
       "category": "steel",
       "common_units": [
@@ -21720,7 +21043,6 @@
       "aliases": [
         "rim lock",
         "Rim Lock",
-        "rim",
         "lock"
       ],
       "category": "steel",
@@ -21767,7 +21089,6 @@
         "door seal",
         "door bottom seal",
         "Door Seal",
-        "door",
         "seal"
       ],
       "category": "steel",
@@ -21782,8 +21103,7 @@
       "aliases": [
         "weather strip",
         "Weather Strip",
-        "weather",
-        "strip"
+        "weather"
       ],
       "category": "brick",
       "common_units": [
@@ -21797,9 +21117,7 @@
       "aliases": [
         "door frame seal",
         "Door Frame Seal",
-        "door",
-        "frame seal",
-        "DFS"
+        "frame seal"
       ],
       "category": "brick",
       "common_units": [
@@ -21813,7 +21131,6 @@
       "aliases": [
         "window hinge",
         "Window Hinge",
-        "window",
         "hinge"
       ],
       "category": "flooring",
@@ -21828,7 +21145,6 @@
       "aliases": [
         "window stay",
         "Window Stay",
-        "window",
         "stay"
       ],
       "category": "flooring",
@@ -21843,7 +21159,6 @@
       "aliases": [
         "window roller",
         "Window Roller",
-        "window",
         "roller"
       ],
       "category": "ceiling",
@@ -21858,7 +21173,6 @@
       "aliases": [
         "window latch",
         "Window Latch",
-        "window",
         "latch"
       ],
       "category": "ceiling",
@@ -21873,7 +21187,6 @@
       "aliases": [
         "window lock",
         "Window Lock",
-        "window",
         "lock"
       ],
       "category": "partition",
@@ -21903,8 +21216,7 @@
       "aliases": [
         "casement fastener",
         "Casement Fastener",
-        "casement",
-        "fastener"
+        "casement"
       ],
       "category": "cladding",
       "common_units": [
@@ -21918,9 +21230,7 @@
       "aliases": [
         "fan light stay",
         "Fan Light Stay",
-        "fan",
-        "light stay",
-        "FLS"
+        "light stay"
       ],
       "category": "roofing",
       "common_units": [
@@ -21966,9 +21276,7 @@
         "DND switch",
         "dnd switch",
         "Dnd Switch",
-        "DND Switch",
-        "dnd",
-        "switch"
+        "DND Switch"
       ],
       "category": "concrete",
       "common_units": [
@@ -21984,8 +21292,7 @@
         "wifi switch",
         "Wifi Switch",
         "WiFi Switch",
-        "wifi",
-        "switch"
+        "wifi"
       ],
       "category": "reinforcement",
       "common_units": [
@@ -21999,8 +21306,7 @@
       "aliases": [
         "smart switch",
         "Smart Switch",
-        "smart",
-        "switch"
+        "smart"
       ],
       "category": "roads",
       "common_units": [
@@ -22014,8 +21320,7 @@
       "aliases": [
         "dimmer switch",
         "Dimmer Switch",
-        "dimmer",
-        "switch"
+        "dimmer"
       ],
       "category": "landscaping",
       "common_units": [
@@ -22029,7 +21334,6 @@
       "aliases": [
         "light dimmer",
         "Light Dimmer",
-        "light",
         "dimmer"
       ],
       "category": "paint",
@@ -22178,8 +21482,7 @@
       "aliases": [
         "changeover switch",
         "Changeover Switch",
-        "changeover",
-        "switch"
+        "changeover"
       ],
       "category": "plumbing",
       "common_units": [
@@ -22208,8 +21511,7 @@
       "aliases": [
         "timer switch",
         "Timer Switch",
-        "timer",
-        "switch"
+        "timer"
       ],
       "category": "sanitary",
       "common_units": [
@@ -22223,7 +21525,6 @@
       "aliases": [
         "ceiling rose",
         "Ceiling Rose",
-        "ceiling",
         "rose"
       ],
       "category": "doors",
@@ -22238,8 +21539,7 @@
       "aliases": [
         "round block",
         "Round Block",
-        "round",
-        "block"
+        "round"
       ],
       "category": "doors",
       "common_units": [
@@ -22253,8 +21553,7 @@
       "aliases": [
         "square block",
         "Square Block",
-        "square",
-        "block"
+        "square"
       ],
       "category": "window",
       "common_units": [
@@ -22268,8 +21567,7 @@
       "aliases": [
         "bakelite block",
         "Bakelite Block",
-        "bakelite",
-        "block"
+        "bakelite"
       ],
       "category": "electrical",
       "common_units": [
@@ -22285,8 +21583,7 @@
         "pvc box",
         "Pvc Box",
         "PVC Box",
-        "pvc",
-        "box"
+        "pvc"
       ],
       "category": "electrical",
       "common_units": [
@@ -22299,9 +21596,7 @@
       "name": "Metal Box",
       "aliases": [
         "metal box",
-        "Metal Box",
-        "metal",
-        "box"
+        "Metal Box"
       ],
       "category": "electrical",
       "common_units": [
@@ -22487,7 +21782,6 @@
         "cable 70sqmm",
         "Cable 70Sqmm",
         "Cable 70sqmm",
-        "cable",
         "70sqmm"
       ],
       "category": "civil",
@@ -22504,7 +21798,6 @@
         "cable 95sqmm",
         "Cable 95Sqmm",
         "Cable 95sqmm",
-        "cable",
         "95sqmm"
       ],
       "category": "civil",
@@ -22521,7 +21814,6 @@
         "cable 120sqmm",
         "Cable 120Sqmm",
         "Cable 120sqmm",
-        "cable",
         "120sqmm"
       ],
       "category": "civil",
@@ -22538,7 +21830,6 @@
         "cable 150sqmm",
         "Cable 150Sqmm",
         "Cable 150sqmm",
-        "cable",
         "150sqmm"
       ],
       "category": "civil",
@@ -22555,7 +21846,6 @@
         "cable 185sqmm",
         "Cable 185Sqmm",
         "Cable 185sqmm",
-        "cable",
         "185sqmm"
       ],
       "category": "civil",
@@ -22572,7 +21862,6 @@
         "cable 240sqmm",
         "Cable 240Sqmm",
         "Cable 240sqmm",
-        "cable",
         "240sqmm"
       ],
       "category": "steel",
@@ -22763,8 +22052,7 @@
         "hdpe conduit",
         "Hdpe Conduit",
         "HDPE Conduit",
-        "hdpe",
-        "conduit"
+        "hdpe"
       ],
       "category": "partition",
       "common_units": [
@@ -22779,8 +22067,7 @@
         "deep drawing box",
         "Deep Drawing Box",
         "deep",
-        "drawing box",
-        "DDB"
+        "drawing box"
       ],
       "category": "partition",
       "common_units": [
@@ -22793,9 +22080,7 @@
       "name": "Coupler Box",
       "aliases": [
         "coupler box",
-        "Coupler Box",
-        "coupler",
-        "box"
+        "Coupler Box"
       ],
       "category": "cladding",
       "common_units": [
@@ -22826,7 +22111,6 @@
         "brick bat",
         "Brick Bat",
         "brick",
-        "bat",
         "brick bat work",
         "brick bat items"
       ],
@@ -22890,8 +22174,7 @@
         "chain link fence",
         "Chain Link Fence",
         "chain",
-        "link fence",
-        "CLF"
+        "link fence"
       ],
       "category": "roads",
       "common_units": [
@@ -22905,8 +22188,7 @@
       "aliases": [
         "razor wire",
         "Razor Wire",
-        "razor",
-        "wire"
+        "razor"
       ],
       "category": "landscaping",
       "common_units": [
@@ -22951,8 +22233,7 @@
         "backer rod",
         "sealant backer rod",
         "Backer Rod",
-        "backer",
-        "rod"
+        "backer"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -23099,9 +22380,7 @@
       "name": "Block Board",
       "aliases": [
         "block board",
-        "Block Board",
-        "block",
-        "board"
+        "Block Board"
       ],
       "category": "sanitary",
       "common_units": [
@@ -23115,8 +22394,7 @@
       "aliases": [
         "veneer sheet",
         "Veneer Sheet",
-        "veneer",
-        "sheet"
+        "veneer"
       ],
       "category": "doors",
       "common_units": [
@@ -23131,8 +22409,7 @@
         "formwork oil",
         "mould oil",
         "Formwork Oil",
-        "formwork",
-        "oil"
+        "formwork"
       ],
       "category": "doors",
       "common_units": [
@@ -23148,7 +22425,6 @@
         "angle 25x25x3",
         "isa 25x25x3",
         "Isa 25X25X3",
-        "isa",
         "25x25x3"
       ],
       "category": "window",
@@ -23165,7 +22441,6 @@
         "angle 30x30x3",
         "isa 30x30x3",
         "Isa 30X30X3",
-        "isa",
         "30x30x3"
       ],
       "category": "electrical",
@@ -23182,7 +22457,6 @@
         "angle 40x40x3",
         "isa 40x40x3",
         "Isa 40X40X3",
-        "isa",
         "40x40x3"
       ],
       "category": "electrical",
@@ -23198,7 +22472,6 @@
         "ISA 40x40x5",
         "isa 40x40x5",
         "Isa 40X40X5",
-        "isa",
         "40x40x5"
       ],
       "category": "electrical",
@@ -23214,7 +22487,6 @@
         "ISA 50x50x4",
         "isa 50x50x4",
         "Isa 50X50X4",
-        "isa",
         "50x50x4"
       ],
       "category": "electrical",
@@ -23230,7 +22502,6 @@
         "ISA 50x50x6",
         "isa 50x50x6",
         "Isa 50X50X6",
-        "isa",
         "50x50x6"
       ],
       "category": "electrical",
@@ -23246,7 +22517,6 @@
         "ISA 65x65x5",
         "isa 65x65x5",
         "Isa 65X65X5",
-        "isa",
         "65x65x5"
       ],
       "category": "electrical",
@@ -23262,7 +22532,6 @@
         "ISA 65x65x6",
         "isa 65x65x6",
         "Isa 65X65X6",
-        "isa",
         "65x65x6"
       ],
       "category": "electrical",
@@ -23278,7 +22547,6 @@
         "ISA 75x75x5",
         "isa 75x75x5",
         "Isa 75X75X5",
-        "isa",
         "75x75x5"
       ],
       "category": "electrical",
@@ -23294,7 +22562,6 @@
         "ISA 75x75x6",
         "isa 75x75x6",
         "Isa 75X75X6",
-        "isa",
         "75x75x6"
       ],
       "category": "electrical",
@@ -23310,7 +22577,6 @@
         "ISA 75x75x8",
         "isa 75x75x8",
         "Isa 75X75X8",
-        "isa",
         "75x75x8"
       ],
       "category": "electrical",
@@ -23326,7 +22592,6 @@
         "ISA 100x100x6",
         "isa 100x100x6",
         "Isa 100X100X6",
-        "isa",
         "100x100x6"
       ],
       "category": "electrical",
@@ -23342,7 +22607,6 @@
         "ISA 100x100x8",
         "isa 100x100x8",
         "Isa 100X100X8",
-        "isa",
         "100x100x8"
       ],
       "category": "electrical",
@@ -23358,7 +22622,6 @@
         "ISA 100x100x10",
         "isa 100x100x10",
         "Isa 100X100X10",
-        "isa",
         "100x100x10"
       ],
       "category": "civil",
@@ -23644,8 +22907,7 @@
       "aliases": [
         "solid block",
         "Solid Block",
-        "solid",
-        "block"
+        "solid"
       ],
       "category": "ceiling",
       "common_units": [
@@ -23659,8 +22921,7 @@
       "aliases": [
         "ceramic block",
         "Ceramic Block",
-        "ceramic",
-        "block"
+        "ceramic"
       ],
       "category": "partition",
       "common_units": [
@@ -23776,8 +23037,7 @@
       "aliases": [
         "shahabad stone",
         "Shahabad Stone",
-        "shahabad",
-        "stone"
+        "shahabad"
       ],
       "category": "reinforcement",
       "common_units": [
@@ -23791,9 +23051,7 @@
       "aliases": [
         "red fort stone",
         "Red Fort Stone",
-        "red",
-        "fort stone",
-        "RFS"
+        "fort stone"
       ],
       "category": "roads",
       "common_units": [
@@ -23807,8 +23065,7 @@
       "aliases": [
         "cobble stone",
         "Cobble Stone",
-        "cobble",
-        "stone"
+        "cobble"
       ],
       "category": "landscaping",
       "common_units": [
@@ -23823,7 +23080,6 @@
         "courtyard tile",
         "Courtyard Tile",
         "courtyard",
-        "tile",
         "courtyard tile work",
         "courtyard tile items"
       ],
@@ -23840,7 +23096,6 @@
         "terrace tile",
         "Terrace Tile",
         "terrace",
-        "tile",
         "terrace tile work",
         "terrace tile items"
       ],
@@ -23922,8 +23177,7 @@
         "gypsum partition board",
         "Gypsum Partition Board",
         "gypsum",
-        "partition board",
-        "GPB"
+        "partition board"
       ],
       "category": "plumbing",
       "common_units": [
@@ -23938,7 +23192,6 @@
         "gypsum tile",
         "Gypsum Tile",
         "gypsum",
-        "tile",
         "gypsum tile work",
         "gypsum tile items"
       ],
@@ -23956,7 +23209,6 @@
         "pop false ceiling",
         "Pop False Ceiling",
         "POP False Ceiling",
-        "pop",
         "false ceiling"
       ],
       "category": "plumbing",
@@ -23973,8 +23225,7 @@
         "perforated gypsum board",
         "Perforated Gypsum Board",
         "perforated",
-        "gypsum board",
-        "PGB"
+        "gypsum board"
       ],
       "category": "plumbing",
       "common_units": [
@@ -23988,8 +23239,7 @@
       "aliases": [
         "aluminium ceiling",
         "Aluminium Ceiling",
-        "aluminium",
-        "ceiling"
+        "aluminium"
       ],
       "category": "sanitary",
       "common_units": [
@@ -24003,9 +23253,7 @@
       "aliases": [
         "lay in tile",
         "Lay In Tile",
-        "lay",
         "in tile",
-        "LIT",
         "lay in tile work"
       ],
       "category": "sanitary",
@@ -24021,7 +23269,6 @@
         "perforated tile",
         "Perforated Tile",
         "perforated",
-        "tile",
         "perforated tile work",
         "perforated tile items"
       ],
@@ -24116,8 +23363,7 @@
         "fire rated partition",
         "Fire Rated Partition",
         "fire",
-        "rated partition",
-        "FRP"
+        "rated partition"
       ],
       "category": "electrical",
       "common_units": [
@@ -24131,8 +23377,7 @@
       "aliases": [
         "veneer cladding",
         "Veneer Cladding",
-        "veneer",
-        "cladding"
+        "veneer"
       ],
       "category": "electrical",
       "common_units": [
@@ -24146,8 +23391,6 @@
       "aliases": [
         "tile cladding",
         "Tile Cladding",
-        "tile",
-        "cladding",
         "tile cladding work",
         "tile cladding items"
       ],
@@ -24163,8 +23406,7 @@
       "aliases": [
         "aluminium cladding",
         "Aluminium Cladding",
-        "aluminium",
-        "cladding"
+        "aluminium"
       ],
       "category": "electrical",
       "common_units": [
@@ -24179,9 +23421,7 @@
         "ACP cladding",
         "acp cladding",
         "Acp Cladding",
-        "ACP Cladding",
-        "acp",
-        "cladding"
+        "ACP Cladding"
       ],
       "category": "electrical",
       "common_units": [
@@ -24196,9 +23436,7 @@
         "HPL sheet",
         "hpl sheet",
         "Hpl Sheet",
-        "HPL Sheet",
-        "hpl",
-        "sheet"
+        "HPL Sheet"
       ],
       "category": "electrical",
       "common_units": [
@@ -24212,8 +23450,7 @@
       "aliases": [
         "compact sheet",
         "Compact Sheet",
-        "compact",
-        "sheet"
+        "compact"
       ],
       "category": "electrical",
       "common_units": [
@@ -24229,7 +23466,6 @@
         "pre galvanized",
         "pre galvanized sheet",
         "Pre Galvanized Sheet",
-        "pre",
         "galvanized sheet"
       ],
       "category": "electrical",
@@ -24259,8 +23495,7 @@
       "aliases": [
         "acrylic sheet",
         "Acrylic Sheet",
-        "acrylic",
-        "sheet"
+        "acrylic"
       ],
       "category": "civil",
       "common_units": [
@@ -24289,8 +23524,6 @@
       "aliases": [
         "tile sheet",
         "Tile Sheet",
-        "tile",
-        "sheet",
         "tile sheet work",
         "tile sheet items"
       ],
@@ -24366,7 +23599,6 @@
       "aliases": [
         "cement mortar 1:3",
         "Cement Mortar 1:3",
-        "cement",
         "mortar 1:3",
         "cement mortar 1:3 work",
         "cement mortar 1:3 items"
@@ -24383,7 +23615,6 @@
       "aliases": [
         "cement mortar 1:5",
         "Cement Mortar 1:5",
-        "cement",
         "mortar 1:5",
         "cement mortar 1:5 work",
         "cement mortar 1:5 items"
@@ -24415,8 +23646,7 @@
       "aliases": [
         "lime putty",
         "Lime Putty",
-        "lime",
-        "putty"
+        "lime"
       ],
       "category": "steel",
       "common_units": [
@@ -24494,7 +23724,6 @@
         "stamped concrete",
         "Stamped Concrete",
         "stamped",
-        "concrete",
         "stamped concrete work",
         "stamped concrete items"
       ],
@@ -24510,8 +23739,7 @@
       "aliases": [
         "chair bar",
         "Chair Bar",
-        "chair",
-        "bar"
+        "chair"
       ],
       "category": "ceiling",
       "common_units": [
@@ -24524,9 +23752,7 @@
       "name": "Spacer Bar",
       "aliases": [
         "spacer bar",
-        "Spacer Bar",
-        "spacer",
-        "bar"
+        "Spacer Bar"
       ],
       "category": "ceiling",
       "common_units": [
@@ -24633,7 +23859,6 @@
         "WBM 75mm",
         "wbm 75mm",
         "Wbm 75Mm",
-        "wbm",
         "75mm"
       ],
       "category": "concrete",
@@ -24708,7 +23933,6 @@
       "aliases": [
         "top soil",
         "Top Soil",
-        "top",
         "soil"
       ],
       "category": "adhesive",
@@ -24798,8 +24022,7 @@
       "aliases": [
         "planter box",
         "Planter Box",
-        "planter",
-        "box"
+        "planter"
       ],
       "category": "plumbing",
       "common_units": [
@@ -24814,8 +24037,7 @@
         "retaining wall block",
         "Retaining Wall Block",
         "retaining",
-        "wall block",
-        "RWB"
+        "wall block"
       ],
       "category": "plumbing",
       "common_units": [
@@ -24828,11 +24050,8 @@
       "name": "Aggregate Base Course",
       "aliases": [
         "aggregate base course",
-        "ABC",
         "granular base course",
-        "GBS",
-        "Aggregate Base Course",
-        "aggregate"
+        "Aggregate Base Course"
       ],
       "category": "aggregate"
     },
@@ -24900,7 +24119,6 @@
       "name": "Brick Bat Coba",
       "aliases": [
         "brick bat coba",
-        "BBC",
         "damp proofing brick bat",
         "Brick Bat Coba",
         "brick",
@@ -24915,7 +24133,6 @@
         "earth filling",
         "selected earth fill",
         "Mud Phuski",
-        "mud",
         "phuski"
       ],
       "category": "flooring"
@@ -24927,8 +24144,7 @@
         "concrete flooring",
         "cement concrete floor finish",
         "cement concrete floor",
-        "Cement Concrete Floor",
-        "cement"
+        "Cement Concrete Floor"
       ],
       "category": "flooring"
     },
@@ -24951,8 +24167,7 @@
         "concrete floor finish",
         "smooth concrete floor",
         "cement concrete flooring",
-        "Cement Concrete Flooring",
-        "cement"
+        "Cement Concrete Flooring"
       ],
       "category": "flooring"
     },
@@ -25059,8 +24274,7 @@
         "hollow glass block",
         "glass brick wall",
         "glass blocks",
-        "Glass Blocks",
-        "glass"
+        "Glass Blocks"
       ],
       "category": "glass"
     },
@@ -25191,8 +24405,7 @@
         "aluminium door frame",
         "MS door frame",
         "door frame section",
-        "Door Frame Section",
-        "door"
+        "Door Frame Section"
       ],
       "category": "doors"
     },
@@ -25299,8 +24512,7 @@
         "sump pump",
         "dewatering pump",
         "slurry pump",
-        "Sump Pump",
-        "sump"
+        "Sump Pump"
       ],
       "category": "plumbing"
     },
@@ -25367,7 +24579,6 @@
     {
       "name": "Light Switch",
       "aliases": [
-        "switch",
         "1 way switch",
         "2 way switch",
         "modular switch",
@@ -25391,7 +24602,6 @@
     {
       "name": "PVC Sleeve",
       "aliases": [
-        "sleeve",
         "cable sleeve",
         "conduit sleeve",
         "sleeve pipe",
@@ -25487,7 +24697,6 @@
     {
       "name": "Wall Putty",
       "aliases": [
-        "putty",
         "acrylic wall putty",
         "cement putty",
         "fill putty",
@@ -25523,7 +24732,6 @@
       "name": "Wood Preservative",
       "aliases": [
         "wood primer",
-        "varnish",
         "teak oil",
         "anti termite treatment",
         "wood preservative",
@@ -25571,7 +24779,6 @@
       "name": "Fibrous Plaster",
       "aliases": [
         "fibre plaster",
-        "GRG",
         "gypsum board",
         "pop ceiling",
         "fibrous plaster",
@@ -25622,8 +24829,7 @@
         "gyp wall",
         "steel stud partition",
         "gyp board partition",
-        "Gyp Board Partition",
-        "gyp"
+        "Gyp Board Partition"
       ],
       "category": "finishes"
     },
@@ -25921,9 +25127,7 @@
         "wooden board",
         "plain board",
         "strip board",
-        "balk board",
-        "board",
-        "Board"
+        "balk board"
       ],
       "category": "wood"
     },
@@ -25978,10 +25182,8 @@
     {
       "name": "Change Over Switch",
       "aliases": [
-        "cos",
         "changeover",
         "transfer switch",
-        "ATS",
         "selector switch",
         "change over switch"
       ],
@@ -26050,7 +25252,6 @@
     {
       "name": "Cable Gland",
       "aliases": [
-        "gland",
         "brass gland",
         "double compression",
         "armour gland",
@@ -26102,8 +25303,7 @@
         "pipe clip",
         "saddle clip",
         "one hole clip",
-        "Conduit Clip",
-        "conduit"
+        "Conduit Clip"
       ],
       "category": "electrical"
     },
@@ -26342,8 +25542,7 @@
         "Stillson wrench",
         "chain tong",
         "water pump pliers",
-        "Pipe Wrench",
-        "pipe"
+        "Pipe Wrench"
       ],
       "category": "miscellaneous"
     },
