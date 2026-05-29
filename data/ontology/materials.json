@@ -1131,7 +1131,10 @@
       "name": "switch",
       "aliases": [
         "switchgear",
-        "circuit breaker"
+        "circuit breaker",
+        "1-way switch",
+        "2-way switch",
+        "modular switch"
       ],
       "category": "electrical",
       "common_units": [
@@ -1475,7 +1478,9 @@
     {
       "name": "paint",
       "aliases": [
-        "emulsion paint"
+        "emulsion paint",
+        "paintwork",
+        "prime coat"
       ],
       "category": "finishes",
       "common_units": [
@@ -7308,7 +7313,10 @@
       "name": "Wire Rod",
       "aliases": [
         "wire rod",
-        "Wire Rod"
+        "Wire Rod",
+        "MS rod",
+        "TMT rod",
+        "reinforcement rod"
       ],
       "category": "steel",
       "common_units": [
@@ -7821,7 +7829,9 @@
       "name": "Laminate Sheet",
       "aliases": [
         "laminate sheet",
-        "Laminate Sheet"
+        "Laminate Sheet",
+        "HPL sheet",
+        "high pressure laminate"
       ],
       "category": "flooring",
       "common_units": [
@@ -8079,7 +8089,9 @@
       "name": "Fan Box",
       "aliases": [
         "fan box",
-        "Fan Box"
+        "Fan Box",
+        "exhaust fan housing",
+        "GI fan box"
       ],
       "category": "electrical",
       "common_units": [
@@ -8092,7 +8104,9 @@
       "name": "Conduit Box",
       "aliases": [
         "conduit box",
-        "Conduit Box"
+        "Conduit Box",
+        "GI conduit box",
+        "PVC conduit box"
       ],
       "category": "electrical",
       "common_units": [
@@ -8105,7 +8119,9 @@
       "name": "Junction Box",
       "aliases": [
         "junction box",
-        "Junction Box"
+        "Junction Box",
+        "JB",
+        "electrical junction box"
       ],
       "category": "electrical",
       "common_units": [
@@ -8374,7 +8390,9 @@
       "name": "Metal Ceiling",
       "aliases": [
         "metal ceiling",
-        "Metal Ceiling"
+        "Metal Ceiling",
+        "exposed tee ceiling",
+        "metal ceiling grid"
       ],
       "category": "false ceiling",
       "common_units": [
@@ -9383,7 +9401,9 @@
       "name": "Laminate Board",
       "aliases": [
         "laminate board",
-        "Laminate Board"
+        "Laminate Board",
+        "wooden laminate board",
+        "blockboard"
       ],
       "category": "wood",
       "common_units": [
@@ -10626,7 +10646,9 @@
       "name": "Plain Sheet",
       "aliases": [
         "plain sheet",
-        "Plain Sheet"
+        "Plain Sheet",
+        "MS plain sheet",
+        "GI plain sheet"
       ],
       "category": "roofing",
       "common_units": [
@@ -10833,7 +10855,9 @@
       "name": "Glass Window",
       "aliases": [
         "glass window",
-        "Glass Window"
+        "Glass Window",
+        "glazed window",
+        "clear glass window"
       ],
       "category": "doors",
       "common_units": [
@@ -11362,7 +11386,9 @@
       "name": "Pressure Pump",
       "aliases": [
         "pressure pump",
-        "Pressure Pump"
+        "Pressure Pump",
+        "water pressure pump",
+        "hydro-pneumatic pump"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -11663,7 +11689,9 @@
       "name": "Air Curtain",
       "aliases": [
         "air curtain",
-        "Air Curtain"
+        "Air Curtain",
+        "air curtain unit",
+        "HVAC air curtain"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -13558,7 +13586,10 @@
       "name": "Fly Ash",
       "aliases": [
         "fly ash",
-        "Fly Ash"
+        "Fly Ash",
+        "pulverised fuel ash",
+        "PFA",
+        "pond ash"
       ],
       "category": "cement",
       "common_units": [
@@ -14923,7 +14954,9 @@
     {
       "name": "ColUMN",
       "aliases": [
-        "steel column"
+        "steel column",
+        "RCC column",
+        "structural column"
       ],
       "category": "waterproofing",
       "common_units": [
@@ -14934,7 +14967,9 @@
     {
       "name": "Beam",
       "aliases": [
-        "steel beam"
+        "steel beam",
+        "RCC beam",
+        "structural beam"
       ],
       "category": "miscellaneous",
       "common_units": [
@@ -15056,7 +15091,9 @@
       "name": "Curtain Wall",
       "aliases": [
         "curtain wall",
-        "Curtain Wall"
+        "Curtain Wall",
+        "structural glazing",
+        "storefront curtain wall"
       ],
       "category": "brick",
       "common_units": [
@@ -17585,7 +17622,9 @@
       "name": "mm sheet",
       "aliases": [
         "Mm Sheet",
-        "mm sheet"
+        "mm sheet",
+        "mild steel sheet",
+        "MS plate"
       ],
       "category": "miscellaneous"
     },
@@ -17682,7 +17721,9 @@
       "name": "Socket 6A",
       "aliases": [
         "socket 6a",
-        "Socket 6A"
+        "Socket 6A",
+        "6A socket",
+        "modular 6A socket"
       ],
       "category": "miscellaneous"
     },
@@ -21596,7 +21637,9 @@
       "name": "Metal Box",
       "aliases": [
         "metal box",
-        "Metal Box"
+        "Metal Box",
+        "switch box",
+        "junction box"
       ],
       "category": "electrical",
       "common_units": [
@@ -22080,7 +22123,9 @@
       "name": "Coupler Box",
       "aliases": [
         "coupler box",
-        "Coupler Box"
+        "Coupler Box",
+        "coupler junction box",
+        "splicing box"
       ],
       "category": "cladding",
       "common_units": [
@@ -22380,7 +22425,9 @@
       "name": "Block Board",
       "aliases": [
         "block board",
-        "Block Board"
+        "Block Board",
+        "wooden blockboard",
+        "core block board"
       ],
       "category": "sanitary",
       "common_units": [
@@ -23752,7 +23799,9 @@
       "name": "Spacer Bar",
       "aliases": [
         "spacer bar",
-        "Spacer Bar"
+        "Spacer Bar",
+        "rebar spacer bar",
+        "spacer"
       ],
       "category": "ceiling",
       "common_units": [

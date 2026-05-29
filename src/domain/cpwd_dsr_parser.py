@@ -130,8 +130,8 @@ class CPWDDSRParser:
 
         return items
 
-    def generate_synthetic_dsr(self, count: int = 500) -> list[DSRItem]:
-        """Generate synthetic DSR items for common construction items."""
+    def generate_fallback_dsr(self, count: int = 500) -> list[DSRItem]:
+        """Generate fallback DSR rates for when the real DSR file is missing."""
         items = []
 
         concrete_items = [
@@ -227,7 +227,7 @@ class CPWDDSRParser:
 
         if not self.data_dir.exists():
             print(f"Data dir {self.data_dir} not found, generating synthetic DSR")
-            self.items = self.generate_synthetic_dsr(500)
+            self.items = self.generate_fallback_dsr(500)
             return self.items
 
         txt_files = list(self.data_dir.glob("*.txt"))
@@ -242,7 +242,7 @@ class CPWDDSRParser:
 
         if len(self.items) < 500:
             print(f"Only {len(self.items)} items found, supplementing with synthetic")
-            self.items = self.generate_synthetic_dsr(max(500, len(self.items)))
+            self.items = self.generate_fallback_dsr(max(500, len(self.items)))
 
         return self.items
 

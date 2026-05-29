@@ -22,9 +22,6 @@ class Settings(BaseSettings):
     # RFQ2BOQ_DATA_DIR: Root data directory for jobs, results, etc.
     RFQ2BOQ_DATA_DIR: Path = Path("data")
 
-    # RFQ2BOQ_SYNTHETIC_DIR: Directory for synthetic training data
-    RFQ2BOQ_SYNTHETIC_DIR: Path = Path("data/synthetic")
-
     # RFQ2BOQ_ANNOTATIONS_DIR: Directory for annotation files
     RFQ2BOQ_ANNOTATIONS_DIR: Path = Path("data/annotations")
 
@@ -114,6 +111,10 @@ class Settings(BaseSettings):
     # RFQ2BOQ_EXCEL_TEMPLATE: Path to Excel template file
     RFQ2BOQ_EXCEL_TEMPLATE: str = "templates/boq_template.xlsx"
 
+    # Section filtering
+    # RFQ2BOQ_SECTION_FILTER_ENABLED: Enable BOQ section detection to filter front matter
+    RFQ2BOQ_SECTION_FILTER_ENABLED: bool = True
+
     @field_validator("RFQ2BOQ_LOG_LEVEL")
     @classmethod
     def validate_log_level(cls, v):
@@ -133,10 +134,6 @@ class Settings(BaseSettings):
     @property
     def DATA_DIR(self) -> Path:
         return self.RFQ2BOQ_DATA_DIR
-
-    @property
-    def SYNTHETIC_DIR(self) -> Path:
-        return self.RFQ2BOQ_SYNTHETIC_DIR
 
     @property
     def ANNOTATIONS_DIR(self) -> Path:
@@ -241,6 +238,10 @@ class Settings(BaseSettings):
     @property
     def EXCEL_TEMPLATE(self) -> str:
         return self.RFQ2BOQ_EXCEL_TEMPLATE
+
+    @property
+    def SECTION_FILTER_ENABLED(self) -> bool:
+        return self.RFQ2BOQ_SECTION_FILTER_ENABLED
 
     model_config = {"env_file": ".env", "env_prefix": "RFQ2BOQ_"}
 
