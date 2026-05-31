@@ -1,0 +1,202 @@
+{
+  "model_name": "rfq2boq-ner-final",
+  "micro_f1": 0.42991329479768786,
+  "micro_precision": 0.34097421203438394,
+  "micro_recall": 0.581622678396872,
+  "macro_f1": 0.2992494115302665,
+  "documents": 21,
+  "per_entity": {
+    "ACTION": {
+      "precision": 0.6491228070175439,
+      "recall": 0.8222222222222222,
+      "f1": 0.7254901960784313,
+      "tp": 148,
+      "fp": 80,
+      "fn": 32
+    },
+    "DIMENSION": {
+      "precision": 0.036885245901639344,
+      "recall": 0.2903225806451613,
+      "f1": 0.06545454545454546,
+      "tp": 9,
+      "fp": 235,
+      "fn": 22
+    },
+    "GRADE": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "fp": 30,
+      "fn": 4
+    },
+    "LOCATION": {
+      "precision": 0.28776978417266186,
+      "recall": 0.7272727272727273,
+      "f1": 0.41237113402061853,
+      "tp": 40,
+      "fp": 99,
+      "fn": 15
+    },
+    "MATERIAL": {
+      "precision": 0.1507537688442211,
+      "recall": 0.26548672566371684,
+      "f1": 0.19230769230769232,
+      "tp": 60,
+      "fp": 338,
+      "fn": 166
+    },
+    "QUANTITY": {
+      "precision": 0.5674846625766872,
+      "recall": 0.5441176470588235,
+      "f1": 0.5555555555555556,
+      "tp": 185,
+      "fp": 141,
+      "fn": 155
+    },
+    "STANDARD": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "tp": 0,
+      "fp": 8,
+      "fn": 0
+    },
+    "UNIT": {
+      "precision": 0.4112903225806452,
+      "recall": 0.8181818181818182,
+      "f1": 0.5474060822898033,
+      "tp": 153,
+      "fp": 219,
+      "fn": 34
+    }
+  },
+  "document_results": [
+    {
+      "doc_id": "gold_real_002",
+      "precision": 0.125,
+      "recall": 0.09090909090909091,
+      "f1": 0.10526315789473685
+    },
+    {
+      "doc_id": "cpwd_Guidelines_for_Hassle_Free_Bid_Submission_1778959268",
+      "precision": 0.375,
+      "recall": 0.15,
+      "f1": 0.21428571428571425
+    },
+    {
+      "doc_id": "gold_real_004",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "doc_id": "epi_addendum_1709810880",
+      "precision": 0.047619047619047616,
+      "recall": 0.3333333333333333,
+      "f1": 0.08333333333333333
+    },
+    {
+      "doc_id": "epi_emrs_ap_nit235",
+      "precision": 0.4878048780487805,
+      "recall": 0.22988505747126436,
+      "f1": 0.3125
+    },
+    {
+      "doc_id": "epi_esic_chennai_boq_vol3",
+      "precision": 0.09523809523809523,
+      "recall": 0.6666666666666666,
+      "f1": 0.16666666666666666
+    },
+    {
+      "doc_id": "epi_hostel_odisha_vol1",
+      "precision": 0.62,
+      "recall": 0.4492753623188406,
+      "f1": 0.5210084033613446
+    },
+    {
+      "doc_id": "epi_vol1_1727335871",
+      "precision": 0.5531914893617021,
+      "recall": 0.5531914893617021,
+      "f1": 0.5531914893617021
+    },
+    {
+      "doc_id": "epi_vol2_ets231",
+      "precision": 0.18,
+      "recall": 0.6,
+      "f1": 0.2769230769230769
+    },
+    {
+      "doc_id": "epi_vol3_price_bid",
+      "precision": 0.5,
+      "recall": 0.4,
+      "f1": 0.4444444444444445
+    },
+    {
+      "doc_id": "gold_real_001",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "doc_id": "gold_real_003",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "doc_id": "odisha_bfo_building_telkoi",
+      "precision": 0.8302752293577982,
+      "recall": 0.7903930131004366,
+      "f1": 0.8098434004474272
+    },
+    {
+      "doc_id": "01_gsecl_wanakbori_tmd8",
+      "precision": 0.4166666666666667,
+      "recall": 0.35714285714285715,
+      "f1": 0.3846153846153846
+    },
+    {
+      "doc_id": "02_isro_vssc",
+      "precision": 0.22972972972972974,
+      "recall": 0.6071428571428571,
+      "f1": 0.33333333333333337
+    },
+    {
+      "doc_id": "03_zydus_matoda_osd",
+      "precision": 0.3333333333333333,
+      "recall": 0.5473684210526316,
+      "f1": 0.41434262948207173
+    },
+    {
+      "doc_id": "04_adani",
+      "precision": 0.49038461538461536,
+      "recall": 0.7846153846153846,
+      "f1": 0.6035502958579881
+    },
+    {
+      "doc_id": "05_zydus_animal_pharmez",
+      "precision": 0.4121863799283154,
+      "recall": 0.6318681318681318,
+      "f1": 0.49891540130151846
+    },
+    {
+      "doc_id": "06_avante_kirloskar_pune",
+      "precision": 0.15492957746478872,
+      "recall": 0.6,
+      "f1": 0.24626865671641787
+    },
+    {
+      "doc_id": "07_grew_solar_narmadapuram",
+      "precision": 0.031007751937984496,
+      "recall": 0.3076923076923077,
+      "f1": 0.056338028169014086
+    },
+    {
+      "doc_id": "08_sael",
+      "precision": 0.1751412429378531,
+      "recall": 0.5,
+      "f1": 0.25941422594142255
+    }
+  ]
+}
