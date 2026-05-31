@@ -1,6 +1,6 @@
 # Wave Status — RFQ2BOQ Internship
 
-**Last updated:** 2026-05-20 (post final audit + cleanup)
+**Last updated:** 2026-05-31 (post P4T7 source-enum fix + session validation)
 
 This file is the **single source of truth** for what's done vs pending. After multiple scope-drift incidents, prior wave-status files were polluted with false DONE markers — this is the corrected version.
 
@@ -25,7 +25,7 @@ Out-of-scope work (patent, paper, dataset release, benchmark, multi-tenancy, bil
 | Excel + JSON + CSV exporters | DONE | `src/export/` (CPWD format) |
 | FastAPI + CLI + Streamlit UI | DONE | `src/api/`, `src/cli/`, `ui/app.py` |
 | 8-entity BIOES schema | DONE | `config/constants.py` |
-| Synthetic data generator + 300 PDFs | DONE | `data/synthetic/` |
+| Synthetic data generator + 300 PDFs | ARCHIVED | Moved to `attic/synthetic_corpus_archived/` per SWA directive 2026-05-22 |
 | Active learning + review router | DONE | `src/labeling/` |
 | Risk engine (B1) | DONE | `src/risk/` |
 | LLM ambiguity resolver (B2) | DONE | `src/llm/` |
@@ -89,6 +89,34 @@ Status: **DONE outside the prompt-dispatch workflow.** During the 2026-05-17 cle
 
 ---
 
+## 3.5. Phase 6–7 — Synthetic Data Purge + Real-Product Validation (2026-05-27 to 2026-05-29)
+
+| Task | Status | Notes |
+|------|--------|-------|
+| P6T2: Purge synthetic training data | **DONE** | `data/synthetic/` + generators moved to `attic/synthetic_corpus_archived/` |
+| P6T3: XLSX BOQ → gold annotation | **DONE** | 7 SWA gold files in `data/real_rfqs/gold/swa_*.json` |
+| P6T4: Retrain NER on real-only corpus | **DONE (negative result)** | `models/rfq2boq-ner-real-only-v1/` trained; NER model collapsed to all-O predictions |
+| P6T4 comparison report | **DONE** | `results/real_only_vs_synthetic_baseline.md` |
+| P6T5: Product end-to-end validation | **DONE** | Phase 6 baseline: 14.5% overall (flawed gold count) |
+| P7T6: Re-run product validation | **DONE** | Phase 7 final: 1.7% overall (corrected gold count); `results/PRODUCT_VALIDATION_FINAL.md` written |
+
+**Phase 7 honest results (overall match rate = 1.7%):**
+- ISRO VSSC: 0.0% match (0/10 gold rows TP)
+- Zydus Matoda: 3.5% match (2/29 gold rows TP) — Phase 6 had reported 16 TP due to gold-counting bug
+- Zydus Animal Health: 0.0% match (0/67 gold rows TP — multi-header pivot XLSX)
+- SAEL: 3.3% match (1/17 gold rows TP)
+- **Verdict for all 4: NOT shippable yet**
+
+**Root cause of Phase 6 → Phase 7 "regression":** Phase 6 used `len(gold_entities)/3` to estimate gold row count, inflating TP numbers. Phase 7 uses correct `BOQAssembler().assemble()` which yields 123 actual gold rows vs 110 estimated. The pipeline did not degrade; Phase 6 numbers were wrong.
+
+**SWA directive:** Stop training on dummy/synthetic data. Use only real client enquiries.
+
+**P6T4 honest results:** Fine-tuning on 4 real documents (413 entities) **completely failed**. The NER model predicts all O tags (eval_f1=0.0 from epoch 1). Root cause: dataset too small for BERT fine-tuning (needs 1000+ examples). The synthetic-trained `rfq2boq-ner-final` (Micro F1=0.563) remains production model. Pipeline compensates via regex+dict fallback — pipeline smoke test still passes (produces 10 entities on test text).
+
+**Conclusion:** Real-only fine-tuning needs either 50+ gold docs or few-shot techniques (LoRA). Full BERT fine-tuning on 4 documents is not viable. Product match rate of 1.7% reflects the gap between current pipeline output and SWA estimator's ground-truth BOQ.
+
+---
+
 ## 4. Active blockers
 
 1. **P1T3 — ARCBERT base model.** SciBERT fallback used instead. ARCBERT would give +5-8% F1 but model download blocked by network. Module + download script exist.
@@ -140,16 +168,23 @@ git push origin main  # 31 commits
 git push origin v1.0-handover  # tag
 ```
 
-## 8. Honest Metrics Summary
+## 8. Honest Metrics Summary (2026-05-31)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
 | Synthetic F1 | 0.996 | Template-inflated, not representative |
-| Real-world micro F1 | 0.523 | 31 gold docs, critical bottleneck = MATERIAL (F1 0.037) |
-| Real-world macro F1 | 0.533 | |
-| Real PDFs | 4 | Need 46 more (manual download required) |
-| Gold annotations | 20 complete | All 20 filled with entities + relations |
-| CPWD DSR items | 507 | 83% coverage of common items |
-| Fast unit tests | 362 passed, 0 failed | 10 skipped (archived upload + unimplemented UI features) |
-| Pipeline smoke test | PASS | 7 entities, 3 relations on sample text |
-| Model load time | 7.2s on MPS | 108M params, bert-base-cased + token classification head |
+| Synthetic-trained micro F1 | **0.430** | 21 gold docs; **production model** (was 0.563 on 14 docs) |
+| Synthetic-trained macro F1 | 0.299 | 21 gold docs |
+| MATERIAL F1 | 0.192 | ↑ from 0.033 (gazetteer 571→1798) |
+| LOCATION F1 | **0.412** | ↑ from 0.127 (gazetteer 52→217) |
+| ACTION F1 | **0.725** | strong, unchanged |
+| QUANTITY F1 | 0.556 | solid |
+| UNIT F1 | 0.547 | solid |
+| DIMENSION F1 | 0.065 | very weak |
+| GRADE F1 | 0.000 | GRADE entity too sparse in gold |
+| Gold annotations | 21 with BIOES | 4,445 total tagged entities |
+| SWA enquiries | 10 (all ingested) | 8 gold + 2 GeM |
+| Materials gazetteer | 1,798 entries | 9,075 aliases |
+| Locations gazetteer | 217 entries | 1,600+ aliases |
+| Unit tests | **169 passed** | core suite green |
+| Pipeline smoke | PASS | 5 entities extracted on test text |
