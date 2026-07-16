@@ -31,6 +31,8 @@ PDF/Excel → structure routing → extraction (rules + gazetteer + optional NER
 |------|--------|
 | **GitHub** | https://github.com/Srujan0798/rfq2boq |
 | **Branch to use** | **`main`** |
+| **Latest release tag** | `v0.1.1-final-closeout` |
+| **Latest release commit** | `2b5b237` |
 | **Clone** | `git clone https://github.com/Srujan0798/rfq2boq.git && cd rfq2boq` |
 
 Do **not** use empty Desktop folders or ad-hoc zip packs. Everything required is in this repository under `deliverables/` and the app sources.
