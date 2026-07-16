@@ -1,0 +1,4 @@
+Source: data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Boq_132.pdf
+Entries: 31
+Uncertain entries:
+Entry 4: low confidence (0.6)

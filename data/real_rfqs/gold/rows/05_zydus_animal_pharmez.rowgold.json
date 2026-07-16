@@ -1,0 +1,190 @@
+{
+  "doc_id": "05_zydus_animal_pharmez",
+  "source_file": "Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+  "date": "2026-06-18",
+  "human_verified": true,
+  "method": "independent-xlsx-transcription",
+  "notes": "Multi-column BOQ XLSX. TOTAL col > 0 = 20 real BOQ items. Descriptions are the actual cell text from col B (brief pipe size / thickness labels). Section headers and R.O. (Rate Only) rows excluded. Items are disambiguated by quantity — duplicate descriptions (e.g. '40 mm dia' x3) each have distinct TOTAL values.",
+  "entries": [
+    {
+      "item_no": "A.6",
+      "material": "100 mm dia (Manifold size typ)",
+      "quantity": "22",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 10,
+      "human_verified": true
+    },
+    {
+      "item_no": "A.7",
+      "material": "80 mm dia",
+      "quantity": "44",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 11,
+      "human_verified": true
+    },
+    {
+      "item_no": "A.8",
+      "material": "65 mm dia",
+      "quantity": "176",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 12,
+      "human_verified": true
+    },
+    {
+      "item_no": "A.9",
+      "material": "50 mm dia",
+      "quantity": "396",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 13,
+      "human_verified": true
+    },
+    {
+      "item_no": "A.10",
+      "material": "40 mm dia",
+      "quantity": "220",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 14,
+      "human_verified": true
+    },
+    {
+      "item_no": "A.11",
+      "material": "32 mm dia",
+      "quantity": "396",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 15,
+      "human_verified": true
+    },
+    {
+      "item_no": "A.12",
+      "material": "25 mm dia",
+      "quantity": "176",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 16,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.9",
+      "material": "40 mm dia",
+      "quantity": "132",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 29,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.10",
+      "material": "32 mm dia",
+      "quantity": "66",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 30,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.11",
+      "material": "25 mm dia",
+      "quantity": "220",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 31,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.drain.1",
+      "material": "100 mm dia",
+      "quantity": "100",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 37,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.drain.2",
+      "material": "80 mm dia",
+      "quantity": "100",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 38,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.drain.3",
+      "material": "65 mm dia",
+      "quantity": "30",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 39,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.drain.4",
+      "material": "50 mm dia",
+      "quantity": "75",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 40,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.drain.5",
+      "material": "40 mm dia",
+      "quantity": "210",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 41,
+      "human_verified": true
+    },
+    {
+      "item_no": "B.drain.6",
+      "material": "32 mm dia",
+      "quantity": "50",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 42,
+      "human_verified": true
+    },
+    {
+      "item_no": "C.4",
+      "material": "25 mm dia",
+      "quantity": "320",
+      "unit": "rmt",
+      "source_sheet": "Sheet1",
+      "source_row": 49,
+      "human_verified": true
+    },
+    {
+      "item_no": "D.2.4.1",
+      "material": "25 mm thickness",
+      "quantity": "2240",
+      "unit": "sqm",
+      "source_sheet": "Sheet1",
+      "source_row": 72,
+      "human_verified": true
+    },
+    {
+      "item_no": "D.2.4.2",
+      "material": "19 mm thickness",
+      "quantity": "2000",
+      "unit": "sqm",
+      "source_sheet": "Sheet1",
+      "source_row": 73,
+      "human_verified": true
+    },
+    {
+      "item_no": "D.2.4.3",
+      "material": "13 mm thickness",
+      "quantity": "4240",
+      "unit": "sqm",
+      "source_sheet": "Sheet1",
+      "source_row": 74,
+      "human_verified": true
+    }
+  ]
+}

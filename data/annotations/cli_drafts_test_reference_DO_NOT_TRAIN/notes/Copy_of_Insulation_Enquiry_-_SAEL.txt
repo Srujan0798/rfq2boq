@@ -1,0 +1,10 @@
+Source: data/real_rfqs/swa_enquiries/08_sael/Copy of Insulation Enquiry - SAEL.xlsx
+Extracted entries: 17
+BIOES sentences generated: 17
+Unique material descriptions: 17
+Unique units found: 4
+Has location data: False
+Has grade data: False
+Method: xlsx_pipeline
+Generated: 2026-07-04
+Status: DRAFT - requires human review

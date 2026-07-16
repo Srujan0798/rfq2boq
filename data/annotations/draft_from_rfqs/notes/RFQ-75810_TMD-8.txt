@@ -1,0 +1,3 @@
+Source: data/real_rfqs/swa_enquiries/01_gsecl_wanakbori_tmd8/RFQ-75810 TMD-8.pdf
+Entries: 3
+No obvious uncertainties flagged.

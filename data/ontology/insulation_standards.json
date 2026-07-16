@@ -1,0 +1,864 @@
+{
+  "standards": [
+    {
+      "code": "IS 8183",
+      "full_name": "Code of Practice for Thermal Insulation",
+      "aliases": [
+        "IS8183",
+        "IS-8183"
+      ],
+      "applies_to": [
+        "thermal insulation",
+        "mineral wool",
+        "rock wool"
+      ],
+      "source": "domain knowledge \u2014 standard IS code for thermal insulation practice"
+    },
+    {
+      "code": "IS 4671",
+      "full_name": "Concrete - Specification, Properties, Production and Use",
+      "aliases": [
+        "IS4671",
+        "IS-4671"
+      ],
+      "applies_to": [
+        "concrete"
+      ],
+      "source": "domain knowledge \u2014 IS concrete specification"
+    },
+    {
+      "code": "IS 9842",
+      "full_name": "Code of Practice for Installation of Thermal Insulation",
+      "aliases": [
+        "IS9842",
+        "IS-9842"
+      ],
+      "applies_to": [
+        "thermal insulation",
+        "pipe insulation"
+      ],
+      "source": "domain knowledge \u2014 IS code for thermal insulation installation"
+    },
+    {
+      "code": "IS 11433",
+      "full_name": "Code of Practice for Installation of Duct Insulation",
+      "aliases": [
+        "IS11433",
+        "IS-11433"
+      ],
+      "applies_to": [
+        "duct insulation"
+      ],
+      "source": "domain knowledge \u2014 IS code for duct insulation installation"
+    },
+    {
+      "code": "IS 11239",
+      "full_name": "Standard Specification for Under Deck Insulation",
+      "aliases": [
+        "IS11239",
+        "IS-11239"
+      ],
+      "applies_to": [
+        "under deck insulation",
+        "duct insulation",
+        "pipe insulation"
+      ],
+      "source": "resources/Specifications/37. RPMS-ENGG-SPC-HV-019-Thermal insulation.pdf \u2014 References section"
+    },
+    {
+      "code": "ASTM C553",
+      "full_name": "Standard Specification for Thermal Insulation for Ductwork",
+      "aliases": [
+        "ASTM C553"
+      ],
+      "applies_to": [
+        "duct insulation"
+      ],
+      "source": "domain knowledge \u2014 ASTM standard for duct thermal insulation"
+    },
+    {
+      "code": "BS 3958",
+      "full_name": "Specification for Rigid Polyurethane Foam for Thermal Insulation",
+      "aliases": [
+        "BS3958",
+        "BS-3958"
+      ],
+      "applies_to": [
+        "polyurethane foam",
+        "thermal insulation"
+      ],
+      "source": "domain knowledge \u2014 BS standard for rigid PU foam insulation"
+    },
+    {
+      "code": "IS 8287",
+      "full_name": "Code of Practice for Installation of Pipe Insulation",
+      "aliases": [
+        "IS8287",
+        "IS-8287"
+      ],
+      "applies_to": [
+        "pipe insulation",
+        "calcium silicate"
+      ],
+      "source": "domain knowledge \u2014 IS code for pipe insulation installation"
+    },
+    {
+      "code": "IS 15577",
+      "full_name": "Specification for Elastomeric Thermal Insulation",
+      "aliases": [
+        "IS15577",
+        "IS-15577"
+      ],
+      "applies_to": [
+        "elastomeric foam",
+        "nitrile rubber"
+      ],
+      "source": "domain knowledge \u2014 IS specification for elastomeric insulation"
+    },
+    {
+      "code": "ASTM C739",
+      "full_name": "Standard Specification for Molded Flexible Cellular Rubber Thermal Insulation",
+      "aliases": [
+        "ASTM C739"
+      ],
+      "applies_to": [
+        "elastomeric foam",
+        "nitrile rubber"
+      ],
+      "source": "domain knowledge \u2014 ASTM standard for cellular rubber insulation"
+    },
+    {
+      "code": "IS 2185",
+      "full_name": "Code of Practice for Installation of Ceramic Fibre Insulation",
+      "aliases": [
+        "IS2185",
+        "IS-2185"
+      ],
+      "applies_to": [
+        "ceramic fiber",
+        "fiberglass"
+      ],
+      "source": "domain knowledge \u2014 IS code for ceramic fibre installation"
+    },
+    {
+      "code": "ASTM D635",
+      "full_name": "ASTM D635",
+      "aliases": [
+        "ASTM D635"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM 534",
+      "full_name": "ASTM 534",
+      "aliases": [
+        "ASTM 534"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM E96",
+      "full_name": "ASTM E96",
+      "aliases": [
+        "ASTM E96"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C552",
+      "full_name": "ASTM C552",
+      "aliases": [
+        "ASTM C552"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C578",
+      "full_name": "ASTM C578",
+      "aliases": [
+        "ASTM C578"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTMC518",
+      "full_name": "ASTMC518",
+      "aliases": [
+        "ASTMC518"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTME2180",
+      "full_name": "ASTME2180",
+      "aliases": [
+        "ASTME2180"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C1071",
+      "full_name": "ASTM C1071",
+      "aliases": [
+        "ASTM C1071"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "BS EN12086",
+      "full_name": "BS EN12086",
+      "aliases": [
+        "BS EN12086"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C518",
+      "full_name": "ASTM C518",
+      "aliases": [
+        "ASTM C518"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM G7",
+      "full_name": "ASTM G7",
+      "aliases": [
+        "ASTM G7"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM D330",
+      "full_name": "ASTM D330",
+      "aliases": [
+        "ASTM D330"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C411",
+      "full_name": "ASTM C411",
+      "aliases": [
+        "ASTM C411"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C1338",
+      "full_name": "ASTM C1338",
+      "aliases": [
+        "ASTM C1338"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C871",
+      "full_name": "ASTM C871",
+      "aliases": [
+        "ASTM C871"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM B209",
+      "full_name": "ASTM B209",
+      "aliases": [
+        "ASTM B209"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTMC177",
+      "full_name": "ASTMC177",
+      "aliases": [
+        "ASTMC177"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C449",
+      "full_name": "ASTM C449",
+      "aliases": [
+        "ASTM C449"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "EN13469",
+      "full_name": "EN13469",
+      "aliases": [
+        "EN13469"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS 737",
+      "full_name": "IS 737",
+      "aliases": [
+        "IS 737"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS3589",
+      "full_name": "IS3589",
+      "aliases": [
+        "IS3589"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM2180",
+      "full_name": "ASTM2180",
+      "aliases": [
+        "ASTM2180"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "EN 13501",
+      "full_name": "EN 13501",
+      "aliases": [
+        "EN 13501"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS1239",
+      "full_name": "IS1239",
+      "aliases": [
+        "IS1239"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS 277",
+      "full_name": "IS 277",
+      "aliases": [
+        "IS 277"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM D3816",
+      "full_name": "ASTM D3816",
+      "aliases": [
+        "ASTM D3816"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS 3589",
+      "full_name": "IS 3589",
+      "aliases": [
+        "IS 3589"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "EN 13469",
+      "full_name": "EN 13469",
+      "aliases": [
+        "EN 13469"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM A653",
+      "full_name": "ASTM A653",
+      "aliases": [
+        "ASTM A653"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C975",
+      "full_name": "ASTM C975",
+      "aliases": [
+        "ASTM C975"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C195",
+      "full_name": "ASTM C195",
+      "aliases": [
+        "ASTM C195"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C585",
+      "full_name": "ASTM C585",
+      "aliases": [
+        "ASTM C585"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM G21",
+      "full_name": "ASTM G21",
+      "aliases": [
+        "ASTM G21"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS 85",
+      "full_name": "IS 85",
+      "aliases": [
+        "IS 85"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM D1667",
+      "full_name": "ASTM D1667",
+      "aliases": [
+        "ASTM D1667"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C612",
+      "full_name": "ASTM C612",
+      "aliases": [
+        "ASTM C612"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C533",
+      "full_name": "ASTM C533",
+      "aliases": [
+        "ASTM C533"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C534",
+      "full_name": "ASTM C534",
+      "aliases": [
+        "ASTM C534"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM G22",
+      "full_name": "ASTM G22",
+      "aliases": [
+        "ASTM G22"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "EN 14706",
+      "full_name": "EN 14706",
+      "aliases": [
+        "EN 14706"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "EN 12667",
+      "full_name": "EN 12667",
+      "aliases": [
+        "EN 12667"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C423",
+      "full_name": "ASTM C423",
+      "aliases": [
+        "ASTM C423"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C547",
+      "full_name": "ASTM C547",
+      "aliases": [
+        "ASTM C547"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C1534",
+      "full_name": "ASTM C1534",
+      "aliases": [
+        "ASTM C1534"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS 14164",
+      "full_name": "IS 14164",
+      "aliases": [
+        "IS 14164"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM635",
+      "full_name": "ASTM635",
+      "aliases": [
+        "ASTM635"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C795",
+      "full_name": "ASTM C795",
+      "aliases": [
+        "ASTM C795"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C591",
+      "full_name": "ASTM C591",
+      "aliases": [
+        "ASTM C591"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS 3808",
+      "full_name": "IS 3808",
+      "aliases": [
+        "IS 3808"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "EN 12086",
+      "full_name": "EN 12086",
+      "aliases": [
+        "EN 12086"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C1335",
+      "full_name": "ASTM C1335",
+      "aliases": [
+        "ASTM C1335"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C610",
+      "full_name": "ASTM C610",
+      "aliases": [
+        "ASTM C610"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM E84",
+      "full_name": "ASTM E84",
+      "aliases": [
+        "ASTM E84"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM 2180",
+      "full_name": "ASTM 2180",
+      "aliases": [
+        "ASTM 2180"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM C177",
+      "full_name": "ASTM C177",
+      "aliases": [
+        "ASTM C177"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM D2842",
+      "full_name": "ASTM D2842",
+      "aliases": [
+        "ASTM D2842"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM D3654",
+      "full_name": "ASTM D3654",
+      "aliases": [
+        "ASTM D3654"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM D1056",
+      "full_name": "ASTM D1056",
+      "aliases": [
+        "ASTM D1056"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "EN 22286",
+      "full_name": "EN 22286",
+      "aliases": [
+        "EN 22286"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "EN 1470066",
+      "full_name": "EN 1470066",
+      "aliases": [
+        "EN 1470066"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM D3611",
+      "full_name": "ASTM D3611",
+      "aliases": [
+        "ASTM D3611"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "ASTM D2180",
+      "full_name": "ASTM D2180",
+      "aliases": [
+        "ASTM D2180"
+      ],
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "code": "IS 3677",
+      "full_name": "IS 3677",
+      "aliases": [
+        "IS 3677"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM C209",
+      "full_name": "ASTM C209",
+      "aliases": [
+        "ASTM C209"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "IS 15061",
+      "full_name": "IS 15061",
+      "aliases": [
+        "IS 15061"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "IS\n4648",
+      "full_name": "IS\n4648",
+      "aliases": [
+        "IS\n4648"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "IS 3",
+      "full_name": "IS 3",
+      "aliases": [
+        "IS 3"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM A312",
+      "full_name": "ASTM A312",
+      "aliases": [
+        "ASTM A312"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM\nG21",
+      "full_name": "ASTM\nG21",
+      "aliases": [
+        "ASTM\nG21"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM\nE96",
+      "full_name": "ASTM\nE96",
+      "aliases": [
+        "ASTM\nE96"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM D638",
+      "full_name": "ASTM D638",
+      "aliases": [
+        "ASTM D638"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM E2180",
+      "full_name": "ASTM E2180",
+      "aliases": [
+        "ASTM E2180"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "EN 1993",
+      "full_name": "EN 1993",
+      "aliases": [
+        "EN 1993"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM C665",
+      "full_name": "ASTM C665",
+      "aliases": [
+        "ASTM C665"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "IS 3144",
+      "full_name": "IS 3144",
+      "aliases": [
+        "IS 3144"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM\n7",
+      "full_name": "ASTM\n7",
+      "aliases": [
+        "ASTM\n7"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM E90",
+      "full_name": "ASTM E90",
+      "aliases": [
+        "ASTM E90"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM\nC1427",
+      "full_name": "ASTM\nC1427",
+      "aliases": [
+        "ASTM\nC1427"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM A53",
+      "full_name": "ASTM A53",
+      "aliases": [
+        "ASTM A53"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM C1393",
+      "full_name": "ASTM C1393",
+      "aliases": [
+        "ASTM C1393"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "IS 10",
+      "full_name": "IS 10",
+      "aliases": [
+        "IS 10"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM 1149",
+      "full_name": "ASTM 1149",
+      "aliases": [
+        "ASTM 1149"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "EN 1",
+      "full_name": "EN 1",
+      "aliases": [
+        "EN 1"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "EN 1434",
+      "full_name": "EN 1434",
+      "aliases": [
+        "EN 1434"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "IS 1239",
+      "full_name": "IS 1239",
+      "aliases": [
+        "IS 1239"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "IS 12785",
+      "full_name": "IS 12785",
+      "aliases": [
+        "IS 12785"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "IS 702",
+      "full_name": "IS 702",
+      "aliases": [
+        "IS 702"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM C1763",
+      "full_name": "ASTM C1763",
+      "aliases": [
+        "ASTM C1763"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM E85",
+      "full_name": "ASTM E85",
+      "aliases": [
+        "ASTM E85"
+      ],
+      "source": "all_client_resources"
+    },
+    {
+      "code": "ASTM 423",
+      "full_name": "ASTM 423",
+      "aliases": [
+        "ASTM 423"
+      ],
+      "source": "all_client_resources"
+    }
+  ]
+}

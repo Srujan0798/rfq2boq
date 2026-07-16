@@ -1,0 +1,10 @@
+Source: data/incoming/BOQ.pdf
+Extracted entries: 23
+BIOES sentences generated: 23
+Unique material descriptions: 18
+Unique units found: 2
+Has location data: False
+Has grade data: False
+Method: pdf_pipeline
+Generated: 2026-07-04
+Status: DRAFT - requires human review

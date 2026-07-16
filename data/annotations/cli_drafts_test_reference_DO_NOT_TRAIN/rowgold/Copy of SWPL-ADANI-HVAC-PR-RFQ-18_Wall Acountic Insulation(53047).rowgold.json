@@ -1,0 +1,18 @@
+{
+  "source_file": "data/incoming/Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "ACOUSTIC LINING WALL Supply, fixing & acoustic lining on wall and ceiling of Plant rooms insulated with EPA approved Open Cell Nitrile Rubber Material with Anti- fungal and Anti-bacterial Properties of Density 180-220 Kg/cum x 20 mm thickness, Absorption coefficient value of Insulation material shall be 0.9 for the 2000 Hz frequency band in accordance to IS:8225/ISO:354/ASTM 423C.The insulation shall have fire performance such that it passes Class 1 as per BS476 Part 7 for surface spread of flame. The insulation will be supported with GI frame grid and covered with 22G and 120 GSM for perforated GI sheet",
+      "quantity": "3250.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

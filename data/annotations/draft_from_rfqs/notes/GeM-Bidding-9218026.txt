@@ -1,0 +1,7 @@
+Source: data/real_rfqs/swa_enquiries/09_gem_bid_7439924/GeM-Bidding-9218026.pdf
+Entries: 22
+Uncertain entries:
+Entry 6: contains non-ascii / possible OCR artifacts
+Entry 11: contains non-ascii / possible OCR artifacts
+Entry 13: contains non-ascii / possible OCR artifacts
+Entry 14: contains non-ascii / possible OCR artifacts

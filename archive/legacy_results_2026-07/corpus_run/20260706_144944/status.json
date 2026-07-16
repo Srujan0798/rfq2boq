@@ -1,0 +1,433 @@
+{
+  "run_id": "20260706_144944",
+  "timestamp": "2026-07-06T14:55:20.534162+00:00",
+  "split": "test",
+  "type": "all",
+  "timeout": 0,
+  "total": 42,
+  "ok": 42,
+  "crash": 0,
+  "missing": 0,
+  "docs": [
+    {
+      "doc_id": "RFQ-75810 TMD-8.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/01_gsecl_wanakbori_tmd8/RFQ-75810 TMD-8.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 41.0725781917572,
+      "rows": 3,
+      "error": null
+    },
+    {
+      "doc_id": "VSSC_BOQ_with_qty.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/02_isro_vssc/VSSC_BOQ_with_qty.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.00940704345703125,
+      "rows": 4,
+      "error": null
+    },
+    {
+      "doc_id": "Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/03_zydus_matoda_osd/Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.020094871520996094,
+      "rows": 33,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE2adani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/BOQ PAGE2adani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.27739715576171875,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGEadani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/BOQ PAGEadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.6790778636932373,
+      "rows": 43,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.771988868713379,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.9645769596099854,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "format": "xlsx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.011714935302734375,
+      "rows": 48,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.0036170482635498047,
+      "rows": 12,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION-TECHNICAL SPECIFICATION.docx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/INSULATION-TECHNICAL SPECIFICATION.docx",
+      "format": "docx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.08797979354858398,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq_132.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Boq_132.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.5404479503631592,
+      "rows": 31,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Specs_132.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Specs_132.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 91.86300206184387,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "108, BOQ compliance, Grew Energy.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/07_grew_solar_narmadapuram/108, BOQ compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.4827778339385986,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "108, Specification compliance, Grew Energy.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/07_grew_solar_narmadapuram/108, Specification compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 3.7779510021209717,
+      "rows": 14,
+      "error": null
+    },
+    {
+      "doc_id": "108, TDS Fill up, Grew Energy.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/07_grew_solar_narmadapuram/108, TDS Fill up, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.238407850265503,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry - SAEL.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/08_sael/Copy of Insulation Enquiry - SAEL.xlsx",
+      "format": "xlsx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.00879812240600586,
+      "rows": 16,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS - Insulation - SAEL (1).xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/08_sael/Copy of TDS - Insulation - SAEL (1).xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.008604049682617188,
+      "rows": 25,
+      "error": null
+    },
+    {
+      "doc_id": "GeM-Bidding-9218026.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/09_gem_bid_7439924/GeM-Bidding-9218026.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 22.88139319419861,
+      "rows": 22,
+      "error": null
+    },
+    {
+      "doc_id": "GeM-Bidding-9343469.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/10_gem_bid_7552777/GeM-Bidding-9343469.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 19.056614875793457,
+      "rows": 10,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry - SAEL.pdf",
+      "manifest_path": "data/specifications/Specifications/Copy of Insulation Enquiry - SAEL.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.0919530391693115,
+      "rows": 13,
+      "error": null
+    },
+    {
+      "doc_id": "ADANI_KARNAVATI - INSULATION - SPECIFICATION COMPLIANCE.pdf",
+      "manifest_path": "data/specifications/Specification 2/ADANI_KARNAVATI - INSULATION - SPECIFICATION COMPLIANCE.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.859374046325684,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "Accoustic Wall Insulation for DCS High Side Project.pdf",
+      "manifest_path": "data/specifications/Specification 2/Accoustic Wall Insulation for DCS High Side Project.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.44913601875305176,
+      "rows": 4,
+      "error": null
+    },
+    {
+      "doc_id": "Adani Pune, Compliance FIle Updated.pdf",
+      "manifest_path": "data/specifications/Specification 2/Adani Pune, Compliance FIle Updated.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.49189019203186,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Inquiry for Duct Insulation of Proj-1017 Bioltus Valsad(56642).pdf",
+      "manifest_path": "data/specifications/Specification 2/Copy of Inquiry for Duct Insulation of Proj-1017 Bioltus Valsad(56642).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.4917566776275635,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf",
+      "manifest_path": "data/specifications/Specification 2/Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.9823648929595947,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "D 1.1.11-THERMAL INSULATION FOR COLD SURFACES.pdf",
+      "manifest_path": "data/specifications/Specification 2/D 1.1.11-THERMAL INSULATION FOR COLD SURFACES.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 8.140323877334595,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf",
+      "manifest_path": "data/specifications/Specification 2/MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 17.252912998199463,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "Specification_Insulation_GBRC.pdf",
+      "manifest_path": "data/specifications/Specification 2/Specification_Insulation_GBRC.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.9825983047485352,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "108, BOQ compliance, Grew Energy.pdf",
+      "manifest_path": "data/specifications/Re_ Required technical data - Avant - Grew Solar, Narmadapuram/108, BOQ compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.3943281173706055,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "108, Specification compliance, Grew Energy.pdf",
+      "manifest_path": "data/specifications/Re_ Required technical data - Avant - Grew Solar, Narmadapuram/108, Specification compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.294236183166504,
+      "rows": 14,
+      "error": null
+    },
+    {
+      "doc_id": "108, TDS Fill up, Grew Energy.pdf",
+      "manifest_path": "data/specifications/Re_ Required technical data - Avant - Grew Solar, Narmadapuram/108, TDS Fill up, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.2868883609771729,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry - SAEL.xlsx",
+      "manifest_path": "data/specifications/Require Technical data/Copy of Insulation Enquiry - SAEL.xlsx",
+      "format": "xlsx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.007880926132202148,
+      "rows": 16,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS - Insulation - SAEL (1).xlsx",
+      "manifest_path": "data/specifications/Require Technical data/Copy of TDS - Insulation - SAEL (1).xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.007995843887329102,
+      "rows": 25,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq_132.pdf",
+      "manifest_path": "data/specifications/Re_ Enquiry for Insulation for AVANTE SPACES LIMITED PLOT – A+C , Kirloskar Pune. (1)/Insulation Boq_132.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.5617821216583252,
+      "rows": 31,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Specs_132.pdf",
+      "manifest_path": "data/specifications/Re_ Enquiry for Insulation for AVANTE SPACES LIMITED PLOT – A+C , Kirloskar Pune. (1)/Insulation Specs_132.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 91.84095478057861,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE2adani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/BOQ PAGE2adani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.2971382141113281,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGEadani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/BOQ PAGEadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.4107389450073242,
+      "rows": 43,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.4988160133361816,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.0404140949249268,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "manifest_path": "data/specifications/RE_ Provide Technical data - Avant , Zydus Animal Health Expansion Project - Pharmez-Ahmedabad/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "format": "xlsx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.013319015502929688,
+      "rows": 48,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "manifest_path": "data/specifications/RE_ Provide Technical data - Avant , Zydus Animal Health Expansion Project - Pharmez-Ahmedabad/Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.003999948501586914,
+      "rows": 12,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION-TECHNICAL SPECIFICATION.docx",
+      "manifest_path": "data/specifications/RE_ Provide Technical data - Avant , Zydus Animal Health Expansion Project - Pharmez-Ahmedabad/INSULATION-TECHNICAL SPECIFICATION.docx",
+      "format": "docx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.0373687744140625,
+      "rows": 0,
+      "error": null
+    }
+  ]
+}

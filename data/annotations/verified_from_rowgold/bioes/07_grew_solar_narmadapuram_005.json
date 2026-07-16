@@ -1,0 +1,39 @@
+{
+  "doc_id": "07_grew_solar_narmadapuram_005",
+  "source_file": "108, BOQ compliance, Grew Energy.pdf",
+  "tokens": [
+    "supply",
+    "75",
+    "mm",
+    "thick",
+    "Insulation",
+    "on",
+    "1200NB",
+    "to",
+    "1000NB",
+    "1976.00",
+    "sqm"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "07_grew_solar_narmadapuram.rowgold.json",
+    "row_idx": 5,
+    "action": "supply",
+    "quantity": "1976.00",
+    "unit": "sqm"
+  }
+}

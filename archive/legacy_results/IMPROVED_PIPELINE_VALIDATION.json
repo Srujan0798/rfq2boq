@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-08",
+  "pipeline_version": "S4-improved",
+  "changes": [
+    "SmartSectionClassifier: structural text analysis instead of regex heuristics",
+    "Pipeline restructured: table extraction BEFORE NLP, skip NLP if tables found",
+    "TableExtractor: better BOQ table detection and row parsing",
+    "TableExtractor: reject dimension cells as units (500 mm dia)",
+    "TableExtractor: fix unit/qty/material assignment logic"
+  ],
+  "results": {
+    "01_gsecl": {"items": 30, "time_sec": 59.3, "method": "nlp_fallback", "quality": "poor", "notes": "No BOQ table in document; NLP produces noise"},
+    "02_isro": {"items": 8, "time_sec": 0.0, "method": "xlsx", "quality": "good", "notes": "Clean XLSX extraction"},
+    "03_zydus_matoda": {"items": 30, "time_sec": 0.1, "method": "xlsx", "quality": "good", "notes": "Clean XLSX extraction"},
+    "04_adani": {"items": 25, "time_sec": 2.5, "method": "pdf_tables", "quality": "good", "notes": "BOQ tables extracted successfully"},
+    "05_zydus_animal": {"items": 13, "time_sec": 0.0, "method": "xlsx", "quality": "good", "notes": "Clean XLSX extraction"},
+    "06_avante": {"items": 23, "time_sec": 1.3, "method": "pdf_tables", "quality": "good", "notes": "BOQ tables extracted successfully"},
+    "07_grew": {"items": 9, "time_sec": 1.3, "method": "pdf_tables", "quality": "good", "notes": "BOQ tables extracted successfully"},
+    "08_sael": {"items": 13, "time_sec": 0.0, "method": "xlsx", "quality": "good", "notes": "Clean XLSX extraction"},
+    "09_gem": {"items": 6, "time_sec": 20.8, "method": "nlp_fallback", "quality": "poor", "notes": "Bilingual PDF, no clear BOQ tables"},
+    "10_gem": {"items": 40, "time_sec": 21.3, "method": "nlp_fallback", "quality": "poor", "notes": "Bilingual PDF, no clear BOQ tables"}
+  },
+  "summary": {
+    "total_items": 197,
+    "total_time_sec": 106.7,
+    "avg_time_per_tender_sec": 10.7,
+    "good_quality_count": 7,
+    "poor_quality_count": 3,
+    "xlsx_count": 4,
+    "pdf_table_count": 3,
+    "nlp_fallback_count": 3
+  }
+}

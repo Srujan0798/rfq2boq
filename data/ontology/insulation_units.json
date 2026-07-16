@@ -1,0 +1,162 @@
+{
+  "units": [
+    {
+      "symbol": "mm",
+      "aliases": [
+        "millimeter",
+        "millimetre"
+      ],
+      "full_name": "millimeter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "m",
+      "aliases": [
+        "meter",
+        "metre"
+      ],
+      "full_name": "meter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "cm",
+      "aliases": [
+        "centimeter",
+        "centimetre"
+      ],
+      "full_name": "centimeter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "m2",
+      "aliases": [
+        "sqm",
+        "square meter",
+        "square metre"
+      ],
+      "full_name": "square meter",
+      "dimension": "area"
+    },
+    {
+      "symbol": "sqm",
+      "aliases": [
+        "m2",
+        "square meter"
+      ],
+      "full_name": "square meter",
+      "dimension": "area"
+    },
+    {
+      "symbol": "m3",
+      "aliases": [
+        "cum",
+        "cubic meter",
+        "cubic metre"
+      ],
+      "full_name": "cubic meter",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "cum",
+      "aliases": [
+        "m3",
+        "cubic meter"
+      ],
+      "full_name": "cubic meter",
+      "dimension": "volume"
+    },
+    {
+      "symbol": "rmt",
+      "aliases": [
+        "running meter",
+        "running metre"
+      ],
+      "full_name": "running meter",
+      "dimension": "length"
+    },
+    {
+      "symbol": "kg",
+      "aliases": [
+        "kilogram"
+      ],
+      "full_name": "kilogram",
+      "dimension": "mass"
+    },
+    {
+      "symbol": "ton",
+      "aliases": [
+        "tonne",
+        "metric ton"
+      ],
+      "full_name": "tonne",
+      "dimension": "mass"
+    },
+    {
+      "symbol": "deg",
+      "aliases": [
+        "degree",
+        "degrees",
+        "\u00b0"
+      ],
+      "full_name": "degree",
+      "dimension": "angle"
+    },
+    {
+      "symbol": "%",
+      "aliases": [
+        "percent",
+        "per cent"
+      ],
+      "full_name": "percent",
+      "dimension": "ratio"
+    },
+    {
+      "symbol": "no",
+      "aliases": [
+        "no"
+      ],
+      "full_name": "no",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "symbol": "sq.m",
+      "aliases": [
+        "sq.m"
+      ],
+      "full_name": "sq.m",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "symbol": "no.",
+      "aliases": [
+        "no."
+      ],
+      "full_name": "no.",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "symbol": "set",
+      "aliases": [
+        "set"
+      ],
+      "full_name": "set",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "symbol": "nos",
+      "aliases": [
+        "nos"
+      ],
+      "full_name": "nos",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "symbol": "rm",
+      "aliases": [
+        "rm"
+      ],
+      "full_name": "rm",
+      "source": "all_client_resources"
+    }
+  ]
+}

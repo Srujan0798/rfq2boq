@@ -1,0 +1,10 @@
+Source: data/incoming/Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf
+Extracted entries: 1
+BIOES sentences generated: 1
+Unique material descriptions: 1
+Unique units found: 1
+Has location data: False
+Has grade data: False
+Method: pdf_pipeline
+Generated: 2026-07-04
+Status: DRAFT - requires human review

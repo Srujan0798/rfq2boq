@@ -1,0 +1,40 @@
+{
+  "doc_id": "insul_04_boq_page_003",
+  "source_file": "boq_references/BOQ PAGE (003).pdf",
+  "date": "2026-06-26",
+  "human_verified": false,
+  "method": "pdfplumber-table-transcription (DRAFT \u2014 needs human review)",
+  "gold_source": "data/real_rfqs/raw/insulation_hvac/boq_references/BOQ PAGE (003).pdf",
+  "detected_columns": {
+    "item_no": 0,
+    "material": 1,
+    "unit": 2,
+    "quantity": 3
+  },
+  "entries": [
+    {
+      "item_no": "1.1",
+      "material": "19mm thick - SA/DH-AHU/TFA duct",
+      "quantity": "14735",
+      "unit": "Sqmtrs",
+      "source": "boq_references/BOQ PAGE (003).pdf",
+      "source_file": "boq_references/BOQ PAGE (003).pdf",
+      "source_page": 1,
+      "source_table": 0,
+      "source_row": 3,
+      "human_verified": false
+    },
+    {
+      "item_no": "1.2",
+      "material": "32mm thick with 7 mill glass cloth and special UV resistant paint/weatherproof coating for the exposed ducting - SA/DH-AHU",
+      "quantity": "18",
+      "unit": "Sqmtrs",
+      "source": "boq_references/BOQ PAGE (003).pdf",
+      "source_file": "boq_references/BOQ PAGE (003).pdf",
+      "source_page": 1,
+      "source_table": 0,
+      "source_row": 4,
+      "human_verified": false
+    }
+  ]
+}

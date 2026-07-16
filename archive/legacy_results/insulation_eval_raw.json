@@ -1,0 +1,24 @@
+[
+  {
+    "doc_id": "insul_01_tender",
+    "gold_count": 23,
+    "pred_count": 23,
+    "tp": 10,
+    "fp": 13,
+    "fn": 13,
+    "precision": 0.435,
+    "recall": 0.435,
+    "f1": 0.435
+  },
+  {
+    "doc_id": "insul_02_swpl",
+    "gold_count": 19,
+    "pred_count": 2,
+    "tp": 0,
+    "fp": 2,
+    "fn": 19,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  }
+]

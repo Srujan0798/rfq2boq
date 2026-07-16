@@ -1,0 +1,47 @@
+{
+  "doc_id": "06_avante_kirloskar_pune_000",
+  "source_file": "Insulation Boq_132.pdf",
+  "tokens": [
+    "supply",
+    "13",
+    "mm",
+    "thick",
+    "insulation",
+    "for",
+    "supply",
+    "air",
+    "ducts",
+    "in",
+    "return",
+    "air",
+    "path.",
+    "6163",
+    "sqm"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "06_avante_kirloskar_pune.rowgold.json",
+    "row_idx": 0,
+    "action": "supply",
+    "quantity": "6163",
+    "unit": "sqm"
+  }
+}

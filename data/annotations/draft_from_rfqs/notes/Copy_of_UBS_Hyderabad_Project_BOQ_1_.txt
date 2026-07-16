@@ -1,0 +1,22 @@
+Source: data/incoming/Copy of UBS_Hyderabad_Project_BOQ(1).pdf
+Entries: 20
+Uncertain entries:
+Entry 1: low confidence (0.6)
+Entry 2: low confidence (0.6)
+Entry 3: low confidence (0.6)
+Entry 4: low confidence (0.6)
+Entry 5: low confidence (0.5)
+Entry 7: low confidence (0.5)
+Entry 8: low confidence (0.5)
+Entry 9: low confidence (0.5)
+Entry 10: low confidence (0.5)
+Entry 11: low confidence (0.5)
+Entry 12: low confidence (0.5)
+Entry 13: low confidence (0.5)
+Entry 14: low confidence (0.5)
+Entry 15: low confidence (0.5)
+Entry 16: low confidence (0.5)
+Entry 17: low confidence (0.5)
+Entry 18: low confidence (0.5)
+Entry 19: low confidence (0.5)
+Entry 20: low confidence (0.5)

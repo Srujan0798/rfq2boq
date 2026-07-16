@@ -1,0 +1,27 @@
+=== ANNOTATION QUALITY REPORT ===
+
+Legacy train/val/test sentences: 300
+Factory draft sentences         : 32933
+Total sentences scanned         : 33233
+
+--- BIOES Consistency ---
+All BIOES tags valid (and tokens/tags aligned)
+
+--- Entity Distribution (factory drafts) ---
+Entity       Drafts
+-------------------
+MATERIAL          4
+QUANTITY      15911
+UNIT           3016
+LOCATION          0
+DIMENSION         0
+STANDARD          0
+ACTION            0
+GRADE             0
+-------------------
+TOTAL         18931
+
+--- Tag Format Check (legacy) ---
+All legacy tags use valid BIOES format from config.constants.BIOES_LABELS
+
+=== END REPORT ===

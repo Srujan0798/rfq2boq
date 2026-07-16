@@ -1,0 +1,10 @@
+Source: data/incoming/40_vssc_acoustic_boq.xlsx
+Extracted entries: 5
+BIOES sentences generated: 5
+Unique material descriptions: 5
+Unique units found: 3
+Has location data: False
+Has grade data: False
+Method: xlsx_pipeline
+Generated: 2026-07-04
+Status: DRAFT - requires human review

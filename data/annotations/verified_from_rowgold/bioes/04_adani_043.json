@@ -1,0 +1,33 @@
+{
+  "doc_id": "04_adani_043",
+  "source_file": "BOQ PAGEadani proj.pdf, BOQ PAGE2adani proj.pdf",
+  "tokens": [
+    "supply",
+    "19mm",
+    "thick",
+    "-",
+    "SA/DH-AHU/TFA",
+    "duct",
+    "14735.0",
+    "Sqmtrs"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "04_adani.rowgold.json",
+    "row_idx": 43,
+    "action": "supply",
+    "quantity": "14735.0",
+    "unit": "Sqmtrs"
+  }
+}

@@ -1,0 +1,4 @@
+Source: data/incoming/Insulation Boq (1).pdf
+Entries: 1
+Uncertain entries:
+Entry 1: contains non-ascii / possible OCR artifacts, very long material description; review segmentation

@@ -1,0 +1,871 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.879 --> 00:00:05.510 align:start position:0%
+
+Welcome<00:00:03.360><c> to</c><00:00:03.600><c> today's</c><00:00:04.000><c> modular</c><00:00:04.480><c> classroom.</c>
+
+00:00:05.510 --> 00:00:05.520 align:start position:0%
+Welcome to today's modular classroom.
+
+
+00:00:05.520 --> 00:00:08.549 align:start position:0%
+Welcome to today's modular classroom.
+Today<00:00:06.080><c> we</c><00:00:06.400><c> are</c><00:00:06.560><c> going</c><00:00:06.720><c> to</c><00:00:06.879><c> learn</c><00:00:07.200><c> about</c><00:00:07.680><c> nanets</c>
+
+00:00:08.549 --> 00:00:08.559 align:start position:0%
+Today we are going to learn about nanets
+
+
+00:00:08.559 --> 00:00:10.629 align:start position:0%
+Today we are going to learn about nanets
+which<00:00:08.800><c> is</c><00:00:08.960><c> an</c><00:00:09.120><c> AI</c><00:00:09.519><c> powered</c><00:00:09.920><c> tool</c><00:00:10.240><c> which</c><00:00:10.480><c> is</c>
+
+00:00:10.629 --> 00:00:10.639 align:start position:0%
+which is an AI powered tool which is
+
+
+00:00:10.639 --> 00:00:12.470 align:start position:0%
+which is an AI powered tool which is
+used<00:00:10.800><c> to</c><00:00:11.040><c> automatically</c><00:00:11.840><c> extract</c><00:00:12.240><c> the</c>
+
+00:00:12.470 --> 00:00:12.480 align:start position:0%
+used to automatically extract the
+
+
+00:00:12.480 --> 00:00:15.749 align:start position:0%
+used to automatically extract the
+information<00:00:12.960><c> from</c><00:00:13.360><c> documents</c><00:00:14.480><c> such</c><00:00:14.719><c> as</c><00:00:15.040><c> PDFs,</c>
+
+00:00:15.749 --> 00:00:15.759 align:start position:0%
+information from documents such as PDFs,
+
+
+00:00:15.759 --> 00:00:19.029 align:start position:0%
+information from documents such as PDFs,
+invoices,<00:00:16.640><c> reipss,</c><00:00:17.440><c> forms,</c><00:00:18.080><c> ID</c><00:00:18.400><c> cards</c><00:00:18.720><c> and</c>
+
+00:00:19.029 --> 00:00:19.039 align:start position:0%
+invoices, reipss, forms, ID cards and
+
+
+00:00:19.039 --> 00:00:22.230 align:start position:0%
+invoices, reipss, forms, ID cards and
+images.<00:00:19.840><c> So</c><00:00:20.080><c> what</c><00:00:20.320><c> is</c><00:00:20.880><c> uh</c><00:00:21.199><c> how</c><00:00:21.520><c> it</c><00:00:21.680><c> works</c><00:00:21.920><c> is</c>
+
+00:00:22.230 --> 00:00:22.240 align:start position:0%
+images. So what is uh how it works is
+
+
+00:00:22.240 --> 00:00:24.790 align:start position:0%
+images. So what is uh how it works is
+nothing<00:00:22.400><c> but</c><00:00:22.640><c> it</c><00:00:22.880><c> uses</c><00:00:23.279><c> the</c><00:00:23.680><c> OCR</c><00:00:24.320><c> and</c><00:00:24.560><c> the</c>
+
+00:00:24.790 --> 00:00:24.800 align:start position:0%
+nothing but it uses the OCR and the
+
+
+00:00:24.800 --> 00:00:26.950 align:start position:0%
+nothing but it uses the OCR and the
+machine<00:00:25.199><c> learning</c><00:00:25.760><c> to</c><00:00:26.080><c> read</c><00:00:26.320><c> the</c><00:00:26.560><c> documents</c>
+
+00:00:26.950 --> 00:00:26.960 align:start position:0%
+machine learning to read the documents
+
+
+00:00:26.960 --> 00:00:29.589 align:start position:0%
+machine learning to read the documents
+and<00:00:27.439><c> it</c><00:00:27.840><c> converts</c><00:00:28.400><c> them</c><00:00:28.560><c> to</c><00:00:28.720><c> a</c><00:00:29.039><c> structured</c>
+
+00:00:29.589 --> 00:00:29.599 align:start position:0%
+and it converts them to a structured
+
+
+00:00:29.599 --> 00:00:32.470 align:start position:0%
+and it converts them to a structured
+data.<00:00:30.560><c> So</c><00:00:30.720><c> this</c><00:00:30.960><c> nanonets</c><00:00:31.760><c> automatically</c>
+
+00:00:32.470 --> 00:00:32.480 align:start position:0%
+data. So this nanonets automatically
+
+
+00:00:32.480 --> 00:00:35.510 align:start position:0%
+data. So this nanonets automatically
+extract<00:00:33.360><c> uh</c><00:00:33.840><c> the</c><00:00:34.079><c> fields</c><00:00:34.480><c> like</c><00:00:34.719><c> name,</c><00:00:35.040><c> date,</c>
+
+00:00:35.510 --> 00:00:35.520 align:start position:0%
+extract uh the fields like name, date,
+
+
+00:00:35.520 --> 00:00:38.389 align:start position:0%
+extract uh the fields like name, date,
+invoice,<00:00:36.079><c> amount,</c><00:00:36.559><c> address</c><00:00:37.120><c> etc.</c><00:00:37.840><c> It</c><00:00:38.160><c> works</c>
+
+00:00:38.389 --> 00:00:38.399 align:start position:0%
+invoice, amount, address etc. It works
+
+
+00:00:38.399 --> 00:00:40.950 align:start position:0%
+invoice, amount, address etc. It works
+with<00:00:38.719><c> PDF</c><00:00:39.200><c> files,</c><00:00:39.600><c> scanned</c><00:00:40.000><c> images,</c><00:00:40.559><c> photos</c>
+
+00:00:40.950 --> 00:00:40.960 align:start position:0%
+with PDF files, scanned images, photos
+
+
+00:00:40.960 --> 00:00:44.709 align:start position:0%
+with PDF files, scanned images, photos
+of<00:00:41.200><c> documents,</c><00:00:41.840><c> handwritten</c><00:00:42.399><c> forms</c><00:00:43.120><c> etc.</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+of documents, handwritten forms etc.
+
+
+00:00:44.719 --> 00:00:47.830 align:start position:0%
+of documents, handwritten forms etc.
+So<00:00:44.960><c> it</c><00:00:45.600><c> uh</c><00:00:45.840><c> reads</c><00:00:46.160><c> the</c><00:00:46.399><c> OCR,</c><00:00:47.039><c> process</c><00:00:47.440><c> it,</c>
+
+00:00:47.830 --> 00:00:47.840 align:start position:0%
+So it uh reads the OCR, process it,
+
+
+00:00:47.840 --> 00:00:50.069 align:start position:0%
+So it uh reads the OCR, process it,
+extract<00:00:48.239><c> the</c><00:00:48.480><c> information,</c><00:00:49.440><c> it</c><00:00:49.680><c> converts</c>
+
+00:00:50.069 --> 00:00:50.079 align:start position:0%
+extract the information, it converts
+
+
+00:00:50.079 --> 00:00:52.229 align:start position:0%
+extract the information, it converts
+into<00:00:50.320><c> a</c><00:00:50.559><c> structured</c><00:00:50.960><c> form</c><00:00:51.280><c> of</c><00:00:51.440><c> data</c><00:00:51.760><c> and</c><00:00:52.000><c> you</c>
+
+00:00:52.229 --> 00:00:52.239 align:start position:0%
+into a structured form of data and you
+
+
+00:00:52.239 --> 00:00:55.110 align:start position:0%
+into a structured form of data and you
+can<00:00:52.399><c> export</c><00:00:52.800><c> the</c><00:00:53.039><c> final</c><00:00:53.360><c> data</c><00:00:53.920><c> into</c><00:00:54.320><c> an</c><00:00:54.640><c> Excel</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
+can export the final data into an Excel
+
+
+00:00:55.120 --> 00:00:59.750 align:start position:0%
+can export the final data into an Excel
+or<00:00:55.440><c> a</c><00:00:55.600><c> CSV</c><00:00:56.160><c> or</c><00:00:56.399><c> JSON</c><00:00:57.280><c> or</c><00:00:57.520><c> API</c><00:00:58.000><c> integration.</c><00:00:59.280><c> So</c>
+
+00:00:59.750 --> 00:00:59.760 align:start position:0%
+or a CSV or JSON or API integration. So
+
+
+00:00:59.760 --> 00:01:02.790 align:start position:0%
+or a CSV or JSON or API integration. So
+let's<00:01:00.320><c> see</c><00:01:00.640><c> how</c><00:01:00.960><c> it</c><00:01:01.280><c> really</c><00:01:01.680><c> works</c><00:01:02.079><c> and</c><00:01:02.320><c> with</c><00:01:02.559><c> a</c>
+
+00:01:02.790 --> 00:01:02.800 align:start position:0%
+let's see how it really works and with a
+
+
+00:01:02.800 --> 00:01:05.590 align:start position:0%
+let's see how it really works and with a
+simple<00:01:03.199><c> demo.</c><00:01:04.080><c> So</c><00:01:04.320><c> first</c><00:01:04.559><c> thing</c><00:01:05.119><c> you</c><00:01:05.439><c> can</c>
+
+00:01:05.590 --> 00:01:05.600 align:start position:0%
+simple demo. So first thing you can
+
+
+00:01:05.600 --> 00:01:08.710 align:start position:0%
+simple demo. So first thing you can
+upload<00:01:06.000><c> an</c><00:01:06.479><c> invoice</c><00:01:06.960><c> PD</c><00:01:07.600><c> as</c><00:01:07.840><c> a</c><00:01:08.000><c> PDF</c><00:01:08.320><c> or</c><00:01:08.560><c> an</c>
+
+00:01:08.710 --> 00:01:08.720 align:start position:0%
+upload an invoice PD as a PDF or an
+
+
+00:01:08.720 --> 00:01:12.310 align:start position:0%
+upload an invoice PD as a PDF or an
+image<00:01:09.360><c> or</c><00:01:09.920><c> any</c><00:01:10.320><c> ID</c><00:01:10.640><c> card</c><00:01:11.760><c> kind</c><00:01:12.000><c> of</c>
+
+00:01:12.310 --> 00:01:12.320 align:start position:0%
+image or any ID card kind of
+
+
+00:01:12.320 --> 00:01:15.109 align:start position:0%
+image or any ID card kind of
+informations<00:01:12.960><c> ID</c><00:01:13.200><c> card</c><00:01:13.439><c> related</c><00:01:13.920><c> data</c><00:01:14.799><c> and</c>
+
+00:01:15.109 --> 00:01:15.119 align:start position:0%
+informations ID card related data and
+
+
+00:01:15.119 --> 00:01:17.429 align:start position:0%
+informations ID card related data and
+the<00:01:15.360><c> nanet</c><00:01:16.000><c> processes</c><00:01:16.640><c> using</c><00:01:16.880><c> the</c><00:01:17.119><c> machine</c>
+
+00:01:17.429 --> 00:01:17.439 align:start position:0%
+the nanet processes using the machine
+
+
+00:01:17.439 --> 00:01:19.749 align:start position:0%
+the nanet processes using the machine
+learning<00:01:17.759><c> technology.</c><00:01:18.799><c> It</c><00:01:19.280><c> does</c><00:01:19.520><c> the</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+learning technology. It does the
+
+
+00:01:19.759 --> 00:01:22.070 align:start position:0%
+learning technology. It does the
+automatic<00:01:20.400><c> extraction</c><00:01:20.960><c> and</c><00:01:21.200><c> it</c><00:01:21.439><c> exports</c><00:01:21.840><c> the</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+automatic extraction and it exports the
+
+
+00:01:22.080 --> 00:01:25.190 align:start position:0%
+automatic extraction and it exports the
+result<00:01:22.720><c> using</c><00:01:23.040><c> the</c><00:01:23.280><c> Excel.</c><00:01:24.080><c> So</c><00:01:24.320><c> let's</c><00:01:24.960><c> look</c>
+
+00:01:25.190 --> 00:01:25.200 align:start position:0%
+result using the Excel. So let's look
+
+
+00:01:25.200 --> 00:01:27.350 align:start position:0%
+result using the Excel. So let's look
+into<00:01:25.439><c> the</c><00:01:25.600><c> demonstration</c><00:01:26.320><c> of</c><00:01:26.560><c> how</c><00:01:26.799><c> it</c><00:01:27.040><c> works.</c>
+
+00:01:27.350 --> 00:01:27.360 align:start position:0%
+into the demonstration of how it works.
+
+
+00:01:27.360 --> 00:01:30.149 align:start position:0%
+into the demonstration of how it works.
+So<00:01:27.600><c> first</c><00:01:27.840><c> thing</c><00:01:28.000><c> is</c><00:01:28.240><c> you</c><00:01:28.479><c> have</c><00:01:28.560><c> to</c><00:01:28.880><c> look</c><00:01:29.119><c> in</c><00:01:29.680><c> uh</c>
+
+00:01:30.149 --> 00:01:30.159 align:start position:0%
+So first thing is you have to look in uh
+
+
+00:01:30.159 --> 00:01:33.270 align:start position:0%
+So first thing is you have to look in uh
+enter<00:01:30.479><c> into</c><00:01:30.880><c> app.nonets.com.</c>
+
+00:01:33.270 --> 00:01:33.280 align:start position:0%
+enter into app.nonets.com.
+
+
+00:01:33.280 --> 00:01:35.350 align:start position:0%
+enter into app.nonets.com.
+You<00:01:33.600><c> have</c><00:01:33.680><c> to</c><00:01:33.920><c> sign</c><00:01:34.240><c> in.</c><00:01:34.560><c> I</c><00:01:34.720><c> have</c><00:01:34.960><c> already</c>
+
+00:01:35.350 --> 00:01:35.360 align:start position:0%
+You have to sign in. I have already
+
+
+00:01:35.360 --> 00:01:37.350 align:start position:0%
+You have to sign in. I have already
+signed<00:01:35.680><c> in.</c><00:01:36.159><c> But</c><00:01:36.320><c> the</c><00:01:36.560><c> only</c><00:01:36.799><c> thing</c><00:01:36.960><c> you</c><00:01:37.200><c> have</c>
+
+00:01:37.350 --> 00:01:37.360 align:start position:0%
+signed in. But the only thing you have
+
+
+00:01:37.360 --> 00:01:39.350 align:start position:0%
+signed in. But the only thing you have
+to<00:01:37.520><c> use</c><00:01:37.759><c> your</c><00:01:38.000><c> official</c><00:01:38.560><c> mail</c><00:01:38.960><c> id.</c><00:01:39.119><c> Your</c>
+
+00:01:39.350 --> 00:01:39.360 align:start position:0%
+to use your official mail id. Your
+
+
+00:01:39.360 --> 00:01:42.550 align:start position:0%
+to use your official mail id. Your
+personal<00:01:39.840><c> mail</c><00:01:40.240><c> id</c><00:01:40.400><c> will</c><00:01:40.640><c> not</c><00:01:40.880><c> work</c><00:01:41.119><c> here.</c><00:01:42.159><c> So</c>
+
+00:01:42.550 --> 00:01:42.560 align:start position:0%
+personal mail id will not work here. So
+
+
+00:01:42.560 --> 00:01:45.670 align:start position:0%
+personal mail id will not work here. So
+after<00:01:43.360><c> uh</c><00:01:43.600><c> you</c><00:01:44.000><c> enter</c><00:01:44.640><c> you</c><00:01:44.799><c> can</c><00:01:44.960><c> see</c><00:01:45.200><c> how</c><00:01:45.439><c> this</c>
+
+00:01:45.670 --> 00:01:45.680 align:start position:0%
+after uh you enter you can see how this
+
+
+00:01:45.680 --> 00:01:48.149 align:start position:0%
+after uh you enter you can see how this
+data<00:01:46.000><c> transformation</c><00:01:46.799><c> works</c><00:01:47.759><c> with</c><00:01:48.000><c> the</c>
+
+00:01:48.149 --> 00:01:48.159 align:start position:0%
+data transformation works with the
+
+
+00:01:48.159 --> 00:01:50.469 align:start position:0%
+data transformation works with the
+instant<00:01:48.640><c> training</c><00:01:49.040><c> model</c><00:01:49.439><c> the</c><00:01:49.680><c> results</c><00:01:50.399><c> uh</c>
+
+00:01:50.469 --> 00:01:50.479 align:start position:0%
+instant training model the results uh
+
+
+00:01:50.479 --> 00:01:52.789 align:start position:0%
+instant training model the results uh
+which<00:01:50.720><c> is</c><00:01:50.880><c> a</c><00:01:51.040><c> pre-built</c><00:01:51.520><c> extractor</c><00:01:52.320><c> driving</c>
+
+00:01:52.789 --> 00:01:52.799 align:start position:0%
+which is a pre-built extractor driving
+
+
+00:01:52.799 --> 00:01:56.550 align:start position:0%
+which is a pre-built extractor driving
+license<00:01:53.840><c> invoices</c><00:01:55.040><c> purchase</c><00:01:55.520><c> orders</c><00:01:56.159><c> bills</c>
+
+00:01:56.550 --> 00:01:56.560 align:start position:0%
+license invoices purchase orders bills
+
+
+00:01:56.560 --> 00:01:59.350 align:start position:0%
+license invoices purchase orders bills
+of<00:01:56.960><c> ladding</c><00:01:57.600><c> tables</c><00:01:58.399><c> passports.</c><00:01:58.960><c> So</c><00:01:59.119><c> all</c>
+
+00:01:59.350 --> 00:01:59.360 align:start position:0%
+of ladding tables passports. So all
+
+
+00:01:59.360 --> 00:02:01.670 align:start position:0%
+of ladding tables passports. So all
+these<00:01:59.600><c> kind</c><00:01:59.840><c> of</c><00:02:00.000><c> data</c><00:02:00.399><c> transformation</c><00:02:01.040><c> works.</c>
+
+00:02:01.670 --> 00:02:01.680 align:start position:0%
+these kind of data transformation works.
+
+
+00:02:01.680 --> 00:02:04.310 align:start position:0%
+these kind of data transformation works.
+There<00:02:01.920><c> are</c><00:02:02.079><c> some</c><00:02:02.240><c> pre-built</c><00:02:02.960><c> workflows</c><00:02:03.600><c> also.</c>
+
+00:02:04.310 --> 00:02:04.320 align:start position:0%
+There are some pre-built workflows also.
+
+
+00:02:04.320 --> 00:02:06.630 align:start position:0%
+There are some pre-built workflows also.
+You<00:02:04.560><c> can</c><00:02:04.799><c> create</c><00:02:05.119><c> a</c><00:02:05.280><c> new</c><00:02:05.520><c> workflow</c><00:02:06.079><c> or</c><00:02:06.399><c> an</c>
+
+00:02:06.630 --> 00:02:06.640 align:start position:0%
+You can create a new workflow or an
+
+
+00:02:06.640 --> 00:02:09.990 align:start position:0%
+You can create a new workflow or an
+existing<00:02:07.119><c> workflow.</c><00:02:08.160><c> So</c><00:02:08.399><c> when</c><00:02:08.720><c> you</c><00:02:08.959><c> have</c><00:02:09.200><c> a</c>
+
+00:02:09.990 --> 00:02:10.000 align:start position:0%
+existing workflow. So when you have a
+
+
+00:02:10.000 --> 00:02:13.830 align:start position:0%
+existing workflow. So when you have a
+existing<00:02:10.479><c> workflow,</c><00:02:11.200><c> I</c><00:02:11.520><c> have</c><00:02:11.680><c> used</c><00:02:12.319><c> u</c>
+
+00:02:13.830 --> 00:02:13.840 align:start position:0%
+existing workflow, I have used u
+
+
+00:02:13.840 --> 00:02:16.630 align:start position:0%
+existing workflow, I have used u
+table<00:02:14.239><c> information.</c><00:02:15.280><c> So</c><00:02:15.520><c> you</c><00:02:15.760><c> can</c><00:02:15.920><c> use</c><00:02:16.239><c> upload</c>
+
+00:02:16.630 --> 00:02:16.640 align:start position:0%
+table information. So you can use upload
+
+
+00:02:16.640 --> 00:02:18.710 align:start position:0%
+table information. So you can use upload
+the<00:02:16.879><c> files.</c><00:02:17.280><c> You</c><00:02:17.520><c> just</c><00:02:17.680><c> can</c><00:02:17.920><c> select</c><00:02:18.319><c> upload</c>
+
+00:02:18.710 --> 00:02:18.720 align:start position:0%
+the files. You just can select upload
+
+
+00:02:18.720 --> 00:02:21.350 align:start position:0%
+the files. You just can select upload
+the<00:02:18.959><c> file.</c><00:02:19.599><c> You</c><00:02:19.840><c> can</c><00:02:20.000><c> click</c><00:02:20.160><c> and</c><00:02:20.400><c> drop</c><00:02:20.720><c> it.</c><00:02:20.879><c> Uh</c>
+
+00:02:21.350 --> 00:02:21.360 align:start position:0%
+the file. You can click and drop it. Uh
+
+
+00:02:21.360 --> 00:02:24.150 align:start position:0%
+the file. You can click and drop it. Uh
+here<00:02:21.680><c> it</c><00:02:21.920><c> is</c><00:02:22.080><c> a</c><00:02:22.239><c> paid</c><00:02:22.640><c> version</c><00:02:23.040><c> also.</c><00:02:23.440><c> See</c><00:02:23.840><c> in</c>
+
+00:02:24.150 --> 00:02:24.160 align:start position:0%
+here it is a paid version also. See in
+
+
+00:02:24.160 --> 00:02:26.390 align:start position:0%
+here it is a paid version also. See in
+basic<00:02:24.560><c> version</c><00:02:25.040><c> free</c><00:02:25.360><c> version</c><00:02:25.760><c> you</c><00:02:26.000><c> have</c><00:02:26.080><c> only</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+basic version free version you have only
+
+
+00:02:26.400 --> 00:02:29.910 align:start position:0%
+basic version free version you have only
+limited<00:02:26.959><c> number</c><00:02:27.200><c> of</c><00:02:27.680><c> uh</c><00:02:28.319><c> options</c><00:02:29.280><c> day</c><00:02:29.680><c> per</c>
+
+00:02:29.910 --> 00:02:29.920 align:start position:0%
+limited number of uh options day per
+
+
+00:02:29.920 --> 00:02:32.150 align:start position:0%
+limited number of uh options day per
+limit<00:02:30.400><c> uh</c><00:02:30.560><c> per</c><00:02:30.800><c> day</c><00:02:31.040><c> you</c><00:02:31.280><c> can</c><00:02:31.440><c> have</c><00:02:31.680><c> only</c><00:02:31.920><c> two</c>
+
+00:02:32.150 --> 00:02:32.160 align:start position:0%
+limit uh per day you can have only two
+
+
+00:02:32.160 --> 00:02:35.670 align:start position:0%
+limit uh per day you can have only two
+to<00:02:32.480><c> three</c><00:02:33.360><c> extractions</c><00:02:34.080><c> is</c><00:02:34.400><c> possible.</c><00:02:35.360><c> So</c>
+
+00:02:35.670 --> 00:02:35.680 align:start position:0%
+to three extractions is possible. So
+
+
+00:02:35.680 --> 00:02:37.750 align:start position:0%
+to three extractions is possible. So
+here<00:02:35.920><c> you</c><00:02:36.160><c> can</c><00:02:36.400><c> click</c><00:02:36.879><c> uh</c><00:02:37.040><c> you</c><00:02:37.200><c> can</c><00:02:37.360><c> select</c>
+
+00:02:37.750 --> 00:02:37.760 align:start position:0%
+here you can click uh you can select
+
+
+00:02:37.760 --> 00:02:40.470 align:start position:0%
+here you can click uh you can select
+your<00:02:38.000><c> document</c><00:02:38.560><c> or</c><00:02:38.879><c> PDF</c><00:02:39.360><c> or</c><00:02:39.599><c> an</c><00:02:39.760><c> image</c><00:02:40.160><c> file</c>
+
+00:02:40.470 --> 00:02:40.480 align:start position:0%
+your document or PDF or an image file
+
+
+00:02:40.480 --> 00:02:43.670 align:start position:0%
+your document or PDF or an image file
+from<00:02:40.800><c> any</c><00:02:41.440><c> uh</c><00:02:41.680><c> email</c><00:02:42.000><c> or</c><00:02:42.319><c> one</c><00:02:42.560><c> drive</c><00:02:42.800><c> or</c><00:02:43.360><c> google</c>
+
+00:02:43.670 --> 00:02:43.680 align:start position:0%
+from any uh email or one drive or google
+
+
+00:02:43.680 --> 00:02:46.949 align:start position:0%
+from any uh email or one drive or google
+drive<00:02:43.920><c> or</c><00:02:44.160><c> dropbox</c><00:02:44.959><c> etc.</c><00:02:45.840><c> So</c><00:02:46.400><c> here</c><00:02:46.640><c> I</c><00:02:46.879><c> have</c>
+
+00:02:46.949 --> 00:02:46.959 align:start position:0%
+drive or dropbox etc. So here I have
+
+
+00:02:46.959 --> 00:02:50.869 align:start position:0%
+drive or dropbox etc. So here I have
+uploaded<00:02:47.519><c> a</c><00:02:47.840><c> PNG</c><00:02:48.400><c> file.</c><00:02:49.519><c> uh</c><00:02:49.760><c> this</c><00:02:50.239><c> file</c><00:02:50.640><c> is</c>
+
+00:02:50.869 --> 00:02:50.879 align:start position:0%
+uploaded a PNG file. uh this file is
+
+
+00:02:50.879 --> 00:02:55.350 align:start position:0%
+uploaded a PNG file. uh this file is
+going<00:02:51.120><c> to</c><00:02:51.680><c> this</c><00:02:51.920><c> is</c><00:02:52.080><c> the</c><00:02:52.480><c> invoice</c><00:02:53.680><c> data.</c><00:02:54.720><c> So</c>
+
+00:02:55.350 --> 00:02:55.360 align:start position:0%
+going to this is the invoice data. So
+
+
+00:02:55.360 --> 00:02:57.670 align:start position:0%
+going to this is the invoice data. So
+after<00:02:55.760><c> selecting</c><00:02:56.239><c> the</c><00:02:56.480><c> data</c><00:02:56.959><c> you</c><00:02:57.200><c> just</c><00:02:57.440><c> can</c>
+
+00:02:57.670 --> 00:02:57.680 align:start position:0%
+after selecting the data you just can
+
+
+00:02:57.680 --> 00:03:00.470 align:start position:0%
+after selecting the data you just can
+give<00:02:58.000><c> extract</c><00:02:58.560><c> the</c><00:02:58.879><c> data.</c><00:02:59.840><c> So</c><00:03:00.080><c> after</c>
+
+00:03:00.470 --> 00:03:00.480 align:start position:0%
+give extract the data. So after
+
+
+00:03:00.480 --> 00:03:03.030 align:start position:0%
+give extract the data. So after
+extracting<00:03:01.519><c> you</c><00:03:01.680><c> can</c><00:03:02.239><c> uh</c><00:03:02.400><c> I</c><00:03:02.560><c> already</c><00:03:02.879><c> have</c>
+
+00:03:03.030 --> 00:03:03.040 align:start position:0%
+extracting you can uh I already have
+
+
+00:03:03.040 --> 00:03:05.830 align:start position:0%
+extracting you can uh I already have
+extracted<00:03:04.239><c> and</c><00:03:04.480><c> since</c><00:03:04.720><c> it</c><00:03:04.959><c> is</c><00:03:05.040><c> a</c><00:03:05.200><c> free</c><00:03:05.440><c> version</c>
+
+00:03:05.830 --> 00:03:05.840 align:start position:0%
+extracted and since it is a free version
+
+
+00:03:05.840 --> 00:03:08.790 align:start position:0%
+extracted and since it is a free version
+my<00:03:06.080><c> limit</c><00:03:06.480><c> is</c><00:03:06.720><c> also</c>
+
+00:03:08.790 --> 00:03:08.800 align:start position:0%
+my limit is also
+
+
+00:03:08.800 --> 00:03:12.070 align:start position:0%
+my limit is also
+have<00:03:09.280><c> exhausted.</c><00:03:10.159><c> So</c><00:03:10.400><c> I</c><00:03:10.640><c> just</c><00:03:11.200><c> uh</c><00:03:11.599><c> show</c><00:03:11.760><c> you</c>
+
+00:03:12.070 --> 00:03:12.080 align:start position:0%
+have exhausted. So I just uh show you
+
+
+00:03:12.080 --> 00:03:15.830 align:start position:0%
+have exhausted. So I just uh show you
+how<00:03:12.400><c> this</c><00:03:12.800><c> works</c><00:03:14.080><c> and</c><00:03:14.319><c> it</c><00:03:14.560><c> include</c><00:03:14.959><c> the</c><00:03:15.200><c> table.</c>
+
+00:03:15.830 --> 00:03:15.840 align:start position:0%
+how this works and it include the table.
+
+
+00:03:15.840 --> 00:03:19.750 align:start position:0%
+how this works and it include the table.
+Here<00:03:16.080><c> is</c><00:03:16.239><c> a</c><00:03:16.480><c> table</c><00:03:17.040><c> tableated</c><00:03:17.760><c> data</c><00:03:18.640><c> and</c><00:03:19.040><c> I'm</c><00:03:19.440><c> I</c>
+
+00:03:19.750 --> 00:03:19.760 align:start position:0%
+Here is a table tableated data and I'm I
+
+
+00:03:19.760 --> 00:03:22.070 align:start position:0%
+Here is a table tableated data and I'm I
+am<00:03:19.920><c> downloading</c><00:03:20.400><c> it</c><00:03:20.640><c> as</c><00:03:20.800><c> CSV</c><00:03:21.360><c> file.</c><00:03:21.680><c> So</c><00:03:21.840><c> the</c>
+
+00:03:22.070 --> 00:03:22.080 align:start position:0%
+am downloading it as CSV file. So the
+
+
+00:03:22.080 --> 00:03:25.270 align:start position:0%
+am downloading it as CSV file. So the
+CSV<00:03:22.560><c> file</c><00:03:22.800><c> is</c><00:03:22.959><c> downloaded.</c><00:03:23.519><c> It</c><00:03:23.760><c> extracts</c><00:03:24.800><c> and</c>
+
+00:03:25.270 --> 00:03:25.280 align:start position:0%
+CSV file is downloaded. It extracts and
+
+
+00:03:25.280 --> 00:03:27.910 align:start position:0%
+CSV file is downloaded. It extracts and
+uh<00:03:25.440><c> I</c><00:03:25.680><c> can</c><00:03:25.920><c> find</c><00:03:26.560><c> uh</c><00:03:26.800><c> the</c><00:03:27.120><c> information.</c><00:03:27.760><c> So</c>
+
+00:03:27.910 --> 00:03:27.920 align:start position:0%
+uh I can find uh the information. So
+
+
+00:03:27.920 --> 00:03:29.589 align:start position:0%
+uh I can find uh the information. So
+what<00:03:28.080><c> is</c><00:03:28.159><c> the</c><00:03:28.319><c> serial</c><00:03:28.720><c> number?</c><00:03:29.120><c> What</c><00:03:29.280><c> is</c><00:03:29.360><c> the</c>
+
+00:03:29.589 --> 00:03:29.599 align:start position:0%
+what is the serial number? What is the
+
+
+00:03:29.599 --> 00:03:33.110 align:start position:0%
+what is the serial number? What is the
+description<00:03:30.239><c> quantity</c><00:03:30.879><c> rate</c><00:03:32.000><c> per</c><00:03:32.400><c> amount</c><00:03:32.879><c> and</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+description quantity rate per amount and
+
+
+00:03:33.120 --> 00:03:36.149 align:start position:0%
+description quantity rate per amount and
+I<00:03:33.440><c> am</c><00:03:33.599><c> getting</c><00:03:33.840><c> the</c><00:03:34.799><c> extracted</c><00:03:35.519><c> tabulated</c>
+
+00:03:36.149 --> 00:03:36.159 align:start position:0%
+I am getting the extracted tabulated
+
+
+00:03:36.159 --> 00:03:39.030 align:start position:0%
+I am getting the extracted tabulated
+data<00:03:36.959><c> from</c><00:03:37.280><c> an</c><00:03:37.519><c> image</c><00:03:37.840><c> data.</c><00:03:38.239><c> So</c><00:03:38.480><c> this</c><00:03:38.640><c> is</c><00:03:38.799><c> just</c>
+
+00:03:39.030 --> 00:03:39.040 align:start position:0%
+data from an image data. So this is just
+
+
+00:03:39.040 --> 00:03:42.309 align:start position:0%
+data from an image data. So this is just
+an<00:03:39.280><c> image</c><00:03:39.680><c> which</c><00:03:40.000><c> is</c><00:03:40.080><c> a</c><00:03:40.319><c> JPG</c><00:03:40.959><c> extension.</c><00:03:42.080><c> So</c>
+
+00:03:42.309 --> 00:03:42.319 align:start position:0%
+an image which is a JPG extension. So
+
+
+00:03:42.319 --> 00:03:44.789 align:start position:0%
+an image which is a JPG extension. So
+you<00:03:42.560><c> can</c><00:03:42.799><c> even</c><00:03:43.120><c> upload</c><00:03:43.519><c> any</c><00:03:43.920><c> number</c><00:03:44.159><c> of</c><00:03:44.319><c> files.</c>
+
+00:03:44.789 --> 00:03:44.799 align:start position:0%
+you can even upload any number of files.
+
+
+00:03:44.799 --> 00:03:47.270 align:start position:0%
+you can even upload any number of files.
+So<00:03:45.040><c> you</c><00:03:45.200><c> just</c><00:03:45.440><c> can</c><00:03:45.599><c> click</c><00:03:45.840><c> on</c><00:03:46.400><c> upload.</c><00:03:46.959><c> You</c><00:03:47.120><c> can</c>
+
+00:03:47.270 --> 00:03:47.280 align:start position:0%
+So you just can click on upload. You can
+
+
+00:03:47.280 --> 00:03:49.830 align:start position:0%
+So you just can click on upload. You can
+select<00:03:47.519><c> the</c><00:03:47.760><c> files</c><00:03:48.319><c> either</c><00:03:48.640><c> it</c><00:03:48.879><c> can</c><00:03:49.040><c> be</c><00:03:49.120><c> a</c><00:03:49.360><c> PDF</c>
+
+00:03:49.830 --> 00:03:49.840 align:start position:0%
+select the files either it can be a PDF
+
+
+00:03:49.840 --> 00:03:53.110 align:start position:0%
+select the files either it can be a PDF
+or<00:03:50.159><c> an</c><00:03:50.319><c> image</c><00:03:50.640><c> file</c><00:03:50.879><c> but</c><00:03:51.200><c> it</c><00:03:51.760><c> can</c><00:03:52.000><c> be</c><00:03:52.560><c> mainly</c><00:03:52.879><c> an</c>
+
+00:03:53.110 --> 00:03:53.120 align:start position:0%
+or an image file but it can be mainly an
+
+
+00:03:53.120 --> 00:03:56.710 align:start position:0%
+or an image file but it can be mainly an
+OCR<00:03:53.680><c> data.</c><00:03:54.640><c> So</c><00:03:54.879><c> this</c><00:03:55.120><c> is</c><00:03:55.280><c> an</c><00:03:55.519><c> overview</c><00:03:56.319><c> of</c><00:03:56.480><c> the</c>
+
+00:03:56.710 --> 00:03:56.720 align:start position:0%
+OCR data. So this is an overview of the
+
+
+00:03:56.720 --> 00:04:00.149 align:start position:0%
+OCR data. So this is an overview of the
+workflow<00:03:57.840><c> uh</c><00:03:58.080><c> set</c><00:03:58.239><c> up</c><00:03:58.560><c> how</c><00:03:58.879><c> this</c><00:03:59.120><c> data</c>
+
+00:04:00.149 --> 00:04:00.159 align:start position:0%
+workflow uh set up how this data
+
+
+00:04:00.159 --> 00:04:01.830 align:start position:0%
+workflow uh set up how this data
+extraction<00:04:00.720><c> is</c><00:04:00.879><c> done.</c><00:04:01.120><c> It</c><00:04:01.280><c> extracts</c><00:04:01.680><c> the</c>
+
+00:04:01.830 --> 00:04:01.840 align:start position:0%
+extraction is done. It extracts the
+
+
+00:04:01.840 --> 00:04:04.869 align:start position:0%
+extraction is done. It extracts the
+data.<00:04:02.239><c> AI</c><00:04:02.640><c> training</c><00:04:03.040><c> is</c><00:04:03.280><c> done.</c><00:04:04.159><c> pre-trained</c>
+
+00:04:04.869 --> 00:04:04.879 align:start position:0%
+data. AI training is done. pre-trained
+
+
+00:04:04.879 --> 00:04:08.229 align:start position:0%
+data. AI training is done. pre-trained
+model<00:04:05.439><c> is</c><00:04:05.760><c> a</c><00:04:06.239><c> prefilled</c><00:04:07.120><c> the</c><00:04:07.599><c> pre-built</c>
+
+00:04:08.229 --> 00:04:08.239 align:start position:0%
+model is a prefilled the pre-built
+
+
+00:04:08.239 --> 00:04:10.309 align:start position:0%
+model is a prefilled the pre-built
+feature<00:04:09.120><c> and</c><00:04:09.360><c> which</c><00:04:09.599><c> there</c><00:04:09.840><c> are</c><00:04:09.920><c> a</c><00:04:10.080><c> lot</c><00:04:10.159><c> of</c>
+
+00:04:10.309 --> 00:04:10.319 align:start position:0%
+feature and which there are a lot of
+
+
+00:04:10.319 --> 00:04:12.710 align:start position:0%
+feature and which there are a lot of
+features<00:04:10.720><c> available</c><00:04:11.200><c> in</c><00:04:11.439><c> the</c><00:04:11.599><c> paid</c><00:04:11.920><c> version.</c>
+
+00:04:12.710 --> 00:04:12.720 align:start position:0%
+features available in the paid version.
+
+
+00:04:12.720 --> 00:04:15.670 align:start position:0%
+features available in the paid version.
+So<00:04:12.959><c> this</c><00:04:13.200><c> is</c><00:04:13.360><c> just</c><00:04:13.680><c> a</c><00:04:14.000><c> basic</c><00:04:14.799><c> uh</c><00:04:14.959><c> version</c><00:04:15.360><c> where</c>
+
+00:04:15.670 --> 00:04:15.680 align:start position:0%
+So this is just a basic uh version where
+
+
+00:04:15.680 --> 00:04:18.390 align:start position:0%
+So this is just a basic uh version where
+I<00:04:15.840><c> have</c><00:04:16.239><c> shown</c><00:04:16.479><c> you</c><00:04:16.880><c> shown</c><00:04:17.040><c> you</c><00:04:17.199><c> a</c><00:04:17.440><c> demo.</c><00:04:18.160><c> What</c>
+
+00:04:18.390 --> 00:04:18.400 align:start position:0%
+I have shown you shown you a demo. What
+
+
+00:04:18.400 --> 00:04:20.310 align:start position:0%
+I have shown you shown you a demo. What
+we<00:04:18.560><c> have</c><00:04:18.720><c> seen</c><00:04:18.959><c> today</c><00:04:19.199><c> is</c><00:04:19.519><c> just</c><00:04:19.680><c> a</c><00:04:19.919><c> basic</c>
+
+00:04:20.310 --> 00:04:20.320 align:start position:0%
+we have seen today is just a basic
+
+
+00:04:20.320 --> 00:04:22.310 align:start position:0%
+we have seen today is just a basic
+version<00:04:20.639><c> which</c><00:04:20.880><c> is</c><00:04:21.040><c> available</c><00:04:21.600><c> of</c><00:04:21.840><c> free</c><00:04:22.079><c> of</c>
+
+00:04:22.310 --> 00:04:22.320 align:start position:0%
+version which is available of free of
+
+
+00:04:22.320 --> 00:04:25.030 align:start position:0%
+version which is available of free of
+cost.<00:04:22.720><c> When</c><00:04:22.880><c> you</c><00:04:23.040><c> go</c><00:04:23.199><c> for</c><00:04:23.440><c> a</c><00:04:24.080><c> premium</c><00:04:24.560><c> version</c>
+
+00:04:25.030 --> 00:04:25.040 align:start position:0%
+cost. When you go for a premium version
+
+
+00:04:25.040 --> 00:04:27.350 align:start position:0%
+cost. When you go for a premium version
+you<00:04:25.280><c> can</c><00:04:25.360><c> enjoy</c><00:04:25.759><c> a</c><00:04:25.840><c> lot</c><00:04:26.080><c> of</c><00:04:26.240><c> services.</c><00:04:26.880><c> You</c><00:04:27.199><c> can</c>
+
+00:04:27.350 --> 00:04:27.360 align:start position:0%
+you can enjoy a lot of services. You can
+
+
+00:04:27.360 --> 00:04:29.830 align:start position:0%
+you can enjoy a lot of services. You can
+go<00:04:27.520><c> for</c><00:04:27.759><c> external</c><00:04:28.240><c> integration.</c><00:04:29.520><c> Even</c><00:04:29.759><c> you</c>
+
+00:04:29.830 --> 00:04:29.840 align:start position:0%
+go for external integration. Even you
+
+
+00:04:29.840 --> 00:04:31.749 align:start position:0%
+go for external integration. Even you
+you<00:04:30.160><c> can</c><00:04:30.240><c> select</c><00:04:30.560><c> on</c><00:04:30.800><c> a</c><00:04:30.960><c> new</c><00:04:31.120><c> workflow.</c><00:04:31.600><c> You</c>
+
+00:04:31.749 --> 00:04:31.759 align:start position:0%
+you can select on a new workflow. You
+
+
+00:04:31.759 --> 00:04:33.670 align:start position:0%
+you can select on a new workflow. You
+can<00:04:31.919><c> see</c><00:04:32.160><c> you</c><00:04:32.400><c> have</c><00:04:32.639><c> lot</c><00:04:33.040><c> of</c><00:04:33.199><c> options</c>
+
+00:04:33.670 --> 00:04:33.680 align:start position:0%
+can see you have lot of options
+
+
+00:04:33.680 --> 00:04:37.350 align:start position:0%
+can see you have lot of options
+available.<00:04:34.880><c> So</c><00:04:35.199><c> this</c><00:04:35.680><c> nanet</c><00:04:36.479><c> is</c><00:04:36.720><c> really</c><00:04:37.199><c> a</c>
+
+00:04:37.350 --> 00:04:37.360 align:start position:0%
+available. So this nanet is really a
+
+
+00:04:37.360 --> 00:04:40.150 align:start position:0%
+available. So this nanet is really a
+wonderful<00:04:37.840><c> option</c><00:04:38.560><c> where</c><00:04:38.880><c> you</c><00:04:39.120><c> can</c><00:04:39.280><c> extract</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+wonderful option where you can extract
+
+
+00:04:40.160 --> 00:04:42.550 align:start position:0%
+wonderful option where you can extract
+uh<00:04:40.400><c> the</c><00:04:40.720><c> data.</c><00:04:41.280><c> You</c><00:04:41.520><c> can</c><00:04:41.680><c> convert</c><00:04:42.080><c> the</c><00:04:42.320><c> data</c>
+
+00:04:42.550 --> 00:04:42.560 align:start position:0%
+uh the data. You can convert the data
+
+
+00:04:42.560 --> 00:04:45.670 align:start position:0%
+uh the data. You can convert the data
+into<00:04:42.800><c> a</c><00:04:42.960><c> structured</c><00:04:43.759><c> uh</c><00:04:44.160><c> format</c><00:04:45.040><c> and</c><00:04:45.280><c> you</c><00:04:45.520><c> can</c>
+
+00:04:45.670 --> 00:04:45.680 align:start position:0%
+into a structured uh format and you can
+
+
+00:04:45.680 --> 00:04:48.870 align:start position:0%
+into a structured uh format and you can
+export<00:04:46.000><c> the</c><00:04:46.240><c> data</c><00:04:46.560><c> within</c><00:04:47.040><c> few</c><00:04:47.360><c> seconds</c><00:04:47.919><c> using</c>
+
+00:04:48.870 --> 00:04:48.880 align:start position:0%
+export the data within few seconds using
+
+
+00:04:48.880 --> 00:04:52.150 align:start position:0%
+export the data within few seconds using
+in<00:04:49.120><c> a</c><00:04:49.360><c> few</c><00:04:49.520><c> minutes</c><00:04:49.919><c> or</c><00:04:50.160><c> seconds</c><00:04:50.720><c> using</c><00:04:51.120><c> the</c>
+
+00:04:52.150 --> 00:04:52.160 align:start position:0%
+in a few minutes or seconds using the
+
+
+00:04:52.160 --> 00:04:56.070 align:start position:0%
+in a few minutes or seconds using the
+format<00:04:52.560><c> of</c><00:04:52.800><c> CSV</c><00:04:53.360><c> or</c><00:04:53.680><c> Excel</c><00:04:54.080><c> or</c><00:04:54.880><c> any</c><00:04:55.600><c> kind</c><00:04:55.840><c> of</c>
+
+00:04:56.070 --> 00:04:56.080 align:start position:0%
+format of CSV or Excel or any kind of
+
+
+00:04:56.080 --> 00:04:58.629 align:start position:0%
+format of CSV or Excel or any kind of
+data<00:04:56.400><c> which</c><00:04:56.639><c> you</c><00:04:56.800><c> wish.</c><00:04:57.040><c> Even</c><00:04:57.440><c> JSON</c><00:04:57.919><c> format</c><00:04:58.320><c> is</c>
+
+00:04:58.629 --> 00:04:58.639 align:start position:0%
+data which you wish. Even JSON format is
+
+
+00:04:58.639 --> 00:05:01.670 align:start position:0%
+data which you wish. Even JSON format is
+also<00:04:59.120><c> been</c><00:04:59.520><c> possible.</c><00:05:00.720><c> So</c><00:05:00.960><c> this</c><00:05:01.120><c> is</c><00:05:01.360><c> really</c>
+
+00:05:01.670 --> 00:05:01.680 align:start position:0%
+also been possible. So this is really
+
+
+00:05:01.680 --> 00:05:03.670 align:start position:0%
+also been possible. So this is really
+wonderful<00:05:02.160><c> option.</c>
+
+00:05:03.670 --> 00:05:03.680 align:start position:0%
+wonderful option.
+
+
+00:05:03.680 --> 00:05:07.350 align:start position:0%
+wonderful option.
+So<00:05:04.720><c> till</c><00:05:05.520><c> uh</c><00:05:05.600><c> we</c><00:05:05.840><c> meet</c><00:05:06.080><c> with</c><00:05:06.320><c> the</c><00:05:06.479><c> next</c><00:05:06.720><c> video.</c>
+
+00:05:07.350 --> 00:05:07.360 align:start position:0%
+So till uh we meet with the next video.
+
+
+00:05:07.360 --> 00:05:11.440 align:start position:0%
+So till uh we meet with the next video.
+Thanks<00:05:07.680><c> for</c><00:05:07.840><c> watching.</c><00:05:08.400><c> Stay</c><00:05:08.639><c> tuned.</c>

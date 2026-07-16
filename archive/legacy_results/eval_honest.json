@@ -1,0 +1,139 @@
+{
+  "results": [
+    {
+      "eid": "06_avante",
+      "type": "pdf",
+      "gold_count": 20,
+      "pred_count": 29,
+      "tp": 20,
+      "fp": 7,
+      "fn": 0,
+      "precision": 0.7407407407407407,
+      "recall": 1.0,
+      "f1": 0.851063829787234,
+      "time_sec": 30.917636156082153,
+      "pairs": [
+        [
+          "300 mm dia pipes",
+          "300 mm dia pipes",
+          1.0
+        ],
+        [
+          "250 mm dia pipes",
+          "250 mm dia pipes",
+          1.0
+        ],
+        [
+          "200 mm dia pipes",
+          "200 mm dia pipes",
+          1.0
+        ],
+        [
+          "150 mm dia pipes",
+          "150 mm dia pipes",
+          1.0
+        ],
+        [
+          "125 mm dia pipes",
+          "125 mm dia pipes",
+          1.0
+        ],
+        [
+          "600 mm dia pipes",
+          "600 mm dia pipes",
+          1.0
+        ],
+        [
+          "500 mm dia pipes",
+          "500 mm dia pipes",
+          1.0
+        ],
+        [
+          "450 mm dia pipes",
+          "450 mm dia pipes",
+          1.0
+        ],
+        [
+          "350 mm dia pipes",
+          "350 mm dia pipes",
+          1.0
+        ],
+        [
+          "250 mm dia pipes",
+          "250 mm dia pipes",
+          1.0
+        ],
+        [
+          "200 mm dia pipes",
+          "200 mm dia pipes",
+          1.0
+        ],
+        [
+          "150 mm dia pipes",
+          "150 mm dia pipes",
+          1.0
+        ],
+        [
+          "600 mm dia pipes",
+          "600 mm dia pipes",
+          1.0
+        ],
+        [
+          "500 mm dia pipes",
+          "500 mm dia pipes",
+          1.0
+        ],
+        [
+          "100 mm dia pipes",
+          "100 mm dia pipes",
+          1.0
+        ],
+        [
+          "80 mm dia pipes",
+          "80 mm dia pipes",
+          1.0
+        ],
+        [
+          "65 mm dia pipes",
+          "65 mm dia pipes",
+          1.0
+        ],
+        [
+          "50 mm dia pipes",
+          "50 mm dia condensate drain pipes.",
+          1.0
+        ],
+        [
+          "40 mm dia pipes",
+          "40 mm dia pipes",
+          1.0
+        ],
+        [
+          "32 mm dia pipes",
+          "32 mm dia pipes",
+          1.0
+        ]
+      ],
+      "unmatched_gold": [],
+      "unmatched_pred": [
+        "13 mm thick insulation for supply air ducts in return air path.",
+        "19 mm thick insulation for return air ducts.",
+        "15 mm thick acoustic lining with Nitrile Rubber",
+        "25 mm dia pipes",
+        "20 mm dia pipes",
+        "25 mm dia condensate drain pipes.",
+        "400 mm dia pipes"
+      ]
+    }
+  ],
+  "summary": {
+    "micro_precision": 0.7407407407407407,
+    "micro_recall": 1.0,
+    "micro_f1": 0.851063829787234,
+    "macro_precision": 0.7407407407407407,
+    "macro_recall": 1.0,
+    "macro_f1": 0.851063829787234,
+    "total_gold": 20,
+    "total_pred": 29
+  }
+}

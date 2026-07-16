@@ -1,0 +1,16 @@
+Source: data/incoming/Enquiry for Thermal Insulation for CHW Pipe.pdf
+Entries: 13
+Uncertain entries:
+Entry 1: contains non-ascii / possible OCR artifacts
+Entry 2: contains non-ascii / possible OCR artifacts
+Entry 3: contains non-ascii / possible OCR artifacts
+Entry 4: contains non-ascii / possible OCR artifacts
+Entry 5: contains non-ascii / possible OCR artifacts
+Entry 6: contains non-ascii / possible OCR artifacts
+Entry 7: contains non-ascii / possible OCR artifacts
+Entry 8: contains non-ascii / possible OCR artifacts
+Entry 9: contains non-ascii / possible OCR artifacts
+Entry 10: contains non-ascii / possible OCR artifacts
+Entry 11: contains non-ascii / possible OCR artifacts
+Entry 12: contains non-ascii / possible OCR artifacts
+Entry 13: contains non-ascii / possible OCR artifacts

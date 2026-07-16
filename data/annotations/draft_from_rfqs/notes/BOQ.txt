@@ -1,0 +1,8 @@
+Source: data/incoming/BOQ.pdf
+Entries: 23
+Uncertain entries:
+Entry 9: contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 15: contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 16: low confidence (0.5)
+Entry 17: low confidence (0.5)
+Entry 18: low confidence (0.5)

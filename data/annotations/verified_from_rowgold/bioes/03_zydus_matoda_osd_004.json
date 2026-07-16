@@ -1,0 +1,43 @@
+{
+  "doc_id": "03_zydus_matoda_osd_004",
+  "source_file": "Zydus_Matoda_Insulation_Enquiry.xlsx",
+  "tokens": [
+    "supply",
+    "13",
+    "mm",
+    "thick",
+    "insulation",
+    "for",
+    "return",
+    "/",
+    "exhaust",
+    "air",
+    "ducts",
+    "32500",
+    "sqm"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "03_zydus_matoda_osd.rowgold.json",
+    "row_idx": 4,
+    "action": "supply",
+    "quantity": "32500",
+    "unit": "sqm"
+  }
+}

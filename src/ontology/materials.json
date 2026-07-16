@@ -1,0 +1,4216 @@
+{
+  "materials": [
+    {
+      "name": "air conditioner",
+      "aliases": [
+        "AC",
+        "air conditioner",
+        "split AC",
+        "window AC",
+        "cassette AC"
+      ],
+      "category": "HVAC",
+      "common_units": [
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1815",
+        "IS 11339"
+      ]
+    },
+    {
+      "name": "ducting",
+      "aliases": [
+        "duct",
+        "air duct",
+        "HVAC duct",
+        "GI duct"
+      ],
+      "category": "HVAC",
+      "common_units": [
+        "rmt",
+        "sqm"
+      ],
+      "common_standards": [
+        "SMACNA"
+      ]
+    },
+    {
+      "name": "aluminium composite panel",
+      "aliases": [
+        "ACP",
+        "aluminum composite panel"
+      ],
+      "category": "cladding",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "ASTM E330",
+        "EN 13501"
+      ]
+    },
+    {
+      "name": "fiber cement cladding",
+      "aliases": [
+        "fibre cement siding",
+        "cement board cladding"
+      ],
+      "category": "cladding",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "ASTM E330",
+        "EN 13501"
+      ]
+    },
+    {
+      "name": "high pressure laminate cladding",
+      "aliases": [
+        "HPL cladding",
+        "compact laminate panel"
+      ],
+      "category": "cladding",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "ASTM E330",
+        "EN 13501"
+      ]
+    },
+    {
+      "name": "stone cladding",
+      "aliases": [
+        "natural stone veneer",
+        "stone veneer"
+      ],
+      "category": "cladding",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "ASTM E330",
+        "EN 13501"
+      ]
+    },
+    {
+      "name": "terracotta cladding",
+      "aliases": [
+        "terracotta panel",
+        "clay facade tile"
+      ],
+      "category": "cladding",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "ASTM E330",
+        "EN 13501"
+      ]
+    },
+    {
+      "name": " Expansion joint",
+      "aliases": [
+        "expansion joint",
+        "movement joint",
+        "EJ"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 3419"
+      ]
+    },
+    {
+      "name": "bitumen",
+      "aliases": [
+        "bitumen",
+        "asphalt",
+        "tar",
+        "cutback"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "kg",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 73",
+        "IS 217"
+      ]
+    },
+    {
+      "name": "cement",
+      "aliases": [
+        "OPC",
+        "ordinary portland cement",
+        "Portland cement",
+        "PPC",
+        "PSC"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "kg",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 269",
+        "IS 1489",
+        "IS 12330"
+      ]
+    },
+    {
+      "name": "cement mortar",
+      "aliases": [
+        "mortar",
+        "cement sand mortar",
+        "C M",
+        "1:4 mortar"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum"
+      ],
+      "common_standards": [
+        "IS 2250"
+      ]
+    },
+    {
+      "name": "coarse aggregate",
+      "aliases": [
+        "aggregate",
+        "crushed stone",
+        "gravel",
+        "jelly"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 383",
+        "IS 2387"
+      ]
+    },
+    {
+      "name": "concrete",
+      "aliases": [
+        "RCC",
+        "PCC",
+        "cement concrete",
+        "reinforced concrete",
+        "plain concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 4926"
+      ]
+    },
+    {
+      "name": "crusher run",
+      "aliases": [
+        "crusher run",
+        "aggregate",
+        "moorum",
+        "GSB"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum"
+      ],
+      "common_standards": [
+        "IS 2387"
+      ]
+    },
+    {
+      "name": "dry lean concrete",
+      "aliases": [
+        "DLC",
+        "pavement lean concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "fiber reinforced concrete",
+      "aliases": [
+        "FRC",
+        "fibre reinforced concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "fine aggregate",
+      "aliases": [
+        "sand",
+        "river sand",
+        "crushed sand",
+        "manufactured sand",
+        "M-sand",
+        "aggregate"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 383",
+        "IS 2387"
+      ]
+    },
+    {
+      "name": "lean concrete",
+      "aliases": [
+        "LC concrete",
+        "blinding concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "lightweight concrete",
+      "aliases": [
+        "CLC",
+        "foam concrete",
+        "cellular concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "m20 concrete",
+      "aliases": [
+        "grade 20 concrete",
+        "20 MPa concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456"
+      ]
+    },
+    {
+      "name": "m25 concrete",
+      "aliases": [
+        "grade 25 concrete",
+        "25 MPa concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456"
+      ]
+    },
+    {
+      "name": "m30 concrete",
+      "aliases": [
+        "grade 30 concrete",
+        "30 MPa concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456"
+      ]
+    },
+    {
+      "name": "m35 concrete",
+      "aliases": [
+        "grade 35 concrete",
+        "35 MPa concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456"
+      ]
+    },
+    {
+      "name": "m40 concrete",
+      "aliases": [
+        "grade 40 concrete",
+        "40 MPa concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456"
+      ]
+    },
+    {
+      "name": "micro concrete",
+      "aliases": [
+        "microconcrete",
+        "repair micro concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "no fines concrete",
+      "aliases": [
+        "pervious concrete",
+        "porous concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "non shrink grout",
+      "aliases": [
+        "NSG",
+        "cementitious grout",
+        "precision grout"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "plain cement concrete",
+      "aliases": [
+        "PCC",
+        "plain concrete",
+        "cement concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456"
+      ]
+    },
+    {
+      "name": "polymer modified mortar",
+      "aliases": [
+        "PMM",
+        "repair mortar"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "rapid hardening cement",
+      "aliases": [
+        "RHC",
+        "quick setting cement"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "ready mix concrete",
+      "aliases": [
+        "RMC",
+        "readymix",
+        "ready mixed concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 4926"
+      ]
+    },
+    {
+      "name": "scaffolding",
+      "aliases": [
+        "scaffold",
+        "scaffolding",
+        "staging",
+        "temporary structure"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 4014"
+      ]
+    },
+    {
+      "name": "self compacting concrete",
+      "aliases": [
+        "SCC",
+        "self consolidating concrete"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "shotcrete",
+      "aliases": [
+        "sprayed concrete",
+        "gunite"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "shuttering",
+      "aliases": [
+        "shuttering",
+        "formwork",
+        "centering",
+        "scaffolding"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 14684"
+      ]
+    },
+    {
+      "name": "soil",
+      "aliases": [
+        "soil",
+        "earth",
+        "filling soil",
+        "selected material"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum"
+      ],
+      "common_standards": [
+        "IS 2712"
+      ]
+    },
+    {
+      "name": "soling",
+      "aliases": [
+        "soling",
+        "soling stone",
+        "pitching",
+        "stone soling"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2712"
+      ]
+    },
+    {
+      "name": "sulphate resisting cement",
+      "aliases": [
+        "SRC",
+        "sulfate resisting cement"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "water",
+      "aliases": [
+        "water",
+        "potable water",
+        "drinking water"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "ltr",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 456"
+      ]
+    },
+    {
+      "name": "white cement",
+      "aliases": [
+        "white portland cement",
+        "decorative cement"
+      ],
+      "category": "concrete",
+      "common_units": [
+        "cum",
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 456",
+        "IS 383"
+      ]
+    },
+    {
+      "name": "aluminium door",
+      "aliases": [
+        "aluminum door",
+        "aluminium glazed door"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "aluminium window",
+      "aliases": [
+        "aluminum window",
+        "sliding aluminium window"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "door closer",
+      "aliases": [
+        "hydraulic door closer",
+        "floor spring"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "door hardware",
+      "aliases": [
+        "architectural hardware",
+        "ironmongery"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "fire rated door",
+      "aliases": [
+        "fire door",
+        "FRD"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "hinge",
+      "aliases": [
+        "butt hinge",
+        "SS hinge"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "hollow metal door",
+      "aliases": [
+        "HM door",
+        "steel door shutter"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "lockset",
+      "aliases": [
+        "mortise lock",
+        "cylindrical lock"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "rolling shutter",
+      "aliases": [
+        "MS rolling shutter",
+        "motorized shutter"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "shutter slat",
+      "aliases": [
+        "rolling shutter slat",
+        "lath section"
+      ],
+      "category": "doors_windows",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202",
+        "IS 1948"
+      ]
+    },
+    {
+      "name": "calcium silicate board",
+      "aliases": [
+        "cal sil board",
+        "calcium board"
+      ],
+      "category": "drywall",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2095",
+        "ASTM C1396"
+      ]
+    },
+    {
+      "name": "cement fiber board",
+      "aliases": [
+        "fibre cement board",
+        "FCB"
+      ],
+      "category": "drywall",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2095",
+        "ASTM C1396"
+      ]
+    },
+    {
+      "name": "false ceiling grid",
+      "aliases": [
+        "T grid",
+        "ceiling suspension grid"
+      ],
+      "category": "drywall",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2095",
+        "ASTM C1396"
+      ]
+    },
+    {
+      "name": "gypsum board",
+      "aliases": [
+        "gypsum plasterboard",
+        "GWB"
+      ],
+      "category": "drywall",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2095",
+        "ASTM C1396"
+      ]
+    },
+    {
+      "name": "magnesium oxide board",
+      "aliases": [
+        "MgO board",
+        "magnesia board"
+      ],
+      "category": "drywall",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2095",
+        "ASTM C1396"
+      ]
+    },
+    {
+      "name": "metal ceiling tile",
+      "aliases": [
+        "aluminium ceiling tile",
+        "clip in tile"
+      ],
+      "category": "drywall",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2095",
+        "ASTM C1396"
+      ]
+    },
+    {
+      "name": "mineral fiber ceiling tile",
+      "aliases": [
+        "acoustic ceiling tile",
+        "mineral fibre tile"
+      ],
+      "category": "drywall",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2095",
+        "ASTM C1396"
+      ]
+    },
+    {
+      "name": "aluminium cable",
+      "aliases": [
+        "Al cable",
+        "aluminum conductor cable"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "armoured cable",
+      "aliases": [
+        "XLPE armoured cable",
+        "SWA cable"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "cable",
+      "aliases": [
+        "cable",
+        "electric cable",
+        "power cable",
+        "control cable"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 1554",
+        "IS 7098"
+      ]
+    },
+    {
+      "name": "cable tray",
+      "aliases": [
+        "perforated cable tray",
+        "ladder tray"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "cable trunking",
+      "aliases": [
+        "raceway",
+        "metal trunking"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "conduit",
+      "aliases": [
+        "conduit",
+        "electrical conduit",
+        "GI conduit",
+        "PVC conduit"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 9537"
+      ]
+    },
+    {
+      "name": "copper cable",
+      "aliases": [
+        "Cu cable",
+        "copper conductor cable"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "distribution board",
+      "aliases": [
+        "DB",
+        "panel board"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "earthing",
+      "aliases": [
+        "earthing",
+        "grounding",
+        "electrode",
+        "gi strip"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "nos",
+        "rmt",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 3043",
+        "IEEE 80"
+      ]
+    },
+    {
+      "name": "earthing electrode",
+      "aliases": [
+        "earth electrode",
+        "chemical earthing electrode"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "earthing strip",
+      "aliases": [
+        "GI earthing strip",
+        "copper earth strip"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "fan",
+      "aliases": [
+        "fan",
+        "ceiling fan",
+        "exhaust fan",
+        "ventilator"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "nos"
+      ],
+      "common_standards": [
+        "IS 374"
+      ]
+    },
+    {
+      "name": "fire extinguisher",
+      "aliases": [
+        "fire extinguisher",
+        "extinguisher",
+        "CO2",
+        "foam",
+        "ABC"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "nos"
+      ],
+      "common_standards": [
+        "IS 15683",
+        "IS 2190"
+      ]
+    },
+    {
+      "name": "gi conduit",
+      "aliases": [
+        "GI electrical conduit",
+        "galvanized conduit"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "gyser",
+      "aliases": [
+        "geyser",
+        "water heater",
+        "instant heater"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2082"
+      ]
+    },
+    {
+      "name": "light fixture",
+      "aliases": [
+        "luminaire",
+        "LED light fitting"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "lighting",
+      "aliases": [
+        "light",
+        "luminaire",
+        "LED",
+        "tube light",
+        "bulb"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "nos"
+      ],
+      "common_standards": [
+        "IS 10322"
+      ]
+    },
+    {
+      "name": "mcb",
+      "aliases": [
+        "MCB",
+        "miniature circuit breaker"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "mccb",
+      "aliases": [
+        "MCCB",
+        "moulded case circuit breaker"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "switch",
+      "aliases": [
+        "switch",
+        "switchgear",
+        "circuit breaker",
+        "DB"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "nos"
+      ],
+      "common_standards": [
+        "IS 8828",
+        "IS 12640"
+      ]
+    },
+    {
+      "name": "switch socket",
+      "aliases": [
+        "switchboard",
+        "modular switch"
+      ],
+      "category": "electrical",
+      "common_units": [
+        "rmt",
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 694",
+        "IS 8623"
+      ]
+    },
+    {
+      "name": "Corner bead",
+      "aliases": [
+        "corner bead",
+        "corner strip",
+        "PVC bead"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "rmt"
+      ],
+      "common_standards": []
+    },
+    {
+      "name": "acrylic putty",
+      "aliases": [
+        "wall putty",
+        "acrylic wall putty"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "aluminum window",
+      "aliases": [
+        "aluminum window",
+        "al window",
+        "aluminium window",
+        " glazed window"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1948",
+        "IS 1949"
+      ]
+    },
+    {
+      "name": "anti skid tile",
+      "aliases": [
+        "non skid tile",
+        "anti slip tile"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "carpet",
+      "aliases": [
+        "carpet",
+        "rug",
+        "floor covering"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 517"
+      ]
+    },
+    {
+      "name": "carpet tile",
+      "aliases": [
+        "modular carpet",
+        "carpet flooring"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "cement primer",
+      "aliases": [
+        "wall primer",
+        "cement paint primer"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "ceramic tile",
+      "aliases": [
+        "ceramic wall tile",
+        "ceramic floor tile"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "curtain",
+      "aliases": [
+        "curtain",
+        "drapery",
+        "window curtain"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": []
+    },
+    {
+      "name": "distemper",
+      "aliases": [
+        "dry distemper",
+        "oil bound distemper"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "emulsion paint",
+      "aliases": [
+        "acrylic emulsion",
+        "interior emulsion"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "enamel paint",
+      "aliases": [
+        "synthetic enamel",
+        "oil enamel"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "epoxy flooring",
+      "aliases": [
+        "epoxy screed",
+        "epoxy floor coating"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "epoxy paint",
+      "aliases": [
+        "epoxy coating",
+        "epoxy protective paint"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "glazed tile",
+      "aliases": [
+        "glazed ceramic tile",
+        "GVT"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "gypsum plaster",
+      "aliases": [
+        "gypsum wall plaster",
+        "gypsum finish"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "jalousie",
+      "aliases": [
+        "jalousie",
+        "louver",
+        "glass louvers"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 7293"
+      ]
+    },
+    {
+      "name": "laminate flooring",
+      "aliases": [
+        "laminated wooden flooring",
+        "HDF laminate"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "lime plaster",
+      "aliases": [
+        "lime mortar plaster",
+        "hydraulic lime plaster"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "marble",
+      "aliases": [
+        "marble",
+        "Italian marble",
+        "granite",
+        "natural stone"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 14223"
+      ]
+    },
+    {
+      "name": "mosaic tile",
+      "aliases": [
+        "mosaic",
+        "terrazzo tile",
+        "chequered tile"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1237"
+      ]
+    },
+    {
+      "name": "paint",
+      "aliases": [
+        "paint",
+        "emulsion paint",
+        "distemper",
+        "enamel",
+        "primer"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "ltr",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 101",
+        "IS 428"
+      ]
+    },
+    {
+      "name": "plaster",
+      "aliases": [
+        "plaster",
+        "gypsum plaster",
+        "POP",
+        "plaster of paris",
+        "cement plaster"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 9667"
+      ]
+    },
+    {
+      "name": "polyurethane coating",
+      "aliases": [
+        "PU coating",
+        "polyurethane paint"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "porcelain tile",
+      "aliases": [
+        "porcelain slab",
+        "porcelain floor tile"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "primer",
+      "aliases": [
+        "primer",
+        "wood primer",
+        "metal primer",
+        "bonding primer"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "ltr",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 101"
+      ]
+    },
+    {
+      "name": "putty",
+      "aliases": [
+        "putty",
+        "wall putty",
+        "acrylic putty",
+        "cement putty"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 3455"
+      ]
+    },
+    {
+      "name": "roller blind",
+      "aliases": [
+        "blind",
+        "roller blind",
+        "window blind",
+        "shade"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": []
+    },
+    {
+      "name": "skirting",
+      "aliases": [
+        "skirting",
+        "baseboard",
+        "quarter round"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "rmt"
+      ],
+      "common_standards": []
+    },
+    {
+      "name": "steel door",
+      "aliases": [
+        "steel door",
+        "MS door",
+        "collapsible gate",
+        "rolling shutter"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 4000",
+        "IS 1038"
+      ]
+    },
+    {
+      "name": "terrazzo flooring",
+      "aliases": [
+        "terrazzo",
+        "cast in situ terrazzo"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "texture paint",
+      "aliases": [
+        "textured coating",
+        "sandtex finish"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "tile",
+      "aliases": [
+        "tile",
+        "ceramic tile",
+        "vitrified tile",
+        "glazed tile",
+        "floor tile",
+        "wall tile"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 13730",
+        "IS 15622"
+      ]
+    },
+    {
+      "name": "upvc window",
+      "aliases": [
+        "window",
+        "uPVC window",
+        "vinyl window",
+        "glazing"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 10843",
+        "IS 14669"
+      ]
+    },
+    {
+      "name": "varnish",
+      "aliases": [
+        "varnish",
+        "lacquer",
+        "wood finish",
+        "polyurethane"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "ltr",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 3456"
+      ]
+    },
+    {
+      "name": "vinyl flooring",
+      "aliases": [
+        "PVC flooring",
+        "vinyl tile"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "vitrified tile",
+      "aliases": [
+        "VT tile",
+        "vitrified flooring tile"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "wood polish",
+      "aliases": [
+        "melamine polish",
+        "french polish"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "wooden flooring",
+      "aliases": [
+        "engineered wood flooring",
+        "hardwood flooring"
+      ],
+      "category": "finishes",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 1661",
+        "IS 101"
+      ]
+    },
+    {
+      "name": "fire alarm cable",
+      "aliases": [
+        "FRLS cable",
+        "fire survival cable"
+      ],
+      "category": "firefighting",
+      "common_units": [
+        "nos",
+        "rmt",
+        "set"
+      ],
+      "common_standards": [
+        "IS 15105",
+        "NFPA 13"
+      ]
+    },
+    {
+      "name": "fire hydrant",
+      "aliases": [
+        "hydrant valve",
+        "landing valve"
+      ],
+      "category": "firefighting",
+      "common_units": [
+        "nos",
+        "rmt",
+        "set"
+      ],
+      "common_standards": [
+        "IS 15105",
+        "NFPA 13"
+      ]
+    },
+    {
+      "name": "fire sprinkler",
+      "aliases": [
+        "sprinkler head",
+        "pendent sprinkler"
+      ],
+      "category": "firefighting",
+      "common_units": [
+        "nos",
+        "rmt",
+        "set"
+      ],
+      "common_standards": [
+        "IS 15105",
+        "NFPA 13"
+      ]
+    },
+    {
+      "name": "smoke detector",
+      "aliases": [
+        "photoelectric detector",
+        "addressable detector"
+      ],
+      "category": "firefighting",
+      "common_units": [
+        "nos",
+        "rmt",
+        "set"
+      ],
+      "common_standards": [
+        "IS 15105",
+        "NFPA 13"
+      ]
+    },
+    {
+      "name": "glass",
+      "aliases": [
+        "glass",
+        "toughened glass",
+        "tempered glass",
+        "laminated glass",
+        "float glass"
+      ],
+      "category": "glass",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2553",
+        "IS 14900",
+        "ASTM C1048"
+      ]
+    },
+    {
+      "name": "glass block",
+      "aliases": [
+        "glass block",
+        "glass brick",
+        "hollow glass block"
+      ],
+      "category": "glass",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 10871"
+      ]
+    },
+    {
+      "name": "glazing",
+      "aliases": [
+        "glazing",
+        "glass panel",
+        "window glass"
+      ],
+      "category": "glass",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2553"
+      ]
+    },
+    {
+      "name": "mirror",
+      "aliases": [
+        "mirror",
+        "reflective glass"
+      ],
+      "category": "glass",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2553"
+      ]
+    },
+    {
+      "name": "double glazed unit",
+      "aliases": [
+        "DGU",
+        "insulated glass unit"
+      ],
+      "category": "glazing",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2553",
+        "ASTM C1172"
+      ]
+    },
+    {
+      "name": "fire rated glass",
+      "aliases": [
+        "fire resistant glass",
+        "FR glass"
+      ],
+      "category": "glazing",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2553",
+        "ASTM C1172"
+      ]
+    },
+    {
+      "name": "float glass",
+      "aliases": [
+        "clear float glass",
+        "annealed glass"
+      ],
+      "category": "glazing",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2553",
+        "ASTM C1172"
+      ]
+    },
+    {
+      "name": "glass curtain wall",
+      "aliases": [
+        "curtain glazing",
+        "structural glazing"
+      ],
+      "category": "glazing",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2553",
+        "ASTM C1172"
+      ]
+    },
+    {
+      "name": "laminated glass",
+      "aliases": [
+        "laminated safety glass",
+        "PVB glass"
+      ],
+      "category": "glazing",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2553",
+        "ASTM C1172"
+      ]
+    },
+    {
+      "name": "toughened glass",
+      "aliases": [
+        "tempered glass",
+        "safety glass"
+      ],
+      "category": "glazing",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2553",
+        "ASTM C1172"
+      ]
+    },
+    {
+      "name": "chequered tile",
+      "aliases": [
+        "chequer tile",
+        "tactile tile"
+      ],
+      "category": "hardscape",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 15658"
+      ]
+    },
+    {
+      "name": "kerb stone",
+      "aliases": [
+        "curb stone",
+        "concrete kerb"
+      ],
+      "category": "hardscape",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 15658"
+      ]
+    },
+    {
+      "name": "paver block",
+      "aliases": [
+        "interlocking paver",
+        "concrete paver"
+      ],
+      "category": "hardscape",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 15658"
+      ]
+    },
+    {
+      "name": "anchor fastener",
+      "aliases": [
+        "wedge anchor",
+        "mechanical anchor"
+      ],
+      "category": "hardware",
+      "common_units": [
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 1367",
+        "ASTM A325"
+      ]
+    },
+    {
+      "name": "chemical anchor",
+      "aliases": [
+        "resin anchor",
+        "epoxy anchor"
+      ],
+      "category": "hardware",
+      "common_units": [
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 1367",
+        "ASTM A325"
+      ]
+    },
+    {
+      "name": "high tensile bolt",
+      "aliases": [
+        "HT bolt",
+        "HSFG bolt"
+      ],
+      "category": "hardware",
+      "common_units": [
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 1367",
+        "ASTM A325"
+      ]
+    },
+    {
+      "name": "self drilling screw",
+      "aliases": [
+        "SDS screw",
+        "tek screw"
+      ],
+      "category": "hardware",
+      "common_units": [
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 1367",
+        "ASTM A325"
+      ]
+    },
+    {
+      "name": "welding electrode",
+      "aliases": [
+        "electrode",
+        "arc welding rod"
+      ],
+      "category": "hardware",
+      "common_units": [
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 1367",
+        "ASTM A325"
+      ]
+    },
+    {
+      "name": "chilled water pipe",
+      "aliases": [
+        "CHW pipe",
+        "hydronic pipe"
+      ],
+      "category": "hvac",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "SMACNA",
+        "ASHRAE"
+      ]
+    },
+    {
+      "name": "diffuser",
+      "aliases": [
+        "ceiling diffuser",
+        "air diffuser"
+      ],
+      "category": "hvac",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "SMACNA",
+        "ASHRAE"
+      ]
+    },
+    {
+      "name": "duct insulation",
+      "aliases": [
+        "duct wrap",
+        "thermal duct insulation"
+      ],
+      "category": "hvac",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "SMACNA",
+        "ASHRAE"
+      ]
+    },
+    {
+      "name": "fire damper",
+      "aliases": [
+        "motorized fire damper",
+        "FD damper"
+      ],
+      "category": "hvac",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "SMACNA",
+        "ASHRAE"
+      ]
+    },
+    {
+      "name": "grille",
+      "aliases": [
+        "return air grille",
+        "supply air grille"
+      ],
+      "category": "hvac",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "SMACNA",
+        "ASHRAE"
+      ]
+    },
+    {
+      "name": "hvac duct",
+      "aliases": [
+        "GI duct",
+        "air duct"
+      ],
+      "category": "hvac",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "SMACNA",
+        "ASHRAE"
+      ]
+    },
+    {
+      "name": "volume control damper",
+      "aliases": [
+        "VCD",
+        "air damper"
+      ],
+      "category": "hvac",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "SMACNA",
+        "ASHRAE"
+      ]
+    },
+    {
+      "name": "vrf copper piping",
+      "aliases": [
+        "refrigerant copper pipe",
+        "VRV pipe"
+      ],
+      "category": "hvac",
+      "common_units": [
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "SMACNA",
+        "ASHRAE"
+      ]
+    },
+    {
+      "name": " insulation board",
+      "aliases": [
+        "insulation",
+        "thermocol",
+        "EPS",
+        "XPS",
+        "polyfoam"
+      ],
+      "category": "insulation",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 3154"
+      ]
+    },
+    {
+      "name": "expanded polystyrene board",
+      "aliases": [
+        "EPS board",
+        "thermocol board"
+      ],
+      "category": "insulation",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 8183",
+        "ASTM C553"
+      ]
+    },
+    {
+      "name": "extruded polystyrene board",
+      "aliases": [
+        "XPS board",
+        "extruded foam board"
+      ],
+      "category": "insulation",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 8183",
+        "ASTM C553"
+      ]
+    },
+    {
+      "name": "glass wool insulation",
+      "aliases": [
+        "fiberglass insulation",
+        "glass fibre wool"
+      ],
+      "category": "insulation",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 8183",
+        "ASTM C553"
+      ]
+    },
+    {
+      "name": "nitrile rubber insulation",
+      "aliases": [
+        "NBR insulation",
+        "closed cell elastomeric insulation"
+      ],
+      "category": "insulation",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 8183",
+        "ASTM C553"
+      ]
+    },
+    {
+      "name": "polyurethane foam",
+      "aliases": [
+        "PUF",
+        "spray foam"
+      ],
+      "category": "insulation",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 8183",
+        "ASTM C553"
+      ]
+    },
+    {
+      "name": "rock wool",
+      "aliases": [
+        "rock wool",
+        "mineral wool",
+        "glass wool",
+        "insulation wool"
+      ],
+      "category": "insulation",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 8197"
+      ]
+    },
+    {
+      "name": "rock wool insulation",
+      "aliases": [
+        "mineral wool",
+        "stone wool"
+      ],
+      "category": "insulation",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 8183",
+        "ASTM C553"
+      ]
+    },
+    {
+      "name": "aac block",
+      "aliases": [
+        "AAC",
+        "autoclaved aerated concrete",
+        "lightweight block",
+        "gas concrete block"
+      ],
+      "category": "masonry",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2185",
+        "IS 5534"
+      ]
+    },
+    {
+      "name": "brick masonry",
+      "aliases": [
+        "brickwork",
+        "brick masonry",
+        "brick work"
+      ],
+      "category": "masonry",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1905",
+        "IS 2212"
+      ]
+    },
+    {
+      "name": "clay brick",
+      "aliases": [
+        "brick",
+        "clay brick",
+        "burnt brick",
+        "common brick"
+      ],
+      "category": "masonry",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1077",
+        "IS 3495"
+      ]
+    },
+    {
+      "name": "fly ash brick",
+      "aliases": [
+        "fly ash brick",
+        "FAB",
+        "brickbat"
+      ],
+      "category": "masonry",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 12894",
+        "IS 13757"
+      ]
+    },
+    {
+      "name": "hollow concrete block",
+      "aliases": [
+        "concrete block",
+        "hollow block",
+        "CMU",
+        "concrete masonry unit"
+      ],
+      "category": "masonry",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2185"
+      ]
+    },
+    {
+      "name": "stone masonry",
+      "aliases": [
+        "stone work",
+        "rubble masonry",
+        "ashlar masonry"
+      ],
+      "category": "masonry",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1597"
+      ]
+    },
+    {
+      "name": "weep hole",
+      "aliases": [
+        "weep hole",
+        "drain hole",
+        "weep vent"
+      ],
+      "category": "masonry",
+      "common_units": [
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2212"
+      ]
+    },
+    {
+      "name": " fly screen",
+      "aliases": [
+        "fly screen",
+        "mosquito mesh",
+        "window screen"
+      ],
+      "category": "metals",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1566"
+      ]
+    },
+    {
+      "name": "aluminium section",
+      "aliases": [
+        "aluminum profile",
+        "aluminium extrusion"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2062",
+        "ASTM A36"
+      ]
+    },
+    {
+      "name": "binding wire",
+      "aliases": [
+        "binding wire",
+        "gi wire",
+        "black annealed wire",
+        "wire"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg"
+      ],
+      "common_standards": [
+        "IS 280"
+      ]
+    },
+    {
+      "name": "fencing",
+      "aliases": [
+        "fencing",
+        "chain link",
+        "welded mesh",
+        "barbed wire"
+      ],
+      "category": "metals",
+      "common_units": [
+        "sqm",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 1566",
+        "IS 4948"
+      ]
+    },
+    {
+      "name": "galvanized steel",
+      "aliases": [
+        "GI",
+        "galvanised steel",
+        "galv steel",
+        "zinc coated steel"
+      ],
+      "category": "metals",
+      "common_units": [
+        "sqm",
+        "kg",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 277",
+        "IS 12617",
+        "ASTM A653"
+      ]
+    },
+    {
+      "name": "gate",
+      "aliases": [
+        "gate",
+        "main gate",
+        "compound gate",
+        "sliding gate"
+      ],
+      "category": "metals",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 4000"
+      ]
+    },
+    {
+      "name": "grill",
+      "aliases": [
+        "grill",
+        "window grill",
+        "safety grill",
+        "decorative grill"
+      ],
+      "category": "metals",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 5329"
+      ]
+    },
+    {
+      "name": "mesh",
+      "aliases": [
+        "mesh",
+        "hardware cloth",
+        "insect screen"
+      ],
+      "category": "metals",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1566"
+      ]
+    },
+    {
+      "name": "mild steel",
+      "aliases": [
+        "MS",
+        "mild steel",
+        "MS steel",
+        "carbon steel"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg",
+        "sqm",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2062",
+        "ASTM A36",
+        "BS 4360"
+      ]
+    },
+    {
+      "name": "purlin",
+      "aliases": [
+        "purlin",
+        "roofing purlin",
+        "Z purlin",
+        "C purlin"
+      ],
+      "category": "metals",
+      "common_units": [
+        "rmt",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 802"
+      ]
+    },
+    {
+      "name": "railings",
+      "aliases": [
+        "railings",
+        "handrail",
+        "balustrade",
+        "guard rail"
+      ],
+      "category": "metals",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 5329"
+      ]
+    },
+    {
+      "name": "reinforcement",
+      "aliases": [
+        "reinforcement steel",
+        "rebars",
+        "tor steel",
+        " HYSD bar"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 1786",
+        "IS 1139"
+      ]
+    },
+    {
+      "name": "stainless steel",
+      "aliases": [
+        "SS",
+        "stainless",
+        "SS steel"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg",
+        "sqm",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 6911",
+        "ASTM A240",
+        "BS EN 10088"
+      ]
+    },
+    {
+      "name": "steel",
+      "aliases": [
+        "steel work",
+        "steel member",
+        "steel sections"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2062",
+        "IS 1786"
+      ]
+    },
+    {
+      "name": "steel angle",
+      "aliases": [
+        "angle",
+        "L section",
+        "MS angle",
+        "equal angle"
+      ],
+      "category": "metals",
+      "common_units": [
+        "rmt",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 808",
+        "IS 2062"
+      ]
+    },
+    {
+      "name": "steel channel",
+      "aliases": [
+        "channel",
+        "C section",
+        "MS channel"
+      ],
+      "category": "metals",
+      "common_units": [
+        "rmt",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 808",
+        "IS 2062"
+      ]
+    },
+    {
+      "name": "steel pipe",
+      "aliases": [
+        "pipe",
+        "MS pipe",
+        "GI pipe",
+        "steel tube",
+        "hollow section"
+      ],
+      "category": "metals",
+      "common_units": [
+        "rmt",
+        "kg",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "IS 3589",
+        "ASTM A53",
+        "BS 1387"
+      ]
+    },
+    {
+      "name": "steel plate",
+      "aliases": [
+        "plate",
+        "MS plate",
+        "steel sheet",
+        "checkered plate"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2062",
+        "IS 3503",
+        "ASTM A283"
+      ]
+    },
+    {
+      "name": "structural steel",
+      "aliases": [
+        "structural steel",
+        "steel section",
+        "MS beam",
+        "I-beam",
+        "channel section"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 2062",
+        "IS 808",
+        "ASTM A36",
+        "BS 5950"
+      ]
+    },
+    {
+      "name": "tmt steel bar",
+      "aliases": [
+        "TMT",
+        "TMT bar",
+        "thermo mechanically treated steel",
+        "rebar",
+        "deformed bar"
+      ],
+      "category": "metals",
+      "common_units": [
+        "kg",
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1786",
+        "IS 1139",
+        "ASTM A615",
+        "BS 4449"
+      ]
+    },
+    {
+      "name": "truss",
+      "aliases": [
+        "truss",
+        "roof truss",
+        "space frame",
+        "steel truss"
+      ],
+      "category": "metals",
+      "common_units": [
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 802"
+      ]
+    },
+    {
+      "name": "weld mesh",
+      "aliases": [
+        "mesh",
+        "weld mesh",
+        "wire mesh",
+        "cr mesh",
+        "chain link mesh"
+      ],
+      "category": "metals",
+      "common_units": [
+        "sqm",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 1566",
+        "IS 4948"
+      ]
+    },
+    {
+      "name": "ball valve",
+      "aliases": [
+        "brass ball valve",
+        "UPVC ball valve"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "butterfly valve",
+      "aliases": [
+        "BF valve",
+        "wafer butterfly valve"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "cast iron pipe",
+      "aliases": [
+        "CI pipe",
+        "cast iron",
+        "spun pipe",
+        "hubless pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 1538",
+        "IS 7181",
+        "ASTM A888"
+      ]
+    },
+    {
+      "name": "check valve",
+      "aliases": [
+        "non return valve",
+        "NRV"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "chlorinated polyvinyl chloride pipe",
+      "aliases": [
+        "CPVC pipe",
+        "CPVC",
+        "chlorinated PVC"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 15778",
+        "ASTM F441"
+      ]
+    },
+    {
+      "name": "copper pipe",
+      "aliases": [
+        "copper tube",
+        "Cu pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "cpvc pipe",
+      "aliases": [
+        "CPVC pipe",
+        "chlorinated PVC pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "ductile iron pipe",
+      "aliases": [
+        "DI pipe",
+        "DICL pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "floor trap",
+      "aliases": [
+        "nahani trap",
+        "FT"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "gate valve",
+      "aliases": [
+        "sluice valve",
+        "isolation valve"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "gi pipe",
+      "aliases": [
+        "galvanized iron pipe",
+        "GI pipe",
+        "g.i. pipe",
+        "zinc pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "IS 3589",
+        "BS 1387"
+      ]
+    },
+    {
+      "name": "gully trap",
+      "aliases": [
+        "GT",
+        "drain trap"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "high density polyethylene pipe",
+      "aliases": [
+        "HDPE pipe",
+        "PE pipe",
+        "polyethylene pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 4984",
+        "IS 13748",
+        "ASTM D2447"
+      ]
+    },
+    {
+      "name": "pex pipe",
+      "aliases": [
+        "PEX pipe",
+        "cross linked polyethylene pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "pipe fitting",
+      "aliases": [
+        "elbow",
+        "tee",
+        "reducer"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "polyvinyl chloride pipe",
+      "aliases": [
+        "PVC pipe",
+        "uPVC pipe",
+        "PVC conduit",
+        "unplasticized pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 4985",
+        "IS 10157",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "ppr pipe",
+      "aliases": [
+        "PPR pipe",
+        "polypropylene random pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "pvc conduit",
+      "aliases": [
+        "conduit",
+        "PVC conduit",
+        "electrical conduit"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 9537",
+        "UL 651"
+      ]
+    },
+    {
+      "name": "rcc hume pipe",
+      "aliases": [
+        "RCC pipe",
+        "NP3 pipe",
+        "NP4 pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "stainless steel pipe",
+      "aliases": [
+        "SS pipe",
+        "stainless tube"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "stoneware pipe",
+      "aliases": [
+        "SW pipe",
+        "vitrified clay pipe"
+      ],
+      "category": "piping",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 1239",
+        "ASTM D1785"
+      ]
+    },
+    {
+      "name": "bituminous concrete",
+      "aliases": [
+        "BC",
+        "asphalt concrete"
+      ],
+      "category": "roads",
+      "common_units": [
+        "cum",
+        "sqm",
+        "MT"
+      ],
+      "common_standards": [
+        "MoRTH",
+        "IS 73"
+      ]
+    },
+    {
+      "name": "dense bituminous macadam",
+      "aliases": [
+        "DBM",
+        "bituminous macadam"
+      ],
+      "category": "roads",
+      "common_units": [
+        "cum",
+        "sqm",
+        "MT"
+      ],
+      "common_standards": [
+        "MoRTH",
+        "IS 73"
+      ]
+    },
+    {
+      "name": "granular sub base",
+      "aliases": [
+        "GSB",
+        "subbase aggregate"
+      ],
+      "category": "roads",
+      "common_units": [
+        "cum",
+        "sqm",
+        "MT"
+      ],
+      "common_standards": [
+        "MoRTH",
+        "IS 73"
+      ]
+    },
+    {
+      "name": "mastic asphalt",
+      "aliases": [
+        "MA",
+        "asphalt mastic"
+      ],
+      "category": "roads",
+      "common_units": [
+        "cum",
+        "sqm",
+        "MT"
+      ],
+      "common_standards": [
+        "MoRTH",
+        "IS 73"
+      ]
+    },
+    {
+      "name": "prime coat emulsion",
+      "aliases": [
+        "bitumen primer",
+        "prime coat"
+      ],
+      "category": "roads",
+      "common_units": [
+        "cum",
+        "sqm",
+        "MT"
+      ],
+      "common_standards": [
+        "MoRTH",
+        "IS 73"
+      ]
+    },
+    {
+      "name": "tack coat emulsion",
+      "aliases": [
+        "tack coat",
+        "bitumen emulsion"
+      ],
+      "category": "roads",
+      "common_units": [
+        "cum",
+        "sqm",
+        "MT"
+      ],
+      "common_standards": [
+        "MoRTH",
+        "IS 73"
+      ]
+    },
+    {
+      "name": "wet mix macadam",
+      "aliases": [
+        "WMM",
+        "wet macadam"
+      ],
+      "category": "roads",
+      "common_units": [
+        "cum",
+        "sqm",
+        "MT"
+      ],
+      "common_standards": [
+        "MoRTH",
+        "IS 73"
+      ]
+    },
+    {
+      "name": "fiber cement sheet",
+      "aliases": [
+        "fiber cement",
+        "FC sheet",
+        "non asbestos sheet",
+        "ACC sheet"
+      ],
+      "category": "roofing",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 14862"
+      ]
+    },
+    {
+      "name": "gutters",
+      "aliases": [
+        "gutter",
+        "rainwater gutter",
+        "GI gutter",
+        "valley gutter"
+      ],
+      "category": "roofing",
+      "common_units": [
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 1038"
+      ]
+    },
+    {
+      "name": "polycarbonate sheet",
+      "aliases": [
+        "polycarbonate",
+        "PC sheet",
+        "polycarbonate roofing"
+      ],
+      "category": "roofing",
+      "common_units": [
+        "sqm",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 14496"
+      ]
+    },
+    {
+      "name": "roofing sheet",
+      "aliases": [
+        "roof sheet",
+        "GI sheet",
+        "color coated sheet",
+        "PPGL",
+        "aluminum sheet"
+      ],
+      "category": "roofing",
+      "common_units": [
+        "sqm",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 277",
+        "IS 14222"
+      ]
+    },
+    {
+      "name": "faucet",
+      "aliases": [
+        "tap",
+        "bib cock",
+        "pillar cock"
+      ],
+      "category": "sanitary",
+      "common_units": [
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 2556",
+        "IS 781"
+      ]
+    },
+    {
+      "name": "floor drain",
+      "aliases": [
+        "FD",
+        "drain grating"
+      ],
+      "category": "sanitary",
+      "common_units": [
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 2556",
+        "IS 781"
+      ]
+    },
+    {
+      "name": "shower mixer",
+      "aliases": [
+        "diverter",
+        "bath mixer"
+      ],
+      "category": "sanitary",
+      "common_units": [
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 2556",
+        "IS 781"
+      ]
+    },
+    {
+      "name": "sink",
+      "aliases": [
+        "kitchen sink",
+        "SS sink"
+      ],
+      "category": "sanitary",
+      "common_units": [
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 2556",
+        "IS 781"
+      ]
+    },
+    {
+      "name": "urinal",
+      "aliases": [
+        "wall hung urinal",
+        "sensor urinal"
+      ],
+      "category": "sanitary",
+      "common_units": [
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 2556",
+        "IS 781"
+      ]
+    },
+    {
+      "name": "wash basin",
+      "aliases": [
+        "WB",
+        "lavatory basin"
+      ],
+      "category": "sanitary",
+      "common_units": [
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 2556",
+        "IS 781"
+      ]
+    },
+    {
+      "name": "water closet",
+      "aliases": [
+        "WC",
+        "western commode"
+      ],
+      "category": "sanitary",
+      "common_units": [
+        "nos",
+        "set"
+      ],
+      "common_standards": [
+        "IS 2556",
+        "IS 781"
+      ]
+    },
+    {
+      "name": "granite slab",
+      "aliases": [
+        "granite",
+        "granite stone"
+      ],
+      "category": "stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1121",
+        "IS 1124"
+      ]
+    },
+    {
+      "name": "kadappa stone",
+      "aliases": [
+        "cuddapah stone",
+        "kadappa slab"
+      ],
+      "category": "stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1121",
+        "IS 1124"
+      ]
+    },
+    {
+      "name": "kota stone",
+      "aliases": [
+        "kota slab",
+        "limestone slab"
+      ],
+      "category": "stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1121",
+        "IS 1124"
+      ]
+    },
+    {
+      "name": "marble slab",
+      "aliases": [
+        "marble",
+        "marble stone"
+      ],
+      "category": "stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1121",
+        "IS 1124"
+      ]
+    },
+    {
+      "name": "quartz stone",
+      "aliases": [
+        "engineered quartz",
+        "quartz slab"
+      ],
+      "category": "stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1121",
+        "IS 1124"
+      ]
+    },
+    {
+      "name": "sandstone",
+      "aliases": [
+        "sand stone",
+        "sandstone slab"
+      ],
+      "category": "stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1121",
+        "IS 1124"
+      ]
+    },
+    {
+      "name": "slate stone",
+      "aliases": [
+        "slate slab",
+        "natural slate"
+      ],
+      "category": "stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1121",
+        "IS 1124"
+      ]
+    },
+    {
+      "name": " Expansion seal",
+      "aliases": [
+        "expansion seal",
+        "gap seal",
+        "joint seal"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "rmt",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 11906"
+      ]
+    },
+    {
+      "name": "bentonite membrane",
+      "aliases": [
+        "bentonite sheet",
+        "sodium bentonite membrane"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 2645",
+        "ASTM D412"
+      ]
+    },
+    {
+      "name": "brickbat coba",
+      "aliases": [
+        "brickbat coba",
+        "brickbat waterproofing",
+        "lime concrete"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "cum",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 3144"
+      ]
+    },
+    {
+      "name": "crystalline waterproofing",
+      "aliases": [
+        "crystalline coating",
+        "integral crystalline"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 2645",
+        "ASTM D412"
+      ]
+    },
+    {
+      "name": "damp proof course",
+      "aliases": [
+        "DPC",
+        "damp proof course",
+        "damp proofing"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 3067",
+        "IS 3495"
+      ]
+    },
+    {
+      "name": "expansion joint filler",
+      "aliases": [
+        "joint filler board",
+        "bitumen impregnated board"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 2645",
+        "ASTM D412"
+      ]
+    },
+    {
+      "name": "liquid waterproofing",
+      "aliases": [
+        "liquid applied membrane",
+        "LAM"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 2645",
+        "ASTM D412"
+      ]
+    },
+    {
+      "name": "polysulphide sealant",
+      "aliases": [
+        "polysulfide sealant",
+        "joint sealant"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 2645",
+        "ASTM D412"
+      ]
+    },
+    {
+      "name": "polythene sheet",
+      "aliases": [
+        "polythene",
+        "polyethylene sheet",
+        "vapor barrier"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1582"
+      ]
+    },
+    {
+      "name": "silicone sealant",
+      "aliases": [
+        "weather sealant",
+        "structural silicone"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm",
+        "kg",
+        "ltr"
+      ],
+      "common_standards": [
+        "IS 2645",
+        "ASTM D412"
+      ]
+    },
+    {
+      "name": "tarfelt",
+      "aliases": [
+        "tarfelt",
+        "roofing felt",
+        "bitumen felt"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1322"
+      ]
+    },
+    {
+      "name": "waterproofing chemical",
+      "aliases": [
+        "waterproofing chemical",
+        "acrylic",
+        "SBR latex",
+        "integral waterproofing"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "ltr",
+        "kg"
+      ],
+      "common_standards": [
+        "IS 9103"
+      ]
+    },
+    {
+      "name": "waterproofing membrane",
+      "aliases": [
+        "membrane",
+        "bitumen membrane",
+        "APP membrane",
+        "self adhesive membrane"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1582",
+        "IS 1322"
+      ]
+    },
+    {
+      "name": "weathering course",
+      "aliases": [
+        "weathering course",
+        "terrace waterproofing",
+        "topping"
+      ],
+      "category": "waterproofing",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 3144"
+      ]
+    },
+    {
+      "name": "door frame",
+      "aliases": [
+        "door frame",
+        "wooden frame",
+        "sal frame",
+        "teak frame"
+      ],
+      "category": "wood",
+      "common_units": [
+        "nos",
+        "rmt"
+      ],
+      "common_standards": [
+        "IS 1003"
+      ]
+    },
+    {
+      "name": "flush door",
+      "aliases": [
+        "door",
+        "flush door",
+        "ply door",
+        "solid core door"
+      ],
+      "category": "wood",
+      "common_units": [
+        "nos",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 2202"
+      ]
+    },
+    {
+      "name": "particle board",
+      "aliases": [
+        "particle board",
+        "chipboard",
+        "MDF",
+        "medium density fiberboard"
+      ],
+      "category": "wood",
+      "common_units": [
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 3097",
+        "IS 5765"
+      ]
+    },
+    {
+      "name": "plywood",
+      "aliases": [
+        "plywood",
+        "ply",
+        "bwr plywood",
+        "mr plywood",
+        "marine plywood"
+      ],
+      "category": "wood",
+      "common_units": [
+        "sqm",
+        "nos"
+      ],
+      "common_standards": [
+        "IS 303",
+        "IS 710"
+      ]
+    },
+    {
+      "name": "timber",
+      "aliases": [
+        "wood",
+        "timber",
+        "sawn timber",
+        "tectona grandis",
+        "teak"
+      ],
+      "category": "wood",
+      "common_units": [
+        "cum",
+        "rmt",
+        "sqm"
+      ],
+      "common_standards": [
+        "IS 1003",
+        "IS 3622"
+      ]
+    },
+    {
+      "name": "Shahabad stone",
+      "aliases": [
+        "Shahabad",
+        "Shahabad limestone",
+        "yellow limestone"
+      ],
+      "category": "natural_stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1122"
+      ]
+    },
+    {
+      "name": "laterite stone",
+      "aliases": [
+        "laterite",
+        "laterite block"
+      ],
+      "category": "natural_stone",
+      "common_units": [
+        "sqm",
+        "cum"
+      ],
+      "common_standards": [
+        "IS 1122"
+      ]
+    }
+  ]
+}

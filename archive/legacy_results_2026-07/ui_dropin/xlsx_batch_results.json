@@ -1,0 +1,104 @@
+{
+  "results": [
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/swa_enquiries/02_isro_vssc/VSSC_BOQ_with_qty.xlsx",
+      "items": 4,
+      "time_sec": 0.01,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/swa_enquiries/03_zydus_matoda_osd/Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "items": 33,
+      "time_sec": 0.02,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "items": 20,
+      "time_sec": 0.02,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "items": 0,
+      "time_sec": 0.0,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/swa_enquiries/08_sael/Copy of Insulation Enquiry - SAEL.xlsx",
+      "items": 16,
+      "time_sec": 0.02,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/swa_enquiries/08_sael/Copy of TDS - Insulation - SAEL (1).xlsx",
+      "items": 25,
+      "time_sec": 0.01,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/ALL_RFQS/spec2__BOQ - Insulation.xlsx",
+      "items": 47,
+      "time_sec": 0.46,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/ALL_RFQS/spec2__Insulation ARFF.xlsx",
+      "items": 0,
+      "time_sec": 0.01,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/ALL_RFQS/spec2__Insulation Medical.xlsx",
+      "items": 15,
+      "time_sec": 0.02,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/ALL_RFQS/spec2__BOQ - Insulation.xlsx",
+      "items": 47,
+      "time_sec": 0.5,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/ALL_RFQS/sacred10__Copy of Insulation Enquiry - SAEL.xlsx",
+      "items": 16,
+      "time_sec": 0.01,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/ALL_RFQS/bundle_sael__Copy of TDS - Insulation - SAEL (1).xlsx",
+      "items": 25,
+      "time_sec": 0.01,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/ALL_RFQS/sacred10__Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "items": 20,
+      "time_sec": 0.02,
+      "status": "ok"
+    },
+    {
+      "doc_id": "?",
+      "path": "data/real_rfqs/ALL_RFQS/bundle_zydus_animal_health__Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "items": 0,
+      "time_sec": 0.0,
+      "status": "ok"
+    }
+  ],
+  "errors": [],
+  "total_items": 268
+}

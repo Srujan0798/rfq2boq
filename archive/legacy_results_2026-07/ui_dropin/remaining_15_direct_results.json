@@ -1,0 +1,123 @@
+[
+  {
+    "file": "rar__TENDER.pdf",
+    "items": 0,
+    "time_sec": 0.58,
+    "status": "ok",
+    "chars": 14,
+    "entities": 0,
+    "relations": 0
+  },
+  {
+    "file": "spec1__SPECS - INSULATION.pdf",
+    "items": 0,
+    "time_sec": 0.49,
+    "status": "error",
+    "error": "1 validation error for EntitySpan\nsource\n  Input should be 'BERT', 'GAZETTEER', 'REGEX', 'MANUAL' or 'GOLD' [type=enum, "
+  },
+  {
+    "file": "spec1__TENDER (1) (1).pdf",
+    "items": 0,
+    "time_sec": 0.38,
+    "status": "ok",
+    "chars": 34,
+    "entities": 0,
+    "relations": 0
+  },
+  {
+    "file": "spec2__Accoustic Wall Insulation for DCS High Side Project.pdf",
+    "items": 0,
+    "time_sec": 0.32,
+    "status": "error",
+    "error": "1 validation error for EntitySpan\nsource\n  Input should be 'BERT', 'GAZETTEER', 'REGEX', 'MANUAL' or 'GOLD' [type=enum, "
+  },
+  {
+    "file": "spec2__2.Copper & Drain Pipe Insulation _Tender Specs_Bajaj_Colaba House.pdf",
+    "items": 0,
+    "time_sec": 0.31,
+    "status": "ok",
+    "chars": 27,
+    "entities": 0,
+    "relations": 0
+  },
+  {
+    "file": "spec2__1.Thermal Insulation - Tender Specs_Bajaj_Colaba House.pdf",
+    "items": 0,
+    "time_sec": 0.41,
+    "status": "ok",
+    "chars": 29,
+    "entities": 0,
+    "relations": 0
+  },
+  {
+    "file": "spec1__Tender (2).pdf",
+    "items": 0,
+    "time_sec": 0.37,
+    "status": "ok",
+    "chars": 21,
+    "entities": 0,
+    "relations": 0
+  },
+  {
+    "file": "spec1__Tender (4) (1).pdf",
+    "items": 0,
+    "time_sec": 0.37,
+    "status": "ok",
+    "chars": 21,
+    "entities": 0,
+    "relations": 0
+  },
+  {
+    "file": "spec1__OEPMC-EQS-0000-EC-00008_R05_ thermal insulation TS.pdf",
+    "items": 0,
+    "time_sec": 12.57,
+    "status": "error",
+    "error": "1 validation error for EntitySpan\nsource\n  Input should be 'BERT', 'GAZETTEER', 'REGEX', 'MANUAL' or 'GOLD' [type=enum, "
+  },
+  {
+    "file": "spec2__DC-90 (DC 37801 )INSULATION - (Sample).pdf",
+    "items": 0,
+    "time_sec": 0.02,
+    "status": "ok",
+    "note": "no text"
+  },
+  {
+    "file": "spec2__Tender Specs.pdf",
+    "items": 0,
+    "time_sec": 0.49,
+    "status": "ok",
+    "chars": 132,
+    "entities": 0,
+    "relations": 0
+  },
+  {
+    "file": "spec2__1_Specification Compliance.pdf",
+    "items": 0,
+    "time_sec": 0.22,
+    "status": "ok",
+    "chars": 55,
+    "entities": 0,
+    "relations": 0
+  },
+  {
+    "file": "spec2__Adani Pune, Compliance FIle Updated.pdf",
+    "items": 0,
+    "time_sec": 0.33,
+    "status": "error",
+    "error": "1 validation error for EntitySpan\nsource\n  Input should be 'BERT', 'GAZETTEER', 'REGEX', 'MANUAL' or 'GOLD' [type=enum, "
+  },
+  {
+    "file": "bundle_avante__Insulation Specs_132.pdf",
+    "items": 0,
+    "time_sec": 1.0,
+    "status": "error",
+    "error": "1 validation error for EntitySpan\nsource\n  Input should be 'BERT', 'GAZETTEER', 'REGEX', 'MANUAL' or 'GOLD' [type=enum, "
+  },
+  {
+    "file": "sacred10__Insulation Specs_132.pdf",
+    "items": 0,
+    "time_sec": 1.0,
+    "status": "error",
+    "error": "1 validation error for EntitySpan\nsource\n  Input should be 'BERT', 'GAZETTEER', 'REGEX', 'MANUAL' or 'GOLD' [type=enum, "
+  }
+]

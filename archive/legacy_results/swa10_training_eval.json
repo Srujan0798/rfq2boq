@@ -1,0 +1,79 @@
+{
+  "train_docs": [
+    "01_gsecl_wanakbori_tmd8",
+    "02_isro_vssc",
+    "03_zydus_matoda_osd",
+    "04_adani",
+    "05_zydus_animal_pharmez",
+    "06_avante_kirloskar_pune",
+    "07_grew_solar_narmadapuram",
+    "08_sael"
+  ],
+  "heldout_docs": [
+    "09_gem_bid_7439924",
+    "10_gem_bid_7552777"
+  ],
+  "train_doc_statuses": {
+    "01_gsecl_wanakbori_tmd8": "complete",
+    "02_isro_vssc": "auto-converted-from-xlsx",
+    "03_zydus_matoda_osd": "auto-converted-from-xlsx",
+    "04_adani": "complete",
+    "05_zydus_animal_pharmez": "auto-converted-from-xlsx",
+    "06_avante_kirloskar_pune": "complete",
+    "07_grew_solar_narmadapuram": "complete",
+    "08_sael": "auto-converted-from-xlsx"
+  },
+  "heldout_doc_statuses": {
+    "09_gem_bid_7439924": "ai-precleaned-needs-human-signoff",
+    "10_gem_bid_7552777": "ai-precleaned-needs-human-signoff"
+  },
+  "train_entities": 3853,
+  "heldout_entities": 1035,
+  "val_results": {
+    "eval_loss": 3.754763603210449,
+    "eval_precision": 0.0,
+    "eval_recall": 0.0,
+    "eval_f1": 0.0,
+    "eval_MATERIAL_f1": 0.0,
+    "eval_QUANTITY_f1": 0.0,
+    "eval_UNIT_f1": 0.0,
+    "eval_DIMENSION_f1": 0.0,
+    "eval_STANDARD_f1": 0.0,
+    "eval_GRADE_f1": 0.0,
+    "eval_LOCATION_f1": 0.0,
+    "eval_ACTION_f1": 0.0,
+    "eval_runtime": 11.163,
+    "eval_samples_per_second": 0.179,
+    "eval_steps_per_second": 0.09,
+    "epoch": 3.0
+  },
+  "heldout_results": {
+    "eval_loss": 3.6353352069854736,
+    "eval_precision": 0.0,
+    "eval_recall": 0.0,
+    "eval_f1": 0.0,
+    "eval_MATERIAL_f1": 0.0,
+    "eval_QUANTITY_f1": 0.0,
+    "eval_UNIT_f1": 0.0,
+    "eval_DIMENSION_f1": 0.0,
+    "eval_STANDARD_f1": 0.0,
+    "eval_GRADE_f1": 0.0,
+    "eval_LOCATION_f1": 0.0,
+    "eval_ACTION_f1": 0.0,
+    "eval_runtime": 1.2658,
+    "eval_samples_per_second": 1.58,
+    "eval_steps_per_second": 0.79,
+    "epoch": 3.0
+  },
+  "training_minutes": 23.436853321393333,
+  "model_dir": "models/rfq2boq-ner-lora-swa10",
+  "base_model": "bert-base-cased",
+  "honesty_notes": [
+    "No synthetic data used.",
+    "No pseudo-labels used.",
+    "Document-level split, no token leakage.",
+    "Held-out (09, 10) never seen during training.",
+    "Held-out gold is auto-drafted (ai-precleaned-needs-human-signoff); F1 is upper-bounded by gold noise.",
+    "Adapter saved to NEW directory; existing v5 production model untouched."
+  ]
+}

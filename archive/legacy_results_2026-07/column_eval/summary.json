@@ -1,0 +1,35 @@
+{
+  "docs": [
+    {
+      "doc_id": "VSSC_BOQ_with_qty",
+      "path": "/Users/srujansai/rfq2boq-phase9/data/real_rfqs/swa_enquiries/02_isro_vssc/VSSC_BOQ_with_qty.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "n_tables": 0,
+      "n_rows": 0,
+      "diagnostics_count": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Zydus_Matoda_Insulation_Enquiry",
+      "path": "/Users/srujansai/rfq2boq-phase9/data/real_rfqs/swa_enquiries/03_zydus_matoda_osd/Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "n_tables": 0,
+      "n_rows": 0,
+      "diagnostics_count": 0,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE2adani proj",
+      "path": "/Users/srujansai/rfq2boq-phase9/data/real_rfqs/swa_enquiries/04_adani/BOQ PAGE2adani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "n_tables": 1,
+      "n_rows": 6,
+      "diagnostics_count": 1,
+      "error": null
+    }
+  ],
+  "n_docs": 3
+}

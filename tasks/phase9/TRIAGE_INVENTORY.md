@@ -1,0 +1,1124 @@
+# T1 Cross-repo inventory
+
+Generated: 2026-07-15 from `TRIAGE_INVENTORY_raw.txt` (1072 raw diff lines).
+
+Scope: read-only classification of every path that differs between `~/Desktop/rfq2boq` (Desktop) and `~/rfq2boq-phase9` (phase9-final). No files were moved, copied, or deleted.
+
+## Summary counts
+
+- Total differing paths: **1072**
+- 1. Desktop-only valuable data (T3 candidates): **432**
+- 2. Desktop-only superseded/nonsense (ignore): **382**
+- 3. phase9-final-only (keep): **161**
+- 4. In both but different: **97**
+
+## Method
+
+Valuable data = files under `data/incoming/`, `data/ontology/`, `data/annotations/`, `data/real_rfqs/` (excluding gold/source_truth/corpus manifests), and `resources/`. All other Desktop-only paths (code drafts, logs, caches, old deliverables, results, scripts, docs, hidden agent folders, root handoff fiction) are classified superseded.
+
+## 1. Desktop-only valuable data (T3 candidates)
+
+- `/data/annotations/draft/01__JN3102-H31-EWE305-815-001_Technical_Specifications_for_HVAC_Low_Side_System.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/108__BOQ_compliance__Grew_Energy.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/108__Specification_compliance__Grew_Energy.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/108__TDS_Fill_up__Grew_Energy.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/162_HVAC_SPECIFICATIONS-156-158.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/181_Insulation_Excel.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/183__INSULATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/1_HVAC_SPECIFICATIONS-156-158.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/1_Specification_Compliance.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/1_Thermal_Insulation_-_Tender_Specs_Bajaj_Colaba_House.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/23_07_13_01_Ductwork_Insulation__Schedule_r0.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/23_07_13_Ductwork_Insulation_r0.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/23_07_13_Ductwork_Insulation_rA.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/2_Copper___Drain_Pipe_Insulation__Tender_Specs_Bajaj_Colaba_House.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/2__HVAC_SPECIFICATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/37__RPMS-ENGG-SPC-HV-019-Thermal_insulation.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/47_Pipe_Insulation_BOQ_Compliance.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/ADANI_KARNAVATI_-_INSULATION_-_SPECIFICATION_COMPLIANCE.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Accoustic_Wall_Insulation_for_DCS_High_Side_Project.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Adani_Pune__Compliance_FIle_Updated.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Annexure-3_DS-CHW-Insulation-Nitrile-Rubber.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Annexure-K7-B-GCC_for_Indigenous_Supplies-R3.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/BOQ-_Insulation_Compliance.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/BOQ.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/BOQ_-_INSULATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/BOQ_PAGE.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/BOQ_PAGE__003_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/BOQ_Thermal_Insulation.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/CISF_EXTENSION_-HVAC-_PC-TS.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/COMPLIANCE_REPORT_SHEET-_Sleeve_Ref_Copper_Pipe.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Compliance_Sheet.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Copy_of_BOQ.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Copy_of_Duct_Insulation_Compliance_Sheet_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Copy_of_Inquiry_for_Duct_Insulation_of_Proj-1017_Bioltus_Valsad_56642_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Copy_of_Insulation_13-12-24_Inner_58795_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Copy_of_Insulation_Enquiry_-_SAEL.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Copy_of_SWPL-ADANI-HVAC-PR-RFQ-18_Wall_Acountic_Insulation_53047_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Copy_of_UBS_Hyderabad_Project_BOQ_1_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/DC-90__DC_37801__INSULATION_-__Sample_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/D_1_1_11-THERMAL_INSULATION_FOR_COLD_SURFACES.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Enquiry_for_Thermal_Insulation_for_CHW_Pipe.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Gopin_-_Insulation_TDS.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/HVAC_Duct_-_Insulation_Specification_Imphal__1_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/INSULATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/INSULATION_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/INSULATION_BOQ_BLUEGRASS.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/INSULATION_TECHNICAL_TO_BE_FILLED_BY_VENDOR.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/INSULATION_TECH_SPEC.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/INSULATION_TENDER_SPECIFICATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/INSULATION_TENDER_SPECIFICATION_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation_ARFF.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation_Boq__1_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation_Boq__2_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation_For_Pipes-Spects_-_CHW_Pipes_-_20-11-205.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation_Medical.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation_Specs.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation_Specs_132.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation_TS.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Insulation__1_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/KRC_Cignus_2_Phase_4_Powai.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/LGE_-_Technical_specification-45-51.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER_TANK.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/MECHANICAL_DATA_SHEET_FOR_INSULATION_-_RIL_INGOT_WAFER_JAMNAGAR.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Make_list_-_Gopin.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Nitrile_insulation_-_Revised.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/OEPMC-EQS-0000-EC-00008_R05__thermal_insulation_TS.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Response_to_Prebid_Queries_-_20241228.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Specification_Insulation_GBRC.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Specs_Thermal_Insulation_Bajaj_House.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/TDS_-_Insulation_Ducting.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/TDS_-_Insulation_Piping.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/TECHNICAL_SPECIFICATION_OF_INSULATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Technical_Compliance-_Aquachill__CEAT__Halol_dt_09_06_2025.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Tender_Specs.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Tender_Specs__1_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/Tendor_Specs_-_Wall_Accoustic.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/swa_draft_01_gsecl_wanakbori_tmd8.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/swa_draft_04_adani.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/swa_draft_06_avante_kirloskar_pune.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/draft/swa_draft_07_grew_solar_narmadapuram.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/.gitkeep` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/.queue_progress.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/2_Copper___Drain_Pipe_Insulation__Tender_Specs_Bajaj_Colaba_House.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/2__HVAC_SPECIFICATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/BOQ-_Insulation_Compliance.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/BOQ_-_Insulation.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/BOQ_Thermal_Insulation.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/CISF_EXTENSION_-HVAC-_PC-TS.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/COMPLIANCE_REPORT_SHEET-_Sleeve_Ref_Copper_Pipe.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Compliance_Sheet.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Copy_of_BOQ.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Copy_of_Duct_Insulation_Compliance_Sheet_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Copy_of_Insulation_13-12-24_Inner_58795_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Copy_of_UBS_Hyderabad_Project_BOQ_1_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Enquiry_for_Thermal_Insulation_for_CHW_Pipe.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Gopin_-_Insulation_TDS.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/HVAC_Duct_-_Insulation_Specification_Imphal__1_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/INSULATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/INSULATION_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/INSULATION_BOQ_BLUEGRASS.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/INSULATION_TECHNICAL_TO_BE_FILLED_BY_VENDOR.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/INSULATION_TECH_SPEC.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/INSULATION_TENDER_SPECIFICATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/INSULATION_TENDER_SPECIFICATION_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Insulation_ARFF.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Insulation_Boq__1_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Insulation_Boq__2_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Insulation_For_Pipes-Spects_-_CHW_Pipes_-_20-11-205.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Insulation_Medical.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Insulation_Specs.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Insulation_TS.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Insulation__1_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/KRC_Cignus_2_Phase_4_Powai.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/LGE_-_Technical_specification-45-51.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/MECHANICAL_DATA_SHEET_FOR_INSULATION_-_RIL_INGOT_WAFER_JAMNAGAR.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Make_list_-_Gopin.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Nitrile_insulation_-_Revised.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/OEPMC-EQS-0000-EC-00008_R05__thermal_insulation_TS.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Response_to_Prebid_Queries_-_20241228.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/SPECS_-_INSULATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/SWPL-PER-HVAC-RFQ-02__Thermal___Acoustic_Insulation_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Specs_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Specs_Thermal_Insulation_Bajaj_House.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TDS_-_Insulation_Ducting.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TDS_-_Insulation_Piping.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TDS_-_to_be_filled_by_vendor.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TECHNICAL_SPECIFICATION_OF_INSULATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TENDER.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TENDER_-_INSULATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TENDER_SPECIFICATION-ACCOUSTIC_INSULATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TENDER_SPECIFICATION-_CHW_PIPE_INSULATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/TENDER__1___1_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Tech_Specs__-_Insulation.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Technical_Compliance-_Aquachill__CEAT__Halol_dt_09_06_2025.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Technical_Specification-_Insulatiom.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Technical_specifciation__Thermal___acoustic_insulation.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Tender_Specs.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Tender_Specs__1_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Tender__2_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Tender__4___1_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/Tender__5_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/boq.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/rockwool-acu_.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/drafts/spec2__INSULATION.draft.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/real_specs_silver.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/162_HVAC_SPECIFICATIONS-156-158.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/181_Insulation_Excel.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/23_07_13_01_Ductwork_Insulation__Schedule_r0.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/23_07_13_Ductwork_Insulation_r0.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/2__HVAC_SPECIFICATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/BOQ_-_INSULATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/BOQ_PAGE.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/CISF_EXTENSION_-HVAC-_PC-TS.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/Copy_of_Insulation_13-12-24_Inner_58795_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/Copy_of_UBS_Hyderabad_Project_BOQ_1_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/Enquiry_for_Thermal_Insulation_for_CHW_Pipe.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/Gopin_-_Insulation_TDS.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/INSULATION_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/INSULATION_TENDER_SPECIFICATION.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/INSULATION_TENDER_SPECIFICATION_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/Insulation_Medical.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/Insulation__1_.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/Make_list_-_Gopin.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_01_gsecl_wanakbori_tmd8_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_01_gsecl_wanakbori_tmd8_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_01_gsecl_wanakbori_tmd8_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_02_isro_vssc_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_02_isro_vssc_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_02_isro_vssc_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_02_isro_vssc_003.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_02_isro_vssc_004.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_003.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_004.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_005.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_006.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_007.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_008.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_009.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_010.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_011.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_012.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_013.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_014.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_015.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_016.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_017.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_018.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_019.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_020.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_021.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_022.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_023.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_024.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_025.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_026.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_027.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_028.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_029.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_030.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_031.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_03_zydus_matoda_osd_032.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_003.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_004.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_005.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_006.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_007.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_008.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_009.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_010.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_011.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_012.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_013.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_014.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_015.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_016.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_017.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_018.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_019.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_020.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_021.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_022.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_023.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_024.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_025.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_026.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_027.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_028.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_029.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_030.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_031.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_032.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_033.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_034.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_035.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_036.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_037.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_038.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_039.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_040.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_041.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_042.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_043.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_04_adani_044.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_003.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_004.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_005.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_006.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_007.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_008.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_009.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_010.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_011.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_012.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_013.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_014.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_015.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_016.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_017.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_018.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_05_zydus_animal_pharmez_019.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_003.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_004.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_005.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_006.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_007.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_008.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_009.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_010.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_011.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_012.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_013.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_014.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_015.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_016.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_017.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_018.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_019.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_020.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_021.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_022.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_023.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_024.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_025.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_026.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_027.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_028.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_029.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_06_avante_kirloskar_pune_030.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_003.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_004.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_005.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_006.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_007.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_07_grew_solar_narmadapuram_008.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_003.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_004.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_005.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_006.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_007.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_008.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_009.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_010.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_011.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_012.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_013.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_014.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_015.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_016.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_017.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_018.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_019.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_020.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_09_gem_bid_7439924_021.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_000.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_001.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_002.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_003.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_004.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_005.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_006.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_007.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_008.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/rowgold_10_gem_bid_7552777_009.json` — real annotation work (provenance to be checked in T4)
+- `/data/annotations/verified/training_manifest.json` — real annotation work (provenance to be checked in T4)
+- `/data/incoming/01. JN3102-H31-EWE305-815-001 Technical Specifications for HVAC Low Side System.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/1.Thermal Insulation - Tender Specs_Bajaj_Colaba House.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/108, BOQ compliance, Grew Energy.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/108, Specification compliance, Grew Energy.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/108, TDS Fill up, Grew Energy.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/162_HVAC SPECIFICATIONS-156-158.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/181_Insulation Excel.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/183_.INSULATION.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/1_HVAC SPECIFICATIONS-156-158.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/1_Specification Compliance.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/2. HVAC SPECIFICATION.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/2.Copper & Drain Pipe Insulation _Tender Specs_Bajaj_Colaba House.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/23 07 13 Ductwork Insulation.r0.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/23 07 13 Ductwork Insulation.rA.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/23 07 13.01 Ductwork Insulation, Schedule.r0.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/37. RPMS-ENGG-SPC-HV-019-Thermal insulation.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/47_Pipe Insulation_BOQ Compliance.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/ADANI_KARNAVATI - INSULATION - SPECIFICATION COMPLIANCE.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Accoustic Wall Insulation for DCS High Side Project.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Adani Pune, Compliance FIle Updated.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Annexure-3 DS-CHW-Insulation-Nitrile-Rubber.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Annexure-K7-B-GCC for Indigenous Supplies-R3.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/BOQ - INSULATION.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/BOQ - Insulation.xlsx` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/BOQ PAGE (003).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/BOQ PAGE.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/BOQ- Insulation_Compliance.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/BOQ.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/BOQ_Thermal Insulation.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/CISF EXTENSION -HVAC- PC-TS.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/COMPLIANCE REPORT SHEET- Sleeve Ref Copper Pipe.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Compliance Sheet.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Copy of BOQ.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Copy of Duct Insulation Compliance Sheet_.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Copy of Inquiry for Duct Insulation of Proj-1017 Bioltus Valsad(56642).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Copy of Insulation 13-12-24 Inner(58795).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Copy of Insulation Enquiry - SAEL.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Copy of UBS_Hyderabad_Project_BOQ(1).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/D 1.1.11-THERMAL INSULATION FOR COLD SURFACES.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/DC-90 (DC 37801 )INSULATION - (Sample).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Enquiry for Thermal Insulation for CHW Pipe.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Gopin - Insulation TDS.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/HVAC Duct - Insulation Specification Imphal (1).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/INSULATION TECH SPEC.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/INSULATION TECHNICAL TO BE FILLED BY VENDOR.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/INSULATION TENDER SPECIFICATION..pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/INSULATION TENDER SPECIFICATION.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/INSULATION..pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/INSULATION.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/INSULATION_BOQ_BLUEGRASS.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation (1).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation ARFF.xlsx` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation Boq (1).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation Boq (2).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation For Pipes-Spects - CHW Pipes - 20-11-205.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation Medical.xlsx` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation Specs.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation Specs_132.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation TS.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Insulation.xlsx` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/KRC Cignus 2 Phase 4 Powai.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/LGE - Technical specification-45-51.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/MECHANICAL DATA SHEET FOR INSULATION - RIL INGOT WAFER JAMNAGAR.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Make list - Gopin.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Nitrile insulation - Revised.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/OEPMC-EQS-0000-EC-00008_R05_ thermal insulation TS.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Response to Prebid Queries - 20241228.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/SPECS - INSULATION.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Specification_Insulation_GBRC.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Specs_Thermal Insulation_Bajaj House.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/TDS - Insulation Ducting.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/TDS - Insulation Piping.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/TECHNICAL SPECIFICATION OF INSULATION.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Technical Compliance- Aquachill =CEAT, Halol dt 09.06.2025.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Tender Specs (1).pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Tender Specs.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/incoming/Tendor Specs - Wall Accoustic.pdf` — real tender PDF/XLSX not present in phase9-final
+- `/data/ontology/backup` — ontology/gazetteer additions
+- `/data/ontology/insulation_gazetteer_mined.json` — ontology/gazetteer additions
+- `/data/real_rfqs/INTAKE_MANIFEST.csv` — real RFQ corpus metadata/extracted/raw
+- `/data/real_rfqs/extracted` — real RFQ corpus metadata/extracted/raw
+- `/data/real_rfqs/raw` — real RFQ corpus metadata/extracted/raw
+- `/resources/knowledge_base` — SWA-provided resource
+- `/resources/meeting requirments.md` — SWA-provided resource
+
+## 2. Desktop-only superseded/nonsense (ignore)
+
+- `/.claude` — agent session metadata (not source code)
+- `/.codex` — agent session metadata (not source code)
+- `/.grok_handoffs` — agent session metadata (not source code)
+- `/.quarantine_incident14` — not data, not deliverable, ignore
+- `/.ruff_cache/0.15.11/10088341010936004737` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/1023210687491050145` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/10608870935756801452` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/10883552148738219222` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/10904549612285965059` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/11076098564936799725` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/11130603872644896929` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/112122163014791188` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/1149014584536592840` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/11558274608547320940` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/11740463010061399315` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/11781126586431668017` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/11785822035217487491` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/1214176082925640511` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/12251683513623019023` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/12328295041543494181` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/12434074988891308010` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/12511892890150524372` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/12743485779729549603` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/12786598893303555222` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/13009856772432855676` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/13342274694367882429` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/13660874615882376238` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/13800269923610802130` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/14178768553921144293` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/14844059322289152579` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/15056589543914320584` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/15061503768093471872` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/15575054647959174696` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/15806382909218561753` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/15967259204155871576` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/15991126015127602257` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/16045685899470627964` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/16696580173301889517` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/16738579159448505133` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/16877226149649144271` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/16908389140931637022` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/16944902992871291486` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/17241026845062580247` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/17298433362998952977` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/17374522072158513567` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/17804396466144802742` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/17984846469686510675` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/18071745568907962512` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/18303277305499877177` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/18381623174212257721` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/18444126029915329332` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/222879799787916525` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/291837459875936285` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3022391281112524302` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3064665325997961592` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3128912987471909008` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3331099462852944832` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3396185218110069709` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3619846962867014253` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3637879394709767971` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3757391710881017036` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/3824126428796355389` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/4109585369909575531` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/4175227208016732439` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/4325631044699281605` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/4432116291663145766` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/5130505095182162222` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/519621076665267463` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/5322574145025759034` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/6001097443426181625` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/6055652138183859308` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/6148594605589793513` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/6362590865683308612` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/6395186215792685926` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/6631912959893353764` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/6677000585035196098` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/7176685142720955090` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/7258516115933676202` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/7301510561776451274` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/7312850681999120782` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/7876590138917364406` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/7936352558687786104` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/7942866631529925684` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/8328658537605075912` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/8615743402889211060` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/8915401900794278634` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/9272995567897353625` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/938629058318713434` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/9486027939506968619` — tool cache / virtualenv
+- `/.ruff_cache/0.15.11/9801263049144585518` — tool cache / virtualenv
+- `/.ruff_cache/0.15.15` — tool cache / virtualenv
+- `/.ruff_cache/0.15.16` — tool cache / virtualenv
+- `/.ruff_cache/0.15.18` — tool cache / virtualenv
+- `/.ruff_cache/0.4.4` — tool cache / virtualenv
+- `/.session_handoffs` — agent session metadata (not source code)
+- `/.session_merged` — agent session metadata (not source code)
+- `/.venv-lora` — tool cache / virtualenv
+- `/FINAL_HANDOFF_REPORT.md` — fabricated "complete" handoff from contaminated repo
+- `/archive/legacy_docs/SESSION_ARCHAEOLOGY_MASTER.md` — legacy archive already represented differently in phase9-final
+- `/archive/legacy_docs/model_card.md` — legacy archive already represented differently in phase9-final
+- `/archive/legacy_prompts/archive` — legacy archive already represented differently in phase9-final
+- `/archive/legacy_root_docs/FINAL_COMPLETION_SUMMARY.md` — legacy archive already represented differently in phase9-final
+- `/archive/legacy_tasks/FINAL_PLAN.md` — legacy archive already represented differently in phase9-final
+- `/attic/old_handoffs` — archived out-of-scope code
+- `/cli_agents` — not data, not deliverable, ignore
+- `/data/jobs/0140a22a-5a84-4c15-813e-3d71fb009c2c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/02dd2e42-61b9-4f04-8f69-c47139e3314e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/033cd4d7-f399-4f85-9dd5-ed8ed4bcda90.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/049799c7-2624-4443-b858-f6c3ae770cd8.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/04c4a6f1-f464-40f2-b7cf-3e78a7bc67e0.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/06c5ec7c-fb71-41ac-9e6c-121dc75dc61b.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/0b5cd266-c8c6-41e5-8d00-467e98c26f7f.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/0fa25af7-a8ac-4ea4-b8f8-27300e49790d.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/10c5f8a6-5efd-499e-a231-1ff8b8c948b3.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/11600469-4056-49e1-906e-bb4668d2965b.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/11a85947-d8e8-4b6f-9ddd-bf1910b582eb.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/1215c4f1-e6a3-4e31-9c7e-9b8430991bdc.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/12e1349e-eb65-4926-8205-66fefb65f53a.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/1be045ea-1478-476b-bf0c-7ad1702fc3e8.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/1bf4eb1a-39a6-47cc-89e5-0f0f4c2a4d1e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/1c815b5a-e1a8-40a4-8410-7a4f585c5c6e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/1f619c73-0be8-4787-b608-460a1fdd30d5.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/1fabc3e8-1237-4eb6-8214-6baeb576916c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/2027945c-041f-4a18-b8ef-09eb32074b06.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/202cba20-45db-4ed4-97f4-47d36259407c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/20925dd0-29c1-4d4a-b6c9-1655a59000e1.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/23bdf2df-c87c-429d-b757-a6c376ad93a5.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/248e1a7e-af5b-4e07-8d3a-0dd2222fe7e8.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/27d868fc-58a6-4a40-88de-254c4325b5b5.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/28221e32-4d26-46dc-9e55-2cd28eef048b.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/289cb942-bbb5-48d8-9906-061438ae3624.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/29744011-787b-4e5d-ac7b-26271988c803.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/2ad1f405-e0b6-4520-bb39-6f3531c7ec50.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/2ada52d7-dab9-4525-aa75-2f8109b55b74.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/31c389ba-0772-4a1f-979a-ee9bf2d61b19.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/332c36d1-c698-4898-bc4c-2ee19aed0441.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/34b583c4-fcd2-41e9-908f-496adc6c60c9.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/354a0947-a9d8-4f3a-8692-a7ca0136e28b.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/36d0b271-0a16-4a40-a494-fc2a9bf5b9bc.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/39a52705-c0b8-4e22-8074-dd3b87d633f7.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/3ae1ec2b-1fd9-45a9-8b97-673c600f31a4.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/3be9a0a0-e4f7-405e-b616-bdc77b73f07c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/3cd14cc7-e560-4d40-b621-e60c464234f7.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/3e4e71ed-87ca-457c-9ec9-a5bb9fbd308c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/3f8ee221-db2c-465d-9df2-6885555c6dd7.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/45e62a0a-0197-42b6-b5cb-652ff9cc70af.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/471f7758-5689-4889-abaf-d62aa5c56909.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/48a119bc-f6d4-4bb3-9ec7-c1385ce5ddfa.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/4a16ba2d-adb3-442c-a1ae-71dce1ae0545.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/4ad029c3-9abc-4a33-8ed6-251486c28295.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/4ad387a5-762f-4a02-9b27-90f88f1a01e2.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/4b07fa6e-0d3c-4f49-867d-cb4c53f2b8cf.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/4bb8cb29-4089-48fc-9795-4479cac4e466.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/4be1528b-e699-4db8-9a19-a0735343807c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/4d51889c-8317-44ba-8d03-109ef50bfa9a.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/4e91f1de-3534-42d2-88d6-d9061b6fc008.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/53595b14-0d2a-4e1d-8af3-fd678112c27b.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/5b74aef9-2d8c-4e9c-a4d8-622ab336cc6c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/5bfc47fd-54a8-4e9a-bdf9-4493ea31ab16.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/5e22a417-b95c-4242-a8d9-20b0f23e429e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/60479bce-9d5b-44ee-aed3-def8c71337cb.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/60840afa-6ce6-4a12-ba8a-e47da89a135d.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/6a2935ac-e417-49b0-ae73-79d0c2937550.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/6b902c83-61c4-47b5-9aec-a1097bf01f6b.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/70aad49d-a530-4bf4-9d32-2768826f3a18.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/70b9a2b4-2582-4121-b5ed-d92b6936615d.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/714e599e-426b-41e8-9ea6-02e500b43ac6.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/716f0bb6-fdee-4bb4-8370-12edfea6487f.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/71ea463d-a0cf-4c3f-94f1-58ec6e13c900.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/721f21ac-ef53-4cc8-a919-808a4e9fbda7.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/73d75d07-0267-4bc7-a7ca-e72e8bcc9b9c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/75c22331-7830-4446-a3fb-d8b59ac6e119.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/79db7f2e-3975-4466-8fce-6488f3b0fe33.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/7d2e604e-ddb9-4db8-bdde-31a89eca99a2.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/7d32373c-4d2a-46ee-b9d4-00d8110f64ad.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/7fb48bef-f6a4-492a-ab2c-b47c1985527f.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/800208e9-449e-4393-90da-449a990f4102.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/80520c99-c814-4a2f-b60a-41133cf7a4dc.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/80f3a032-444e-4e19-8765-410e251d311d.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/83d6efa7-6f6a-496b-962d-b9fe0d7a2d31.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/83da61e1-a232-47ea-a546-f7a3bf46ed83.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/85ee5edf-ce9e-4b5c-8597-52b93343908e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/871f6e3f-a6a7-4d0d-ae6f-af1a51ff2fbe.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/89f8ed13-55dc-40eb-825a-9fbd29f0c29c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/8a2fff5a-12c1-48aa-beb4-f9f73d2c7108.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/8b91d5eb-2ae3-4ca8-ae50-71e82860cb50.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/8bd3231c-7206-4038-be15-f8037cad5be6.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/8c6a67c9-a75b-4b81-be95-d80158fbf8c8.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/8f9cceed-a122-4dd8-8238-ac101fca8555.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/94da8cd0-ef23-4835-8ba2-d588808a38af.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/952e719f-dffd-4738-8d53-087e0631b258.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/95388641-3a48-44eb-abc0-5be24ceb0385.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/96b994c5-4729-4b36-bad5-cf16f8059d3a.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/97d4763f-f799-498e-8e5a-0b487bcee35e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/98b05a19-9124-4c22-ba4e-3a8b1b9a3023.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/98b8f702-7d9b-4253-835f-f71fbdd0cb6b.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/9aa286c4-bdfe-4366-b774-140c4d23a7e5.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/9cb8317e-2c98-4c63-a151-36ce12ba28aa.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/9ccf6fa9-a8f7-45d2-a65f-4a589d1c0512.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/a56c899b-f619-4c3f-8316-91b2d447a7bc.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/a6aee4c5-e577-4038-9e7e-b22359a87354.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/a6fec517-de30-4b10-9f75-b8898b3249c5.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/a9752085-f59e-4537-806c-3171f0f99305.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/ab6e1649-5e41-42f1-8cc0-a883c77bf3ec.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/adc557e3-474f-4332-a0a2-0c76cd319391.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/af791a47-1905-42fd-b064-c7284ff866c8.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/b0ebf5c8-0466-44fb-b1c6-3a83a26fa53d.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/b327a136-bf9b-4613-a9c8-3dfbcd378c95.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/b434ecab-f5f1-4f70-a695-9dac9429bb04.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/b453d96d-4b0c-4aac-a4d0-14a744e9adbe.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/b527d02a-2146-43c0-bb7d-e570caf114e7.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/b7777032-5c96-4e08-a265-60739b45ba5c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/b8651d74-a6bf-4b9b-975a-7f94f17a3e44.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c0ae8fbe-9ff0-43c3-ad99-5dc7874a7daa.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c19b9b6d-4af5-4474-8b2d-bd6cc0c28c20.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c1b068d0-f78a-44ab-b33d-60b02e5f5388.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c1b5b57a-664d-43fc-88fd-f2d276156cf7.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c1d03da8-80e1-41eb-aa55-c9f0a38108fa.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c21e9a62-6f8e-4d94-a635-723b5994d989.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c3cb5e98-5861-4690-a850-69b4dfe273e6.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c48147c3-0ff6-4255-9327-429437242fe1.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c50cfc1c-e619-4333-9494-f64a79be764a.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c51dde3f-fbb8-44b8-9fee-a27df23a8391.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c81ba924-6084-4d81-8fcd-356ae62a4d3c.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/c8441ef4-3faa-4eff-848b-acc63c163b42.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d1cc9f00-0556-472b-a1df-f59516e50762.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d225cf77-e20c-410d-b3c8-c32bba065055.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d2d134a1-89ed-432f-adfb-1c7bdd62b62a.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d377e33e-3db9-493d-90b2-21caa8d445d0.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d3fdb609-c0b3-48b3-9aca-e36d8299f5d7.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d5435c67-f3f8-4641-8c27-174bafa13154.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d60150e5-96fc-4cf7-bbcb-f193826243e0.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d93c07e2-de57-4b4c-8070-a1a33c70bdfe.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/d9d545a3-f699-46e3-ae4d-ec89e31ef23e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/da7725cf-34c5-41ce-b961-2434cc340183.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/dc28315d-c8fd-46f9-ac02-2e0bbbbe3b77.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/def2c116-fcc5-418d-8584-a28e145eca8f.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/e4045906-dfa4-46c1-85a9-898ae16d97f4.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/e82f3ba5-ab73-4191-93c8-4a3cc0aab4d7.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/ee0f4ecd-d248-462c-a4c8-a36dfc6b7537.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/ee10d9a9-3cb9-43c3-a856-5328cada18ad.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/ee806942-507b-412b-a08c-85a9528d462e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/f0ce6019-e1f3-4b64-8aea-ed5dfa88bd93.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/f2f36690-b100-4780-be9d-0e16e2c63e12.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/f3eba8a6-8eee-4dcd-9ed8-c62eef9d4f92.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/f690e11b-2ffb-4627-bf76-bd4eecea39cf.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/f90c2f69-2749-45e3-90c3-2af79f3138b3.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/f9eaf31f-784f-452d-a15e-735408be7313.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/fa1d259d-09e1-433b-9eb8-f105e9f4f605.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/faebe5b7-f541-4668-9680-8660524a8294.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/jobs/fc84043d-3833-43dd-91c3-e30059ff528e.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/all_documents_list.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/boq_bearing_candidates.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/corpus_canonical_v2.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/corpus_manifest_v2.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/full_corpus_split.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/gold/DONE.txt` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/gold/backup` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/gold/generated` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/source_truth_draft.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/data/real_rfqs/split_test_v2.json` — derived/cached/contaminated data surface (gold drafts, jobs, source_truth variants, split files)
+- `/deliverables/EXECUTIVE_SUMMARY.md` — old/superseded deliverable drafts
+- `/deliverables/FINAL_DELIVERABLE.md` — old/superseded deliverable drafts
+- `/deliverables/FINAL_HONEST_REPORT.md` — old/superseded deliverable drafts
+- `/deliverables/INDEX.md` — old/superseded deliverable drafts
+- `/deliverables/PHASE1_ENGINEERING_STATUS.md` — old/superseded deliverable drafts
+- `/deliverables/README.md` — old/superseded deliverable drafts
+- `/deliverables/REPORT.md` — old/superseded deliverable drafts
+- `/deliverables/SWA_DEMO_GUIDE.md` — old/superseded deliverable drafts
+- `/deliverables/SWA_USER_GUIDE.md` — old/superseded deliverable drafts
+- `/deliverables/TECHNICAL_HANDOFF.md` — old/superseded deliverable drafts
+- `/deliverables/slides` — old/superseded deliverable drafts
+- `/docs/CORPUS_FILTER.md` — old/scoped-out documentation
+- `/docs/ONBOARDING.md` — old/scoped-out documentation
+- `/docs/SCOPE_GUARD.md` — old/scoped-out documentation
+- `/docs/TRAINING_CORPUS.md` — old/scoped-out documentation
+- `/docs/arcbert.md` — old/scoped-out documentation
+- `/docs/conflict_resolution.md` — old/scoped-out documentation
+- `/docs/data_collection.md` — old/scoped-out documentation
+- `/docs/deployment.md` — old/scoped-out documentation
+- `/docs/hindi_support.md` — old/scoped-out documentation
+- `/docs/indicbert.md` — old/scoped-out documentation
+- `/docs/omniclass_mapping.md` — old/scoped-out documentation
+- `/docs/operations.md` — old/scoped-out documentation
+- `/logs/agent_annotations.log` — training/annotation logs (regenerable)
+- `/logs/agent_training.log` — training/annotation logs (regenerable)
+- `/logs/train_lora_draft_all_rfqs.log` — training/annotation logs (regenerable)
+- `/logs/train_lora_draft_all_rfqs_v2.log` — training/annotation logs (regenerable)
+- `/logs/train_lora_draft_bert_cpu128.log` — training/annotation logs (regenerable)
+- `/logs/train_lora_draft_cpu_batch16.log` — training/annotation logs (regenerable)
+- `/logs/train_lora_draft_distil_cpu128.log` — training/annotation logs (regenerable)
+- `/logs/train_lora_human_verified.log` — training/annotation logs (regenerable)
+- `/logs/train_lora_real_only.log` — training/annotation logs (regenerable)
+- `/logs/train_lora_v2_run.log` — training/annotation logs (regenerable)
+- `/output` — not data, not deliverable, ignore
+- `/results/CONSOLIDATED_FINAL_REPORT.md` — old result files / fidelity audits from contaminated runs
+- `/results/PHASE9_MERGE_REPORT.md` — old result files / fidelity audits from contaminated runs
+- `/results/eval_honest.json` — old result files / fidelity audits from contaminated runs
+- `/results/eval_honest_rows.json` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_boq_insulation_compliance_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_boq_insulation_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_boq_page_003_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_boq_page_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_boq_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_copy_of_boq_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_insulation_boq_1_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_insulation_boq_2_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_pipe_insulation_boq_compliance_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec1_tech_specs_insulation_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_boq_insulation_xlsx.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_boq_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_boq_thermal_insulation_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_insulation_arff_xlsx.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_insulation_boq_bluegrass_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_insulation_medical_xlsx.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_insulation_xlsx.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_mech_eipl_buffer_tank_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity/spec2_ubs_hyderabad_boq_pdf.audit.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_2023_13-ITcon-Nabavi.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_Overview_and_analysis_of_the_text_mining.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_RFQ_to_BOQ_Scope_Extraction_using_NLP_sy.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_Semantic-NLP-Based-Information-Extractio.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_Specifications.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_arXiv-2309.13249-Survey-Document-Level-I.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_ci-12-2022-0315.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_cpwd_Guidelines_for_Hassle_Free_Bid_Subm.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_full_corpus.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_full_corpus_sample20.md` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_ireps_2724bb1eff78.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_ireps_bc341034058b.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__108_TDS_Fill_up_Grew_Energy.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__BOQ_PAGEadani_proj.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__Copy_of_Insulation_Enquiry-Zyd.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__Copy_of_Insulation_Enquiry_-_S.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__GeM-Bidding-9218026.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__GeM-Bidding-9343469.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__Insulation_Specs_132.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__RFQ-75810_TMD-8.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__TENDER_SPECIFICATION-ACCOUSTIC.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__VSSC_BOQ_with_qty.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred10__Zydus_Matoda_Insulation_Enquir.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_sacred_2026-07-03.txt` — old result files / fidelity audits from contaminated runs
+- `/results/fidelity_audit_summary.txt` — old result files / fidelity audits from contaminated runs
+- `/results/gem_gold_verification_review.md` — old result files / fidelity audits from contaminated runs
+- `/results/generalization_smoke.json` — old result files / fidelity audits from contaminated runs
+- `/results/generalization_smoke_final.md` — old result files / fidelity audits from contaminated runs
+- `/results/gold_provenance_check.json` — old result files / fidelity audits from contaminated runs
+- `/results/lora_human_verified_eval.json` — old result files / fidelity audits from contaminated runs
+- `/results/pdf_gold_human_verification_guide.md` — old result files / fidelity audits from contaminated runs
+- `/results/swa_gold_verify_report.md` — old result files / fidelity audits from contaminated runs
+- `/scripts/batch_extract_all.py` — old/experimental scripts not in final deliverable
+- `/scripts/batch_process_all.py` — old/experimental scripts not in final deliverable
+- `/scripts/batch_process_dir.py` — old/experimental scripts not in final deliverable
+- `/scripts/batch_process_dir_robust.py` — old/experimental scripts not in final deliverable
+- `/scripts/batch_process_fast.py` — old/experimental scripts not in final deliverable
+- `/scripts/batch_process_remaining.py` — old/experimental scripts not in final deliverable
+- `/scripts/batch_process_specs.py` — old/experimental scripts not in final deliverable
+- `/scripts/batch_process_targeted.py` — old/experimental scripts not in final deliverable
+- `/scripts/diagnose.py` — old/experimental scripts not in final deliverable
+- `/scripts/fidelity_audit_full_corpus.py` — old/experimental scripts not in final deliverable
+- `/scripts/freeze_split.py` — old/experimental scripts not in final deliverable
+- `/scripts/generate_bioes_from_all_rfqs.py` — old/experimental scripts not in final deliverable
+- `/scripts/git_push.sh` — old/experimental scripts not in final deliverable
+- `/scripts/human_gold_verify.py` — old/experimental scripts not in final deliverable
+- `/scripts/identify_boq_candidates.py` — old/experimental scripts not in final deliverable
+- `/scripts/ocr_independent_gold.py` — old/experimental scripts not in final deliverable
+- `/scripts/one_shot_test_eval.py` — old/experimental scripts not in final deliverable
+- `/scripts/process_scan_boq_files.py` — old/experimental scripts not in final deliverable
+- `/scripts/quick_scan_rfqs.py` — old/experimental scripts not in final deliverable
+- `/scripts/scan_remaining_fast.py` — old/experimental scripts not in final deliverable
+- `/scripts/source_truth_counter.py` — old/experimental scripts not in final deliverable
+- `/scripts/swa_gold_verify_report.py` — old/experimental scripts not in final deliverable
+- `/scripts/train_lora_ner_draft_all_rfqs.py` — old/experimental scripts not in final deliverable
+- `/scripts/train_lora_ner_human_verified.py` — old/experimental scripts not in final deliverable
+- `/scripts/verify_gem_gold.py` — old/experimental scripts not in final deliverable
+- `/tasks/ETERNAL_PROTOCOL.md` — old task prompts/checklists superseded by phase9 tasks
+- `/tasks/VALIDATION_CHECKLIST.md` — old task prompts/checklists superseded by phase9 tasks
+- `/tasks/sonnet` — old task prompts/checklists superseded by phase9 tasks
+- `/tasks/wave5` — old task prompts/checklists superseded by phase9 tasks
+- `/tests/regression/test_intake.py` — old/scoped-out test drafts
+- `/tests/unit/test_split_leakage.py` — old/scoped-out test drafts
+- `/tests/unit/test_subdomain_routing.py.bak` — old/scoped-out test drafts
+
+## 3. phase9-final-only (keep)
+
+- `/.dispatch_prompts` — active phase9 dispatch prompts
+- `/.mypy_cache/3.12` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/10409585555313283690` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/10548942642499486795` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/10792782960390391283` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/10876198366394743534` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/11082617002662555394` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/11998171992003440007` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/12794708329523769804` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/12959642042226188337` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/13125671368184430609` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/14180124120453764355` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/14306077276195521203` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/17055584306404167524` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/17084457362367369005` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/17785837537909014283` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/17894150776563228098` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/18132455303606537565` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/18272497515455705189` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/2009657273401373200` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/2145236602757201628` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/2286472333664153535` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/3220189939657040476` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/3344425290496513230` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/447005102909338986` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/5397861765908905895` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/5738096821965667459` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/6082243169825238507` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/6251294341850317242` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/6367085768124641597` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/6899154482932673165` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/7088915409994397104` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/7258022865737707059` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/753020487796248377` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/7921502368951997115` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/8084718915942116715` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/8833300359143127045` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/9045158684647474482` — phase9-final deliverable file
+- `/.ruff_cache/0.15.11/913519922394639432` — phase9-final deliverable file
+- `/.ruff_cache/0.15.20` — phase9-final deliverable file
+- `/HANDOFF.md` — final handoff notes
+- `/archive/legacy_deliverables` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/AGENT1_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/AGENT2_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/AGENT3_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/AGENT4_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/GURU_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/ORC_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/REVERSE_ROLE_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/UNIVERSAL_ORCHESTRATOR_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/VERIFICATION_PROMPT.md` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/hybrid` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/out_of_scope` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/phase8_sprint_2026-06-03` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/superseded` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/wave2` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_prompts/wave3` — final archive organization including legacy deliverables/prompts
+- `/archive/legacy_tasks/VALIDATION_CHECKLIST.md` — final archive organization including legacy deliverables/prompts
+- `/data/annotations/expanded` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/0b68febe-a969-49a2-a457-964eb573f2bb.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/1e235823-fb05-4db1-84a0-515fd41d3515.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/23ba5a05-16b1-4a69-b495-781742bf7949.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/3385a7bd-cd7f-4744-9a5b-aea23d3f7bf2.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/33a985b3-bb37-4487-86af-081ef1dbc697.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/36986a44-537b-45df-b899-6b85112f9488.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/38357e25-f7c8-4297-be82-6c2247c36ebf.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/3ded749d-d594-476e-be0d-eed8e4c7ccd2.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/4278e447-1510-431d-ab62-6ef5093dc70d.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/42dcea8b-5f12-42bf-b408-76090c5af8b3.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/47250df8-a4cb-4ec9-be79-8ada07ef63ec.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/57621e50-02f3-4442-a9d8-ecd3214e5953.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/59d1f94c-5751-449c-8ff9-e0bf5a410ab9.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/5dc23131-eea6-41a3-89b6-2e4ecb38ab95.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/5fdbab27-0b72-444f-9b23-37156bf87701.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/66b007eb-df89-44cf-bc8c-96256878f705.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/6acfce84-61f6-4efd-9fad-9bd5b158d93e.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/7ac442a5-beac-46a6-84a5-99d60ebf9db3.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/7c5ce769-08de-40cf-8c73-ed836a549d64.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/82377a67-d819-46d3-817d-ea66247d56c6.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/97a3af84-0937-4af9-8276-85831fe50994.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/a35ea1a6-3228-485a-81b9-db52798256da.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/a43b77e3-588b-48d9-972f-81d73e0804a3.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/a5717b1c-a100-44bf-a99b-b0604f7f1c84.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/a76e0ff3-ddac-45b8-a9b2-11c4504f9d1c.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/aa345177-4c64-4098-8f76-3f1d5281fc8b.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/ac7c9435-4efd-4181-8585-e96927eb128d.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/af63768a-c6a7-449b-838f-3786af0db814.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/b22e903c-dbb5-4260-be51-53ba10861d79.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/b98613e8-848b-4d93-80af-3a89b0db0830.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/bc41340f-1f13-4004-a3aa-67f32f0ff321.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/c7cb2a0a-b0b6-4290-8732-516ae829173d.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/cd0554a7-0920-4d8b-8980-ae4fd85809a1.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/d387deae-cd83-49b2-b7e2-b07c1eaf4730.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/d67007f8-9f75-47d0-91eb-6ee142539d82.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/dc86b9b2-c1d7-4f9e-b0b7-cd532e0bbc88.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/e11e6046-fec2-4fc0-8848-18ab9824a638.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/e51adb30-d6dc-46b0-88f9-e73cb95491fc.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/ee395a08-5663-42b6-bbc4-df60bf2e203f.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/f3177f98-0622-4f37-9612-16d935ad4bc0.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/f5823ee0-361e-46a2-930a-e55eff6c0a27.json` — current data (jobs, expanded annotations, current corpus)
+- `/data/jobs/f5af29e1-1039-4264-8b48-8609bad4b363.json` — current data (jobs, expanded annotations, current corpus)
+- `/deliverables/Internship_Project_Report.md` — signed final report, presentation, handoff guide, demo
+- `/deliverables/Internship_Project_Report.pdf` — signed final report, presentation, handoff guide, demo
+- `/deliverables/Presentation_Slides.md` — signed final report, presentation, handoff guide, demo
+- `/deliverables/SWA_HANDOFF_GUIDE.md` — signed final report, presentation, handoff guide, demo
+- `/deliverables/demo_live.py` — signed final report, presentation, handoff guide, demo
+- `/deliverables/presentation.html` — signed final report, presentation, handoff guide, demo
+- `/deliverables/signature.jpg` — signed final report, presentation, handoff guide, demo
+- `/resources/meeting requirments` — SWA meeting requirements
+- `/results/annotation_wave1` — current honest evaluation and test logs
+- `/results/column_eval` — current honest evaluation and test logs
+- `/results/corpus_run` — current honest evaluation and test logs
+- `/results/corpus_sweep` — current honest evaluation and test logs
+- `/results/fidelity/06_avante_kirloskar_pune (bundle copy).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/07_grew_preview.png` — current honest evaluation and test logs
+- `/results/fidelity/07_grew_solar_narmadapuram (bundle copy).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/08_sael_TDS (bundle copy).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/47_Pipe Insulation_BOQ Compliance.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/BOQ - INSULATION (spec1 PDF).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/BOQ - INSULATION.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/BOQ - Insulation (spec2 XLSX).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/BOQ PAGE (003).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/BOQ PAGE.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/BOQ- Insulation_Compliance.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/BOQ.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/BOQ_Thermal Insulation.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/Copy of BOQ.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/Copy of UBS_Hyderabad_Project_BOQ(1).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/INSULATION_BOQ_BLUEGRASS.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/Insulation ARFF.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/Insulation Boq (1).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/Insulation Boq (2).audit.md` — current honest evaluation and test logs
+- `/results/fidelity/Insulation Medical.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/Insulation.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/Tech Specs  - Insulation.audit.md` — current honest evaluation and test logs
+- `/results/fidelity/all_audit.err` — current honest evaluation and test logs
+- `/results/fidelity/all_audit.log` — current honest evaluation and test logs
+- `/results/frozen_test_files.json` — current honest evaluation and test logs
+- `/results/source_truth_review.md` — current honest evaluation and test logs
+- `/results/structure_eval` — current honest evaluation and test logs
+- `/results/test_all.err` — current honest evaluation and test logs
+- `/results/test_all.log` — current honest evaluation and test logs
+- `/results/test_all2.err` — current honest evaluation and test logs
+- `/results/test_all2.log` — current honest evaluation and test logs
+- `/results/test_int.err` — current honest evaluation and test logs
+- `/results/test_int.log` — current honest evaluation and test logs
+- `/results/test_int2.err` — current honest evaluation and test logs
+- `/results/test_int2.log` — current honest evaluation and test logs
+- `/results/test_int3.err` — current honest evaluation and test logs
+- `/results/test_int3.log` — current honest evaluation and test logs
+- `/results/test_int4.err` — current honest evaluation and test logs
+- `/results/test_int4.log` — current honest evaluation and test logs
+- `/results/test_int_sbc.err` — current honest evaluation and test logs
+- `/results/test_int_sbc.log` — current honest evaluation and test logs
+- `/results/test_sacred.err` — current honest evaluation and test logs
+- `/results/test_sacred.log` — current honest evaluation and test logs
+- `/results/ui_dropin` — current honest evaluation and test logs
+- `/src/nlp/ner/pretrained_signal.py` — final deliverable code
+- `/tasks/phase9` — active phase9 task definitions
+- `/tests/nlp` — deliverable tests
+
+## 4. In both but different
+
+For each pair, the better/correcter side is noted. No code/config/gold is ported from Desktop without owner review.
+
+- `/.gitignore` — keep **phase9 (final deliverable docs/config)**
+- `/.mypy_cache/3.11/cache.0.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.1.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.10.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.11.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.12.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.13.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.14.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.15.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.2.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.3.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.4.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.5.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.6.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.7.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.8.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.9.db` — keep **phase9 (final deliverable)**
+- `/.mypy_cache/3.11/cache.db` — keep **phase9 (final deliverable)**
+- `/CLAUDE.md` — keep **phase9 (final deliverable docs/config)**
+- `/Dockerfile` — keep **phase9 (final deliverable docs/config)**
+- `/README.md` — keep **phase9 (final deliverable docs/config)**
+- `/archive/legacy_root_docs/AGENTS.md` — keep **phase9 (final deliverable)**
+- `/config/settings.py` — keep **phase9 (locked constants)**
+- `/data/real_rfqs/gold/GOLD_LOCK.sha256` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/01_gsecl_wanakbori_tmd8.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/02_isro_vssc.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/03_zydus_matoda_osd.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/04_adani.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/05_zydus_animal_pharmez.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/06_avante_kirloskar_pune.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/07_grew_solar_narmadapuram.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/08_sael.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/09_gem_bid_7439924.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/10_gem_bid_7552777.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_01_tender.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_02_swpl.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_03_boq_page.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_04_boq_page_003.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_05_copy_of_boq.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_06_insulation_boq_1.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_07_insulation_boq_2.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_08_boq_insulation_compliance.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/rows/insul_09_pipe_insulation_compliance.rowgold.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_02_isro_vssc.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_03_zydus_matoda_osd.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_04_adani.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_05_zydus_animal_pharmez.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_06_avante_kirloskar_pune.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_07_grew_solar_narmadapuram.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_08_sael.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_09_gem_bid_7439924.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/gold/swa_10_gem_bid_7552777.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/data/real_rfqs/source_truth.json` — keep **phase9 (frozen TEST anchor; Desktop may contain post-Incident #13 drift)**
+- `/docker-compose.yml` — keep **phase9 (final deliverable docs/config)**
+- `/docs/CORE_UNDERSTANDING.md` — keep **phase9 (updated honest operational docs)**
+- `/results/FIDELITY_REPORT.md` — keep **phase9 (current audit outputs)**
+- `/results/PRODUCT_EVAL.md` — keep **phase9 (current audit outputs)**
+- `/results/fidelity/01_gsecl_wanakbori_tmd8.audit.md` — keep **phase9 (current audit outputs)**
+- `/results/fidelity/05_zydus_animal_pharmez.audit.md` — keep **phase9 (current audit outputs)**
+- `/results/fidelity/06_avante_kirloskar_pune.audit.md` — keep **phase9 (current audit outputs)**
+- `/results/fidelity/07_grew_solar_narmadapuram.audit.md` — keep **phase9 (current audit outputs)**
+- `/results/fidelity/08_sael.audit.md` — keep **phase9 (current audit outputs)**
+- `/results/fidelity/09_gem_bid_7439924.audit.md` — keep **phase9 (current audit outputs)**
+- `/results/fidelity/10_gem_bid_7552777.audit.md` — keep **phase9 (current audit outputs)**
+- `/results/fidelity/summary.json` — keep **phase9 (current audit outputs)**
+- `/results/product_eval.json` — keep **phase9 (current audit outputs)**
+- `/scripts/audit_fidelity_per_doc.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/batch_extract_all_26.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/build_row_gold.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/clean_gold.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/clean_pseudo_labels.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/convert_verified_rowgold_to_bioes.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/derive_independent_row_gold.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/draft_source_truth_extras.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/eval_lora_on_swa_holdout.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/filter_insulation_corpus.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/generate_all_bioes_training.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/preannotate_swa_enquiries.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/train_lora_ner_real_only.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/train_lora_ner_swa10.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/train_lora_ner_v5.py` — keep **phase9 (deliverable code/tests)**
+- `/scripts/verify_swa10_demo.py` — keep **phase9 (deliverable code/tests)**
+- `/src/domain/fidelity.py` — keep **phase9 (deliverable code/tests)**
+- `/src/domain/flags.py` — keep **phase9 (deliverable code/tests)**
+- `/src/domain/models.py` — keep **phase9 (deliverable code/tests)**
+- `/src/ingest/column_detector.py` — keep **phase9 (deliverable code/tests)**
+- `/src/ingest/pdf_extractor.py` — keep **phase9 (deliverable code/tests)**
+- `/src/ingest/table_classifier.py` — keep **phase9 (deliverable code/tests)**
+- `/src/ingest/table_extractor.py` — keep **phase9 (deliverable code/tests)**
+- `/src/nlp/catalog_matcher.py` — keep **phase9 (deliverable code/tests)**
+- `/src/nlp/pipeline.py` — keep **phase9 (deliverable code/tests)**
+- `/src/pipeline.py` — keep **phase9 (deliverable code/tests)**
+- `/src/preproc/document_structure.py` — keep **phase9 (deliverable code/tests)**
+- `/tests/regression/expectations.json` — keep **phase9 (deliverable code/tests)**
+- `/tests/unit/test_table_classifier.py` — keep **phase9 (deliverable code/tests)**
+- `/tests/unit/test_table_extractor.py` — keep **phase9 (deliverable code/tests)**
+- `/ui/app.py` — keep **phase9 (final deliverable)**
+
+## Notable valuable-data candidates for T3
+
+- 80 real tender PDFs/XLSXs under `data/incoming/` (insulation/HVAC domain) not yet in phase9-final.
+- 345 annotation JSONs under `data/annotations/` (draft/drafts/verified) — real annotation labour, but must pass provenance review in T4 before entering live gold/training.
+- `data/ontology/insulation_gazetteer_mined.json` and `data/ontology/backup/` — mined ontology entries.
+- `data/real_rfqs/INTAKE_MANIFEST.csv`, `data/real_rfqs/raw/`, `data/real_rfqs/extracted/` — real corpus metadata and extraction outputs.
+- `resources/knowledge_base/` and `resources/meeting requirments.md` — SWA-provided materials.
+
+## Notable contamination/fabrication artifacts for T4
+
+- Desktop `data/real_rfqs/source_truth.json`, `source_truth_draft.json`, `split_test_v2.json`, `corpus_manifest_v2.json`, `corpus_canonical_v2.json`, `full_corpus_split.json`, `boq_bearing_candidates.json`, `all_documents_list.json` — derived surfaces from contaminated repo; excluded from T3 port.
+- Desktop `data/real_rfqs/gold/backup/`, `data/real_rfqs/gold/generated/`, `data/annotations/verified/` rowgold files — must be provenance-checked; any without real reviewer stamp go to quarantine.
+- Desktop `FINAL_HANDOFF_REPORT.md`, `results/PHASE9_MERGE_REPORT.md`, `results/CONSOLIDATED_FINAL_REPORT.md`, `results/eval_honest*.json`, fidelity audits claiming fabricated metrics — candidates for T4 contamination sweep.
+- Desktop hidden agent folders (`.claude`, `.codex`, `.grok_handoffs`, `.session_handoffs`, `.session_merged`, `.quarantine_incident14`) and logs are not source code; ignore.
+
+---
+
+Path to raw diff: `tasks/phase9/TRIAGE_INVENTORY_raw.txt`
+
+Path to this report: `tasks/phase9/TRIAGE_INVENTORY.md`

@@ -1,0 +1,1073 @@
+{
+  "standards": [
+    {
+      "code": "BS 476 PART 7",
+      "full_name": "",
+      "aliases": [
+        "BS 476 PART 7"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (16 occurrences)"
+    },
+    {
+      "code": "UL 94",
+      "full_name": "",
+      "aliases": [
+        "UL 94"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (15 occurrences)"
+    },
+    {
+      "code": "EN 12667",
+      "full_name": "",
+      "aliases": [
+        "EN 12667"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (14 occurrences)"
+    },
+    {
+      "code": "BS 476 PART 6",
+      "full_name": "",
+      "aliases": [
+        "BS 476 PART 6"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (13 occurrences)"
+    },
+    {
+      "code": "EN 12086",
+      "full_name": "",
+      "aliases": [
+        "EN 12086",
+        "BS EN 12086"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (13 occurrences)"
+    },
+    {
+      "code": "ISO 354",
+      "full_name": "",
+      "aliases": [
+        "ISO 354",
+        "ISO 354:2003"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (9 occurrences)"
+    },
+    {
+      "code": "EN 14706",
+      "full_name": "",
+      "aliases": [
+        "EN 14706"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (7 occurrences)"
+    },
+    {
+      "code": "ISO 8497",
+      "full_name": "",
+      "aliases": [
+        "ISO 8497",
+        "ISO 8497:1994"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (7 occurrences)"
+    },
+    {
+      "code": "UL 181",
+      "full_name": "",
+      "aliases": [
+        "UL 181"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (7 occurrences)"
+    },
+    {
+      "code": "EN 13469",
+      "full_name": "",
+      "aliases": [
+        "EN 13469"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (6 occurrences)"
+    },
+    {
+      "code": "ASTM C177",
+      "full_name": "",
+      "aliases": [
+        "ASTM C177"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (5 occurrences)"
+    },
+    {
+      "code": "ASTM E2180",
+      "full_name": "",
+      "aliases": [
+        "ASTM E2180",
+        "ASTM 2180"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (5 occurrences)"
+    },
+    {
+      "code": "ASTM G21",
+      "full_name": "",
+      "aliases": [
+        "ASTM G21"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (5 occurrences)"
+    },
+    {
+      "code": "DIN 52615",
+      "full_name": "",
+      "aliases": [
+        "DIN 52615"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (5 occurrences)"
+    },
+    {
+      "code": "IS 8225",
+      "full_name": "",
+      "aliases": [
+        "IS 8225"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (5 occurrences)"
+    },
+    {
+      "code": "ISO 4892",
+      "full_name": "",
+      "aliases": [
+        "ISO 4892"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (5 occurrences)"
+    },
+    {
+      "code": "ASTM C518",
+      "full_name": "",
+      "aliases": [
+        "ASTM C518"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (4 occurrences)"
+    },
+    {
+      "code": "IS 277",
+      "full_name": "",
+      "aliases": [
+        "IS 277",
+        "IS 277-2003"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (4 occurrences)"
+    },
+    {
+      "code": "ISO 846",
+      "full_name": "",
+      "aliases": [
+        "ISO 846"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (4 occurrences)"
+    },
+    {
+      "code": "NFPA 90A",
+      "full_name": "",
+      "aliases": [
+        "NFPA 90A"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (4 occurrences)"
+    },
+    {
+      "code": "ASTM D2842",
+      "full_name": "",
+      "aliases": [
+        "ASTM D2842"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "ASTM E84",
+      "full_name": "",
+      "aliases": [
+        "ASTM E84"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "ASTM E96",
+      "full_name": "",
+      "aliases": [
+        "ASTM E96"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "BS 476",
+      "full_name": "",
+      "aliases": [
+        "BS 476"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "BS 6853",
+      "full_name": "",
+      "aliases": [
+        "BS 6853"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "BS 874 PART 2",
+      "full_name": "",
+      "aliases": [
+        "BS 874 PART 2"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "DIN 1988",
+      "full_name": "",
+      "aliases": [
+        "DIN 1988"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "DIN 52613",
+      "full_name": "",
+      "aliases": [
+        "DIN 52613"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "DIN 53122",
+      "full_name": "",
+      "aliases": [
+        "DIN 53122"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "IS 1239",
+      "full_name": "",
+      "aliases": [
+        "IS 1239",
+        "IS1239"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "IS 3589",
+      "full_name": "",
+      "aliases": [
+        "IS 3589",
+        "IS3589"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "IS 8183",
+      "full_name": "",
+      "aliases": [
+        "IS 8183",
+        "IS8183"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (3 occurrences)"
+    },
+    {
+      "code": "ASHRAE 90",
+      "full_name": "",
+      "aliases": [
+        "ASHRAE 90"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "ASTM D635",
+      "full_name": "",
+      "aliases": [
+        "ASTM D635"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "BS 476 PART 4",
+      "full_name": "",
+      "aliases": [
+        "BS 476 PART 4"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "DIN 4102",
+      "full_name": "",
+      "aliases": [
+        "DIN 4102"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "DIN 52616",
+      "full_name": "",
+      "aliases": [
+        "DIN 52616"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 11239",
+      "full_name": "",
+      "aliases": [
+        "IS 11239"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 12436",
+      "full_name": "",
+      "aliases": [
+        "IS 12436"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 14164",
+      "full_name": "",
+      "aliases": [
+        "IS 14164"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 325",
+      "full_name": "",
+      "aliases": [
+        "IS 325"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 3419",
+      "full_name": "",
+      "aliases": [
+        "IS 3419",
+        "IS 3419/1989"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 4648",
+      "full_name": "",
+      "aliases": [
+        "IS 4648",
+        "IS 4648/1968"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 4691",
+      "full_name": "",
+      "aliases": [
+        "IS 4691",
+        "IS 4691-1985"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 694",
+      "full_name": "",
+      "aliases": [
+        "IS 694",
+        "IS 694/1990"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 732",
+      "full_name": "",
+      "aliases": [
+        "IS 732",
+        "IS 732/1989"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "IS 737",
+      "full_name": "",
+      "aliases": [
+        "IS 737"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "ISO 2286",
+      "full_name": "",
+      "aliases": [
+        "ISO 2286"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "ISO 5659",
+      "full_name": "",
+      "aliases": [
+        "ISO 5659"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "NFPA 90B",
+      "full_name": "",
+      "aliases": [
+        "NFPA 90B"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "UL 555",
+      "full_name": "",
+      "aliases": [
+        "UL 555"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "UL 723",
+      "full_name": "",
+      "aliases": [
+        "UL 723"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (2 occurrences)"
+    },
+    {
+      "code": "ASHRAE 62",
+      "full_name": "",
+      "aliases": [
+        "ASHRAE 62"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM A653",
+      "full_name": "",
+      "aliases": [
+        "ASTM A653"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM B209",
+      "full_name": "",
+      "aliases": [
+        "ASTM B209"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C1071",
+      "full_name": "",
+      "aliases": [
+        "ASTM C1071"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C1290",
+      "full_name": "",
+      "aliases": [
+        "ASTM C1290"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C1338",
+      "full_name": "",
+      "aliases": [
+        "ASTM C1338"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C1427",
+      "full_name": "",
+      "aliases": [
+        "ASTM C1427"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C1763",
+      "full_name": "",
+      "aliases": [
+        "ASTM C1763"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C195",
+      "full_name": "",
+      "aliases": [
+        "ASTM C195"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C209",
+      "full_name": "",
+      "aliases": [
+        "ASTM C209"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C423-66",
+      "full_name": "",
+      "aliases": [
+        "ASTM C423-66"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C449",
+      "full_name": "",
+      "aliases": [
+        "ASTM C449"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C533",
+      "full_name": "",
+      "aliases": [
+        "ASTM C533"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C547",
+      "full_name": "",
+      "aliases": [
+        "ASTM C547"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C547 CLASS III",
+      "full_name": "",
+      "aliases": [
+        "ASTM C547 CLASS III"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C552",
+      "full_name": "",
+      "aliases": [
+        "ASTM C552"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C553",
+      "full_name": "",
+      "aliases": [
+        "ASTM C553"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C578",
+      "full_name": "",
+      "aliases": [
+        "ASTM C578"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C585",
+      "full_name": "",
+      "aliases": [
+        "ASTM C585"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C591",
+      "full_name": "",
+      "aliases": [
+        "ASTM C591"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C592 CLASS II",
+      "full_name": "",
+      "aliases": [
+        "ASTM C592 CLASS II"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C610",
+      "full_name": "",
+      "aliases": [
+        "ASTM C610"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C612",
+      "full_name": "",
+      "aliases": [
+        "ASTM C612"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C665",
+      "full_name": "",
+      "aliases": [
+        "ASTM C665"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C795",
+      "full_name": "",
+      "aliases": [
+        "ASTM C795"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM C916",
+      "full_name": "",
+      "aliases": [
+        "ASTM C916"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM D1056",
+      "full_name": "",
+      "aliases": [
+        "ASTM D1056"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM E534",
+      "full_name": "",
+      "aliases": [
+        "ASTM E534",
+        "ASTM 534"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ASTM E85",
+      "full_name": "",
+      "aliases": [
+        "ASTM E85"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "BS 4718",
+      "full_name": "",
+      "aliases": [
+        "BS 4718"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "BS 476 PART 5",
+      "full_name": "",
+      "aliases": [
+        "BS 476 PART 5"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "BS 5588",
+      "full_name": "",
+      "aliases": [
+        "BS 5588"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "BS 5970",
+      "full_name": "",
+      "aliases": [
+        "BS 5970"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "DIN 51949",
+      "full_name": "",
+      "aliases": [
+        "DIN 51949"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "DIN 53420",
+      "full_name": "",
+      "aliases": [
+        "DIN 53420"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "DIN 53431",
+      "full_name": "",
+      "aliases": [
+        "DIN 53431"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "EN 12101",
+      "full_name": "",
+      "aliases": [
+        "EN 12101"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "EN 13501",
+      "full_name": "",
+      "aliases": [
+        "EN 13501"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "EN 14304",
+      "full_name": "",
+      "aliases": [
+        "EN 14304"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "EN 14707",
+      "full_name": "",
+      "aliases": [
+        "EN 14707"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "EN 22286",
+      "full_name": "",
+      "aliases": [
+        "EN 22286"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "EN 246",
+      "full_name": "",
+      "aliases": [
+        "EN 246"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 1231",
+      "full_name": "",
+      "aliases": [
+        "IS 1231"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 12615",
+      "full_name": "",
+      "aliases": [
+        "IS 12615"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 12785",
+      "full_name": "",
+      "aliases": [
+        "IS 12785"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 2062",
+      "full_name": "",
+      "aliases": [
+        "IS 2062"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 3144",
+      "full_name": "",
+      "aliases": [
+        "IS 3144"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 3315",
+      "full_name": "",
+      "aliases": [
+        "IS 3315"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 3588",
+      "full_name": "",
+      "aliases": [
+        "IS 3588"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 3808",
+      "full_name": "",
+      "aliases": [
+        "IS 3808"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 4894",
+      "full_name": "",
+      "aliases": [
+        "IS 4894"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 655",
+      "full_name": "",
+      "aliases": [
+        "IS 655"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 659",
+      "full_name": "",
+      "aliases": [
+        "IS 659"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "IS 702",
+      "full_name": "",
+      "aliases": [
+        "IS 702"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ISO 10140",
+      "full_name": "",
+      "aliases": [
+        "ISO 10140"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ISO 11654",
+      "full_name": "",
+      "aliases": [
+        "ISO 11654",
+        "ISO 11654:1997"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ISO 1182",
+      "full_name": "",
+      "aliases": [
+        "ISO 1182"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ISO 16890",
+      "full_name": "",
+      "aliases": [
+        "ISO 16890",
+        "ISO 16890:2016"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "ISO 1940",
+      "full_name": "",
+      "aliases": [
+        "ISO 1940"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "NFPA 255",
+      "full_name": "",
+      "aliases": [
+        "NFPA 255"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "NFPA 96",
+      "full_name": "",
+      "aliases": [
+        "NFPA 96"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "UL 1978",
+      "full_name": "",
+      "aliases": [
+        "UL 1978"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "UL 1996",
+      "full_name": "",
+      "aliases": [
+        "UL 1996"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "UL 2221",
+      "full_name": "",
+      "aliases": [
+        "UL 2221"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    },
+    {
+      "code": "UL 555S",
+      "full_name": "",
+      "aliases": [
+        "UL 555S"
+      ],
+      "applies_to": [],
+      "source": "mined_from_specifications (1 occurrences)"
+    }
+  ]
+}

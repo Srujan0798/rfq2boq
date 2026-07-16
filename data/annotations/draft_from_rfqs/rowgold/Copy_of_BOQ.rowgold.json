@@ -1,0 +1,81 @@
+{
+  "source_file": "data/incoming/Copy of BOQ.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/Copy of BOQ.pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "300mm dia. 32mm thick insulation",
+      "quantity": "15.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "250mm dia. 32mm thick insulation",
+      "quantity": "185.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "65mm dia. 25mm thick insulation",
+      "quantity": "110.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50mm dia. 25mm thick insulation",
+      "quantity": "35.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "40mm dia. 19mm thick insulation",
+      "quantity": "30.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32mm dia. 19mm thick insulation",
+      "quantity": "135.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25mm dia. 19mm thick insulation",
+      "quantity": "40.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "200 mm dia (32mm thick insulation)",
+      "quantity": "30.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

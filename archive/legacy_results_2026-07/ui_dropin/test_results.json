@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-07-07T06:43:46.193222+00:00",
+  "tests": {
+    "ui_imports": true,
+    "pipeline_xlsx": true,
+    "build_dataframe": true,
+    "upload_routing": true,
+    "timeout_function": true,
+    "excel_generation": true,
+    "json_generation": true,
+    "csv_generation": true,
+    "file_not_found": true
+  },
+  "corpus_stats": {
+    "manifest_total": 127,
+    "existing_disk": 19,
+    "missing": 108
+  },
+  "extraction_results": {
+    "vssc": 4,
+    "zydus": 33,
+    "sael": 16,
+    "zydus_animal": 20
+  }
+}

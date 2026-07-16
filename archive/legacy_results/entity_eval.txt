@@ -1,0 +1,38 @@
+======================================================================
+HONEST EVALUATION — Independent gold, no self-comparison
+======================================================================
+
+Evaluating 01_gsecl... camelot-py not installed, falling back to pdfplumber
+F1=0.0% (P=0.0%, R=0.0%) [3 gold, 3 pred] 61.1s
+Evaluating 02_isro... F1=85.7% (P=75.0%, R=100.0%) [3 gold, 4 pred] 0.0s
+Evaluating 03_zydus_matoda... F1=84.8% (P=87.5%, R=82.4%) [17 gold, 16 pred] 0.1s
+Evaluating 04_adani... camelot-py not installed, falling back to pdfplumber
+F1=0.0% (P=0.0%, R=0.0%) [13 gold, 2 pred] 0.5s
+Evaluating 05_zydus_animal... F1=93.1% (P=97.9%, R=88.7%) [53 gold, 48 pred] 0.2s
+Evaluating 06_avante... camelot-py not installed, falling back to pdfplumber
+F1=23.5% (P=19.4%, R=30.0%) [20 gold, 31 pred] 4.3s
+Evaluating 07_grew... camelot-py not installed, falling back to pdfplumber
+F1=61.5% (P=44.4%, R=100.0%) [4 gold, 9 pred] 3.8s
+Evaluating 08_sael... F1=92.3% (P=85.7%, R=100.0%) [12 gold, 14 pred] 0.0s
+Evaluating 09_gem... camelot-py not installed, falling back to pdfplumber
+F1=0.0% (P=0.0%, R=0.0%) [102 gold, 22 pred] 24.6s
+Evaluating 10_gem... camelot-py not installed, falling back to pdfplumber
+F1=0.0% (P=0.0%, R=0.0%) [52 gold, 10 pred] 34.0s
+
+======================================================================
+SUMMARY
+======================================================================
+Enquiries: 10 / 10
+Total gold materials: 279
+Total predicted materials: 159
+
+Micro P/R/F1: 54.1% / 30.8% / 39.3%
+Macro P/R/F1: 41.0% / 50.1% / 44.1%
+
+XLSX F1 (macro): 89.0% (4 files)
+PDF F1 (macro): 14.2% (6 files)
+
+This is the HONEST baseline. Any future improvement must beat these numbers.
+No self-comparison. No modified gold. No artificial 100%.
+
+Results saved to results/eval_honest.json

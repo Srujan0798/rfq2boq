@@ -1,0 +1,31 @@
+{
+  "doc_id": "06_avante_kirloskar_pune_022",
+  "source_file": "Insulation Boq_132.pdf",
+  "tokens": [
+    "supply",
+    "500",
+    "mm",
+    "dia",
+    "pipes",
+    "200",
+    "rmt"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "06_avante_kirloskar_pune.rowgold.json",
+    "row_idx": 22,
+    "action": "supply",
+    "quantity": "200",
+    "unit": "rmt"
+  }
+}

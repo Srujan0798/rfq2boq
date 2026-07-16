@@ -1,0 +1,39 @@
+{
+  "doc_id": "06_avante_kirloskar_pune_004",
+  "source_file": "Insulation Boq_132.pdf",
+  "tokens": [
+    "supply",
+    "15",
+    "mm",
+    "thick",
+    "acoustic",
+    "lining",
+    "with",
+    "Nitrile",
+    "Rubber",
+    "9351",
+    "sqm"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "06_avante_kirloskar_pune.rowgold.json",
+    "row_idx": 4,
+    "action": "supply",
+    "quantity": "9351",
+    "unit": "sqm"
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "TENDER.pdf",
+    "rows": 0,
+    "time_sec": 60,
+    "fidelity": {},
+    "error": "TIMEOUT"
+  },
+  {
+    "file": "TENDER (1) (1).pdf",
+    "rows": 0,
+    "time_sec": 60,
+    "fidelity": {},
+    "error": "TIMEOUT"
+  },
+  {
+    "file": "Tender (2).pdf",
+    "rows": 0,
+    "time_sec": 60,
+    "fidelity": {},
+    "error": "TIMEOUT"
+  },
+  {
+    "file": "Tender (3).pdf",
+    "rows": 0,
+    "time_sec": 60,
+    "fidelity": {},
+    "error": "TIMEOUT"
+  },
+  {
+    "file": "Tender (4) (1).pdf",
+    "rows": 0,
+    "time_sec": 60,
+    "fidelity": {},
+    "error": "TIMEOUT"
+  },
+  {
+    "file": "Tender (5).pdf",
+    "rows": 0,
+    "time_sec": 60,
+    "fidelity": {},
+    "error": "TIMEOUT"
+  },
+  {
+    "file": "TENDER - INSULATION.pdf",
+    "rows": 0,
+    "time_sec": 60,
+    "fidelity": {},
+    "error": "TIMEOUT"
+  },
+  {
+    "file": "TENDER SPECIFICATION- CHW PIPE INSULATION.pdf",
+    "rows": 5,
+    "time_sec": 23.17,
+    "fidelity": {},
+    "error": null
+  },
+  {
+    "file": "TENDER SPECIFICATION-ACCOUSTIC INSULATION.pdf",
+    "rows": 2,
+    "time_sec": 13.92,
+    "fidelity": {},
+    "error": null
+  },
+  {
+    "file": "SWPL-PER-HVAC-RFQ-02 (Thermal & Acoustic Insulation).pdf",
+    "rows": 1,
+    "time_sec": 33.52,
+    "fidelity": {},
+    "error": null
+  },
+  {
+    "file": "Copy of Insulation Enquiry - SAEL.pdf",
+    "rows": 13,
+    "time_sec": 50.97,
+    "fidelity": {},
+    "error": null
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "source_file": "data/incoming/Enquiry for Thermal Insulation for CHW Pipe.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/Enquiry for Thermal Insulation for CHW Pipe.pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "CHILLED WATER PIPE INSULATION Insulation works for Piping of φ 900 mm",
+      "quantity": "394.8",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 450 mm",
+      "quantity": "378.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 400 mm",
+      "quantity": "100.8",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 350 mm",
+      "quantity": "100.8",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 300 mm",
+      "quantity": "100.8",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 200 mm",
+      "quantity": "2636.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 100 mm",
+      "quantity": "2150.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 80 mm",
+      "quantity": "5.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 50 mm",
+      "quantity": "146.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 40 mm",
+      "quantity": "10.5",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 25 mm",
+      "quantity": "125.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation works for Piping of φ 20 mm",
+      "quantity": "132.5",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "CONDENSATE DRAIN WATER PIPE INSULATION Insulation works for Piping of φ 32 mm",
+      "quantity": "786.5",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

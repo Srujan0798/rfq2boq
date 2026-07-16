@@ -1,0 +1,247 @@
+[
+  {
+    "tokens": ["सीमेंट", "500", "बैग", "में", "आपूर्ति", "करें"],
+    "ner_tags": ["B-MATERIAL", "B-QUANTITY", "I-QUANTITY", "O", "B-ACTION", "E-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["स्टील", "200", "किलो", "ग्राउंड", "फ्लोर", "के", "लिए"],
+    "ner_tags": ["B-MATERIAL", "B-QUANTITY", "I-QUANTITY", "I-QUANTITY", "B-LOCATION", "O", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["ईंट", "1000", "संख्या", "में", "लेबर", "सहित"],
+    "ner_tags": ["B-MATERIAL", "B-QUANTITY", "I-QUANTITY", "O", "B-ACTION", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["कंक्रीट", "M20", "ग्रेड", "का", "उपयोग", "करें"],
+    "ner_tags": ["B-MATERIAL", "B-GRADE", "I-GRADE", "O", "B-ACTION", "E-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["रेत", "5", "घन", "मीटर", "आपूर्ति"],
+    "ner_tags": ["B-MATERIAL", "B-QUANTITY", "I-QUANTITY", "I-QUANTITY", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["पानी", "का", "टैंक", "500", "लीटर", "का"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-QUANTITY", "I-QUANTITY", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["बिजली", "के", "तार", "100", "मीटर", "लगाएं"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-QUANTITY", "I-QUANTITY", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["लकड़ी", "का", "दरवाजा", "2", "संख्या", "में"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-QUANTITY", "I-QUANTITY", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["खिड़की", "के", "लिए", "कांच", "10", "वर्ग", "मीटर"],
+    "ner_tags": ["B-LOCATION", "O", "O", "B-MATERIAL", "B-QUANTITY", "I-QUANTITY", "I-QUANTITY"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["छत", "पर", "जलरोधक", "का", "काम"],
+    "ner_tags": ["B-LOCATION", "O", "B-MATERIAL", "O", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["IS", "456", "के", "अनुसार", "सीमेंट"],
+    "ner_tags": ["B-STANDARD", "I-STANDARD", "O", "O", "B-MATERIAL"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["सीमेंट", "की", "आपूर्ति", "ground", "floor", "में"],
+    "ner_tags": ["B-MATERIAL", "O", "B-ACTION", "B-LOCATION", "I-LOCATION", "O"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["500", "kg", "सीमेंट", "M20", "ग्रेड"],
+    "ner_tags": ["B-QUANTITY", "I-QUANTITY", "B-MATERIAL", "B-GRADE", "I-GRADE"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["स्टील", "Fe500", "ग्रेड", "का", "उपयोग"],
+    "ner_tags": ["B-MATERIAL", "B-GRADE", "I-GRADE", "O", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["प्लास्टर", "का", "काम", "2", "कमरों", "में"],
+    "ner_tags": ["B-MATERIAL", "O", "B-ACTION", "B-QUANTITY", "I-QUANTITY", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["फर्श", "के", "लिए", "टाइल", "500", "संख्या"],
+    "ner_tags": ["B-LOCATION", "O", "O", "B-MATERIAL", "B-QUANTITY", "I-QUANTITY"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["पाइप", "का", "जाल", "50", "मीटर", "लंबा"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-QUANTITY", "I-QUANTITY", "I-QUANTITY"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["पेंट", "की", "आवश्यकता", "20", "लीटर"],
+    "ner_tags": ["B-MATERIAL", "O", "B-ACTION", "B-QUANTITY", "I-QUANTITY"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["बेसमेंट", "में", "कंक्रीट", "कार्य"],
+    "ner_tags": ["B-LOCATION", "O", "B-MATERIAL", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["नींव", "के", "लिए", "ईंट", "500", "संख्या"],
+    "ner_tags": ["B-LOCATION", "O", "O", "B-MATERIAL", "B-QUANTITY", "I-QUANTITY"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["पहली", "मंजिल", "पर", "छत", "का", "निर्माण"],
+    "ner_tags": ["B-LOCATION", "I-LOCATION", "O", "B-MATERIAL", "O", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["दूसरी", "मंजिल", "में", "दरवाजा", "लगाना"],
+    "ner_tags": ["B-LOCATION", "I-LOCATION", "O", "B-MATERIAL", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["सीमेंट", "बैग", "50", "किलो", "का"],
+    "ner_tags": ["B-MATERIAL", "O", "B-QUANTITY", "I-QUANTITY", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["इस्पात", "की", "छड़", "12", "mm", "व्यास"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-QUANTITY", "I-QUANTITY", "B-DIMENSION"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["कंक्रीट", "में", "सीमेंट", "का", "अनुपात", "1:2:4"],
+    "ner_tags": ["B-MATERIAL", "O", "B-MATERIAL", "O", "O", "B-DIMENSION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["230", "mm", "मोटी", "ईंट", "की", "दीवार"],
+    "ner_tags": ["B-DIMENSION", "I-DIMENSION", "I-DIMENSION", "B-MATERIAL", "O", "O"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["जलरोधक", "का", "इंतजाम", "छत", "पर"],
+    "ner_tags": ["B-MATERIAL", "O", "B-ACTION", "B-LOCATION", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["भूतल", "में", "फर्श", "का", "काम"],
+    "ner_tags": ["B-LOCATION", "O", "B-MATERIAL", "O", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["स्टील", "की", "छड़ें", "Fe500", "Grade"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-GRADE", "I-GRADE"],
+    "language": "mixed"
+  },
+  {
+    "tokens": [" aggregate", "का", "उपयोग", "कंक्रीट", "में"],
+    "ner_tags": ["B-MATERIAL", "O", "B-ACTION", "B-MATERIAL", "O"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["पानी", "का", "टैंक", "1000", "लीटर", "का"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-QUANTITY", "I-QUANTITY", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["बिजली", "के", "साथ", "काम", "करने", "वाला"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-ACTION", "I-ACTION", "E-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["शीशा", "या", "कांच", "लगाने", "का", "काम"],
+    "ner_tags": ["B-MATERIAL", "O", "B-MATERIAL", "B-ACTION", "O", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["दरवाजे", "के", "लिए", "लकड़ी", "का", "ढांचा"],
+    "ner_tags": ["B-LOCATION", "O", "O", "B-MATERIAL", "O", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["छत", "को", "प्लास्टर", "करें", "M20", "ग्रेड"],
+    "ner_tags": ["B-LOCATION", "O", "B-MATERIAL", "B-ACTION", "B-GRADE", "I-GRADE"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["कमरे", "का", "फर्श", "ग्राउंड", "फ्लोर", "में"],
+    "ner_tags": ["B-LOCATION", "O", "B-MATERIAL", "B-LOCATION", "I-LOCATION", "O"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["सीमेंट", "और", "रेत", "का", "मिश्रण"],
+    "ner_tags": ["B-MATERIAL", "O", "B-MATERIAL", "O", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["नाली", "के", "लिए", "पाइप", "20", "मीटर"],
+    "ner_tags": ["B-LOCATION", "O", "O", "B-MATERIAL", "B-QUANTITY", "I-QUANTITY"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["पार्किंग", "area", "के", "लिए", "कंक्रीट"],
+    "ner_tags": ["B-LOCATION", "I-LOCATION", "O", "O", "B-MATERIAL"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["रंग", "के", "कार्य", "के", "लिए", "पेंट"],
+    "ner_tags": ["B-MATERIAL", "O", "B-ACTION", "O", "O", "B-MATERIAL"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["दीवार", "की", "लंबाई", "3", "मीटर"],
+    "ner_tags": ["B-MATERIAL", "O", "O", "B-QUANTITY", "I-QUANTITY"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["ऊंचाई", "2.5", "मीटर", "तक"],
+    "ner_tags": ["B-DIMENSION", "B-QUANTITY", "I-QUANTITY", "O"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["चौड़ाई", "30", "cm", "हो"],
+    "ner_tags": ["B-DIMENSION", "B-QUANTITY", "I-QUANTITY", "O"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["व्यास", "12", "mm", "की", "पाइप"],
+    "ner_tags": ["B-DIMENSION", "B-QUANTITY", "I-QUANTITY", "O", "B-MATERIAL"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["बाहरी", "दीवार", "में", "ईंट", "लगाना"],
+    "ner_tags": ["B-LOCATION", "I-LOCATION", "O", "B-MATERIAL", "B-ACTION"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["अंदरूनी", "दीवार", "का", "प्लास्टर"],
+    "ner_tags": ["B-LOCATION", "I-LOCATION", "O", "B-MATERIAL"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["छत", "का", "क्षेत्रफल", "100", "वर्ग", "मीटर"],
+    "ner_tags": ["B-LOCATION", "O", "O", "B-QUANTITY", "I-QUANTITY", "I-QUANTITY"],
+    "language": "mixed"
+  },
+  {
+    "tokens": ["कुल", "लागत", "के", "लिए", "सीमेंट"],
+    "ner_tags": ["O", "O", "O", "O", "B-MATERIAL"],
+    "language": "hi"
+  },
+  {
+    "tokens": ["माल", "की", "आपूर्ति", "जल्द", "करें"],
+    "ner_tags": ["B-MATERIAL", "O", "B-ACTION", "O", "B-ACTION"],
+    "language": "hi"
+  }
+]

@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-06-26T10:58:51",
+  "pairs": [
+    {
+      "doc_id": "insul_01_tender",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/BOQ.pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_01_tender.rowgold.json",
+      "row_count": 23,
+      "detected_columns": {
+        "item_no": 0,
+        "material": 1,
+        "unit": 2,
+        "quantity": 3
+      },
+      "first_item": "4.7",
+      "last_item": "8.5"
+    },
+    {
+      "doc_id": "insul_02_swpl",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/BOQ - INSULATION.pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_02_swpl.rowgold.json",
+      "row_count": 19,
+      "detected_columns": {
+        "item_no": 0,
+        "material": 1,
+        "unit": 2,
+        "quantity": 3
+      },
+      "first_item": "a",
+      "last_item": "b.2"
+    },
+    {
+      "doc_id": "insul_03_boq_page",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/BOQ PAGE.pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_03_boq_page.rowgold.json",
+      "row_count": 42,
+      "detected_columns": {
+        "item_no": 0,
+        "material": 1,
+        "unit": 2,
+        "quantity": 3
+      },
+      "first_item": "1.1",
+      "last_item": "3.13"
+    },
+    {
+      "doc_id": "insul_04_boq_page_003",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/BOQ PAGE (003).pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_04_boq_page_003.rowgold.json",
+      "row_count": 2,
+      "detected_columns": {
+        "item_no": 0,
+        "material": 1,
+        "unit": 2,
+        "quantity": 3
+      },
+      "first_item": "1.1",
+      "last_item": "1.2"
+    },
+    {
+      "doc_id": "insul_05_copy_of_boq",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/Copy of BOQ.pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_05_copy_of_boq.rowgold.json",
+      "row_count": 19,
+      "detected_columns": {
+        "item_no": 1,
+        "material": 2,
+        "unit": 3,
+        "quantity": 4
+      },
+      "first_item": "a",
+      "last_item": "b)"
+    },
+    {
+      "doc_id": "insul_06_insulation_boq_1",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/Insulation Boq (1).pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_06_insulation_boq_1.rowgold.json",
+      "row_count": 2,
+      "detected_columns": {
+        "item_no": 0,
+        "material": 1,
+        "unit": 2,
+        "quantity": 3
+      },
+      "first_item": "1",
+      "last_item": "sub_r5"
+    },
+    {
+      "doc_id": "insul_07_insulation_boq_2",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/Insulation Boq (2).pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_07_insulation_boq_2.rowgold.json",
+      "row_count": 11,
+      "detected_columns": {
+        "item_no": 0,
+        "material": 1,
+        "unit": 2,
+        "quantity": 3
+      },
+      "first_item": "3.01",
+      "last_item": "2.06"
+    },
+    {
+      "doc_id": "insul_08_boq_insulation_compliance",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/BOQ- Insulation_Compliance.pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_08_boq_insulation_compliance.rowgold.json",
+      "row_count": 19,
+      "detected_columns": {
+        "item_no": 0,
+        "material": 2,
+        "unit": 3,
+        "quantity": 4
+      },
+      "first_item": "E",
+      "last_item": "sub_r26"
+    },
+    {
+      "doc_id": "insul_09_pipe_insulation_compliance",
+      "source_pdf": "data/real_rfqs/raw/insulation_hvac/boq_references/47_Pipe Insulation_BOQ Compliance.pdf",
+      "gold_json": "data/real_rfqs/gold/rows/insul_09_pipe_insulation_compliance.rowgold.json",
+      "row_count": 31,
+      "detected_columns": {
+        "item_no": 0,
+        "material": 1,
+        "unit": 2,
+        "quantity": 3
+      },
+      "first_item": "144",
+      "last_item": "173"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Source: data/incoming/40_vssc_acoustic_boq.xlsx
+Entries: 5
+Uncertain entries:
+Entry 1: contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 2: contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 3: missing quantity
+Entry 4: very long material description; review segmentation
+Entry 5: very long material description; review segmentation

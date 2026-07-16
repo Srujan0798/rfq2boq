@@ -1,0 +1,370 @@
+{
+  "enquiry_id": "08_sael",
+  "client": "SAEL",
+  "project": "Insulation enquiry",
+  "files": [
+    {
+      "source": "Copy of Insulation Enquiry - SAEL.xlsx",
+      "sha256": "bd6515f925ca9c593aad7c0d2e29e61d620fe342b6633c902734caf71d5afdee",
+      "size_bytes": 12738,
+      "file_class": "unknown",
+      "format": "xlsx",
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "headers": [
+            "11",
+            "THERMAL INSULATION",
+            "",
+            "",
+            "Technical Compliance / Deviations to be filled"
+          ],
+          "rows": [
+            [
+              "11.1",
+              "Supply, Installation of Insulation material. Thermal insulation of Ducts with low smoke/low fire propagating FM listed closed cell nitrile rubber insulation having ASTM E84 (25/50) ratings with Class 0 and UL94(V0 &HB) approvals. Insulation to be factory laminated with minimum 12 microns thick glass reinforced pure aluminium foil of 3x3 mesh pattern with min k value of 0.036 w/mK @ 24 Deg C with working temp range till 85 deg C and have \u03bc value of 12,000 as per EN12086.  For outdoors, insulation to be factory laminated with laminated with Grey colored 400 microns/380 gsm multiple layered laminate of polymeric material reinforced with scrim with \u03bc value of 20,000  and UV resistance as per ISO 4892-2 Method A (1000 Hrs test) and mechanical strength >5 MPa as per ASTM.\n\nApplication to be done in square box method. Good bonding Min 75 mm width alu foil to be applied at each sides. To avoid condensation, Minimum 100 mm distance to be provided between insulated surfaces/walls for ventilation. For good workmanship and lower wastage, the Installation team to be certified by Manufacturer team for proper applicaton with Min 2 day installation training to be conducted by manufacturer's person only. Adhesive to be used should be low voc and IGBC compliant and specially formulated for ducting insulation by OEM (SR 505/Duct Seal). Also, application to be done in well ventilated area with RH% below 80%. A periodic monthly site visit to be done by the manufacturer representative to ensure proper application quality. Report to be submitted to the user, pmc and consultant.\n\nAbove mentioned specifications to be backed up by Third party test certificates from foreign/nabl accredited labs and to be submitted to PMC/Consultant for the approval before material supply. A random lab test to be conducted by user for the supplied product for K value, covering thickness, and ASTM E84(25/50) certifications at foreign/nabl accredited labs. Cost for the same to be borne by the contracting agency.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "11.1.1",
+              "50 mm thick  for Clean Room SA Duct - MAU Plenum",
+              "Sqm.",
+              "2500",
+              ""
+            ],
+            [
+              "11.1.2",
+              "32 mm thick  for Clean Room SA Duct - For 15 Meter from MAU",
+              "Sqm.",
+              "9000",
+              ""
+            ],
+            [
+              "11.1.3",
+              "25 mm thick  for Clean Room SA Duct - For After 15 Meter All Ducts",
+              "Sqm.",
+              "42000",
+              ""
+            ],
+            [
+              "11.1.4",
+              "19 mm thick for Comfort SA Duct",
+              "Sqm.",
+              "9500",
+              ""
+            ],
+            [
+              "11.1.5",
+              "13 mm thick for Comfort RA Duct",
+              "Sqm.",
+              "9500",
+              ""
+            ],
+            [
+              "11.2",
+              "Supply, Installation of Insulation material. Acoustic Insulation of Duct Internal linings starting from AHU Collars till 5-7 meters by Dust and Fiber free Open Cell Nitrile Rubber with EPA approved antimicrobial additive for antimicrobial/anti viral properties as per EN ISO 846/JIS Z 280,having min 140-180 kg/m\u00b3 density and fire flammability as per UL94 HB and V0 along with min NRC 0.55 as per ASTM C423. For material integrity, the Insulation shall pass Air Erosion Resistance Test in accordance to ASTM Standard C 1071 - 05. Adhesive to be used should be low voc and IGBC compliant and specially formulated for ducting insulation by OEM(SR 505 or Equivalent). Insulation to be approved by local fire authorities. Also, application to be done in well ventilated area with RH% below 80%\n\nFor good workmanship and lower wastage, the Installation team to be certified by Manufacturer team for proper applicaton with Min 2 day installation training to be conducted by manufacturer's person only. A periodic monthly site visit to be done by the manufacturer representative to ensure proper application quality. Report to be submitted to the PMC and User.\n\nAbove mentioned specifications to be backed up by Third party test certificates from foreign/nabl accredited labs and to be submitted to PMC/Consultant for the approval before material supply. A random lab test to be conducted by user for the supplied product for density, and antimicrobial behaviour at foreign/nabl accredited labs. Cost for the same to be borne by the contracting agency. Thickness - Min 25 mm",
+              "Sqm.",
+              "2500",
+              ""
+            ],
+            [
+              "6",
+              "Supply & Installation of underdeck insulation as per specification. Material shall be 19mm thick Class \" 0 \" Closed cell nitrile rubber elastomeric foam insulation laminated with chemically treated glass cloth  of 7 mil / 0.18 mm thickness  Thermal conductivity of insulation material shall not exceed 0.036 W/(m.K) at  mean temperature of 24C as per ASTM C 518 / ASTM C 177. The insulation material shall have water absorption of 0.2% by volume as per ASTM C 1763 ,shall have fire performance rating of 25/50 as per ASTM E 84. Density will be 40 to 60 Kg/m3 .\u2022 The insulation material shall have Microban\u00ae* an anti-microbial product, which is EPA (Environmental Protection Agency), USA Approved, as an integral part of insulation that cannot be washed off or worn off.The insulation material shall give enhanced level of protection against harmful Microbes such as fungi and mold and should confirm to ASTM G 21, UL 181 & ASTM E 2180. Water Vapor Permeability of insulation material shall be minimum 0.05 Perm-inch. without any external barrier as per ASTM E 96 Procedure A. The adhesives for the application of insulation should be of principal manufacturer. Application services to be availed from the principal insulation company and detailed report to be provided by the insulation manufacturer after installation",
+              "Sqm",
+              "300",
+              ""
+            ],
+            [
+              "8",
+              "S.I.T.C. of Thermal insulation of CHW Pipings with low fire propagation Class O Closed Cell Nitrile Rubber with K value of 0.035 w/m.k at 0 Deg C Temp, and UL94 certified from UL lab. Insulation to be laminated with Grey colored 400 microns/380 gsm multiple layered laminate of polymeric material reinforced with scrim with \u03bc value of 20,000  and UV resistance as per ISO 4892-2 Method A (1000 Hrs test) and mechanical strength >5 MPa as per ASTM.\n\nTo avoid condensation, Minimum 100 mm distance to be provided between insulated surfaces/walls for ventilation.For good workmanship and lower wastage, the Installation team to be certified by Manufacturer team for proper applicaton with Min 2 day installation training to be conducted by manufacturer's person only. Adhesive to be used should be low voc and IGBC compliant and specially formulated for ducting insulation by OEM(SR 998 or Equivalent). Also, application to be done in well ventilated area with RH% below 80%. A periodic monthly site visit to be done by the manufacturer representative to ensure proper application quality. Report to be submitted to the PMC, Consultant and User / Internal Chiller Plant room Insulation shall be with 24G Aluminium Cladding\n\nAbove mentioned specifications to be backed up by Third party test certificates from foreign/nabl accredited labs and to be submitted to PMC/Consultant for the approval before material supply. A random lab test to be conducted by user for the supplied product for K value, covering thickness/gsm, \u03bc value  and Class O certifications at foreign/nabl accredited labs. Cost for the same to be borne by the contracting agency.\nPrice shall include all the accessories and PUF Block support of  suitable density as per pipe and fixing arrangement with Structural support",
+              "",
+              "",
+              ""
+            ],
+            [
+              "8.1",
+              "50 mm thick Insulation",
+              "Sq. Mtr.",
+              "7500",
+              ""
+            ],
+            [
+              "8.2",
+              "44mm thick Insulation",
+              "Sq. Mtr.",
+              "8500",
+              ""
+            ],
+            [
+              "8.3",
+              "38 mm thick Insulation",
+              "Sq. Mtr.",
+              "4000",
+              ""
+            ],
+            [
+              "8.4",
+              "32 mm thick Insulation",
+              "Sq. Mtr.",
+              "7000",
+              ""
+            ],
+            [
+              "8.5",
+              "25mm Thick Insulation",
+              "Sq. Mtr.",
+              "4500",
+              ""
+            ],
+            [
+              "8.6",
+              "19mm Thick Insulation",
+              "Sq. Mtr.",
+              "1500",
+              ""
+            ],
+            [
+              "8.7",
+              "13mm Thick Insulation",
+              "Sq. Mtr.",
+              "150",
+              ""
+            ]
+          ],
+          "row_count": 16
+        }
+      ],
+      "metadata": {
+        "sheet_count": 1,
+        "total_rows": 16,
+        "max_row": 16
+      }
+    },
+    {
+      "source": "Copy of TDS - Insulation - SAEL (1).xlsx",
+      "sha256": "11c69d5d74a489c5edcc04712127915dfcc82de473e16f619d238915571e0b32",
+      "size_bytes": 11961,
+      "file_class": "tds",
+      "format": "xlsx",
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "headers": [
+            "CLIENT : SAEL SOLAR P6 PRIVATE LIMITED",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "PROJECT : PROPOSED PV MODULE & SOLAR CELL MANUFACTURING UNIT AT NOIDA, UP",
+              "",
+              "",
+              ""
+            ],
+            [
+              "CONSULTANT : VMS ENGINEERING &DESIGN SERVICES (P) LTD.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "DOCUMENT NAME : TECHNICAL DATA SHEET GENERAL FOR HVAC WORKS",
+              "",
+              "",
+              ""
+            ],
+            [
+              "REVISION NO. : R0",
+              "",
+              "",
+              ""
+            ],
+            [
+              "DATE : 25-02-2026",
+              "",
+              "",
+              ""
+            ],
+            [
+              "No.",
+              "Description",
+              "Bid Requirement",
+              "Bidder's Response"
+            ],
+            [
+              "11",
+              "DUCT THERMAL INSUALTION",
+              "",
+              ""
+            ],
+            [
+              "11.1",
+              "INSULATION MATERIALS",
+              "REFER BOQ",
+              ""
+            ],
+            [
+              "11.1.1",
+              "EQUIPMENT",
+              "NITRILE RUBBER OF CLASS \"O\" HAVING THERMAL CONDUCTIVITY <0.036W/Mk",
+              ""
+            ],
+            [
+              "11.1.2",
+              "AIR-CONDITIONING DUCT",
+              "NITRILE RUBBER",
+              ""
+            ],
+            [
+              "11.1.3",
+              "INSULATION ADHESIVES",
+              "REFER BOQ",
+              ""
+            ],
+            [
+              "11.1.4",
+              "VAPOUR BARRIERS",
+              "REFER BOQ",
+              ""
+            ],
+            [
+              "11.2",
+              "FINISHING MATERIALS",
+              "",
+              ""
+            ],
+            [
+              "11.2.1",
+              "EQUIPMENT",
+              "NA",
+              ""
+            ],
+            [
+              "11.2.2",
+              "AIR-CONDITIONING DUCT",
+              "NITRILE RUBBER OF CLASS \"O\"",
+              ""
+            ],
+            [
+              "11.2.3",
+              "IS ANY INSULATION MATERIAL CORROSIVE TO CARBON STEEL OR ALLOY STEEL SURFACE IN CONTACT",
+              "YES / NO",
+              ""
+            ],
+            [
+              "11.2.4",
+              "INSULATION THICKNESSES FOR ALL INSULATION MATERIALS SELECTED, IN THE FORMAT SIMILAR TO THAT IN DATA SHEET A, TO BE ENCLOSED.",
+              "WHETHER ENCLOSED",
+              ""
+            ],
+            [
+              "12",
+              "ACCOUSTIC INSULATION FOR DUCT-10 mm THICK",
+              "",
+              ""
+            ],
+            [
+              "12.01",
+              "INSULATION MATERIALS",
+              "",
+              ""
+            ],
+            [
+              "12.02",
+              "EQUIPMENT",
+              "10 mm thick class 1 rating Open cell nitrile rubber elastomeric insulation",
+              ""
+            ],
+            [
+              "12.03",
+              "DENSITY",
+              "140 - 180 kg / m\u00b3",
+              ""
+            ],
+            [
+              "12.04",
+              "THERMAL CONDUCTIVITY",
+              "0.047W/m K @ 20 degC as per DIN EN 12667.",
+              ""
+            ],
+            [
+              "L)",
+              "CHW insulation nitrile rubber",
+              "",
+              ""
+            ],
+            [
+              "1",
+              "Make",
+              "VTS",
+              ""
+            ],
+            [
+              "2",
+              "Material of insulation",
+              "Class \"O\" elastomeric nitrile rubber with Dura Clad",
+              ""
+            ],
+            [
+              "4",
+              "Application",
+              "Chilled water piping insulation",
+              ""
+            ],
+            [
+              "5",
+              "Thickness mm",
+              "As per BOQ",
+              ""
+            ],
+            [
+              "6",
+              "Thermal conductivity w/(m.k)",
+              "0.037",
+              ""
+            ],
+            [
+              "7",
+              "Density kg/m3",
+              "45 - 55",
+              ""
+            ],
+            [
+              "8",
+              "Surface finish",
+              "As per BOQ",
+              ""
+            ],
+            [
+              "9",
+              "Measurement standard",
+              "Pipe dia & centre line",
+              ""
+            ],
+            [
+              "10",
+              "Adhesive",
+              "equivalent as per manufacturer recommendation.",
+              ""
+            ]
+          ],
+          "row_count": 32
+        }
+      ],
+      "metadata": {
+        "sheet_count": 1,
+        "total_rows": 32,
+        "max_row": 32
+      }
+    }
+  ],
+  "boq_xlsx_path": null,
+  "spec_files": [],
+  "tds_files": [
+    "data/real_rfqs/swa_enquiries/08_sael/Copy of TDS - Insulation - SAEL (1).xlsx"
+  ],
+  "metadata": {}
+}

@@ -1,0 +1,4 @@
+Source: data/real_rfqs/reference_real/cpwd_Guidelines_for_Hassle_Free_Bid_Submission_1778959268.pdf
+Entries: 1
+Uncertain entries:
+Entry 1: contains non-ascii / possible OCR artifacts, very long material description; review segmentation

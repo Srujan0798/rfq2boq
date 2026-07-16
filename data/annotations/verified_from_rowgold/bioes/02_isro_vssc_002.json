@@ -1,0 +1,29 @@
+{
+  "doc_id": "02_isro_vssc_002",
+  "source_file": "VSSC_BOQ_with_qty.xlsx",
+  "tokens": [
+    "supply",
+    "Structure",
+    "&",
+    "civil",
+    "0",
+    "no."
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "02_isro_vssc.rowgold.json",
+    "row_idx": 2,
+    "action": "supply",
+    "quantity": "0",
+    "unit": "no."
+  }
+}

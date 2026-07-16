@@ -1,0 +1,3727 @@
+{
+  "categories": {
+    "thermal": [
+      "mineral wool",
+      "rock wool",
+      "fiberglass",
+      "calcium silicate",
+      "polyurethane foam",
+      "polyisocyanurate",
+      "elastomeric foam",
+      "ceramic fiber",
+      "nitrile rubber",
+      "thermal insulation board",
+      "cellular glass",
+      "foam glass",
+      "13 mm thick",
+      "19 mm thick",
+      "25 mm thick",
+      "50 mm thick",
+      "armaflex",
+      "armflex",
+      "astm c553",
+      "astm c612",
+      "bs 5422",
+      "chw pipe",
+      "cold insulation",
+      "condensate pipe",
+      "cross linked polyethylene",
+      "elastomeric insulation",
+      "elastomeric nitrile rubber",
+      "glass wool",
+      "hot insulation",
+      "is 4671",
+      "is 8183",
+      "is 9842",
+      "phenolic foam",
+      "pu foam",
+      "return air duct",
+      "supply air duct",
+      "thermal insulation",
+      "xlpe"
+    ],
+    "acoustic": [
+      "acoustic foam",
+      "mass loaded vinyl",
+      "fiberglass batt",
+      "rock wool batts",
+      "acoustic insulation",
+      "soundproofing"
+    ],
+    "pipe": [
+      "calcium silicate",
+      "polyurethane foam",
+      "polyisocyanurate",
+      "elastomeric foam",
+      "pipe insulation",
+      "duct insulation",
+      "nitrile rubber insulation"
+    ],
+    "duct": [
+      "duct liner",
+      "fiberglass duct wrap",
+      "duct insulation",
+      "flexible insulation"
+    ]
+  },
+  "materials": [
+    {
+      "name": "mineral wool",
+      "aliases": [
+        "mineral wool",
+        "mineral fibre",
+        "stone wool",
+        "mineral fiber"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "rock wool",
+      "aliases": [
+        "rock wool",
+        "mineral fibre",
+        "stone wool",
+        "mineral fiber"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "fiberglass",
+      "aliases": [
+        "fiberglass",
+        "glass wool",
+        "fibreglass"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "calcium silicate",
+      "aliases": [
+        "calcium silicate"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "polyurethane foam",
+      "aliases": [
+        "polyurethane foam",
+        "PUF",
+        "PU foam",
+        "polyfoam"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "elastomeric foam",
+      "aliases": [
+        "elastomeric foam",
+        "PUF",
+        "PU foam",
+        "polyfoam"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "ceramic fiber",
+      "aliases": [
+        "ceramic fiber"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "nitrile rubber",
+      "aliases": [
+        "nitrile rubber",
+        "NBR",
+        "Nitrile rubber",
+        "closed cell elastomeric"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "thermal insulation board",
+      "aliases": [
+        "thermal insulation board"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "cellular glass",
+      "aliases": [
+        "cellular glass"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "foam glass",
+      "aliases": [
+        "foam glass",
+        "PUF",
+        "PU foam",
+        "polyfoam"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "polyisocyanurate",
+      "aliases": [
+        "polyisocyanurate",
+        "PIR",
+        "polyiso"
+      ],
+      "category": "thermal",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": [],
+      "source": "resources/Specifications/37. RPMS-ENGG-SPC-HV-019-Thermal insulation.pdf \u2014 Abbreviations section"
+    },
+    {
+      "name": "acoustic foam",
+      "aliases": [
+        "acoustic foam",
+        "PUF",
+        "PU foam",
+        "polyfoam"
+      ],
+      "category": "acoustic",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "mass loaded vinyl",
+      "aliases": [
+        "mass loaded vinyl"
+      ],
+      "category": "acoustic",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "fiberglass batt",
+      "aliases": [
+        "fiberglass batt",
+        "glass wool",
+        "fibreglass"
+      ],
+      "category": "acoustic",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "rock wool batts",
+      "aliases": [
+        "rock wool batts",
+        "mineral fibre",
+        "stone wool",
+        "mineral fiber"
+      ],
+      "category": "acoustic",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "acoustic insulation",
+      "aliases": [
+        "acoustic insulation"
+      ],
+      "category": "acoustic",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "soundproofing",
+      "aliases": [
+        "soundproofing"
+      ],
+      "category": "acoustic",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "calcium silicate",
+      "aliases": [
+        "calcium silicate"
+      ],
+      "category": "pipe",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "polyurethane foam",
+      "aliases": [
+        "polyurethane foam",
+        "PUF",
+        "PU foam",
+        "polyfoam"
+      ],
+      "category": "pipe",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "elastomeric foam",
+      "aliases": [
+        "elastomeric foam",
+        "PUF",
+        "PU foam",
+        "polyfoam"
+      ],
+      "category": "pipe",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "pipe insulation",
+      "aliases": [
+        "pipe insulation"
+      ],
+      "category": "pipe",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "duct insulation",
+      "aliases": [
+        "duct insulation"
+      ],
+      "category": "pipe",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "nitrile rubber insulation",
+      "aliases": [
+        "nitrile rubber insulation",
+        "NBR",
+        "Nitrile rubber",
+        "closed cell elastomeric"
+      ],
+      "category": "pipe",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "duct liner",
+      "aliases": [
+        "duct liner"
+      ],
+      "category": "duct",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "fiberglass duct wrap",
+      "aliases": [
+        "fiberglass duct wrap",
+        "glass wool",
+        "fibreglass"
+      ],
+      "category": "duct",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "duct insulation",
+      "aliases": [
+        "duct insulation"
+      ],
+      "category": "duct",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "flexible insulation",
+      "aliases": [
+        "flexible insulation"
+      ],
+      "category": "duct",
+      "density_range_kg_m3": null,
+      "thickness_range_mm": null,
+      "common_standards": []
+    },
+    {
+      "name": "13 mm thick",
+      "aliases": [
+        "13 mm thick"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "19 mm thick",
+      "aliases": [
+        "19 mm thick"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "25 mm thick",
+      "aliases": [
+        "25 mm thick"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "50 mm thick",
+      "aliases": [
+        "50 mm thick"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "armaflex",
+      "aliases": [
+        "armaflex"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "armflex",
+      "aliases": [
+        "armflex"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "astm c553",
+      "aliases": [
+        "astm c553"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "astm c612",
+      "aliases": [
+        "astm c612"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "bs 5422",
+      "aliases": [
+        "bs 5422"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "chw pipe",
+      "aliases": [
+        "chw pipe"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "cold insulation",
+      "aliases": [
+        "cold insulation"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "condensate pipe",
+      "aliases": [
+        "condensate pipe"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "cross linked polyethylene",
+      "aliases": [
+        "cross linked polyethylene"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "elastomeric insulation",
+      "aliases": [
+        "elastomeric insulation"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "elastomeric nitrile rubber",
+      "aliases": [
+        "elastomeric nitrile rubber"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "glass wool",
+      "aliases": [
+        "glass wool"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "hot insulation",
+      "aliases": [
+        "hot insulation"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "is 4671",
+      "aliases": [
+        "is 4671"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "is 8183",
+      "aliases": [
+        "is 8183"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "is 9842",
+      "aliases": [
+        "is 9842"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "phenolic foam",
+      "aliases": [
+        "phenolic foam"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "pu foam",
+      "aliases": [
+        "pu foam"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "return air duct",
+      "aliases": [
+        "return air duct"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "supply air duct",
+      "aliases": [
+        "supply air duct"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "thermal insulation",
+      "aliases": [
+        "thermal insulation"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "xlpe",
+      "aliases": [
+        "xlpe"
+      ],
+      "category": "thermal",
+      "source": "client_resources_mined_2026-07-02"
+    },
+    {
+      "name": "19 mm thick insulation",
+      "aliases": [
+        "19 mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources"
+    },
+    {
+      "name": "acoustic insulation mineral wool",
+      "aliases": [
+        "acoustic insulation mineral wool"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources"
+    },
+    {
+      "name": "chw pipe insulation",
+      "aliases": [
+        "chw pipe insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources"
+    },
+    {
+      "name": "duct liner fiberglass",
+      "aliases": [
+        "duct liner fiberglass"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources"
+    },
+    {
+      "name": "rock wool mattress",
+      "aliases": [
+        "rock wool mattress"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources"
+    },
+    {
+      "name": "xlpe foam",
+      "aliases": [
+        "xlpe foam"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources"
+    },
+    {
+      "name": "(-) 40\u00b0C to 105\u00b0C",
+      "aliases": [
+        "(-) 40\u00b0C to 105\u00b0C"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(-) 80 to 230",
+      "aliases": [
+        "(-) 80 to 230"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(-)40 to 230",
+      "aliases": [
+        "(-)40 to 230"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(-)80 to 110",
+      "aliases": [
+        "(-)80 to 110"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(-)80 to 130",
+      "aliases": [
+        "(-)80 to 130"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(-)80 to 80",
+      "aliases": [
+        "(-)80 to 80"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(NPS System); 2010",
+      "aliases": [
+        "(NPS System); 2010"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(cid:1)(cid:1)\u092c\u092c\u0921\u0921 (cid:1)(cid:1)\u0935\u0935\u0935\u0935\u0930\u0930\u0923\u0923//Bid Details",
+      "aliases": [
+        "(cid:1)(cid:1)\u092c\u092c\u0921\u0921 (cid:1)(cid:1)\u0935\u0935\u0935\u0935\u0930\u0930\u0923\u0923//Bid Details"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(cid:1)(cid:1)\u0935\u0935\u092d\u092d\u093e\u093e\u0917\u0917 \u0915\u0915\u093e\u093e \u0928\u0928\u093e\u093e\u092e\u092e/Department Name",
+      "aliases": [
+        "(cid:1)(cid:1)\u0935\u0935\u092d\u092d\u093e\u093e\u0917\u0917 \u0915\u0915\u093e\u093e \u0928\u0928\u093e\u093e\u092e\u092e/Department Name"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(cid:3) Freq(Hz) (cid:3)",
+      "aliases": [
+        "(cid:3) Freq(Hz) (cid:3)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "(cid:73)(cid:73)..\u0938\u0938\u0902.\u0902./S.N o",
+      "aliases": [
+        "(cid:73)(cid:73)..\u0938\u0938\u0902.\u0902./S.N o"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "1. Insulation should have high stress corrosion inhibitors",
+      "aliases": [
+        "1. Insulation should have high stress corrosion inhibitors"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "1. TECHNICAL SPECIFICATION FOR HVAC INSULATION",
+      "aliases": [
+        "1. TECHNICAL SPECIFICATION FOR HVAC INSULATION"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "10 mm thick accoustic lining for initial portion of the ducting",
+      "aliases": [
+        "10 mm thick accoustic lining for initial portion of the ducting"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "10 mm thick acoustic lining with Nitrile Rubber",
+      "aliases": [
+        "10 mm thick acoustic lining with Nitrile Rubber"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "100 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 75mm thk insulation",
+      "aliases": [
+        "100 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 75mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "100 mm dia (32mm thick insulation)",
+      "aliases": [
+        "100 mm dia (32mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "100 mm dia pipes",
+      "aliases": [
+        "100 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "100 mm dia pipes(32mm thk)",
+      "aliases": [
+        "100 mm dia pipes(32mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "100 mm dia. (38MM Thick insulation)",
+      "aliases": [
+        "100 mm dia. (38MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "12.5 NB \u2026.[ thk. as per IS 1239- medium duty] with 40mm thk insulation",
+      "aliases": [
+        "12.5 NB \u2026.[ thk. as per IS 1239- medium duty] with 40mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "12.7 mm OD hard copper (Insulation 13 mm)",
+      "aliases": [
+        "12.7 mm OD hard copper (Insulation 13 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "12.7 mm dia with 13mm thick insulation",
+      "aliases": [
+        "12.7 mm dia with 13mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "125 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 75mm thk insulation",
+      "aliases": [
+        "125 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 75mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "125 mm dia (32mm thick insulation)",
+      "aliases": [
+        "125 mm dia (32mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "125 mm dia MS pipes(32mm thk)",
+      "aliases": [
+        "125 mm dia MS pipes(32mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "125 mm dia pipes",
+      "aliases": [
+        "125 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "125 mm dia. (44MM Thick insulation)",
+      "aliases": [
+        "125 mm dia. (44MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "13 mm thick Insulation",
+      "aliases": [
+        "13 mm thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "13 mm thick for Comfort RA Duct",
+      "aliases": [
+        "13 mm thick for Comfort RA Duct"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "13 mm thick insulation for return / exhaust air ducts",
+      "aliases": [
+        "13 mm thick insulation for return / exhaust air ducts"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "13 mm thick insulation for supply air ducts in return air path",
+      "aliases": [
+        "13 mm thick insulation for supply air ducts in return air path"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "13mm Thick Insulation",
+      "aliases": [
+        "13mm Thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "15 NB \u2026.[ thk. as per IS 1239 - medium duty] with 40mm thk insulation",
+      "aliases": [
+        "15 NB \u2026.[ thk. as per IS 1239 - medium duty] with 40mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "15 mm dia pipes",
+      "aliases": [
+        "15 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "15 mm thick acoustic lining with Nitrile Rubber",
+      "aliases": [
+        "15 mm thick acoustic lining with Nitrile Rubber"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "15.9 mm OD hard copper (Insulation 19 mm)",
+      "aliases": [
+        "15.9 mm OD hard copper (Insulation 19 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "15.9 mm dia with 13mm thick insulation",
+      "aliases": [
+        "15.9 mm dia with 13mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "150 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 100mm thk insulation",
+      "aliases": [
+        "150 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 100mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "150 mm dia (32mm thick insulation)",
+      "aliases": [
+        "150 mm dia (32mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "150 mm dia MS pipes (32mm thk)",
+      "aliases": [
+        "150 mm dia MS pipes (32mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "150 mm dia pipes",
+      "aliases": [
+        "150 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "150 mm dia. (44MM Thick insulation)",
+      "aliases": [
+        "150 mm dia. (44MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "16 mm thick Insulation",
+      "aliases": [
+        "16 mm thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19 NB \u2026.[ thk. as per IS 1239 - medium duty] with 40mm thk insulation",
+      "aliases": [
+        "19 NB \u2026.[ thk. as per IS 1239 - medium duty] with 40mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19 mm thick for Comfort SA Duct",
+      "aliases": [
+        "19 mm thick for Comfort SA Duct"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19 mm thick insulation for return air ducts",
+      "aliases": [
+        "19 mm thick insulation for return air ducts"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19 mm thick insulation for supply air ducts",
+      "aliases": [
+        "19 mm thick insulation for supply air ducts"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19 mm thick insulation for supply air ducts in return air path",
+      "aliases": [
+        "19 mm thick insulation for supply air ducts in return air path"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19.1 mm OD hard copper (Insulation 19 mm)",
+      "aliases": [
+        "19.1 mm OD hard copper (Insulation 19 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19.1 mm dia with 13mm thick insulation",
+      "aliases": [
+        "19.1 mm dia with 13mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19mm Thick Insulation",
+      "aliases": [
+        "19mm Thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "19mm thick - SA/DH-AHU/TFA duct",
+      "aliases": [
+        "19mm thick - SA/DH-AHU/TFA duct"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "2.5 GW Cell Line Manufacturing Project, Narmadapuram, MP",
+      "aliases": [
+        "2.5 GW Cell Line Manufacturing Project, Narmadapuram, MP"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "20 mm dia pipes",
+      "aliases": [
+        "20 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "200 NB \u2026.[ 6 mm thk. as per IS 3589] with 100mm thk insulation",
+      "aliases": [
+        "200 NB \u2026.[ 6 mm thk. as per IS 3589] with 100mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "200 mm dia (32mm thick insulation)",
+      "aliases": [
+        "200 mm dia (32mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "200 mm dia MS pipes (32mm thk)",
+      "aliases": [
+        "200 mm dia MS pipes (32mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "200 mm dia pipes",
+      "aliases": [
+        "200 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "200 mm dia. (44MM Thick insulation)",
+      "aliases": [
+        "200 mm dia. (44MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "22.2 mm OD hard copper (Insulation 19 mm)",
+      "aliases": [
+        "22.2 mm OD hard copper (Insulation 19 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "22.2 mm dia with 19mm thick insulation",
+      "aliases": [
+        "22.2 mm dia with 19mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 NB \u2026.[ thk. as per IS 1239 - medium duty] with 40mm thk insulation",
+      "aliases": [
+        "25 NB \u2026.[ thk. as per IS 1239 - medium duty] with 40mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm dia MS pipes(19mm thk)",
+      "aliases": [
+        "25 mm dia MS pipes(19mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm dia MS pipes(25mm thk)",
+      "aliases": [
+        "25 mm dia MS pipes(25mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm dia condensate drain pipes",
+      "aliases": [
+        "25 mm dia condensate drain pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm dia pipes",
+      "aliases": [
+        "25 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm dia with 9 mm thick insulation",
+      "aliases": [
+        "25 mm dia with 9 mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm dia. (32MM Thick insulation)",
+      "aliases": [
+        "25 mm dia. (32MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm thick Insulation",
+      "aliases": [
+        "25 mm thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm thick for Clean Room SA Duct",
+      "aliases": [
+        "25 mm thick for Clean Room SA Duct"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm thick for Clean Room SA Duct - For After 15 Meter All Ducts",
+      "aliases": [
+        "25 mm thick for Clean Room SA Duct - For After 15 Meter All Ducts"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm thick for TFA duct",
+      "aliases": [
+        "25 mm thick for TFA duct"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25 mm thick insulation for supply duct (not in RA path)",
+      "aliases": [
+        "25 mm thick insulation for supply duct (not in RA path)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25.4 mm dia with 19mm thick insulation",
+      "aliases": [
+        "25.4 mm dia with 19mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "250 mm dia (32mm thick insulation)",
+      "aliases": [
+        "250 mm dia (32mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "250 mm dia MS pipes (32mm thk)",
+      "aliases": [
+        "250 mm dia MS pipes (32mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "250 mm dia pipes",
+      "aliases": [
+        "250 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "250mm dia. 32mm thick insulation",
+      "aliases": [
+        "250mm dia. 32mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25mm Thick Insulation",
+      "aliases": [
+        "25mm Thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25mm dia (25mm thick insulation)",
+      "aliases": [
+        "25mm dia (25mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "25mm dia. 19mm thick insulation",
+      "aliases": [
+        "25mm dia. 19mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "28.6 mm OD hard copper (Insulation 19 mm)",
+      "aliases": [
+        "28.6 mm OD hard copper (Insulation 19 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "28.6 mm dia with 19mm thick insulation",
+      "aliases": [
+        "28.6 mm dia with 19mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "3. The insulation should be dry while installed & shall be kept dry",
+      "aliases": [
+        "3. The insulation should be dry while installed & shall be kept dry"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "300 mm dia (41mm thick insulation)",
+      "aliases": [
+        "300 mm dia (41mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "300 mm dia MS pipes ( 32mm thk)",
+      "aliases": [
+        "300 mm dia MS pipes ( 32mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "300 mm dia pipes",
+      "aliases": [
+        "300 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "300mm dia. 32mm thick insulation",
+      "aliases": [
+        "300mm dia. 32mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "31.8 mm dia with 19mm thick insulation",
+      "aliases": [
+        "31.8 mm dia with 19mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 50mm thk insulation",
+      "aliases": [
+        "32 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 50mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32 mm dia MS pipes(25mm thk)",
+      "aliases": [
+        "32 mm dia MS pipes(25mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32 mm dia pipes",
+      "aliases": [
+        "32 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32 mm dia with 9 mm thick insulation",
+      "aliases": [
+        "32 mm dia with 9 mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32 mm dia. (32MM Thick insulation)",
+      "aliases": [
+        "32 mm dia. (32MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32 mm thick Insulation",
+      "aliases": [
+        "32 mm thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32 mm thick for Clean Room SA Duct",
+      "aliases": [
+        "32 mm thick for Clean Room SA Duct"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32 mm thick for Clean Room SA Duct - For 15 Meter from MAU",
+      "aliases": [
+        "32 mm thick for Clean Room SA Duct - For 15 Meter from MAU"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32mm dia (25mm thick insulation)",
+      "aliases": [
+        "32mm dia (25mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "32mm dia. 19mm thick insulation",
+      "aliases": [
+        "32mm dia. 19mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "34.9 mm OD hard copper (Insulation 19 mm)",
+      "aliases": [
+        "34.9 mm OD hard copper (Insulation 19 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "34.9 mm dia with 19mm thick insulation",
+      "aliases": [
+        "34.9 mm dia with 19mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "350 mm dia (41mm thick insulation)",
+      "aliases": [
+        "350 mm dia (41mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "350 mm dia MS pipes ( 32mm thk)",
+      "aliases": [
+        "350 mm dia MS pipes ( 32mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "350 mm dia pipes",
+      "aliases": [
+        "350 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "350 mm dia. (50MM Thick insulation)",
+      "aliases": [
+        "350 mm dia. (50MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "38 mm thick Insulation",
+      "aliases": [
+        "38 mm thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "38 mm thick Insulation on 450NB to 80NB",
+      "aliases": [
+        "38 mm thick Insulation on 450NB to 80NB"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 50mm thk insulation",
+      "aliases": [
+        "40 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 50mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40 mm dia MS pipes(25mm thk)",
+      "aliases": [
+        "40 mm dia MS pipes(25mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40 mm dia pipes",
+      "aliases": [
+        "40 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40 mm dia with 9 mm thick insulation",
+      "aliases": [
+        "40 mm dia with 9 mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40 mm dia. (32MM Thick insulation)",
+      "aliases": [
+        "40 mm dia. (32MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40 mm for pipe up to 40 mm dia",
+      "aliases": [
+        "40 mm for pipe up to 40 mm dia"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40-60kg/m3, EPDM insulaion rated V 0 as per UL 94",
+      "aliases": [
+        "40-60kg/m3, EPDM insulaion rated V 0 as per UL 94"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "400 mm dia (50mm thick insulation)",
+      "aliases": [
+        "400 mm dia (50mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "400 mm dia pipes",
+      "aliases": [
+        "400 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "400 mm dia. (50MM Thick insulation)",
+      "aliases": [
+        "400 mm dia. (50MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40mm dia (25mm thick insulation)",
+      "aliases": [
+        "40mm dia (25mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "40mm dia. 19mm thick insulation",
+      "aliases": [
+        "40mm dia. 19mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "41.1 mm OD hard copper (Insulation 19 mm)",
+      "aliases": [
+        "41.1 mm OD hard copper (Insulation 19 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "44mm thick Insulation",
+      "aliases": [
+        "44mm thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "450 mm dia (50mm thick insulation)",
+      "aliases": [
+        "450 mm dia (50mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "450 mm dia pipes",
+      "aliases": [
+        "450 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "450 mm dia. (50MM Thick insulation)",
+      "aliases": [
+        "450 mm dia. (50MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 50mm thk insulation",
+      "aliases": [
+        "50 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 50mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50 mm dia MS pipes(25mm thk)",
+      "aliases": [
+        "50 mm dia MS pipes(25mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50 mm dia condensate drain pipes",
+      "aliases": [
+        "50 mm dia condensate drain pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50 mm dia pipes",
+      "aliases": [
+        "50 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50 mm dia. (38MM Thick insulation)",
+      "aliases": [
+        "50 mm dia. (38MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50 mm for pipe up to 65 mm dia",
+      "aliases": [
+        "50 mm for pipe up to 65 mm dia"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50 mm thick Insulation",
+      "aliases": [
+        "50 mm thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50 mm thick for Clean Room SA Duct - MAU Plenum",
+      "aliases": [
+        "50 mm thick for Clean Room SA Duct - MAU Plenum"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "500 mm dia (50mm thick insulation)",
+      "aliases": [
+        "500 mm dia (50mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "500 mm dia pipes",
+      "aliases": [
+        "500 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50mm dia (25mm thick insulation)",
+      "aliases": [
+        "50mm dia (25mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50mm dia. 25mm thick insulation",
+      "aliases": [
+        "50mm dia. 25mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "50mm for Plenum of Duct 32mm for First 15 meter of SA",
+      "aliases": [
+        "50mm for Plenum of Duct 32mm for First 15 meter of SA"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "51 mm thick Insulation on 950NB to 500NB",
+      "aliases": [
+        "51 mm thick Insulation on 950NB to 500NB"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "55 mm for pipe up to 150 mm dia",
+      "aliases": [
+        "55 mm for pipe up to 150 mm dia"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "550 mm dia (50mm thick insulation)",
+      "aliases": [
+        "550 mm dia (50mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "6 mm thick insulation",
+      "aliases": [
+        "6 mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "6. G.A DRAWING / FOUNDATION DWG / PRODUCT",
+      "aliases": [
+        "6. G.A DRAWING / FOUNDATION DWG / PRODUCT"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "6. G.A DRAWING / FOUNDATION DWG / PRODUCT CATALOUGE",
+      "aliases": [
+        "6. G.A DRAWING / FOUNDATION DWG / PRODUCT CATALOUGE"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "6.4 mm OD hard copper (Insulation 13 mm)",
+      "aliases": [
+        "6.4 mm OD hard copper (Insulation 13 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "6.4 mm dia with 13mm thick insulation",
+      "aliases": [
+        "6.4 mm dia with 13mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "600 mm dia (50mm thick insulation)",
+      "aliases": [
+        "600 mm dia (50mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "600 mm dia pipes",
+      "aliases": [
+        "600 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "65 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 75mm thk insulation",
+      "aliases": [
+        "65 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 75mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "65 mm dia (32mm thick insulation)",
+      "aliases": [
+        "65 mm dia (32mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "65 mm dia MS pipes(25mm thk)",
+      "aliases": [
+        "65 mm dia MS pipes(25mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "65 mm dia pipes",
+      "aliases": [
+        "65 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "65 mm dia. (38MM Thick insulation)",
+      "aliases": [
+        "65 mm dia. (38MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "650 mm dia (50mm thick insulation)",
+      "aliases": [
+        "650 mm dia (50mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "65mm dia. 25mm thick insulation",
+      "aliases": [
+        "65mm dia. 25mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "66 mm for pipe up to 300 mm dia",
+      "aliases": [
+        "66 mm for pipe up to 300 mm dia"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "700 mm dia (50mm thick insulation)",
+      "aliases": [
+        "700 mm dia (50mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "75 mm thick Insulation on 1200NB to 1000NB",
+      "aliases": [
+        "75 mm thick Insulation on 1200NB to 1000NB"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "76 mm for pipe above 350 mm dia",
+      "aliases": [
+        "76 mm for pipe above 350 mm dia"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "80 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 75mm thk insulation",
+      "aliases": [
+        "80 NB \u2026.[ thk. as per IS 1239 - heavy duty] with 75mm thk insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "80 mm dia (32mm thick insulation)",
+      "aliases": [
+        "80 mm dia (32mm thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "80 mm dia MS pipes(25mm thk)",
+      "aliases": [
+        "80 mm dia MS pipes(25mm thk)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "80 mm dia pipes",
+      "aliases": [
+        "80 mm dia pipes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "80 mm dia. (38MM Thick insulation)",
+      "aliases": [
+        "80 mm dia. (38MM Thick insulation)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "9 mm thick Insulation",
+      "aliases": [
+        "9 mm thick Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "9.5 mm OD hard copper (Insulation 13 mm)",
+      "aliases": [
+        "9.5 mm OD hard copper (Insulation 13 mm)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "9.5 mm dia with 13mm thick insulation",
+      "aliases": [
+        "9.5 mm dia with 13mm thick insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A Flex, Armaflex, K Flex, Thermobreak, Aero flex",
+      "aliases": [
+        "A Flex, Armaflex, K Flex, Thermobreak, Aero flex"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A HU/MAU/RAU/RCU",
+      "aliases": [
+        "A HU/MAU/RAU/RCU"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A L DUCT",
+      "aliases": [
+        "A L DUCT"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A ctuator",
+      "aliases": [
+        "A ctuator"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A ctuators",
+      "aliases": [
+        "A ctuators"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A ir curtains",
+      "aliases": [
+        "A ir curtains"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A scrap section of Insulation",
+      "aliases": [
+        "A scrap section of Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A single layer of insulation",
+      "aliases": [
+        "A single layer of insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A uto air vent",
+      "aliases": [
+        "A uto air vent"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A, Item No. 04",
+      "aliases": [
+        "A, Item No. 04"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A, Item No. 11",
+      "aliases": [
+        "A, Item No. 11"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A-flex/K- flex/Armacell/superlon",
+      "aliases": [
+        "A-flex/K- flex/Armacell/superlon"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A. CHILLER PLANT HIGHSIDE EQUIP",
+      "aliases": [
+        "A. CHILLER PLANT HIGHSIDE EQUIP"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A. Sprinkler",
+      "aliases": [
+        "A. Sprinkler"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A.Sanitary Fittings & Acc",
+      "aliases": [
+        "A.Sanitary Fittings & Acc"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "A1. CHW PUMPS & PHEX",
+      "aliases": [
+        "A1. CHW PUMPS & PHEX"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AAF, Mechmark, Spectrum, Freudenberg, Camfil, MayAir",
+      "aliases": [
+        "AAF, Mechmark, Spectrum, Freudenberg, Camfil, MayAir"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ACCOUSTIC INSULATION",
+      "aliases": [
+        "ACCOUSTIC INSULATION"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ACCOUSTIC INSULATION FOR DUCT-10 mm THICK",
+      "aliases": [
+        "ACCOUSTIC INSULATION FOR DUCT-10 mm THICK"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ACOUSTIC DUCT INSULATION",
+      "aliases": [
+        "ACOUSTIC DUCT INSULATION"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ACOUSTIC LINING",
+      "aliases": [
+        "ACOUSTIC LINING"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ACOUSTIC LINING WALL",
+      "aliases": [
+        "ACOUSTIC LINING WALL"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ACTUAL QTY REQUIRED FOR MDIFICATION",
+      "aliases": [
+        "ACTUAL QTY REQUIRED FOR MDIFICATION"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ACTUAL QTY REQUIRED FOR MDIFICATION WORK FOR",
+      "aliases": [
+        "ACTUAL QTY REQUIRED FOR MDIFICATION WORK FOR"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ADDRESS - Noida, Uttar Pradesh",
+      "aliases": [
+        "ADDRESS - Noida, Uttar Pradesh"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ADVANCE , DANFOSS , AUDCO, INTERVALVE",
+      "aliases": [
+        "ADVANCE , DANFOSS , AUDCO, INTERVALVE"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ADVANCE / AUDCO",
+      "aliases": [
+        "ADVANCE / AUDCO"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ADVANCE / AUDCO / INTERVALVE",
+      "aliases": [
+        "ADVANCE / AUDCO / INTERVALVE"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ADVANCE / BELIMO / HONEYWELL",
+      "aliases": [
+        "ADVANCE / BELIMO / HONEYWELL"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ADVANCE / DANFOSS / AUDCO / INTERVALVE",
+      "aliases": [
+        "ADVANCE / DANFOSS / AUDCO / INTERVALVE"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ADVANCE / DANFOSS / FLOWCON / SIEMENS",
+      "aliases": [
+        "ADVANCE / DANFOSS / FLOWCON / SIEMENS"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AECOM Ducting insulation",
+      "aliases": [
+        "AECOM Ducting insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AHU Acoustic Insulation",
+      "aliases": [
+        "AHU Acoustic Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AHU Room Insulation",
+      "aliases": [
+        "AHU Room Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AHU Room Wall Acoustic Insulation",
+      "aliases": [
+        "AHU Room Wall Acoustic Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AIR HANDLING UNITS",
+      "aliases": [
+        "AIR HANDLING UNITS"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AIR MASTER , SYSTEMAIR ,COSMOS , RUSKIN-TITUS",
+      "aliases": [
+        "AIR MASTER , SYSTEMAIR ,COSMOS , RUSKIN-TITUS"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AIR-CONDITIONING DUCT",
+      "aliases": [
+        "AIR-CONDITIONING DUCT"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AIR-CONDITIONING DUCT NITRILE",
+      "aliases": [
+        "AIR-CONDITIONING DUCT NITRILE"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ALFA LAVAL, AMIAD, LNG",
+      "aliases": [
+        "ALFA LAVAL, AMIAD, LNG"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ALP Accosound 15 mm acoustic Insulation",
+      "aliases": [
+        "ALP Accosound 15 mm acoustic Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ALP Aerocell NBR tube with GC 25x35",
+      "aliases": [
+        "ALP Aerocell NBR tube with GC 25x35"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ALP/ Armaflex",
+      "aliases": [
+        "ALP/ Armaflex"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ANERGY / HONEYWELL",
+      "aliases": [
+        "ANERGY / HONEYWELL"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ANERGY / HONEYWELL / PRUDAL",
+      "aliases": [
+        "ANERGY / HONEYWELL / PRUDAL"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ANERGY, HONEYWELL , PRUDAL",
+      "aliases": [
+        "ANERGY, HONEYWELL , PRUDAL"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ANNEXURE-IV INSULATION",
+      "aliases": [
+        "ANNEXURE-IV INSULATION"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "APAC-HVAC INSULATION",
+      "aliases": [
+        "APAC-HVAC INSULATION"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "APPLICATION FOR NITRILE",
+      "aliases": [
+        "APPLICATION FOR NITRILE"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ARMA FLEX / K FLEX / AERO FLEX",
+      "aliases": [
+        "ARMA FLEX / K FLEX / AERO FLEX"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AS PER NIT",
+      "aliases": [
+        "AS PER NIT"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AS PER TENDER",
+      "aliases": [
+        "AS PER TENDER"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASHRAE (FUND)",
+      "aliases": [
+        "ASHRAE (FUND)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASHRAE Handbook - Fundamentals; latest version",
+      "aliases": [
+        "ASHRAE Handbook - Fundamentals; latest version"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM 534/C534M",
+      "aliases": [
+        "ASTM 534/C534M"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM A653/A653M",
+      "aliases": [
+        "ASTM A653/A653M"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM B209M",
+      "aliases": [
+        "ASTM B209M"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM B209M - 2010",
+      "aliases": [
+        "ASTM B209M - 2010"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C1338 -2008",
+      "aliases": [
+        "ASTM C1338 -2008"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C177",
+      "aliases": [
+        "ASTM C177"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C195",
+      "aliases": [
+        "ASTM C195"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C449",
+      "aliases": [
+        "ASTM C449"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C518 -2010",
+      "aliases": [
+        "ASTM C518 -2010"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C533",
+      "aliases": [
+        "ASTM C533"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C547",
+      "aliases": [
+        "ASTM C547"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C552",
+      "aliases": [
+        "ASTM C552"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C553 -2011",
+      "aliases": [
+        "ASTM C553 -2011"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C578",
+      "aliases": [
+        "ASTM C578"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C585",
+      "aliases": [
+        "ASTM C585"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C591",
+      "aliases": [
+        "ASTM C591"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C610",
+      "aliases": [
+        "ASTM C610"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C612 -2010",
+      "aliases": [
+        "ASTM C612 -2010"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM C795",
+      "aliases": [
+        "ASTM C795"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM D1056",
+      "aliases": [
+        "ASTM D1056"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM D2842",
+      "aliases": [
+        "ASTM D2842"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM E84",
+      "aliases": [
+        "ASTM E84"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM E84 -2012",
+      "aliases": [
+        "ASTM E84 -2012"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM E96/E96M-2010",
+      "aliases": [
+        "ASTM E96/E96M-2010"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM G21 - 2009",
+      "aliases": [
+        "ASTM G21 - 2009"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "ASTM G21, UL 181, ASTM E2180",
+      "aliases": [
+        "ASTM G21, UL 181, ASTM E2180"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AU Small Finance Bank",
+      "aliases": [
+        "AU Small Finance Bank"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AUTHORIZED BY",
+      "aliases": [
+        "AUTHORIZED BY"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Abhijit Awari",
+      "aliases": [
+        "Abhijit Awari"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Absorption Coefficient",
+      "aliases": [
+        "Absorption Coefficient"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Absorption coefficient value of Insulation",
+      "aliases": [
+        "Absorption coefficient value of Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Accoustic Thermal insulation",
+      "aliases": [
+        "Accoustic Thermal insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Acoustic Insulation of Trap doors",
+      "aliases": [
+        "Acoustic Insulation of Trap doors"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Acoustic Lining of Ducts",
+      "aliases": [
+        "Acoustic Lining of Ducts"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Acoustic Lining of Mechanical Rooms-Open Cell Nitrile",
+      "aliases": [
+        "Acoustic Lining of Mechanical Rooms-Open Cell Nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Acoustic Lining of Mechanical Rooms-Open Cell Nitrile Rubbe",
+      "aliases": [
+        "Acoustic Lining of Mechanical Rooms-Open Cell Nitrile Rubbe"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Acoustic Material should be open cell nitrile",
+      "aliases": [
+        "Acoustic Material should be open cell nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Acoustic insulation for supply air ducts",
+      "aliases": [
+        "Acoustic insulation for supply air ducts"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AcousticInsulation",
+      "aliases": [
+        "AcousticInsulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Actual qty required for Tranch-1 additional",
+      "aliases": [
+        "Actual qty required for Tranch-1 additional"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Actual qty required for Tranch-1 additional work",
+      "aliases": [
+        "Actual qty required for Tranch-1 additional work"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesive Application",
+      "aliases": [
+        "Adhesive Application"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesive Recommended by Insulation",
+      "aliases": [
+        "Adhesive Recommended by Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesive VOC Compliance",
+      "aliases": [
+        "Adhesive VOC Compliance"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesive aluminum tapes / silver tapes as per the insulation",
+      "aliases": [
+        "Adhesive aluminum tapes / silver tapes as per the insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesive tape",
+      "aliases": [
+        "Adhesive tape"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesive used for sealing the insulation",
+      "aliases": [
+        "Adhesive used for sealing the insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesive used for setting the insulation",
+      "aliases": [
+        "Adhesive used for setting the insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesives for Insulation",
+      "aliases": [
+        "Adhesives for Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesives should be used from the insulation",
+      "aliases": [
+        "Adhesives should be used from the insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Adhesiveusedforsettingtheinsulation",
+      "aliases": [
+        "Adhesiveusedforsettingtheinsulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Advance, Audco, L&T, BDK, Intervalve",
+      "aliases": [
+        "Advance, Audco, L&T, BDK, Intervalve"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Advance, Honeywell, Castle , Emerald",
+      "aliases": [
+        "Advance, Honeywell, Castle , Emerald"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Advance, Paharpur",
+      "aliases": [
+        "Advance, Paharpur"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "After application of Nitrile",
+      "aliases": [
+        "After application of Nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "After final insulation",
+      "aliases": [
+        "After final insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "After installation of Insulation",
+      "aliases": [
+        "After installation of Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Afterfinalinsulation",
+      "aliases": [
+        "Afterfinalinsulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Ahmedabad Mercantile CO-op. Bank",
+      "aliases": [
+        "Ahmedabad Mercantile CO-op. Bank"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Air Distribution Product",
+      "aliases": [
+        "Air Distribution Product"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Air Transfer Ducts",
+      "aliases": [
+        "Air Transfer Ducts"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Air distribution system and insulation",
+      "aliases": [
+        "Air distribution system and insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Airflow, Elta, Nicotra",
+      "aliases": [
+        "Airflow, Elta, Nicotra"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Alaska Pre Insulation",
+      "aliases": [
+        "Alaska Pre Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All Nitrile",
+      "aliases": [
+        "All Nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All Valves",
+      "aliases": [
+        "All Valves"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All acoustic insulation",
+      "aliases": [
+        "All acoustic insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All insulation",
+      "aliases": [
+        "All insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All other insulation",
+      "aliases": [
+        "All other insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All pipe-supports shall be vapour sealed with Nitrile",
+      "aliases": [
+        "All pipe-supports shall be vapour sealed with Nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All the Nitrile",
+      "aliases": [
+        "All the Nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All the indoor chilled water pipework insulation",
+      "aliases": [
+        "All the indoor chilled water pipework insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "All thermal insulation",
+      "aliases": [
+        "All thermal insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Alu Foil",
+      "aliases": [
+        "Alu Foil"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Alu Foil Tape",
+      "aliases": [
+        "Alu Foil Tape"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Aluminium Cladding Closed Cell Elastomeric Nitrile",
+      "aliases": [
+        "Aluminium Cladding Closed Cell Elastomeric Nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Always keep insulation",
+      "aliases": [
+        "Always keep insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Always-wet seal all joints with Armaflex",
+      "aliases": [
+        "Always-wet seal all joints with Armaflex"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Anergy / Sevcon / Ensaviour / NES",
+      "aliases": [
+        "Anergy / Sevcon / Ensaviour / NES"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Ankush Shelar",
+      "aliases": [
+        "Ankush Shelar"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Anti-Microbial Compliance",
+      "aliases": [
+        "Anti-Microbial Compliance"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Anti-Microbial Protection",
+      "aliases": [
+        "Anti-Microbial Protection"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Anti-Sweat Insulation",
+      "aliases": [
+        "Anti-Sweat Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Any material as may be required for making the insulation",
+      "aliases": [
+        "Any material as may be required for making the insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Application Acoustic insulation",
+      "aliases": [
+        "Application Acoustic insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Application Chilled water piping insulation",
+      "aliases": [
+        "Application Chilled water piping insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Application of Insulation",
+      "aliases": [
+        "Application of Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Application of hot insulation",
+      "aliases": [
+        "Application of hot insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Applicationservicestobe availed from the principal insulation",
+      "aliases": [
+        "Applicationservicestobe availed from the principal insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Applicationservicestobeavailedfromthe principal insulation",
+      "aliases": [
+        "Applicationservicestobeavailedfromthe principal insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Applicationservicestobeavailedfromtheprincipalinsulation",
+      "aliases": [
+        "Applicationservicestobeavailedfromtheprincipalinsulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Apply a thin coat of rubber",
+      "aliases": [
+        "Apply a thin coat of rubber"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Apply the Nitrile",
+      "aliases": [
+        "Apply the Nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Approved By",
+      "aliases": [
+        "Approved By"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Approved By EPCE",
+      "aliases": [
+        "Approved By EPCE"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Approved By Zelle",
+      "aliases": [
+        "Approved By Zelle"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Approved Makes",
+      "aliases": [
+        "Approved Makes"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Aquachill Systems (I) Pvt. Ltd",
+      "aliases": [
+        "Aquachill Systems (I) Pvt. Ltd"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Area of Insulation",
+      "aliases": [
+        "Area of Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Armacell Product Proposal",
+      "aliases": [
+        "Armacell Product Proposal"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Armaflex / ALP Aeroflex / K-Flex",
+      "aliases": [
+        "Armaflex / ALP Aeroflex / K-Flex"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Armaflex / ALP/ Aeroflex / K-Flex",
+      "aliases": [
+        "Armaflex / ALP/ Aeroflex / K-Flex"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Armaflex / K-Flex / ALP",
+      "aliases": [
+        "Armaflex / K-Flex / ALP"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Armaflex / K-Flex / Aeroflex",
+      "aliases": [
+        "Armaflex / K-Flex / Aeroflex"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Armaflex/ ALP Aeroflex / K-Flex",
+      "aliases": [
+        "Armaflex/ ALP Aeroflex / K-Flex"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Armaflex/ K-flex / ALP/Hira",
+      "aliases": [
+        "Armaflex/ K-flex / ALP/Hira"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As Applicable",
+      "aliases": [
+        "As Applicable"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As Per Specifications",
+      "aliases": [
+        "As Per Specifications"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As applicable LIST OF APPROVED MAKE Armaflex",
+      "aliases": [
+        "As applicable LIST OF APPROVED MAKE Armaflex"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As per BOQ",
+      "aliases": [
+        "As per BOQ"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As per MOM clarification Density can be 160-180kg/m3",
+      "aliases": [
+        "As per MOM clarification Density can be 160-180kg/m3"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As per Recommended Adhesive",
+      "aliases": [
+        "As per Recommended Adhesive"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As per Specification",
+      "aliases": [
+        "As per Specification"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As per requirnment",
+      "aliases": [
+        "As per requirnment"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "As recommended by insulation",
+      "aliases": [
+        "As recommended by insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Asia LMI , Toshcon , Emec Italy , Ion exchange , ATHRE",
+      "aliases": [
+        "Asia LMI , Toshcon , Emec Italy , Ion exchange , ATHRE"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Atmospheric Conditions Considered",
+      "aliases": [
+        "Atmospheric Conditions Considered"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "AutoCAD files have been shared",
+      "aliases": [
+        "AutoCAD files have been shared"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Aviation Lighting",
+      "aliases": [
+        "Aviation Lighting"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Avoid damaging the Nitrile",
+      "aliases": [
+        "Avoid damaging the Nitrile"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Avoid damaging the insulation",
+      "aliases": [
+        "Avoid damaging the insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Axis Bank",
+      "aliases": [
+        "Axis Bank"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B ALANCING VALVES",
+      "aliases": [
+        "B ALANCING VALVES"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B Duct insulation",
+      "aliases": [
+        "B Duct insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B TFA",
+      "aliases": [
+        "B TFA"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B UTTERFLY DAMPER",
+      "aliases": [
+        "B UTTERFLY DAMPER"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B ag filter",
+      "aliases": [
+        "B ag filter"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B all valve",
+      "aliases": [
+        "B all valve"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B tu meter",
+      "aliases": [
+        "B tu meter"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B utterfly / ball valves",
+      "aliases": [
+        "B utterfly / ball valves"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B utterfly Valves",
+      "aliases": [
+        "B utterfly Valves"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B) C) 1 2",
+      "aliases": [
+        "B) C) 1 2"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B, Item No. 04",
+      "aliases": [
+        "B, Item No. 04"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "B. Hydrant",
+      "aliases": [
+        "B. Hydrant"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BELIMO / HONEYWELL / SIEMENS",
+      "aliases": [
+        "BELIMO / HONEYWELL / SIEMENS"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BENGALURU AIRPORT MEP PROJECT",
+      "aliases": [
+        "BENGALURU AIRPORT MEP PROJECT"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BID ANALYSIS - TECHNICAL",
+      "aliases": [
+        "BID ANALYSIS - TECHNICAL"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BOCW/Labour Cess",
+      "aliases": [
+        "BOCW/Labour Cess"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BOQ Description",
+      "aliases": [
+        "BOQ Description"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BOQ Detail Document",
+      "aliases": [
+        "BOQ Detail Document"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BOQ QTY",
+      "aliases": [
+        "BOQ QTY"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BOQ REF. No",
+      "aliases": [
+        "BOQ REF. No"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BOQ Specification",
+      "aliases": [
+        "BOQ Specification"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BOQ Title YADADRI THERMAL INSULATION",
+      "aliases": [
+        "BOQ Title YADADRI THERMAL INSULATION"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BOQ- D-BOP-CT, piping",
+      "aliases": [
+        "BOQ- D-BOP-CT, piping"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BS 3927",
+      "aliases": [
+        "BS 3927"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BS 476 Part 7",
+      "aliases": [
+        "BS 476 Part 7"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BS 5608",
+      "aliases": [
+        "BS 5608"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BS 874 part 2 \u2013 86 (DIN 52613 52612",
+      "aliases": [
+        "BS 874 part 2 \u2013 86 (DIN 52613 52612"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BTU METER & THERMOSTA T",
+      "aliases": [
+        "BTU METER & THERMOSTA T"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BUFFER TANK",
+      "aliases": [
+        "BUFFER TANK"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BUSDUCT AND RISING MAINS AND TAP OFF UNITS",
+      "aliases": [
+        "BUSDUCT AND RISING MAINS AND TAP OFF UNITS"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "BY DESCRIPTION AS PER TENDER VENDOR ACOUSTIC DUCT INSULATION",
+      "aliases": [
+        "BY DESCRIPTION AS PER TENDER VENDOR ACOUSTIC DUCT INSULATION"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Bandhan Bank",
+      "aliases": [
+        "Bandhan Bank"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Based on the Insulation",
+      "aliases": [
+        "Based on the Insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Before application of the insulation",
+      "aliases": [
+        "Before application of the insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Before applying insulation",
+      "aliases": [
+        "Before applying insulation"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Bharat Heavy Electricals Limited (bhel)",
+      "aliases": [
+        "Bharat Heavy Electricals Limited (bhel)"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Bid Details Bonded mineral -Rock- wool",
+      "aliases": [
+        "Bid Details Bonded mineral -Rock- wool"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Bid Requirement",
+      "aliases": [
+        "Bid Requirement"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Bidder reply",
+      "aliases": [
+        "Bidder reply"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Bidder's Response",
+      "aliases": [
+        "Bidder's Response"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Birla 3M, Hilti, Promat",
+      "aliases": [
+        "Birla 3M, Hilti, Promat"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    },
+    {
+      "name": "Black Glass Fibre",
+      "aliases": [
+        "Black Glass Fibre"
+      ],
+      "category": "thermal",
+      "source": "all_client_resources_2026-07-02"
+    }
+  ]
+}

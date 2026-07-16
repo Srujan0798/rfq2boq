@@ -1,0 +1,70 @@
+From: P3_04 orchestrator-applied patch
+Subject: [PATCH] Add FlagCode enum to config/constants.py
+
+This patch adds the closed ``FlagCode`` enum to ``config/constants.py``
+(the file is FROZEN, so the orchestrator applies this + re-pins the
+frozen-hash manifest).  The enum is the canonical source of truth for
+every typed flag code in the system; ``src.domain.flags`` imports
+``FlagCode`` from here via a try/except that falls back to ``str`` if
+the enum has not yet been added.
+
+diff --git a/config/constants.py b/config/constants.py
+--- a/config/constants.py
++++ b/config/constants.py
+@@ -98,6 +98,52 @@ class SectionType(StrEnum):
+     GENERAL = "general"
+ 
+ 
++# ---------------------------------------------------------------------------
++# Flag codes (P3_04) — the closed enum of every typed flag in the system.
++#
++# Mirrored in src.domain.flags (which imports it via a try/except so the
++# flags module is importable even before this patch is applied).  Codes
++# are stable identifiers — every flag emitted anywhere in the pipeline
++# uses one of these.  Adding a new code requires an explicit ADR.
++# ---------------------------------------------------------------------------
++
++
++class FlagCode(StrEnum):
++    """Closed set of flag codes (R1: flag, never drop).
++
++    Producers (extraction stages, normalizer, validators) emit these.
++    Consumers (JSON / Excel exporter, audits) filter / group / display
++    them.  Codes are stable across releases — never rename or remove a
++    code without a deliberate migration step.
++    """
++
++    # --- Extraction shape (row-level) ---
++    LOW_CONFIDENCE = "LOW_CONFIDENCE"
++    QUANTITY_MISSING = "QUANTITY_MISSING"
++    MATERIAL_FRAGMENT = "MATERIAL_FRAGMENT"
++
++    # --- Unit / normalization (row-level) ---
++    UNKNOWN_UNIT = "UNKNOWN_UNIT"
++    AMBIGUOUS_UNIT = "AMBIGUOUS_UNIT"
++    UNIT_DIMENSION_MISMATCH = "UNIT_DIMENSION_MISMATCH"
++
++    # --- Document structure (doc-level) ---
++    STRUCTURE_FALLBACK = "STRUCTURE_FALLBACK"
++    NO_BOQ_SECTION_FOUND = "NO_BOQ_SECTION_FOUND"
++    COLUMN_FALLBACK = "COLUMN_FALLBACK"
++    NO_TEXT_EXTRACTED = "NO_TEXT_EXTRACTED"
++
++    # --- Table classification (doc-level) ---
++    TABLE_TYPE_NOT_BOQ = "TABLE_TYPE_NOT_BOQ"
++
++    # --- GeM catalog (R2) ---
++    GEM_NON_CATALOG = "GEM_NON_CATALOG"
++
++    # --- Pipeline errors (doc-level) ---
++    FILE_NOT_FOUND = "FILE_NOT_FOUND"
++    EMPTY_FILE = "EMPTY_FILE"
++    PIPELINE_ERROR = "PIPELINE_ERROR"
++
++    # --- Misc (row-level) ---
++    RATE_ONLY = "RATE_ONLY"
++
++
+ # ---------------------------------------------------------------------------
+ # Unit normalization canonical forms
+ # ---------------------------------------------------------------------------

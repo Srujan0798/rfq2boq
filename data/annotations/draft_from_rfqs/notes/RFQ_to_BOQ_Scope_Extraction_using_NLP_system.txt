@@ -1,0 +1,4 @@
+Source: resources/RFQ to BOQ Scope Extraction using NLP system.pdf
+Entries: 1
+Uncertain entries:
+Entry 1: very long material description; review segmentation

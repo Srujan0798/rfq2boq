@@ -1,0 +1,396 @@
+{
+  "source_file": "data/incoming/BOQ PAGE.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/BOQ PAGE.pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "500 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "400 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "350 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "300 mm dia",
+      "quantity": "1540.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "250 mm dia",
+      "quantity": "365.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "200 mm dia",
+      "quantity": "520.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "150 mm dia",
+      "quantity": "1288.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "125 mm dia",
+      "quantity": "1114.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "100 mm dia",
+      "quantity": "4506.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "80 mm dia",
+      "quantity": "2777.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "65 mm dia",
+      "quantity": "2534.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50 mm dia",
+      "quantity": "277.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "40 mm dia",
+      "quantity": "9.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm dia",
+      "quantity": "660.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25 mm dia",
+      "quantity": "1390.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "500 mm dia",
+      "quantity": "1044.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "400 mm dia",
+      "quantity": "1044.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "350 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "300 mm dia",
+      "quantity": "146.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "250 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "200 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "150 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "125 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "100 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "80 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "65 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "40 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "400 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "350 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "300 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "250 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "200 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "150 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "125 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "100 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "80 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "65 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "40 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm dia",
+      "quantity": "",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

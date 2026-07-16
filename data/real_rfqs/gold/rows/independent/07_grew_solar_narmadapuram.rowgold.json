@@ -1,0 +1,45 @@
+{
+  "doc_id": "07_grew_solar_narmadapuram",
+  "source_file": "108, BOQ compliance, Grew Energy.pdf",
+  "date": "2026-06-22",
+  "human_verified": false,
+  "method": "pymupdf-independent-text-extraction",
+  "entries": [
+    {
+      "item_no": 1,
+      "material": "Density of Material shall be between 40-55",
+      "quantity": "3",
+      "unit": "kg",
+      "action": "supply",
+      "source_file": "108, BOQ compliance, Grew Energy.pdf",
+      "source_sheet": "page_1",
+      "source_row": 1,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    },
+    {
+      "item_no": 2,
+      "material": "complies for 40-60",
+      "quantity": "3",
+      "unit": "kg",
+      "action": "supply",
+      "source_file": "108, BOQ compliance, Grew Energy.pdf",
+      "source_sheet": "page_1",
+      "source_row": 2,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    },
+    {
+      "item_no": 3,
+      "material": "as per ASTM C 1763 ,shall have fire performance rating of 25/50 as per ASTM E 84. Density will be 40 to 60",
+      "quantity": "3",
+      "unit": "kg",
+      "action": "supply",
+      "source_file": "108, BOQ compliance, Grew Energy.pdf",
+      "source_sheet": "page_1",
+      "source_row": 3,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    }
+  ]
+}

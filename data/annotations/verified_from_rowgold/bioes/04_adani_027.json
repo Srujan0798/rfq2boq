@@ -1,0 +1,29 @@
+{
+  "doc_id": "04_adani_027",
+  "source_file": "BOQ PAGEadani proj.pdf, BOQ PAGE2adani proj.pdf",
+  "tokens": [
+    "supply",
+    "40",
+    "mm",
+    "dia",
+    "0.0",
+    "Rmt."
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "04_adani.rowgold.json",
+    "row_idx": 27,
+    "action": "supply",
+    "quantity": "0.0",
+    "unit": "Rmt."
+  }
+}

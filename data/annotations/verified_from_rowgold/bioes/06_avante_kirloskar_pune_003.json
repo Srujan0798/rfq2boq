@@ -1,0 +1,29 @@
+{
+  "doc_id": "06_avante_kirloskar_pune_003",
+  "source_file": "Insulation Boq_132.pdf",
+  "tokens": [
+    "supply",
+    "15",
+    "mm",
+    "thick",
+    "2664",
+    "sqm"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "06_avante_kirloskar_pune.rowgold.json",
+    "row_idx": 3,
+    "action": "supply",
+    "quantity": "2664",
+    "unit": "sqm"
+  }
+}

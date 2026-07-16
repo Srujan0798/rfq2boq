@@ -1,0 +1,189 @@
+{
+  "source_file": "data/incoming/Copy of UBS_Hyderabad_Project_BOQ(1).pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/Copy of UBS_Hyderabad_Project_BOQ(1).pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "25 mm - 32 mm thick",
+      "quantity": "310.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm - 32 mm thick",
+      "quantity": "330.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "40 mm - 32 mm thick",
+      "quantity": "10.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50 mm - 32 mm thick",
+      "quantity": "108.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "98.0",
+      "unit": "dia - 6.4 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "19 mm Class O Nitrile rubber GC sheet",
+      "quantity": "14.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "289.0",
+      "unit": "dia - 9.5 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "536.0",
+      "unit": "dia - 12.7 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "364.0",
+      "unit": "dia - 15.9 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "69.0",
+      "unit": "dia - 19.1 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "56.0",
+      "unit": "dia - 22.2 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "5.0",
+      "unit": "dia - 25.4 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "531.0",
+      "unit": "dia - 28.6 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "2.0",
+      "unit": "dia - 31.8 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "21.0",
+      "unit": "dia - 34.9 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Rmt",
+      "quantity": "2.0",
+      "unit": "dia - 38.1 mm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25 mm dia",
+      "quantity": "183.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm dia",
+      "quantity": "142.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "40 mm dia",
+      "quantity": "5.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50 mm dia",
+      "quantity": "5.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

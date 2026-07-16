@@ -1,0 +1,10 @@
+Source: data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Boq_132.pdf
+Extracted entries: 31
+BIOES sentences generated: 31
+Unique material descriptions: 25
+Unique units found: 2
+Has location data: False
+Has grade data: False
+Method: pdf_pipeline
+Generated: 2026-07-04
+Status: DRAFT - requires human review

@@ -1,0 +1,344 @@
+{
+  "run_id": "20260706_165901",
+  "timestamp": "2026-07-06T16:59:57.714541+00:00",
+  "split": "all",
+  "type": "boq_bearing",
+  "timeout_s": 300,
+  "total": 33,
+  "ok": 33,
+  "crash": 0,
+  "timeout": 0,
+  "missing": 0,
+  "docs": [
+    {
+      "doc_id": "VSSC_BOQ_with_qty.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/02_isro_vssc/VSSC_BOQ_with_qty.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.3764979839324951,
+      "rows": 4,
+      "error": null
+    },
+    {
+      "doc_id": "Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/03_zydus_matoda_osd/Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.02014613151550293,
+      "rows": 33,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE2adani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/BOQ PAGE2adani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.39879298210144043,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGEadani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/BOQ PAGEadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.5680348873138428,
+      "rows": 43,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.0049169063568115234,
+      "rows": 12,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq_132.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Boq_132.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.614823818206787,
+      "rows": 31,
+      "error": null
+    },
+    {
+      "doc_id": "108, BOQ compliance, Grew Energy.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/07_grew_solar_narmadapuram/108, BOQ compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.401123046875,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS - Insulation - SAEL (1).xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/08_sael/Copy of TDS - Insulation - SAEL (1).xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.008610248565673828,
+      "rows": 25,
+      "error": null
+    },
+    {
+      "doc_id": "47_Pipe Insulation_BOQ Compliance.pdf",
+      "manifest_path": "data/specifications/Specifications/47_Pipe Insulation_BOQ Compliance.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 3.9993972778320312,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ - INSULATION.pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ - INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.4056270122528076,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE (003).pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ PAGE (003).pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.3894619941711426,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE.pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ PAGE.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.5659997463226318,
+      "rows": 43,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ- Insulation_Compliance.pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ- Insulation_Compliance.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.9381439685821533,
+      "rows": 13,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ.pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.3640220165252686,
+      "rows": 23,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of BOQ.pdf",
+      "manifest_path": "data/specifications/Specifications/Copy of BOQ.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.1631431579589844,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq (1).pdf",
+      "manifest_path": "data/specifications/Specifications/Insulation Boq (1).pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.6050598621368408,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq (2).pdf",
+      "manifest_path": "data/specifications/Specifications/Insulation Boq (2).pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.6978471279144287,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "Tech Specs  - Insulation.pdf",
+      "manifest_path": "data/specifications/Specifications/Tech Specs  - Insulation.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 3.6949970722198486,
+      "rows": 4,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ - Insulation.xlsx",
+      "manifest_path": "data/specifications/Specification 2/BOQ - Insulation.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.3617370128631592,
+      "rows": 47,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ_Thermal Insulation.pdf",
+      "manifest_path": "data/specifications/Specification 2/BOQ_Thermal Insulation.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.3935210704803467,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of UBS_Hyderabad_Project_BOQ(1).pdf",
+      "manifest_path": "data/specifications/Specification 2/Copy of UBS_Hyderabad_Project_BOQ(1).pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.8287999629974365,
+      "rows": 20,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION_BOQ_BLUEGRASS.pdf",
+      "manifest_path": "data/specifications/Specification 2/INSULATION_BOQ_BLUEGRASS.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.9546959400177002,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation ARFF.xlsx",
+      "manifest_path": "data/specifications/Specification 2/Insulation ARFF.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.006443023681640625,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Medical.xlsx",
+      "manifest_path": "data/specifications/Specification 2/Insulation Medical.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.009339094161987305,
+      "rows": 15,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation.xlsx",
+      "manifest_path": "data/specifications/Specification 2/Insulation.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.010901212692260742,
+      "rows": 19,
+      "error": null
+    },
+    {
+      "doc_id": "MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf",
+      "manifest_path": "data/specifications/Specification 2/MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 18.600538969039917,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "boq.pdf",
+      "manifest_path": "data/specifications/Specification 2/boq.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.884791851043701,
+      "rows": 23,
+      "error": null
+    },
+    {
+      "doc_id": "108, BOQ compliance, Grew Energy.pdf",
+      "manifest_path": "data/specifications/Re_ Required technical data - Avant - Grew Solar, Narmadapuram/108, BOQ compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.5765659809112549,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS - Insulation - SAEL (1).xlsx",
+      "manifest_path": "data/specifications/Require Technical data/Copy of TDS - Insulation - SAEL (1).xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.009801149368286133,
+      "rows": 25,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq_132.pdf",
+      "manifest_path": "data/specifications/Re_ Enquiry for Insulation for AVANTE SPACES LIMITED PLOT – A+C , Kirloskar Pune. (1)/Insulation Boq_132.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.8750550746917725,
+      "rows": 31,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE2adani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/BOQ PAGE2adani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.4259490966796875,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGEadani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/BOQ PAGEadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.109442710876465,
+      "rows": 43,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "manifest_path": "data/specifications/RE_ Provide Technical data - Avant , Zydus Animal Health Expansion Project - Pharmez-Ahmedabad/Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.0047762393951416016,
+      "rows": 12,
+      "error": null
+    }
+  ]
+}

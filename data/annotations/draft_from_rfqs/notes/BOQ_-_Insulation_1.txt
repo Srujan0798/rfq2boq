@@ -1,0 +1,8 @@
+Source: data/incoming/BOQ - Insulation.xlsx
+Entries: 48
+Uncertain entries:
+Entry 1: missing quantity
+Entry 24: missing quantity
+Entry 32: missing quantity
+Entry 45: missing quantity
+Entry 48: missing quantity

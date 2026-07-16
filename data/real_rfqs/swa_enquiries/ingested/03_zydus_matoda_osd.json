@@ -1,0 +1,697 @@
+{
+  "enquiry_id": "03_zydus_matoda_osd",
+  "client": "Zydus Pharma Matoda",
+  "project": "OSD facility insulation",
+  "files": [
+    {
+      "source": "Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "sha256": "66ea9b83e9ca55193bb7bcefd252362941ac08fc474c95338051b09576fa10d0",
+      "size_bytes": 439816,
+      "file_class": "unknown",
+      "format": "xlsx",
+      "sheets": [
+        {
+          "name": "BOQ",
+          "headers": [
+            "SR. NO.",
+            "DESCRIPTION",
+            "UNIT",
+            "QUANTITY",
+            "Remarks"
+          ],
+          "rows": [
+            [
+              "A",
+              "THERMAL INSULATION",
+              "",
+              "",
+              ""
+            ],
+            [
+              "1",
+              "Supply, installation, testing and Commissioning of Thermal insulation with Class \"O\" elastomeric nitrile rubber (FM approved) shall be covered with mechanical protecting with Pre laminated AL foil which should not have any fiber erosion while cutting, applying and usage (Factory Fabricated section) on  ducts as per the  tender specifications: \n\n1) Vendor shall provide the technical calculation for thickness \n\nNote: Wastage allowance is maximum 5%.",
+              "",
+              "",
+              "FM Approved\nAl Finished Nitrile rubber insulation"
+            ],
+            [
+              "1.1",
+              "19 mm thick insulation for supply air ducts",
+              "Sqm.",
+              "32500",
+              ""
+            ],
+            [
+              "1.2",
+              "13 mm thick insulation for return / exhaust air ducts",
+              "Sqm.",
+              "32500",
+              ""
+            ],
+            [
+              "1.3",
+              "25 mm thick for TFA duct",
+              "Sqm.",
+              "0",
+              "rate for \"0\" to be Provided"
+            ],
+            [
+              "",
+              "Option 2",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Optional \nSupply, installation, testing and Commissioning of Thermal insulation with Class \"O\" physically cross-linked XLPE insulation (FM approved) with factory applied reinforced aluminium foil  adhered to the surface cleaned HVAC ducts with  SR 998  adhesive on  ducts as per the  tender specifications: \n\n1) Vendor shall provide the technical calculation for thickness \n\nNote: Wastage allowance is maximum 5%.",
+              "",
+              "",
+              "FM Approved\nAl Finished XLPE insulation"
+            ],
+            [
+              "",
+              "19 mm thick insulation for supply air ducts",
+              "Sqm.",
+              "32500",
+              ""
+            ],
+            [
+              "",
+              "13 mm thick insulation for return / exhaust air ducts",
+              "Sqm.",
+              "32500",
+              ""
+            ],
+            [
+              "",
+              "25 mm thick for TFA duct",
+              "Sqm.",
+              "R0",
+              "rate for \"0\" to be Provided"
+            ],
+            [
+              "",
+              "Option 3",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Thermal insulation of Ducts with low fire propagation Class O & UL94 (V0&HB) approved, Closed Cell Nitrile Rubber with min k value of 0.035 w/mK @ 0 Deg C. Insulation to be approved by local fire authorities\n\nInsulation to be separately covered with Grey colored 400 microns/380 gsm polymeric material reinforced with scrim with \u03bc value of 20,000  and UV resistance as per ISO 4892-2 Method A (1000 Hrs test) and mechanical strength >5 MPa as per ASTM D638.*\n\nApplication to be done in square box method. Min 2 day installation training to be conducted by manufacturer's person only before work commencement.(refer checklist in master specifications file).Adhesive to be used at below 80% RH site condition and should be IGBC compliant and specially formulated for ducting insulation by OEM (Pidilite SR 505/ArmaFlex Duct Seal).\n\nFor project compliance, each supplied lot to be tested for dimensions,i.e thickness(vernier caliper) , width and length(Measuring tape) by contracting team under observation of PMC and End user,after whose approval material to be applied. Random lab test for supplied materials to be conducted by user for the supplied product for K value, density, and Class 0 certifications at global/nabl accredited labs. Cost for the same to be borne by the main contracting agency.(refer checklist in master specifications file).",
+              "",
+              "",
+              "FM Approved\n DURA FOIL FACED Nitrile rubber insulation"
+            ],
+            [
+              "",
+              "19 mm thick insulation for supply air ducts",
+              "Sqm.",
+              "32500",
+              ""
+            ],
+            [
+              "",
+              "13 mm thick insulation for return / exhaust air ducts",
+              "Sqm.",
+              "32500",
+              ""
+            ],
+            [
+              "",
+              "25 mm thick for TFA duct",
+              "Sqm.",
+              "R0",
+              "rate for \"0\" to be Provided"
+            ],
+            [
+              "B",
+              "Supply, Installation, Testing  of MS 'C' class piping for connection with AHU",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Thermal insulation of CHW Piping\u2019s with low fire propagation Class O & UL94 (V0&HB) approved, Closed Cell Nitrile Rubber with min k value of 0.035 w/mK @ 0 Deg C. Insulation to be approved by local fire authorities\n\nInsulation to be separately covered with Grey coloured 400 microns/380 gsm polymeric material reinforced with scrim with \u03bc value of 20,000  and UV resistance as per ISO 4892-2 Method A (1000 Hrs test) and mechanical strength >5 MPa as per ASTM D638.*\n\nMin 2 day installation training to be conducted by manufacturer's person only before work commencement.(refer checklist in master specifications file).Adhesive to be used at below 80% RH site condition and should be IGBC compliant and specially formulated for piping insulation by OEM (Pidilite SR 998/ArmaFlex Pipe Seal).\n\nFor project compliance, each supplied lot to be tested for dimensions,i.e thickness(vernier caliper) , width and length(Measuring tape) by contracting team under observation of PMC and End user,after whose approval material to be applied. Random lab test for supplied materials to be conducted by user for the supplied product for K value, density, and Class 0 certifications at global/nabl accredited labs. Cost for the same to be borne by the main contracting agency.(refer checklist in master specifications file).",
+              "",
+              "",
+              "FM Approved\nColour GC Finished Nitrile rubber insulation"
+            ],
+            [
+              "1",
+              "15MM",
+              "RMT",
+              "6",
+              "25MM"
+            ],
+            [
+              "2",
+              "20MM",
+              "RMT",
+              "270",
+              "25MM"
+            ],
+            [
+              "3",
+              "25MM",
+              "RMT",
+              "468",
+              "25MM"
+            ],
+            [
+              "4",
+              "32MM",
+              "RMT",
+              "486",
+              "32MM"
+            ],
+            [
+              "5",
+              "40MM",
+              "RMT",
+              "306",
+              "32MM"
+            ],
+            [
+              "6",
+              "50MM",
+              "RMT",
+              "666",
+              "32MM"
+            ],
+            [
+              "7",
+              "65MM",
+              "RMT",
+              "504",
+              "32MM"
+            ],
+            [
+              "8",
+              "80MM",
+              "RMT",
+              "432",
+              "32MM"
+            ],
+            [
+              "9",
+              "100MM",
+              "RMT",
+              "54",
+              "32MM"
+            ],
+            [
+              "10",
+              "125MM",
+              "RMT",
+              "6",
+              "32MM"
+            ],
+            [
+              "11",
+              "150MM",
+              "RMT",
+              "18",
+              "32MM"
+            ],
+            [
+              "C",
+              "Drain piping with 19mm thick insulation from AHU to drain trap including U trap and core cutting",
+              "",
+              "",
+              "FM Approved\nBlack GC faced Nitrile rubber insulation"
+            ],
+            [
+              "1",
+              "15mm OD",
+              "RMT",
+              "30",
+              "19MM"
+            ],
+            [
+              "2",
+              "25mm OD",
+              "RMT",
+              "60",
+              "19MM"
+            ],
+            [
+              "3",
+              "32mm OD",
+              "RMT",
+              "280",
+              "19MM"
+            ],
+            [
+              "4",
+              "40mm OD",
+              "RMT",
+              "260",
+              "19MM"
+            ],
+            [
+              "5",
+              "50mm OD",
+              "RMT",
+              "120",
+              "19MM"
+            ],
+            [
+              "6",
+              "65MM OD",
+              "RMT",
+              "80",
+              "19MM"
+            ],
+            [
+              "7",
+              "80MM OD",
+              "RMT",
+              "150",
+              "19MM"
+            ],
+            [
+              "D",
+              "Thermal insulation of CHW Pipings with low fire propagation Class O & UL94 (V0&HB) approved, Closed Cell Nitrile Rubber with min k value of 0.035 w/mK @ 0 Deg C. Insulation to be approved by local fire authorities\n\nInsulation to be separately covered with Class 0 approved, 350 microns thick Non Metallic cladding of silver finish. For UV resistance it must be with a special UV protection as per ISO 4892. For durability,tensile and puncture resistance to be >50 Mpa and >200 N respectively.*\n\nMin 2 day installation training to be conducted by manufacturer's person only before work commencement.(refer checklist in master specifications file).Adhesive to be used at below 80% RH site condition and should be IGBC compliant and specially formulated for piping insulation by OEM (Pidilite SR 998/ArmaFlex Pipe Seal).\n\nFor project compliance, each supplied lot to be tested for dimensions,i.e thickness(vernier caliper) , width and length(Measuring tape) by contracting team under observation of PMC and End user,after whose approval material to be applied. Random lab test for supplied materials to be conducted by user for the supplied product for K value, density, and Class 0 certifications at global/nabl accredited labs. Cost for the same to be borne by the main contracting agency.(refer checklist in master specifications file).",
+              "",
+              "",
+              "Silver Cladding for Utility header"
+            ],
+            [
+              "1",
+              "15MM",
+              "RMT",
+              "15",
+              "50MM"
+            ],
+            [
+              "2",
+              "20MM",
+              "RMT",
+              "90",
+              "50MM"
+            ],
+            [
+              "3",
+              "25MM",
+              "RMT",
+              "60",
+              "50MM"
+            ],
+            [
+              "4",
+              "32MM",
+              "RMT",
+              "60",
+              "50MM"
+            ],
+            [
+              "5",
+              "40MM",
+              "RMT",
+              "30",
+              "50MM"
+            ],
+            [
+              "6",
+              "50MM",
+              "RMT",
+              "15",
+              "50MM"
+            ]
+          ],
+          "row_count": 43
+        },
+        {
+          "name": "COMPLIANCE",
+          "headers": [
+            "SR. NO.",
+            "DESCRIPTION",
+            "UNIT",
+            "QUANTITY",
+            "COMPLIANCE",
+            "COMPLIANCE"
+          ],
+          "rows": [
+            [
+              "A",
+              "THERMAL INSULATION",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "1",
+              "Supply, installation, testing and Commissioning of Thermal insulation with Class \"O\" elastomeric nitrile rubber (FM approved) shall be covered with mechanical protecting with Pre laminated AL foil which should not have any fiber erosion while cutting, applying and usage (Factory Fabricated section) on  ducts as per the  tender specifications: \n\n1) Vendor shall provide the technical calculation for thickness \n\nNote: Wastage allowance is maximum 5%.",
+              "",
+              "",
+              "FM Approved\nAl Finished Nitrile rubber insulation",
+              ""
+            ],
+            [
+              "1.1",
+              "19 mm thick insulation for supply air ducts",
+              "Sqm.",
+              "32500",
+              "",
+              ""
+            ],
+            [
+              "1.2",
+              "13 mm thick insulation for return / exhaust air ducts",
+              "Sqm.",
+              "32500",
+              "",
+              ""
+            ],
+            [
+              "1.3",
+              "25 mm thick for TFA duct",
+              "Sqm.",
+              "0",
+              "rate for \"0\" to be Provided",
+              ""
+            ],
+            [
+              "",
+              "Option 2",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Optional \nSupply, installation, testing and Commissioning of Thermal insulation with Class \"O\" physically cross-linked XLPE insulation (FM approved) with factory applied reinforced aluminium foil  adhered to the surface cleaned HVAC ducts with  SR 998  adhesive on  ducts as per the  tender specifications: \n\n1) Vendor shall provide the technical calculation for thickness \n\nNote: Wastage allowance is maximum 5%.",
+              "",
+              "",
+              "FM Approved\nAl Finished XLPE insulation",
+              ""
+            ],
+            [
+              "",
+              "19 mm thick insulation for supply air ducts",
+              "Sqm.",
+              "32500",
+              "",
+              ""
+            ],
+            [
+              "",
+              "13 mm thick insulation for return / exhaust air ducts",
+              "Sqm.",
+              "32500",
+              "",
+              ""
+            ],
+            [
+              "",
+              "25 mm thick for TFA duct",
+              "Sqm.",
+              "R0",
+              "rate for \"0\" to be Provided",
+              ""
+            ],
+            [
+              "",
+              "Option 3",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Thermal insulation of Ducts with low fire propagation Class O & UL94 (V0&HB) approved, Closed Cell Nitrile Rubber with min k value of 0.035 w/mK @ 0 Deg C. Insulation to be approved by local fire authorities\n\nInsulation to be separately covered with Grey colored 400 microns/380 gsm polymeric material reinforced with scrim with \u03bc value of 20,000  and UV resistance as per ISO 4892-2 Method A (1000 Hrs test) and mechanical strength >5 MPa as per ASTM D638.*\n\nApplication to be done in square box method. Min 2 day installation training to be conducted by manufacturer's person only before work commencement.(refer checklist in master specifications file).Adhesive to be used at below 80% RH site condition and should be IGBC compliant and specially formulated for ducting insulation by OEM (Pidilite SR 505/ArmaFlex Duct Seal).\n\nFor project compliance, each supplied lot to be tested for dimensions,i.e thickness(vernier caliper) , width and length(Measuring tape) by contracting team under observation of PMC and End user,after whose approval material to be applied. Random lab test for supplied materials to be conducted by user for the supplied product for K value, density, and Class 0 certifications at global/nabl accredited labs. Cost for the same to be borne by the main contracting agency.(refer checklist in master specifications file).",
+              "",
+              "",
+              "FM Approved\n DURA FOIL FACED Nitrile rubber insulation",
+              ""
+            ],
+            [
+              "",
+              "19 mm thick insulation for supply air ducts",
+              "Sqm.",
+              "32500",
+              "",
+              ""
+            ],
+            [
+              "",
+              "13 mm thick insulation for return / exhaust air ducts",
+              "Sqm.",
+              "32500",
+              "",
+              ""
+            ],
+            [
+              "",
+              "25 mm thick for TFA duct",
+              "Sqm.",
+              "R0",
+              "rate for \"0\" to be Provided",
+              ""
+            ],
+            [
+              "B",
+              "Supply, Installation, Testing  of MS 'C' class piping for connection with AHU",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "Thermal insulation of CHW Piping\u2019s with low fire propagation Class O & UL94 (V0&HB) approved, Closed Cell Nitrile Rubber with min k value of 0.035 w/mK @ 0 Deg C. Insulation to be approved by local fire authorities\n\nInsulation to be separately covered with Grey coloured 400 microns/380 gsm polymeric material reinforced with scrim with \u03bc value of 20,000  and UV resistance as per ISO 4892-2 Method A (1000 Hrs test) and mechanical strength >5 MPa as per ASTM D638.*\n\nMin 2 day installation training to be conducted by manufacturer's person only before work commencement.(refer checklist in master specifications file).Adhesive to be used at below 80% RH site condition and should be IGBC compliant and specially formulated for piping insulation by OEM (Pidilite SR 998/ArmaFlex Pipe Seal).\n\nFor project compliance, each supplied lot to be tested for dimensions,i.e thickness(vernier caliper) , width and length(Measuring tape) by contracting team under observation of PMC and End user,after whose approval material to be applied. Random lab test for supplied materials to be conducted by user for the supplied product for K value, density, and Class 0 certifications at global/nabl accredited labs. Cost for the same to be borne by the main contracting agency.(refer checklist in master specifications file).",
+              "",
+              "",
+              "FM Approved\nColour GC Finished Nitrile rubber insulation",
+              ""
+            ],
+            [
+              "1",
+              "15MM",
+              "RMT",
+              "6",
+              "25MM",
+              ""
+            ],
+            [
+              "2",
+              "20MM",
+              "RMT",
+              "270",
+              "25MM",
+              ""
+            ],
+            [
+              "3",
+              "25MM",
+              "RMT",
+              "468",
+              "25MM",
+              ""
+            ],
+            [
+              "4",
+              "32MM",
+              "RMT",
+              "486",
+              "32MM",
+              ""
+            ],
+            [
+              "5",
+              "40MM",
+              "RMT",
+              "306",
+              "32MM",
+              ""
+            ],
+            [
+              "6",
+              "50MM",
+              "RMT",
+              "666",
+              "32MM",
+              ""
+            ],
+            [
+              "7",
+              "65MM",
+              "RMT",
+              "504",
+              "32MM",
+              ""
+            ],
+            [
+              "8",
+              "80MM",
+              "RMT",
+              "432",
+              "32MM",
+              ""
+            ],
+            [
+              "9",
+              "100MM",
+              "RMT",
+              "54",
+              "32MM",
+              ""
+            ],
+            [
+              "10",
+              "125MM",
+              "RMT",
+              "6",
+              "32MM",
+              ""
+            ],
+            [
+              "11",
+              "150MM",
+              "RMT",
+              "18",
+              "32MM",
+              ""
+            ],
+            [
+              "C",
+              "Drain piping with 19mm thick insulation from AHU to drain trap including U trap and core cutting",
+              "",
+              "",
+              "FM Approved\nBlack GC faced Nitrile rubber insulation",
+              ""
+            ],
+            [
+              "1",
+              "15mm OD",
+              "RMT",
+              "30",
+              "19MM",
+              ""
+            ],
+            [
+              "2",
+              "25mm OD",
+              "RMT",
+              "60",
+              "19MM",
+              ""
+            ],
+            [
+              "3",
+              "32mm OD",
+              "RMT",
+              "280",
+              "19MM",
+              ""
+            ],
+            [
+              "4",
+              "40mm OD",
+              "RMT",
+              "260",
+              "19MM",
+              ""
+            ],
+            [
+              "5",
+              "50mm OD",
+              "RMT",
+              "120",
+              "19MM",
+              ""
+            ],
+            [
+              "6",
+              "65MM OD",
+              "RMT",
+              "80",
+              "19MM",
+              ""
+            ],
+            [
+              "7",
+              "80MM OD",
+              "RMT",
+              "150",
+              "19MM",
+              ""
+            ],
+            [
+              "D",
+              "Thermal insulation of CHW Pipings with low fire propagation Class O & UL94 (V0&HB) approved, Closed Cell Nitrile Rubber with min k value of 0.035 w/mK @ 0 Deg C. Insulation to be approved by local fire authorities\n\nInsulation to be separately covered with Class 0 approved, 350 microns thick Non Metallic cladding of silver finish. For UV resistance it must be with a special UV protection as per ISO 4892. For durability,tensile and puncture resistance to be >50 Mpa and >200 N respectively.*\n\nMin 2 day installation training to be conducted by manufacturer's person only before work commencement.(refer checklist in master specifications file).Adhesive to be used at below 80% RH site condition and should be IGBC compliant and specially formulated for piping insulation by OEM (Pidilite SR 998/ArmaFlex Pipe Seal).\n\nFor project compliance, each supplied lot to be tested for dimensions,i.e thickness(vernier caliper) , width and length(Measuring tape) by contracting team under observation of PMC and End user,after whose approval material to be applied. Random lab test for supplied materials to be conducted by user for the supplied product for K value, density, and Class 0 certifications at global/nabl accredited labs. Cost for the same to be borne by the main contracting agency.(refer checklist in master specifications file).",
+              "",
+              "",
+              "Silver Cladding for Utility header",
+              ""
+            ],
+            [
+              "1",
+              "15MM",
+              "RMT",
+              "15",
+              "50MM",
+              ""
+            ],
+            [
+              "2",
+              "20MM",
+              "RMT",
+              "90",
+              "50MM",
+              ""
+            ],
+            [
+              "3",
+              "25MM",
+              "RMT",
+              "60",
+              "50MM",
+              ""
+            ],
+            [
+              "4",
+              "32MM",
+              "RMT",
+              "60",
+              "50MM",
+              ""
+            ],
+            [
+              "5",
+              "40MM",
+              "RMT",
+              "30",
+              "50MM",
+              ""
+            ],
+            [
+              "6",
+              "50MM",
+              "RMT",
+              "15",
+              "50MM",
+              ""
+            ]
+          ],
+          "row_count": 43
+        }
+      ],
+      "metadata": {
+        "sheet_count": 2,
+        "total_rows": 86,
+        "max_row": 43
+      }
+    }
+  ],
+  "boq_xlsx_path": null,
+  "spec_files": [],
+  "tds_files": [],
+  "metadata": {}
+}

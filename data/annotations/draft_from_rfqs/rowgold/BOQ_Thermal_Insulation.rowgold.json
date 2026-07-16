@@ -1,0 +1,18 @@
+{
+  "source_file": "data/incoming/BOQ_Thermal Insulation.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/BOQ_Thermal Insulation.pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "A AIR CONDITIONING AND MECHANINCAL VENTILATION (ACMV) SYSTEM Insulation Sheet for Supply, Return, Fresh Air & Toilet Exhaust Air Duct (For Toilet Area have AC) Supply, installation, testing and commissioning of Insulation Sheet for Supply, Return, Fresh Air & Toilet Exhaust Air Duct (For Toilet Area have AC) as drawing and specification. Thermal insulation shall be of rigid fiberglass of 48kg/m3 with thermal conductivity of not greater than 0.038 W/mK at 20oC mean temperature. Fiberglass Insulation, 25mm thickness",
+      "quantity": "1547.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

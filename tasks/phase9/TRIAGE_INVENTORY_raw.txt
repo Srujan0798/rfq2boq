@@ -1,0 +1,1072 @@
+Only in /Users/srujansai/Desktop/rfq2boq: .claude
+Only in /Users/srujansai/Desktop/rfq2boq: .codex
+Only in /Users/srujansai/rfq2boq-phase9: .dispatch_prompts
+Files /Users/srujansai/rfq2boq-phase9/.gitignore and /Users/srujansai/Desktop/rfq2boq/.gitignore differ
+Only in /Users/srujansai/Desktop/rfq2boq: .grok_handoffs
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.0.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.0.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.1.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.1.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.10.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.10.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.11.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.11.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.12.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.12.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.13.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.13.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.14.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.14.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.15.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.15.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.2.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.2.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.3.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.3.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.4.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.4.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.5.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.5.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.6.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.6.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.7.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.7.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.8.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.8.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.9.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.9.db differ
+Files /Users/srujansai/rfq2boq-phase9/.mypy_cache/3.11/cache.db and /Users/srujansai/Desktop/rfq2boq/.mypy_cache/3.11/cache.db differ
+Only in /Users/srujansai/rfq2boq-phase9/.mypy_cache: 3.12
+Only in /Users/srujansai/Desktop/rfq2boq: .quarantine_incident14
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 10088341010936004737
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 1023210687491050145
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 10409585555313283690
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 10548942642499486795
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 10608870935756801452
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 10792782960390391283
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 10876198366394743534
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 10883552148738219222
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 10904549612285965059
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 11076098564936799725
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 11082617002662555394
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 11130603872644896929
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 112122163014791188
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 1149014584536592840
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 11558274608547320940
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 11740463010061399315
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 11781126586431668017
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 11785822035217487491
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 11998171992003440007
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 1214176082925640511
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 12251683513623019023
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 12328295041543494181
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 12434074988891308010
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 12511892890150524372
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 12743485779729549603
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 12786598893303555222
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 12794708329523769804
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 12959642042226188337
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 13009856772432855676
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 13125671368184430609
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 13342274694367882429
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 13660874615882376238
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 13800269923610802130
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 14178768553921144293
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 14180124120453764355
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 14306077276195521203
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 14844059322289152579
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 15056589543914320584
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 15061503768093471872
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 15575054647959174696
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 15806382909218561753
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 15967259204155871576
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 15991126015127602257
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 16045685899470627964
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 16696580173301889517
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 16738579159448505133
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 16877226149649144271
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 16908389140931637022
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 16944902992871291486
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 17055584306404167524
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 17084457362367369005
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 17241026845062580247
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 17298433362998952977
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 17374522072158513567
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 17785837537909014283
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 17804396466144802742
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 17894150776563228098
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 17984846469686510675
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 18071745568907962512
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 18132455303606537565
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 18272497515455705189
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 18303277305499877177
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 18381623174212257721
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 18444126029915329332
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 2009657273401373200
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 2145236602757201628
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 222879799787916525
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 2286472333664153535
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 291837459875936285
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3022391281112524302
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3064665325997961592
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3128912987471909008
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 3220189939657040476
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3331099462852944832
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 3344425290496513230
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3396185218110069709
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3619846962867014253
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3637879394709767971
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3757391710881017036
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 3824126428796355389
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 4109585369909575531
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 4175227208016732439
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 4325631044699281605
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 4432116291663145766
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 447005102909338986
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 5130505095182162222
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 519621076665267463
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 5322574145025759034
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 5397861765908905895
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 5738096821965667459
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 6001097443426181625
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 6055652138183859308
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 6082243169825238507
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 6148594605589793513
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 6251294341850317242
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 6362590865683308612
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 6367085768124641597
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 6395186215792685926
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 6631912959893353764
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 6677000585035196098
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 6899154482932673165
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 7088915409994397104
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 7176685142720955090
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 7258022865737707059
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 7258516115933676202
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 7301510561776451274
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 7312850681999120782
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 753020487796248377
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 7876590138917364406
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 7921502368951997115
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 7936352558687786104
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 7942866631529925684
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 8084718915942116715
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 8328658537605075912
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 8615743402889211060
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 8833300359143127045
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 8915401900794278634
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 9045158684647474482
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache/0.15.11: 913519922394639432
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 9272995567897353625
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 938629058318713434
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 9486027939506968619
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache/0.15.11: 9801263049144585518
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache: 0.15.15
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache: 0.15.16
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache: 0.15.18
+Only in /Users/srujansai/rfq2boq-phase9/.ruff_cache: 0.15.20
+Only in /Users/srujansai/Desktop/rfq2boq/.ruff_cache: 0.4.4
+Only in /Users/srujansai/Desktop/rfq2boq: .session_handoffs
+Only in /Users/srujansai/Desktop/rfq2boq: .session_merged
+Only in /Users/srujansai/Desktop/rfq2boq: .venv-lora
+Files /Users/srujansai/rfq2boq-phase9/CLAUDE.md and /Users/srujansai/Desktop/rfq2boq/CLAUDE.md differ
+Files /Users/srujansai/rfq2boq-phase9/Dockerfile and /Users/srujansai/Desktop/rfq2boq/Dockerfile differ
+Only in /Users/srujansai/Desktop/rfq2boq: FINAL_HANDOFF_REPORT.md
+Only in /Users/srujansai/rfq2boq-phase9: HANDOFF.md
+Files /Users/srujansai/rfq2boq-phase9/README.md and /Users/srujansai/Desktop/rfq2boq/README.md differ
+Only in /Users/srujansai/rfq2boq-phase9/archive: legacy_deliverables
+Only in /Users/srujansai/Desktop/rfq2boq/archive/legacy_docs: SESSION_ARCHAEOLOGY_MASTER.md
+Only in /Users/srujansai/Desktop/rfq2boq/archive/legacy_docs: model_card.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: AGENT1_PROMPT.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: AGENT2_PROMPT.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: AGENT3_PROMPT.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: AGENT4_PROMPT.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: GURU_PROMPT.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: ORC_PROMPT.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: REVERSE_ROLE_PROMPT.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: UNIVERSAL_ORCHESTRATOR_PROMPT.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: VERIFICATION_PROMPT.md
+Only in /Users/srujansai/Desktop/rfq2boq/archive/legacy_prompts: archive
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: hybrid
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: out_of_scope
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: phase8_sprint_2026-06-03
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: superseded
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: wave2
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_prompts: wave3
+Files /Users/srujansai/rfq2boq-phase9/archive/legacy_root_docs/AGENTS.md and /Users/srujansai/Desktop/rfq2boq/archive/legacy_root_docs/AGENTS.md differ
+Only in /Users/srujansai/Desktop/rfq2boq/archive/legacy_root_docs: FINAL_COMPLETION_SUMMARY.md
+Only in /Users/srujansai/Desktop/rfq2boq/archive/legacy_tasks: FINAL_PLAN.md
+Only in /Users/srujansai/rfq2boq-phase9/archive/legacy_tasks: VALIDATION_CHECKLIST.md
+Only in /Users/srujansai/Desktop/rfq2boq/attic: old_handoffs
+Only in /Users/srujansai/Desktop/rfq2boq: cli_agents
+Files /Users/srujansai/rfq2boq-phase9/config/settings.py and /Users/srujansai/Desktop/rfq2boq/config/settings.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 01__JN3102-H31-EWE305-815-001_Technical_Specifications_for_HVAC_Low_Side_System.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 108__BOQ_compliance__Grew_Energy.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 108__Specification_compliance__Grew_Energy.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 108__TDS_Fill_up__Grew_Energy.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 162_HVAC_SPECIFICATIONS-156-158.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 181_Insulation_Excel.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 183__INSULATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 1_HVAC_SPECIFICATIONS-156-158.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 1_Specification_Compliance.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 1_Thermal_Insulation_-_Tender_Specs_Bajaj_Colaba_House.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 23_07_13_01_Ductwork_Insulation__Schedule_r0.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 23_07_13_Ductwork_Insulation_r0.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 23_07_13_Ductwork_Insulation_rA.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 2_Copper___Drain_Pipe_Insulation__Tender_Specs_Bajaj_Colaba_House.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 2__HVAC_SPECIFICATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 37__RPMS-ENGG-SPC-HV-019-Thermal_insulation.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: 47_Pipe_Insulation_BOQ_Compliance.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: ADANI_KARNAVATI_-_INSULATION_-_SPECIFICATION_COMPLIANCE.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Accoustic_Wall_Insulation_for_DCS_High_Side_Project.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Adani_Pune__Compliance_FIle_Updated.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Annexure-3_DS-CHW-Insulation-Nitrile-Rubber.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Annexure-K7-B-GCC_for_Indigenous_Supplies-R3.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: BOQ-_Insulation_Compliance.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: BOQ.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: BOQ_-_INSULATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: BOQ_PAGE.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: BOQ_PAGE__003_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: BOQ_Thermal_Insulation.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: CISF_EXTENSION_-HVAC-_PC-TS.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: COMPLIANCE_REPORT_SHEET-_Sleeve_Ref_Copper_Pipe.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Compliance_Sheet.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Copy_of_BOQ.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Copy_of_Duct_Insulation_Compliance_Sheet_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Copy_of_Inquiry_for_Duct_Insulation_of_Proj-1017_Bioltus_Valsad_56642_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Copy_of_Insulation_13-12-24_Inner_58795_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Copy_of_Insulation_Enquiry_-_SAEL.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Copy_of_SWPL-ADANI-HVAC-PR-RFQ-18_Wall_Acountic_Insulation_53047_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Copy_of_UBS_Hyderabad_Project_BOQ_1_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: DC-90__DC_37801__INSULATION_-__Sample_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: D_1_1_11-THERMAL_INSULATION_FOR_COLD_SURFACES.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Enquiry_for_Thermal_Insulation_for_CHW_Pipe.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Gopin_-_Insulation_TDS.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: HVAC_Duct_-_Insulation_Specification_Imphal__1_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: INSULATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: INSULATION_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: INSULATION_BOQ_BLUEGRASS.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: INSULATION_TECHNICAL_TO_BE_FILLED_BY_VENDOR.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: INSULATION_TECH_SPEC.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: INSULATION_TENDER_SPECIFICATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: INSULATION_TENDER_SPECIFICATION_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation_ARFF.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation_Boq__1_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation_Boq__2_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation_For_Pipes-Spects_-_CHW_Pipes_-_20-11-205.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation_Medical.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation_Specs.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation_Specs_132.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation_TS.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Insulation__1_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: KRC_Cignus_2_Phase_4_Powai.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: LGE_-_Technical_specification-45-51.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER_TANK.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: MECHANICAL_DATA_SHEET_FOR_INSULATION_-_RIL_INGOT_WAFER_JAMNAGAR.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Make_list_-_Gopin.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Nitrile_insulation_-_Revised.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: OEPMC-EQS-0000-EC-00008_R05__thermal_insulation_TS.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Response_to_Prebid_Queries_-_20241228.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Specification_Insulation_GBRC.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Specs_Thermal_Insulation_Bajaj_House.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: TDS_-_Insulation_Ducting.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: TDS_-_Insulation_Piping.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: TECHNICAL_SPECIFICATION_OF_INSULATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Technical_Compliance-_Aquachill__CEAT__Halol_dt_09_06_2025.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Tender_Specs.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Tender_Specs__1_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: Tendor_Specs_-_Wall_Accoustic.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: swa_draft_01_gsecl_wanakbori_tmd8.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: swa_draft_04_adani.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: swa_draft_06_avante_kirloskar_pune.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/draft: swa_draft_07_grew_solar_narmadapuram.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: .gitkeep
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: .queue_progress.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: 2_Copper___Drain_Pipe_Insulation__Tender_Specs_Bajaj_Colaba_House.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: 2__HVAC_SPECIFICATION.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: BOQ-_Insulation_Compliance.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: BOQ_-_Insulation.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: BOQ_Thermal_Insulation.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: CISF_EXTENSION_-HVAC-_PC-TS.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: COMPLIANCE_REPORT_SHEET-_Sleeve_Ref_Copper_Pipe.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Compliance_Sheet.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Copy_of_BOQ.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Copy_of_Duct_Insulation_Compliance_Sheet_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Copy_of_Insulation_13-12-24_Inner_58795_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Copy_of_UBS_Hyderabad_Project_BOQ_1_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Enquiry_for_Thermal_Insulation_for_CHW_Pipe.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Gopin_-_Insulation_TDS.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: HVAC_Duct_-_Insulation_Specification_Imphal__1_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: INSULATION.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: INSULATION_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: INSULATION_BOQ_BLUEGRASS.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: INSULATION_TECHNICAL_TO_BE_FILLED_BY_VENDOR.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: INSULATION_TECH_SPEC.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: INSULATION_TENDER_SPECIFICATION.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: INSULATION_TENDER_SPECIFICATION_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Insulation_ARFF.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Insulation_Boq__1_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Insulation_Boq__2_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Insulation_For_Pipes-Spects_-_CHW_Pipes_-_20-11-205.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Insulation_Medical.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Insulation_Specs.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Insulation_TS.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Insulation__1_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: KRC_Cignus_2_Phase_4_Powai.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: LGE_-_Technical_specification-45-51.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: MECHANICAL_DATA_SHEET_FOR_INSULATION_-_RIL_INGOT_WAFER_JAMNAGAR.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Make_list_-_Gopin.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Nitrile_insulation_-_Revised.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: OEPMC-EQS-0000-EC-00008_R05__thermal_insulation_TS.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Response_to_Prebid_Queries_-_20241228.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: SPECS_-_INSULATION.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: SWPL-PER-HVAC-RFQ-02__Thermal___Acoustic_Insulation_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Specs_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Specs_Thermal_Insulation_Bajaj_House.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TDS_-_Insulation_Ducting.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TDS_-_Insulation_Piping.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TDS_-_to_be_filled_by_vendor.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TECHNICAL_SPECIFICATION_OF_INSULATION.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TENDER.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TENDER_-_INSULATION.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TENDER_SPECIFICATION-ACCOUSTIC_INSULATION.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TENDER_SPECIFICATION-_CHW_PIPE_INSULATION.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: TENDER__1___1_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Tech_Specs__-_Insulation.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Technical_Compliance-_Aquachill__CEAT__Halol_dt_09_06_2025.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Technical_Specification-_Insulatiom.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Technical_specifciation__Thermal___acoustic_insulation.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Tender_Specs.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Tender_Specs__1_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Tender__2_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Tender__4___1_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: Tender__5_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: boq.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: rockwool-acu_.draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/drafts: spec2__INSULATION.draft.json
+Only in /Users/srujansai/rfq2boq-phase9/data/annotations: expanded
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations: real_specs_silver.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: 162_HVAC_SPECIFICATIONS-156-158.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: 181_Insulation_Excel.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: 23_07_13_01_Ductwork_Insulation__Schedule_r0.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: 23_07_13_Ductwork_Insulation_r0.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: 2__HVAC_SPECIFICATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: BOQ_-_INSULATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: BOQ_PAGE.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: CISF_EXTENSION_-HVAC-_PC-TS.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: Copy_of_Insulation_13-12-24_Inner_58795_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: Copy_of_UBS_Hyderabad_Project_BOQ_1_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: Enquiry_for_Thermal_Insulation_for_CHW_Pipe.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: Gopin_-_Insulation_TDS.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: INSULATION_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: INSULATION_TENDER_SPECIFICATION.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: INSULATION_TENDER_SPECIFICATION_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: Insulation_Medical.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: Insulation__1_.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: Make_list_-_Gopin.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_01_gsecl_wanakbori_tmd8_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_01_gsecl_wanakbori_tmd8_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_01_gsecl_wanakbori_tmd8_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_02_isro_vssc_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_02_isro_vssc_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_02_isro_vssc_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_02_isro_vssc_003.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_02_isro_vssc_004.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_003.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_004.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_005.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_006.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_007.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_008.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_009.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_010.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_011.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_012.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_013.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_014.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_015.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_016.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_017.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_018.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_019.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_020.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_021.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_022.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_023.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_024.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_025.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_026.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_027.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_028.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_029.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_030.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_031.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_03_zydus_matoda_osd_032.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_003.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_004.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_005.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_006.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_007.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_008.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_009.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_010.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_011.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_012.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_013.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_014.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_015.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_016.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_017.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_018.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_019.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_020.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_021.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_022.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_023.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_024.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_025.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_026.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_027.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_028.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_029.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_030.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_031.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_032.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_033.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_034.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_035.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_036.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_037.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_038.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_039.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_040.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_041.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_042.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_043.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_04_adani_044.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_003.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_004.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_005.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_006.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_007.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_008.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_009.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_010.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_011.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_012.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_013.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_014.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_015.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_016.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_017.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_018.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_05_zydus_animal_pharmez_019.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_003.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_004.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_005.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_006.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_007.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_008.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_009.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_010.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_011.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_012.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_013.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_014.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_015.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_016.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_017.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_018.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_019.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_020.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_021.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_022.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_023.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_024.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_025.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_026.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_027.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_028.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_029.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_06_avante_kirloskar_pune_030.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_003.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_004.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_005.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_006.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_007.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_07_grew_solar_narmadapuram_008.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_003.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_004.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_005.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_006.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_007.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_008.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_009.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_010.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_011.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_012.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_013.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_014.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_015.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_016.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_017.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_018.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_019.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_020.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_09_gem_bid_7439924_021.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_000.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_001.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_002.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_003.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_004.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_005.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_006.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_007.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_008.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: rowgold_10_gem_bid_7552777_009.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/annotations/verified: training_manifest.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 01. JN3102-H31-EWE305-815-001 Technical Specifications for HVAC Low Side System.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 1.Thermal Insulation - Tender Specs_Bajaj_Colaba House.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 108, BOQ compliance, Grew Energy.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 108, Specification compliance, Grew Energy.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 108, TDS Fill up, Grew Energy.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 162_HVAC SPECIFICATIONS-156-158.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 181_Insulation Excel.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 183_.INSULATION.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 1_HVAC SPECIFICATIONS-156-158.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 1_Specification Compliance.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 2. HVAC SPECIFICATION.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 2.Copper & Drain Pipe Insulation _Tender Specs_Bajaj_Colaba House.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 23 07 13 Ductwork Insulation.r0.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 23 07 13 Ductwork Insulation.rA.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 23 07 13.01 Ductwork Insulation, Schedule.r0.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 37. RPMS-ENGG-SPC-HV-019-Thermal insulation.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: 47_Pipe Insulation_BOQ Compliance.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: ADANI_KARNAVATI - INSULATION - SPECIFICATION COMPLIANCE.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Accoustic Wall Insulation for DCS High Side Project.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Adani Pune, Compliance FIle Updated.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Annexure-3 DS-CHW-Insulation-Nitrile-Rubber.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Annexure-K7-B-GCC for Indigenous Supplies-R3.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: BOQ - INSULATION.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: BOQ - Insulation.xlsx
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: BOQ PAGE (003).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: BOQ PAGE.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: BOQ- Insulation_Compliance.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: BOQ.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: BOQ_Thermal Insulation.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: CISF EXTENSION -HVAC- PC-TS.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: COMPLIANCE REPORT SHEET- Sleeve Ref Copper Pipe.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Compliance Sheet.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Copy of BOQ.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Copy of Duct Insulation Compliance Sheet_.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Copy of Inquiry for Duct Insulation of Proj-1017 Bioltus Valsad(56642).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Copy of Insulation 13-12-24 Inner(58795).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Copy of Insulation Enquiry - SAEL.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Copy of UBS_Hyderabad_Project_BOQ(1).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: D 1.1.11-THERMAL INSULATION FOR COLD SURFACES.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: DC-90 (DC 37801 )INSULATION - (Sample).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Enquiry for Thermal Insulation for CHW Pipe.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Gopin - Insulation TDS.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: HVAC Duct - Insulation Specification Imphal (1).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: INSULATION TECH SPEC.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: INSULATION TECHNICAL TO BE FILLED BY VENDOR.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: INSULATION TENDER SPECIFICATION..pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: INSULATION TENDER SPECIFICATION.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: INSULATION..pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: INSULATION.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: INSULATION_BOQ_BLUEGRASS.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation (1).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation ARFF.xlsx
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation Boq (1).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation Boq (2).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation For Pipes-Spects - CHW Pipes - 20-11-205.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation Medical.xlsx
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation Specs.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation Specs_132.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation TS.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Insulation.xlsx
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: KRC Cignus 2 Phase 4 Powai.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: LGE - Technical specification-45-51.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: MECHANICAL DATA SHEET FOR INSULATION - RIL INGOT WAFER JAMNAGAR.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Make list - Gopin.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Nitrile insulation - Revised.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: OEPMC-EQS-0000-EC-00008_R05_ thermal insulation TS.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Response to Prebid Queries - 20241228.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: SPECS - INSULATION.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Specification_Insulation_GBRC.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Specs_Thermal Insulation_Bajaj House.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: TDS - Insulation Ducting.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: TDS - Insulation Piping.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: TECHNICAL SPECIFICATION OF INSULATION.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Technical Compliance- Aquachill =CEAT, Halol dt 09.06.2025.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Tender Specs (1).pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Tender Specs.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/incoming: Tendor Specs - Wall Accoustic.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 0140a22a-5a84-4c15-813e-3d71fb009c2c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 02dd2e42-61b9-4f04-8f69-c47139e3314e.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 033cd4d7-f399-4f85-9dd5-ed8ed4bcda90.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 049799c7-2624-4443-b858-f6c3ae770cd8.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 04c4a6f1-f464-40f2-b7cf-3e78a7bc67e0.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 06c5ec7c-fb71-41ac-9e6c-121dc75dc61b.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 0b5cd266-c8c6-41e5-8d00-467e98c26f7f.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 0b68febe-a969-49a2-a457-964eb573f2bb.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 0fa25af7-a8ac-4ea4-b8f8-27300e49790d.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 10c5f8a6-5efd-499e-a231-1ff8b8c948b3.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 11600469-4056-49e1-906e-bb4668d2965b.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 11a85947-d8e8-4b6f-9ddd-bf1910b582eb.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 1215c4f1-e6a3-4e31-9c7e-9b8430991bdc.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 12e1349e-eb65-4926-8205-66fefb65f53a.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 1be045ea-1478-476b-bf0c-7ad1702fc3e8.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 1bf4eb1a-39a6-47cc-89e5-0f0f4c2a4d1e.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 1c815b5a-e1a8-40a4-8410-7a4f585c5c6e.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 1e235823-fb05-4db1-84a0-515fd41d3515.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 1f619c73-0be8-4787-b608-460a1fdd30d5.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 1fabc3e8-1237-4eb6-8214-6baeb576916c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 2027945c-041f-4a18-b8ef-09eb32074b06.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 202cba20-45db-4ed4-97f4-47d36259407c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 20925dd0-29c1-4d4a-b6c9-1655a59000e1.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 23ba5a05-16b1-4a69-b495-781742bf7949.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 23bdf2df-c87c-429d-b757-a6c376ad93a5.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 248e1a7e-af5b-4e07-8d3a-0dd2222fe7e8.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 27d868fc-58a6-4a40-88de-254c4325b5b5.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 28221e32-4d26-46dc-9e55-2cd28eef048b.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 289cb942-bbb5-48d8-9906-061438ae3624.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 29744011-787b-4e5d-ac7b-26271988c803.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 2ad1f405-e0b6-4520-bb39-6f3531c7ec50.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 2ada52d7-dab9-4525-aa75-2f8109b55b74.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 31c389ba-0772-4a1f-979a-ee9bf2d61b19.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 332c36d1-c698-4898-bc4c-2ee19aed0441.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 3385a7bd-cd7f-4744-9a5b-aea23d3f7bf2.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 33a985b3-bb37-4487-86af-081ef1dbc697.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 34b583c4-fcd2-41e9-908f-496adc6c60c9.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 354a0947-a9d8-4f3a-8692-a7ca0136e28b.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 36986a44-537b-45df-b899-6b85112f9488.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 36d0b271-0a16-4a40-a494-fc2a9bf5b9bc.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 38357e25-f7c8-4297-be82-6c2247c36ebf.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 39a52705-c0b8-4e22-8074-dd3b87d633f7.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 3ae1ec2b-1fd9-45a9-8b97-673c600f31a4.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 3be9a0a0-e4f7-405e-b616-bdc77b73f07c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 3cd14cc7-e560-4d40-b621-e60c464234f7.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 3ded749d-d594-476e-be0d-eed8e4c7ccd2.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 3e4e71ed-87ca-457c-9ec9-a5bb9fbd308c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 3f8ee221-db2c-465d-9df2-6885555c6dd7.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 4278e447-1510-431d-ab62-6ef5093dc70d.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 42dcea8b-5f12-42bf-b408-76090c5af8b3.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 45e62a0a-0197-42b6-b5cb-652ff9cc70af.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 471f7758-5689-4889-abaf-d62aa5c56909.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 47250df8-a4cb-4ec9-be79-8ada07ef63ec.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 48a119bc-f6d4-4bb3-9ec7-c1385ce5ddfa.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 4a16ba2d-adb3-442c-a1ae-71dce1ae0545.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 4ad029c3-9abc-4a33-8ed6-251486c28295.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 4ad387a5-762f-4a02-9b27-90f88f1a01e2.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 4b07fa6e-0d3c-4f49-867d-cb4c53f2b8cf.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 4bb8cb29-4089-48fc-9795-4479cac4e466.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 4be1528b-e699-4db8-9a19-a0735343807c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 4d51889c-8317-44ba-8d03-109ef50bfa9a.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 4e91f1de-3534-42d2-88d6-d9061b6fc008.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 53595b14-0d2a-4e1d-8af3-fd678112c27b.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 57621e50-02f3-4442-a9d8-ecd3214e5953.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 59d1f94c-5751-449c-8ff9-e0bf5a410ab9.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 5b74aef9-2d8c-4e9c-a4d8-622ab336cc6c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 5bfc47fd-54a8-4e9a-bdf9-4493ea31ab16.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 5dc23131-eea6-41a3-89b6-2e4ecb38ab95.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 5e22a417-b95c-4242-a8d9-20b0f23e429e.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 5fdbab27-0b72-444f-9b23-37156bf87701.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 60479bce-9d5b-44ee-aed3-def8c71337cb.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 60840afa-6ce6-4a12-ba8a-e47da89a135d.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 66b007eb-df89-44cf-bc8c-96256878f705.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 6a2935ac-e417-49b0-ae73-79d0c2937550.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 6acfce84-61f6-4efd-9fad-9bd5b158d93e.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 6b902c83-61c4-47b5-9aec-a1097bf01f6b.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 70aad49d-a530-4bf4-9d32-2768826f3a18.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 70b9a2b4-2582-4121-b5ed-d92b6936615d.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 714e599e-426b-41e8-9ea6-02e500b43ac6.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 716f0bb6-fdee-4bb4-8370-12edfea6487f.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 71ea463d-a0cf-4c3f-94f1-58ec6e13c900.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 721f21ac-ef53-4cc8-a919-808a4e9fbda7.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 73d75d07-0267-4bc7-a7ca-e72e8bcc9b9c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 75c22331-7830-4446-a3fb-d8b59ac6e119.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 79db7f2e-3975-4466-8fce-6488f3b0fe33.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 7ac442a5-beac-46a6-84a5-99d60ebf9db3.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 7c5ce769-08de-40cf-8c73-ed836a549d64.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 7d2e604e-ddb9-4db8-bdde-31a89eca99a2.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 7d32373c-4d2a-46ee-b9d4-00d8110f64ad.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 7fb48bef-f6a4-492a-ab2c-b47c1985527f.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 800208e9-449e-4393-90da-449a990f4102.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 80520c99-c814-4a2f-b60a-41133cf7a4dc.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 80f3a032-444e-4e19-8765-410e251d311d.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 82377a67-d819-46d3-817d-ea66247d56c6.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 83d6efa7-6f6a-496b-962d-b9fe0d7a2d31.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 83da61e1-a232-47ea-a546-f7a3bf46ed83.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 85ee5edf-ce9e-4b5c-8597-52b93343908e.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 871f6e3f-a6a7-4d0d-ae6f-af1a51ff2fbe.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 89f8ed13-55dc-40eb-825a-9fbd29f0c29c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 8a2fff5a-12c1-48aa-beb4-f9f73d2c7108.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 8b91d5eb-2ae3-4ca8-ae50-71e82860cb50.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 8bd3231c-7206-4038-be15-f8037cad5be6.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 8c6a67c9-a75b-4b81-be95-d80158fbf8c8.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 8f9cceed-a122-4dd8-8238-ac101fca8555.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 94da8cd0-ef23-4835-8ba2-d588808a38af.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 952e719f-dffd-4738-8d53-087e0631b258.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 95388641-3a48-44eb-abc0-5be24ceb0385.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 96b994c5-4729-4b36-bad5-cf16f8059d3a.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: 97a3af84-0937-4af9-8276-85831fe50994.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 97d4763f-f799-498e-8e5a-0b487bcee35e.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 98b05a19-9124-4c22-ba4e-3a8b1b9a3023.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 98b8f702-7d9b-4253-835f-f71fbdd0cb6b.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 9aa286c4-bdfe-4366-b774-140c4d23a7e5.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 9cb8317e-2c98-4c63-a151-36ce12ba28aa.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: 9ccf6fa9-a8f7-45d2-a65f-4a589d1c0512.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: a35ea1a6-3228-485a-81b9-db52798256da.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: a43b77e3-588b-48d9-972f-81d73e0804a3.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: a56c899b-f619-4c3f-8316-91b2d447a7bc.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: a5717b1c-a100-44bf-a99b-b0604f7f1c84.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: a6aee4c5-e577-4038-9e7e-b22359a87354.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: a6fec517-de30-4b10-9f75-b8898b3249c5.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: a76e0ff3-ddac-45b8-a9b2-11c4504f9d1c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: a9752085-f59e-4537-806c-3171f0f99305.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: aa345177-4c64-4098-8f76-3f1d5281fc8b.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: ab6e1649-5e41-42f1-8cc0-a883c77bf3ec.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: ac7c9435-4efd-4181-8585-e96927eb128d.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: adc557e3-474f-4332-a0a2-0c76cd319391.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: af63768a-c6a7-449b-838f-3786af0db814.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: af791a47-1905-42fd-b064-c7284ff866c8.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: b0ebf5c8-0466-44fb-b1c6-3a83a26fa53d.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: b22e903c-dbb5-4260-be51-53ba10861d79.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: b327a136-bf9b-4613-a9c8-3dfbcd378c95.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: b434ecab-f5f1-4f70-a695-9dac9429bb04.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: b453d96d-4b0c-4aac-a4d0-14a744e9adbe.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: b527d02a-2146-43c0-bb7d-e570caf114e7.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: b7777032-5c96-4e08-a265-60739b45ba5c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: b8651d74-a6bf-4b9b-975a-7f94f17a3e44.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: b98613e8-848b-4d93-80af-3a89b0db0830.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: bc41340f-1f13-4004-a3aa-67f32f0ff321.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c0ae8fbe-9ff0-43c3-ad99-5dc7874a7daa.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c19b9b6d-4af5-4474-8b2d-bd6cc0c28c20.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c1b068d0-f78a-44ab-b33d-60b02e5f5388.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c1b5b57a-664d-43fc-88fd-f2d276156cf7.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c1d03da8-80e1-41eb-aa55-c9f0a38108fa.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c21e9a62-6f8e-4d94-a635-723b5994d989.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c3cb5e98-5861-4690-a850-69b4dfe273e6.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c48147c3-0ff6-4255-9327-429437242fe1.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c50cfc1c-e619-4333-9494-f64a79be764a.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c51dde3f-fbb8-44b8-9fee-a27df23a8391.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: c7cb2a0a-b0b6-4290-8732-516ae829173d.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c81ba924-6084-4d81-8fcd-356ae62a4d3c.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: c8441ef4-3faa-4eff-848b-acc63c163b42.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: cd0554a7-0920-4d8b-8980-ae4fd85809a1.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d1cc9f00-0556-472b-a1df-f59516e50762.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d225cf77-e20c-410d-b3c8-c32bba065055.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d2d134a1-89ed-432f-adfb-1c7bdd62b62a.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d377e33e-3db9-493d-90b2-21caa8d445d0.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: d387deae-cd83-49b2-b7e2-b07c1eaf4730.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d3fdb609-c0b3-48b3-9aca-e36d8299f5d7.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d5435c67-f3f8-4641-8c27-174bafa13154.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d60150e5-96fc-4cf7-bbcb-f193826243e0.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: d67007f8-9f75-47d0-91eb-6ee142539d82.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d93c07e2-de57-4b4c-8070-a1a33c70bdfe.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: d9d545a3-f699-46e3-ae4d-ec89e31ef23e.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: da7725cf-34c5-41ce-b961-2434cc340183.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: dc28315d-c8fd-46f9-ac02-2e0bbbbe3b77.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: dc86b9b2-c1d7-4f9e-b0b7-cd532e0bbc88.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: def2c116-fcc5-418d-8584-a28e145eca8f.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: e11e6046-fec2-4fc0-8848-18ab9824a638.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: e4045906-dfa4-46c1-85a9-898ae16d97f4.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: e51adb30-d6dc-46b0-88f9-e73cb95491fc.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: e82f3ba5-ab73-4191-93c8-4a3cc0aab4d7.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: ee0f4ecd-d248-462c-a4c8-a36dfc6b7537.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: ee10d9a9-3cb9-43c3-a856-5328cada18ad.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: ee395a08-5663-42b6-bbc4-df60bf2e203f.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: ee806942-507b-412b-a08c-85a9528d462e.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: f0ce6019-e1f3-4b64-8aea-ed5dfa88bd93.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: f2f36690-b100-4780-be9d-0e16e2c63e12.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: f3177f98-0622-4f37-9612-16d935ad4bc0.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: f3eba8a6-8eee-4dcd-9ed8-c62eef9d4f92.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: f5823ee0-361e-46a2-930a-e55eff6c0a27.json
+Only in /Users/srujansai/rfq2boq-phase9/data/jobs: f5af29e1-1039-4264-8b48-8609bad4b363.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: f690e11b-2ffb-4627-bf76-bd4eecea39cf.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: f90c2f69-2749-45e3-90c3-2af79f3138b3.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: f9eaf31f-784f-452d-a15e-735408be7313.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: fa1d259d-09e1-433b-9eb8-f105e9f4f605.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: faebe5b7-f541-4668-9680-8660524a8294.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/jobs: fc84043d-3833-43dd-91c3-e30059ff528e.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/ontology: backup
+Only in /Users/srujansai/Desktop/rfq2boq/data/ontology: insulation_gazetteer_mined.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: INTAKE_MANIFEST.csv
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: all_documents_list.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: boq_bearing_candidates.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: corpus_canonical_v2.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: corpus_manifest_v2.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: extracted
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: full_corpus_split.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold: DONE.txt
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/GOLD_LOCK.sha256 and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/GOLD_LOCK.sha256 differ
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold: backup
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold: generated
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/01_gsecl_wanakbori_tmd8.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/01_gsecl_wanakbori_tmd8.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/02_isro_vssc.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/02_isro_vssc.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/03_zydus_matoda_osd.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/03_zydus_matoda_osd.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/04_adani.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/04_adani.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/05_zydus_animal_pharmez.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/05_zydus_animal_pharmez.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/06_avante_kirloskar_pune.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/06_avante_kirloskar_pune.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/07_grew_solar_narmadapuram.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/07_grew_solar_narmadapuram.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/08_sael.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/08_sael.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/09_gem_bid_7439924.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/09_gem_bid_7439924.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/10_gem_bid_7552777.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/10_gem_bid_7552777.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_01_tender.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_01_tender.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_02_swpl.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_02_swpl.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_03_boq_page.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_03_boq_page.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_04_boq_page_003.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_04_boq_page_003.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_05_copy_of_boq.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_05_copy_of_boq.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_06_insulation_boq_1.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_06_insulation_boq_1.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_07_insulation_boq_2.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_07_insulation_boq_2.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_08_boq_insulation_compliance.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_08_boq_insulation_compliance.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/rows/insul_09_pipe_insulation_compliance.rowgold.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/rows/insul_09_pipe_insulation_compliance.rowgold.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_02_isro_vssc.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_02_isro_vssc.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_03_zydus_matoda_osd.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_03_zydus_matoda_osd.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_04_adani.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_04_adani.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_05_zydus_animal_pharmez.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_05_zydus_animal_pharmez.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_06_avante_kirloskar_pune.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_06_avante_kirloskar_pune.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_07_grew_solar_narmadapuram.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_07_grew_solar_narmadapuram.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_08_sael.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_08_sael.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_09_gem_bid_7439924.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_09_gem_bid_7439924.json differ
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/gold/swa_10_gem_bid_7552777.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/gold/swa_10_gem_bid_7552777.json differ
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: raw
+Files /Users/srujansai/rfq2boq-phase9/data/real_rfqs/source_truth.json and /Users/srujansai/Desktop/rfq2boq/data/real_rfqs/source_truth.json differ
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: source_truth_draft.json
+Only in /Users/srujansai/Desktop/rfq2boq/data/real_rfqs: split_test_v2.json
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: EXECUTIVE_SUMMARY.md
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: FINAL_DELIVERABLE.md
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: FINAL_HONEST_REPORT.md
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: INDEX.md
+Only in /Users/srujansai/rfq2boq-phase9/deliverables: Internship_Project_Report.md
+Only in /Users/srujansai/rfq2boq-phase9/deliverables: Internship_Project_Report.pdf
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: PHASE1_ENGINEERING_STATUS.md
+Only in /Users/srujansai/rfq2boq-phase9/deliverables: Presentation_Slides.md
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: README.md
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: REPORT.md
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: SWA_DEMO_GUIDE.md
+Only in /Users/srujansai/rfq2boq-phase9/deliverables: SWA_HANDOFF_GUIDE.md
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: SWA_USER_GUIDE.md
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: TECHNICAL_HANDOFF.md
+Only in /Users/srujansai/rfq2boq-phase9/deliverables: demo_live.py
+Only in /Users/srujansai/rfq2boq-phase9/deliverables: presentation.html
+Only in /Users/srujansai/rfq2boq-phase9/deliverables: signature.jpg
+Only in /Users/srujansai/Desktop/rfq2boq/deliverables: slides
+Files /Users/srujansai/rfq2boq-phase9/docker-compose.yml and /Users/srujansai/Desktop/rfq2boq/docker-compose.yml differ
+Files /Users/srujansai/rfq2boq-phase9/docs/CORE_UNDERSTANDING.md and /Users/srujansai/Desktop/rfq2boq/docs/CORE_UNDERSTANDING.md differ
+Only in /Users/srujansai/Desktop/rfq2boq/docs: CORPUS_FILTER.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: ONBOARDING.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: SCOPE_GUARD.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: TRAINING_CORPUS.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: arcbert.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: conflict_resolution.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: data_collection.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: deployment.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: hindi_support.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: indicbert.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: omniclass_mapping.md
+Only in /Users/srujansai/Desktop/rfq2boq/docs: operations.md
+Only in /Users/srujansai/Desktop/rfq2boq/logs: agent_annotations.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: agent_training.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: train_lora_draft_all_rfqs.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: train_lora_draft_all_rfqs_v2.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: train_lora_draft_bert_cpu128.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: train_lora_draft_cpu_batch16.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: train_lora_draft_distil_cpu128.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: train_lora_human_verified.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: train_lora_real_only.log
+Only in /Users/srujansai/Desktop/rfq2boq/logs: train_lora_v2_run.log
+Only in /Users/srujansai/Desktop/rfq2boq: output
+Only in /Users/srujansai/Desktop/rfq2boq/resources: knowledge_base
+Only in /Users/srujansai/rfq2boq-phase9/resources: meeting requirments
+Only in /Users/srujansai/Desktop/rfq2boq/resources: meeting requirments.md
+Only in /Users/srujansai/Desktop/rfq2boq/results: CONSOLIDATED_FINAL_REPORT.md
+Files /Users/srujansai/rfq2boq-phase9/results/FIDELITY_REPORT.md and /Users/srujansai/Desktop/rfq2boq/results/FIDELITY_REPORT.md differ
+Only in /Users/srujansai/Desktop/rfq2boq/results: PHASE9_MERGE_REPORT.md
+Files /Users/srujansai/rfq2boq-phase9/results/PRODUCT_EVAL.md and /Users/srujansai/Desktop/rfq2boq/results/PRODUCT_EVAL.md differ
+Only in /Users/srujansai/rfq2boq-phase9/results: annotation_wave1
+Only in /Users/srujansai/rfq2boq-phase9/results: column_eval
+Only in /Users/srujansai/rfq2boq-phase9/results: corpus_run
+Only in /Users/srujansai/rfq2boq-phase9/results: corpus_sweep
+Only in /Users/srujansai/Desktop/rfq2boq/results: eval_honest.json
+Only in /Users/srujansai/Desktop/rfq2boq/results: eval_honest_rows.json
+Files /Users/srujansai/rfq2boq-phase9/results/fidelity/01_gsecl_wanakbori_tmd8.audit.md and /Users/srujansai/Desktop/rfq2boq/results/fidelity/01_gsecl_wanakbori_tmd8.audit.md differ
+Files /Users/srujansai/rfq2boq-phase9/results/fidelity/05_zydus_animal_pharmez.audit.md and /Users/srujansai/Desktop/rfq2boq/results/fidelity/05_zydus_animal_pharmez.audit.md differ
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: 06_avante_kirloskar_pune (bundle copy).audit.md
+Files /Users/srujansai/rfq2boq-phase9/results/fidelity/06_avante_kirloskar_pune.audit.md and /Users/srujansai/Desktop/rfq2boq/results/fidelity/06_avante_kirloskar_pune.audit.md differ
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: 07_grew_preview.png
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: 07_grew_solar_narmadapuram (bundle copy).audit.md
+Files /Users/srujansai/rfq2boq-phase9/results/fidelity/07_grew_solar_narmadapuram.audit.md and /Users/srujansai/Desktop/rfq2boq/results/fidelity/07_grew_solar_narmadapuram.audit.md differ
+Files /Users/srujansai/rfq2boq-phase9/results/fidelity/08_sael.audit.md and /Users/srujansai/Desktop/rfq2boq/results/fidelity/08_sael.audit.md differ
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: 08_sael_TDS (bundle copy).audit.md
+Files /Users/srujansai/rfq2boq-phase9/results/fidelity/09_gem_bid_7439924.audit.md and /Users/srujansai/Desktop/rfq2boq/results/fidelity/09_gem_bid_7439924.audit.md differ
+Files /Users/srujansai/rfq2boq-phase9/results/fidelity/10_gem_bid_7552777.audit.md and /Users/srujansai/Desktop/rfq2boq/results/fidelity/10_gem_bid_7552777.audit.md differ
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: 47_Pipe Insulation_BOQ Compliance.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: BOQ - INSULATION (spec1 PDF).audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: BOQ - INSULATION.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: BOQ - Insulation (spec2 XLSX).audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: BOQ PAGE (003).audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: BOQ PAGE.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: BOQ- Insulation_Compliance.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: BOQ.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: BOQ_Thermal Insulation.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: Copy of BOQ.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: Copy of UBS_Hyderabad_Project_BOQ(1).audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: INSULATION_BOQ_BLUEGRASS.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: Insulation ARFF.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: Insulation Boq (1).audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: Insulation Boq (2).audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: Insulation Medical.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: Insulation.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: Tech Specs  - Insulation.audit.md
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: all_audit.err
+Only in /Users/srujansai/rfq2boq-phase9/results/fidelity: all_audit.log
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_boq_insulation_compliance_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_boq_insulation_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_boq_page_003_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_boq_page_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_boq_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_copy_of_boq_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_insulation_boq_1_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_insulation_boq_2_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_pipe_insulation_boq_compliance_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec1_tech_specs_insulation_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_boq_insulation_xlsx.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_boq_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_boq_thermal_insulation_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_insulation_arff_xlsx.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_insulation_boq_bluegrass_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_insulation_medical_xlsx.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_insulation_xlsx.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_mech_eipl_buffer_tank_pdf.audit.md
+Only in /Users/srujansai/Desktop/rfq2boq/results/fidelity: spec2_ubs_hyderabad_boq_pdf.audit.md
+Files /Users/srujansai/rfq2boq-phase9/results/fidelity/summary.json and /Users/srujansai/Desktop/rfq2boq/results/fidelity/summary.json differ
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_2023_13-ITcon-Nabavi.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_Overview_and_analysis_of_the_text_mining.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_RFQ_to_BOQ_Scope_Extraction_using_NLP_sy.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_Semantic-NLP-Based-Information-Extractio.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_Specifications.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_arXiv-2309.13249-Survey-Document-Level-I.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_ci-12-2022-0315.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_cpwd_Guidelines_for_Hassle_Free_Bid_Subm.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_full_corpus.md
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_full_corpus_sample20.md
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_ireps_2724bb1eff78.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_ireps_bc341034058b.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__108_TDS_Fill_up_Grew_Energy.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__BOQ_PAGEadani_proj.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__Copy_of_Insulation_Enquiry-Zyd.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__Copy_of_Insulation_Enquiry_-_S.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__GeM-Bidding-9218026.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__GeM-Bidding-9343469.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__Insulation_Specs_132.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__RFQ-75810_TMD-8.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__TENDER_SPECIFICATION-ACCOUSTIC.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__VSSC_BOQ_with_qty.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred10__Zydus_Matoda_Insulation_Enquir.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_sacred_2026-07-03.txt
+Only in /Users/srujansai/Desktop/rfq2boq/results: fidelity_audit_summary.txt
+Only in /Users/srujansai/rfq2boq-phase9/results: frozen_test_files.json
+Only in /Users/srujansai/Desktop/rfq2boq/results: gem_gold_verification_review.md
+Only in /Users/srujansai/Desktop/rfq2boq/results: generalization_smoke.json
+Only in /Users/srujansai/Desktop/rfq2boq/results: generalization_smoke_final.md
+Only in /Users/srujansai/Desktop/rfq2boq/results: gold_provenance_check.json
+Only in /Users/srujansai/Desktop/rfq2boq/results: lora_human_verified_eval.json
+Only in /Users/srujansai/Desktop/rfq2boq/results: pdf_gold_human_verification_guide.md
+Files /Users/srujansai/rfq2boq-phase9/results/product_eval.json and /Users/srujansai/Desktop/rfq2boq/results/product_eval.json differ
+Only in /Users/srujansai/rfq2boq-phase9/results: source_truth_review.md
+Only in /Users/srujansai/rfq2boq-phase9/results: structure_eval
+Only in /Users/srujansai/Desktop/rfq2boq/results: swa_gold_verify_report.md
+Only in /Users/srujansai/rfq2boq-phase9/results: test_all.err
+Only in /Users/srujansai/rfq2boq-phase9/results: test_all.log
+Only in /Users/srujansai/rfq2boq-phase9/results: test_all2.err
+Only in /Users/srujansai/rfq2boq-phase9/results: test_all2.log
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int.err
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int.log
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int2.err
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int2.log
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int3.err
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int3.log
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int4.err
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int4.log
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int_sbc.err
+Only in /Users/srujansai/rfq2boq-phase9/results: test_int_sbc.log
+Only in /Users/srujansai/rfq2boq-phase9/results: test_sacred.err
+Only in /Users/srujansai/rfq2boq-phase9/results: test_sacred.log
+Only in /Users/srujansai/rfq2boq-phase9/results: ui_dropin
+Files /Users/srujansai/rfq2boq-phase9/scripts/audit_fidelity_per_doc.py and /Users/srujansai/Desktop/rfq2boq/scripts/audit_fidelity_per_doc.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: batch_extract_all.py
+Files /Users/srujansai/rfq2boq-phase9/scripts/batch_extract_all_26.py and /Users/srujansai/Desktop/rfq2boq/scripts/batch_extract_all_26.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: batch_process_all.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: batch_process_dir.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: batch_process_dir_robust.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: batch_process_fast.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: batch_process_remaining.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: batch_process_specs.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: batch_process_targeted.py
+Files /Users/srujansai/rfq2boq-phase9/scripts/build_row_gold.py and /Users/srujansai/Desktop/rfq2boq/scripts/build_row_gold.py differ
+Files /Users/srujansai/rfq2boq-phase9/scripts/clean_gold.py and /Users/srujansai/Desktop/rfq2boq/scripts/clean_gold.py differ
+Files /Users/srujansai/rfq2boq-phase9/scripts/clean_pseudo_labels.py and /Users/srujansai/Desktop/rfq2boq/scripts/clean_pseudo_labels.py differ
+Files /Users/srujansai/rfq2boq-phase9/scripts/convert_verified_rowgold_to_bioes.py and /Users/srujansai/Desktop/rfq2boq/scripts/convert_verified_rowgold_to_bioes.py differ
+Files /Users/srujansai/rfq2boq-phase9/scripts/derive_independent_row_gold.py and /Users/srujansai/Desktop/rfq2boq/scripts/derive_independent_row_gold.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: diagnose.py
+Files /Users/srujansai/rfq2boq-phase9/scripts/draft_source_truth_extras.py and /Users/srujansai/Desktop/rfq2boq/scripts/draft_source_truth_extras.py differ
+Files /Users/srujansai/rfq2boq-phase9/scripts/eval_lora_on_swa_holdout.py and /Users/srujansai/Desktop/rfq2boq/scripts/eval_lora_on_swa_holdout.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: fidelity_audit_full_corpus.py
+Files /Users/srujansai/rfq2boq-phase9/scripts/filter_insulation_corpus.py and /Users/srujansai/Desktop/rfq2boq/scripts/filter_insulation_corpus.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: freeze_split.py
+Files /Users/srujansai/rfq2boq-phase9/scripts/generate_all_bioes_training.py and /Users/srujansai/Desktop/rfq2boq/scripts/generate_all_bioes_training.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: generate_bioes_from_all_rfqs.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: git_push.sh
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: human_gold_verify.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: identify_boq_candidates.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: ocr_independent_gold.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: one_shot_test_eval.py
+Files /Users/srujansai/rfq2boq-phase9/scripts/preannotate_swa_enquiries.py and /Users/srujansai/Desktop/rfq2boq/scripts/preannotate_swa_enquiries.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: process_scan_boq_files.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: quick_scan_rfqs.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: scan_remaining_fast.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: source_truth_counter.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: swa_gold_verify_report.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: train_lora_ner_draft_all_rfqs.py
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: train_lora_ner_human_verified.py
+Files /Users/srujansai/rfq2boq-phase9/scripts/train_lora_ner_real_only.py and /Users/srujansai/Desktop/rfq2boq/scripts/train_lora_ner_real_only.py differ
+Files /Users/srujansai/rfq2boq-phase9/scripts/train_lora_ner_swa10.py and /Users/srujansai/Desktop/rfq2boq/scripts/train_lora_ner_swa10.py differ
+Files /Users/srujansai/rfq2boq-phase9/scripts/train_lora_ner_v5.py and /Users/srujansai/Desktop/rfq2boq/scripts/train_lora_ner_v5.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/scripts: verify_gem_gold.py
+Files /Users/srujansai/rfq2boq-phase9/scripts/verify_swa10_demo.py and /Users/srujansai/Desktop/rfq2boq/scripts/verify_swa10_demo.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/domain/fidelity.py and /Users/srujansai/Desktop/rfq2boq/src/domain/fidelity.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/domain/flags.py and /Users/srujansai/Desktop/rfq2boq/src/domain/flags.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/domain/models.py and /Users/srujansai/Desktop/rfq2boq/src/domain/models.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/ingest/column_detector.py and /Users/srujansai/Desktop/rfq2boq/src/ingest/column_detector.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/ingest/pdf_extractor.py and /Users/srujansai/Desktop/rfq2boq/src/ingest/pdf_extractor.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/ingest/table_classifier.py and /Users/srujansai/Desktop/rfq2boq/src/ingest/table_classifier.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/ingest/table_extractor.py and /Users/srujansai/Desktop/rfq2boq/src/ingest/table_extractor.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/nlp/catalog_matcher.py and /Users/srujansai/Desktop/rfq2boq/src/nlp/catalog_matcher.py differ
+Only in /Users/srujansai/rfq2boq-phase9/src/nlp/ner: pretrained_signal.py
+Files /Users/srujansai/rfq2boq-phase9/src/nlp/pipeline.py and /Users/srujansai/Desktop/rfq2boq/src/nlp/pipeline.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/pipeline.py and /Users/srujansai/Desktop/rfq2boq/src/pipeline.py differ
+Files /Users/srujansai/rfq2boq-phase9/src/preproc/document_structure.py and /Users/srujansai/Desktop/rfq2boq/src/preproc/document_structure.py differ
+Only in /Users/srujansai/Desktop/rfq2boq/tasks: ETERNAL_PROTOCOL.md
+Only in /Users/srujansai/Desktop/rfq2boq/tasks: VALIDATION_CHECKLIST.md
+Only in /Users/srujansai/rfq2boq-phase9/tasks: phase9
+Only in /Users/srujansai/Desktop/rfq2boq/tasks: sonnet
+Only in /Users/srujansai/Desktop/rfq2boq/tasks: wave5
+Only in /Users/srujansai/rfq2boq-phase9/tests: nlp
+Files /Users/srujansai/rfq2boq-phase9/tests/regression/expectations.json and /Users/srujansai/Desktop/rfq2boq/tests/regression/expectations.json differ
+Only in /Users/srujansai/Desktop/rfq2boq/tests/regression: test_intake.py
+Only in /Users/srujansai/Desktop/rfq2boq/tests/unit: test_split_leakage.py
+Only in /Users/srujansai/Desktop/rfq2boq/tests/unit: test_subdomain_routing.py.bak
+Files /Users/srujansai/rfq2boq-phase9/tests/unit/test_table_classifier.py and /Users/srujansai/Desktop/rfq2boq/tests/unit/test_table_classifier.py differ
+Files /Users/srujansai/rfq2boq-phase9/tests/unit/test_table_extractor.py and /Users/srujansai/Desktop/rfq2boq/tests/unit/test_table_extractor.py differ
+Files /Users/srujansai/rfq2boq-phase9/ui/app.py and /Users/srujansai/Desktop/rfq2boq/ui/app.py differ

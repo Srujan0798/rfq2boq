@@ -1,0 +1,216 @@
+{
+  "source_file": "data/incoming/BOQ.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/BOQ.pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "Drain Piping UPVC with Insulation sleeve wherever required - 9mm thick",
+      "quantity": "600.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50 mm thick Insulation",
+      "quantity": "1500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "44mm thick Insulation",
+      "quantity": "2000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "38 mm thick Insulation",
+      "quantity": "3500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm thick Insulation",
+      "quantity": "1500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25mm Thick Insulation",
+      "quantity": "1000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "19mm Thick Insulation",
+      "quantity": "1000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "13mm Thick Insulation",
+      "quantity": "1000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Supply&Installationofunderdeckinsulationasperspecification.Materialshallbe19mmthickClass\"0\"Closedcellnitrilerubberelastomericfoaminsulationlaminatedwith chemicallytreatedglassclothof7mil/0.18mmthicknessThermalconductivityofinsulationmaterialshallnotexceed0.036W/(m.K)atmeantemperatureof24Casper ASTMC518/ASTMC177.Theinsulationmaterialshallhavewaterabsorptionof0.2%byvolumeasperASTMC1763,shallhavefireperformanceratingof25/50asperASTM E84.Densitywillbe40to60Kg/m3.•TheinsulationmaterialshallhaveMicroban®*ananti-microbialproduct,whichisEPA(EnvironmentalProtectionAgency),USA Approved,asanintegralpartofinsulationthatcannotbewashedofforwornoff.TheinsulationmaterialshallgiveenhancedlevelofprotectionagainstharmfulMicrobessuch asfungiandmoldandshouldconfirmtoASTMG21,UL181&ASTME2180.WaterVaporPermeabilityofinsulationmaterialshallbeminimum0.05Perm-inch.withoutany externalbarrierasperASTME96ProcedureA.Theadhesivesfortheapplicationofinsulationshouldbeofprincipalmanufacturer.Applicationservicestobeavailedfromthe principal insulation company and detailed report to be provided by the insulation manufacturer after installation",
+      "quantity": "500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50 mm thick for Clean Room SA Duct - MAU Plenum",
+      "quantity": "2500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm thick for Clean Room SA Duct - For 15 Meter from MAU",
+      "quantity": "7500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25 mm thick for Clean Room SA Duct - For After 15 Meter All Ducts",
+      "quantity": "20000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "19 mm thick for Comfort SA Duct",
+      "quantity": "3500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "13 mm thick for Comfort RA Duct",
+      "quantity": "3500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Supply,InstallationofInsulationmaterial.AcousticInsulationofDuctInternalliningsstartingfromAHUCollarstill5-7metersbyDustandFiberfreeOpenCellNitrileRubber withEPAapprovedantimicrobialadditiveforantimicrobial/antiviralpropertiesasperENISO846/JISZ280,havingmin140-180kg/m³densityandfireflammabilityasperUL94 HBandV0alongwithminNRC0.55asperASTMC423.Formaterialintegrity,theInsulationshallpassAirErosionResistanceTestinaccordancetoASTMStandardC1071-05. AdhesivetobeusedshouldbelowvocandIGBCcompliantandspeciallyformulatedforductinginsulationbyOEM(SR505orEquivalent).Insulationtobeapprovedbylocalfire authorities. Also, application to be done in well ventilated area with RH% below 80% Forgoodworkmanshipandlowerwastage,theInstallationteamtobecertifiedbyManufacturerteamforproperapplicatonwithMin2dayinstallationtrainingtobe conductedbymanufacturer'spersononly.Aperiodicmonthlysitevisittobedonebythemanufacturerrepresentativetoensureproperapplicationquality.Reporttobe submitted to the PMC and User. AbovementionedspecificationstobebackedupbyThirdpartytestcertificatesfromforeign/nablaccreditedlabsandtobesubmittedtoPMC/Consultantfortheapproval beforematerialsupply.Arandomlabtesttobeconductedbyuserforthesuppliedproductfordensity,andantimicrobialbehaviouratforeign/nablaccreditedlabs.Costfor the same to be borne by the contracting agency. Thickness - Min 25 mm",
+      "quantity": "1500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "350mm Dia",
+      "quantity": "300.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "250mm Dia",
+      "quantity": "200.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "150mm Dia",
+      "quantity": "200.0",
+      "unit": "rmt",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "38 mm thick Insulation",
+      "quantity": "200.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm thick Insulation",
+      "quantity": "100.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25mm Thick Insulation",
+      "quantity": "2000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "19mm Thick Insulation",
+      "quantity": "200.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "13mm Thick Insulation",
+      "quantity": "100.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

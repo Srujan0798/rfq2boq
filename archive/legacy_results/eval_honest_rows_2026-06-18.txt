@@ -1,0 +1,22 @@
+======================================================================
+HONEST ROW-LEVEL EVALUATION — Independent row gold, no self-comparison
+======================================================================
+Material threshold: 0.6, Quantity tolerance: ±5%
+
+Evaluating 01_gsecl... 
+
+(Full evaluation output was truncated due to timeout. See eval_honest_rows.json for complete results)
+
+======================================================================
+SUMMARY
+======================================================================
+micro_precision: 0.905829596412556
+micro_recall: 0.8278688524590164
+micro_f1: 0.8650963597430408
+macro_precision: 0.9472222222222222
+macro_recall: 0.9021085050935798
+macro_f1: 0.9209178743961353
+total_gold: 244
+total_pred: 223
+material_threshold: 0.6
+quantity_tolerance: 0.05

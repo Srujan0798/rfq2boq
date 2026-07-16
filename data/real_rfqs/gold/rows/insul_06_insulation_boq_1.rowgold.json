@@ -1,0 +1,40 @@
+{
+  "doc_id": "insul_06_insulation_boq_1",
+  "source_file": "boq_references/Insulation Boq (1).pdf",
+  "date": "2026-06-26",
+  "human_verified": false,
+  "method": "pdfplumber-table-transcription (DRAFT \u2014 needs human review)",
+  "gold_source": "data/real_rfqs/raw/insulation_hvac/boq_references/Insulation Boq (1).pdf",
+  "detected_columns": {
+    "item_no": 0,
+    "material": 1,
+    "unit": 2,
+    "quantity": 3
+  },
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "Acoustic Insulation of AHU Room wall / Return Air Box : SITC of acoustic material for the AHU Room using Ready- made acoustic panels with snap fit plugs. It shall have thickness of 30 \u00b1 2 mm, It shall have length and width of 300 \u00b1 2 mm, It shall have an NRC value of 0.70-0.75 as per ISO 354/ASTM 423C, It shall also have an STC (Sound Transmission Class) value of 18 \u00b1 2 dB. Holes shall be made in accordance with the dimensions of the panel for application. Panels shall be directly fixed on the wall with the help of snap fit plugs inside the holes and the appliation shall be completed as pe the guidelines given in the appliaction manual.",
+      "quantity": "13617",
+      "unit": "Sqft",
+      "source": "boq_references/Insulation Boq (1).pdf",
+      "source_file": "boq_references/Insulation Boq (1).pdf",
+      "source_page": 1,
+      "source_table": 0,
+      "source_row": 2,
+      "human_verified": false
+    },
+    {
+      "item_no": "sub_r5",
+      "material": "20 mm thick",
+      "quantity": "3975",
+      "unit": "Sq.Mt.",
+      "source": "boq_references/Insulation Boq (1).pdf",
+      "source_file": "boq_references/Insulation Boq (1).pdf",
+      "source_page": 1,
+      "source_table": 0,
+      "source_row": 5,
+      "human_verified": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Source: data/incoming/Insulation Boq (2).pdf
+Entries: 11
+Uncertain entries:
+Entry 1: low confidence (0.5)
+Entry 2: low confidence (0.5)
+Entry 3: low confidence (0.5)
+Entry 4: low confidence (0.6)
+Entry 5: low confidence (0.6)
+Entry 6: low confidence (0.6)
+Entry 7: contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 8: contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 10: low confidence (0.5)
+Entry 11: low confidence (0.5)

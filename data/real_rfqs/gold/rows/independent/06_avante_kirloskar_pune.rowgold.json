@@ -1,0 +1,33 @@
+{
+  "doc_id": "06_avante_kirloskar_pune",
+  "source_file": "Insulation Boq_132.pdf",
+  "date": "2026-06-22",
+  "human_verified": false,
+  "method": "pymupdf-independent-text-extraction",
+  "entries": [
+    {
+      "item_no": 1,
+      "material": "shall be nitrile rubber with 140-180",
+      "quantity": "3",
+      "unit": "kg",
+      "action": "supply",
+      "source_file": "Insulation Boq_132.pdf",
+      "source_sheet": "page_1",
+      "source_row": 1,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    },
+    {
+      "item_no": 2,
+      "material": "lined with 50 mm thick fibreglass having",
+      "quantity": "64",
+      "unit": "kg",
+      "action": "supply",
+      "source_file": "Insulation Boq_132.pdf",
+      "source_sheet": "page_1",
+      "source_row": 2,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    }
+  ]
+}

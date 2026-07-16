@@ -1,0 +1,1283 @@
+{
+  "run_id": "20260706_155344",
+  "timestamp": "2026-07-06T16:53:31.232300+00:00",
+  "split": "all",
+  "type": "all",
+  "timeout": 0,
+  "total": 127,
+  "ok": 127,
+  "crash": 0,
+  "missing": 0,
+  "docs": [
+    {
+      "doc_id": "RFQ-75810 TMD-8.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/01_gsecl_wanakbori_tmd8/RFQ-75810 TMD-8.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 221.08209586143494,
+      "rows": 3,
+      "error": null
+    },
+    {
+      "doc_id": "VSSC_BOQ_with_qty.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/02_isro_vssc/VSSC_BOQ_with_qty.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.042639970779418945,
+      "rows": 4,
+      "error": null
+    },
+    {
+      "doc_id": "Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/03_zydus_matoda_osd/Zydus_Matoda_Insulation_Enquiry.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.08245229721069336,
+      "rows": 33,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE2adani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/BOQ PAGE2adani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.1351990699768066,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGEadani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/BOQ PAGEadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 4.556389093399048,
+      "rows": 43,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 3.6416540145874023,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/04_adani/TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 3.0935091972351074,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "format": "xlsx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.04303717613220215,
+      "rows": 48,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.012479066848754883,
+      "rows": 12,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION-TECHNICAL SPECIFICATION.docx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/INSULATION-TECHNICAL SPECIFICATION.docx",
+      "format": "docx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.10306096076965332,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq_132.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Boq_132.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 4.422502756118774,
+      "rows": 31,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Specs_132.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Specs_132.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 290.69281792640686,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "108, BOQ compliance, Grew Energy.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/07_grew_solar_narmadapuram/108, BOQ compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 8.71995210647583,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "108, Specification compliance, Grew Energy.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/07_grew_solar_narmadapuram/108, Specification compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 20.744256019592285,
+      "rows": 14,
+      "error": null
+    },
+    {
+      "doc_id": "108, TDS Fill up, Grew Energy.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/07_grew_solar_narmadapuram/108, TDS Fill up, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 7.01340389251709,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry - SAEL.xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/08_sael/Copy of Insulation Enquiry - SAEL.xlsx",
+      "format": "xlsx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.028868913650512695,
+      "rows": 16,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS - Insulation - SAEL (1).xlsx",
+      "manifest_path": "data/real_rfqs/swa_enquiries/08_sael/Copy of TDS - Insulation - SAEL (1).xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.04093599319458008,
+      "rows": 25,
+      "error": null
+    },
+    {
+      "doc_id": "GeM-Bidding-9218026.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/09_gem_bid_7439924/GeM-Bidding-9218026.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 98.50136089324951,
+      "rows": 22,
+      "error": null
+    },
+    {
+      "doc_id": "GeM-Bidding-9343469.pdf",
+      "manifest_path": "data/real_rfqs/swa_enquiries/10_gem_bid_7552777/GeM-Bidding-9343469.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 81.80359220504761,
+      "rows": 10,
+      "error": null
+    },
+    {
+      "doc_id": "01. JN3102-H31-EWE305-815-001 Technical Specifications for HVAC Low Side System.pdf",
+      "manifest_path": "data/specifications/Specifications/01. JN3102-H31-EWE305-815-001 Technical Specifications for HVAC Low Side System.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 93.7330687046051,
+      "rows": 19,
+      "error": null
+    },
+    {
+      "doc_id": "162_HVAC SPECIFICATIONS-156-158.pdf",
+      "manifest_path": "data/specifications/Specifications/162_HVAC SPECIFICATIONS-156-158.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 10.739915132522583,
+      "rows": 13,
+      "error": null
+    },
+    {
+      "doc_id": "181_Insulation Excel.pdf",
+      "manifest_path": "data/specifications/Specifications/181_Insulation Excel.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.8519909381866455,
+      "rows": 24,
+      "error": null
+    },
+    {
+      "doc_id": "183_.INSULATION.pdf",
+      "manifest_path": "data/specifications/Specifications/183_.INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 13.50294804573059,
+      "rows": 18,
+      "error": null
+    },
+    {
+      "doc_id": "1_HVAC SPECIFICATIONS-156-158.pdf",
+      "manifest_path": "data/specifications/Specifications/1_HVAC SPECIFICATIONS-156-158.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 8.884804964065552,
+      "rows": 13,
+      "error": null
+    },
+    {
+      "doc_id": "23 07 13 Ductwork Insulation.r0.pdf",
+      "manifest_path": "data/specifications/Specifications/23 07 13 Ductwork Insulation.r0.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 27.4082670211792,
+      "rows": 3,
+      "error": null
+    },
+    {
+      "doc_id": "23 07 13 Ductwork Insulation.rA.pdf",
+      "manifest_path": "data/specifications/Specifications/23 07 13 Ductwork Insulation.rA.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 29.972742080688477,
+      "rows": 4,
+      "error": null
+    },
+    {
+      "doc_id": "23 07 13.01 Ductwork Insulation, Schedule.r0.pdf",
+      "manifest_path": "data/specifications/Specifications/23 07 13.01 Ductwork Insulation, Schedule.r0.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 10.982944965362549,
+      "rows": 6,
+      "error": null
+    },
+    {
+      "doc_id": "37. RPMS-ENGG-SPC-HV-019-Thermal insulation.pdf",
+      "manifest_path": "data/specifications/Specifications/37. RPMS-ENGG-SPC-HV-019-Thermal insulation.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 7.67823600769043,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "47_Pipe Insulation_BOQ Compliance.pdf",
+      "manifest_path": "data/specifications/Specifications/47_Pipe Insulation_BOQ Compliance.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 11.934744119644165,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "Annexure-3 DS-CHW-Insulation-Nitrile-Rubber.pdf",
+      "manifest_path": "data/specifications/Specifications/Annexure-3 DS-CHW-Insulation-Nitrile-Rubber.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 6.784728050231934,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "Annexure-K7-B-GCC for Indigenous Supplies-R3.pdf",
+      "manifest_path": "data/specifications/Specifications/Annexure-K7-B-GCC for Indigenous Supplies-R3.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 203.2445011138916,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ - INSULATION.pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ - INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 12.290064334869385,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE (003).pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ PAGE (003).pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.622610092163086,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE.pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ PAGE.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 7.125281095504761,
+      "rows": 43,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ- Insulation_Compliance.pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ- Insulation_Compliance.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 9.658138036727905,
+      "rows": 13,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ.pdf",
+      "manifest_path": "data/specifications/Specifications/BOQ.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 12.06900405883789,
+      "rows": 23,
+      "error": null
+    },
+    {
+      "doc_id": "COMPLIANCE REPORT SHEET- Sleeve Ref Copper Pipe.pdf",
+      "manifest_path": "data/specifications/Specifications/COMPLIANCE REPORT SHEET- Sleeve Ref Copper Pipe.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.152534008026123,
+      "rows": 7,
+      "error": null
+    },
+    {
+      "doc_id": "Compliance Sheet.pdf",
+      "manifest_path": "data/specifications/Specifications/Compliance Sheet.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.450390815734863,
+      "rows": 14,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of BOQ.pdf",
+      "manifest_path": "data/specifications/Specifications/Copy of BOQ.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 10.586397171020508,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Duct Insulation Compliance Sheet_.pdf",
+      "manifest_path": "data/specifications/Specifications/Copy of Duct Insulation Compliance Sheet_.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 7.804822683334351,
+      "rows": 13,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry - SAEL.pdf",
+      "manifest_path": "data/specifications/Specifications/Copy of Insulation Enquiry - SAEL.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 9.799947023391724,
+      "rows": 13,
+      "error": null
+    },
+    {
+      "doc_id": "HVAC Duct - Insulation Specification Imphal (1).pdf",
+      "manifest_path": "data/specifications/Specifications/HVAC Duct - Insulation Specification Imphal (1).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 16.14175772666931,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION TECH SPEC.pdf",
+      "manifest_path": "data/specifications/Specifications/INSULATION TECH SPEC.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 136.3849220275879,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation (1).pdf",
+      "manifest_path": "data/specifications/Specifications/Insulation (1).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 22.03620982170105,
+      "rows": 22,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq (1).pdf",
+      "manifest_path": "data/specifications/Specifications/Insulation Boq (1).pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.414116859436035,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq (2).pdf",
+      "manifest_path": "data/specifications/Specifications/Insulation Boq (2).pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 6.340007066726685,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation For Pipes-Spects - CHW Pipes - 20-11-205.pdf",
+      "manifest_path": "data/specifications/Specifications/Insulation For Pipes-Spects - CHW Pipes - 20-11-205.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.136505126953125,
+      "rows": 3,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Specs.pdf",
+      "manifest_path": "data/specifications/Specifications/Insulation Specs.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 45.38187003135681,
+      "rows": 6,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation TS.pdf",
+      "manifest_path": "data/specifications/Specifications/Insulation TS.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 22.904358863830566,
+      "rows": 17,
+      "error": null
+    },
+    {
+      "doc_id": "KRC Cignus 2 Phase 4 Powai.pdf",
+      "manifest_path": "data/specifications/Specifications/KRC Cignus 2 Phase 4 Powai.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 5.301180839538574,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "LGE - Technical specification-45-51.pdf",
+      "manifest_path": "data/specifications/Specifications/LGE - Technical specification-45-51.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 14.120849847793579,
+      "rows": 6,
+      "error": null
+    },
+    {
+      "doc_id": "MECHANICAL DATA SHEET FOR INSULATION - RIL INGOT WAFER JAMNAGAR.pdf",
+      "manifest_path": "data/specifications/Specifications/MECHANICAL DATA SHEET FOR INSULATION - RIL INGOT WAFER JAMNAGAR.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 3.0720090866088867,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "Nitrile insulation - Revised.pdf",
+      "manifest_path": "data/specifications/Specifications/Nitrile insulation - Revised.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 3.881633996963501,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "OEPMC-EQS-0000-EC-00008_R05_ thermal insulation TS.pdf",
+      "manifest_path": "data/specifications/Specifications/OEPMC-EQS-0000-EC-00008_R05_ thermal insulation TS.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 141.3334150314331,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "SPECS - INSULATION.pdf",
+      "manifest_path": "data/specifications/Specifications/SPECS - INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 206.83014392852783,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "SWPL-PER-HVAC-RFQ-02 (Thermal & Acoustic Insulation).pdf",
+      "manifest_path": "data/specifications/Specifications/SWPL-PER-HVAC-RFQ-02 (Thermal & Acoustic Insulation).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.410604000091553,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "Specs_.pdf",
+      "manifest_path": "data/specifications/Specifications/Specs_.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 13.631091833114624,
+      "rows": 24,
+      "error": null
+    },
+    {
+      "doc_id": "TDS - to be filled by vendor.pdf",
+      "manifest_path": "data/specifications/Specifications/TDS - to be filled by vendor.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.4414029121398926,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER (1) (1).pdf",
+      "manifest_path": "data/specifications/Specifications/TENDER (1) (1).pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 73.12453389167786,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER - INSULATION.pdf",
+      "manifest_path": "data/specifications/Specifications/TENDER - INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.223947048187256,
+      "rows": 16,
+      "error": null
+    },
+    {
+      "doc_id": "Tech Specs  - Insulation.pdf",
+      "manifest_path": "data/specifications/Specifications/Tech Specs  - Insulation.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 4.428235054016113,
+      "rows": 4,
+      "error": null
+    },
+    {
+      "doc_id": "Technical Specification- Insulatiom.pdf",
+      "manifest_path": "data/specifications/Specifications/Technical Specification- Insulatiom.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 7.340873956680298,
+      "rows": 27,
+      "error": null
+    },
+    {
+      "doc_id": "Technical specifciation_ Thermal & acoustic insulation.pdf",
+      "manifest_path": "data/specifications/Specifications/Technical specifciation_ Thermal & acoustic insulation.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 51.570486068725586,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Tender (2).pdf",
+      "manifest_path": "data/specifications/Specifications/Tender (2).pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 112.1073112487793,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Tender (3).pdf",
+      "manifest_path": "data/specifications/Specifications/Tender (3).pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 42.50317192077637,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Tender (4) (1).pdf",
+      "manifest_path": "data/specifications/Specifications/Tender (4) (1).pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 141.21566891670227,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Tender (5).pdf",
+      "manifest_path": "data/specifications/Specifications/Tender (5).pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 49.6652250289917,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "insulation-cmrl.pdf",
+      "manifest_path": "data/specifications/Specifications/insulation-cmrl.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 152.07302403450012,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "rockwool-acu..pdf",
+      "manifest_path": "data/specifications/Specifications/rockwool-acu..pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 10.682765007019043,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "1.Thermal Insulation - Tender Specs_Bajaj_Colaba House.pdf",
+      "manifest_path": "data/specifications/Specification 2/1.Thermal Insulation - Tender Specs_Bajaj_Colaba House.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 159.71796298027039,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "1_Specification Compliance.pdf",
+      "manifest_path": "data/specifications/Specification 2/1_Specification Compliance.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 9.538908004760742,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "2. HVAC SPECIFICATION.pdf",
+      "manifest_path": "data/specifications/Specification 2/2. HVAC SPECIFICATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 55.79751706123352,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "doc_id": "2.Copper & Drain Pipe Insulation _Tender Specs_Bajaj_Colaba House.pdf",
+      "manifest_path": "data/specifications/Specification 2/2.Copper & Drain Pipe Insulation _Tender Specs_Bajaj_Colaba House.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 73.54300212860107,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "ADANI_KARNAVATI - INSULATION - SPECIFICATION COMPLIANCE.pdf",
+      "manifest_path": "data/specifications/Specification 2/ADANI_KARNAVATI - INSULATION - SPECIFICATION COMPLIANCE.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 12.400040864944458,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "Accoustic Wall Insulation for DCS High Side Project.pdf",
+      "manifest_path": "data/specifications/Specification 2/Accoustic Wall Insulation for DCS High Side Project.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.1658618450164795,
+      "rows": 4,
+      "error": null
+    },
+    {
+      "doc_id": "Adani Pune, Compliance FIle Updated.pdf",
+      "manifest_path": "data/specifications/Specification 2/Adani Pune, Compliance FIle Updated.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 7.096719980239868,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ - Insulation.xlsx",
+      "manifest_path": "data/specifications/Specification 2/BOQ - Insulation.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.48124003410339355,
+      "rows": 47,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ_Thermal Insulation.pdf",
+      "manifest_path": "data/specifications/Specification 2/BOQ_Thermal Insulation.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.5340821743011475,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "CISF EXTENSION -HVAC- PC-TS.pdf",
+      "manifest_path": "data/specifications/Specification 2/CISF EXTENSION -HVAC- PC-TS.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 28.107818126678467,
+      "rows": 7,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Inquiry for Duct Insulation of Proj-1017 Bioltus Valsad(56642).pdf",
+      "manifest_path": "data/specifications/Specification 2/Copy of Inquiry for Duct Insulation of Proj-1017 Bioltus Valsad(56642).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.7022571563720703,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation 13-12-24 Inner(58795).pdf",
+      "manifest_path": "data/specifications/Specification 2/Copy of Insulation 13-12-24 Inner(58795).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.8415131568908691,
+      "rows": 14,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf",
+      "manifest_path": "data/specifications/Specification 2/Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 3.405148983001709,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of UBS_Hyderabad_Project_BOQ(1).pdf",
+      "manifest_path": "data/specifications/Specification 2/Copy of UBS_Hyderabad_Project_BOQ(1).pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 1.8804211616516113,
+      "rows": 20,
+      "error": null
+    },
+    {
+      "doc_id": "D 1.1.11-THERMAL INSULATION FOR COLD SURFACES.pdf",
+      "manifest_path": "data/specifications/Specification 2/D 1.1.11-THERMAL INSULATION FOR COLD SURFACES.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 15.616801977157593,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "DC-90 (DC 37801 )INSULATION - (Sample).pdf",
+      "manifest_path": "data/specifications/Specification 2/DC-90 (DC 37801 )INSULATION - (Sample).pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 19.543500900268555,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Enquiry for Thermal Insulation for CHW Pipe.pdf",
+      "manifest_path": "data/specifications/Specification 2/Enquiry for Thermal Insulation for CHW Pipe.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 9.352859735488892,
+      "rows": 13,
+      "error": null
+    },
+    {
+      "doc_id": "Gopin - Insulation TDS.pdf",
+      "manifest_path": "data/specifications/Specification 2/Gopin - Insulation TDS.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.181899070739746,
+      "rows": 17,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION TECHNICAL TO BE FILLED BY VENDOR.pdf",
+      "manifest_path": "data/specifications/Specification 2/INSULATION TECHNICAL TO BE FILLED BY VENDOR.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.1224520206451416,
+      "rows": 7,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION TENDER SPECIFICATION..pdf",
+      "manifest_path": "data/specifications/Specification 2/INSULATION TENDER SPECIFICATION..pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.1342568397521973,
+      "rows": 12,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION TENDER SPECIFICATION.pdf",
+      "manifest_path": "data/specifications/Specification 2/INSULATION TENDER SPECIFICATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.752549171447754,
+      "rows": 12,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION..pdf",
+      "manifest_path": "data/specifications/Specification 2/INSULATION..pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 24.46193790435791,
+      "rows": 28,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION.pdf",
+      "manifest_path": "data/specifications/Specification 2/INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 28.23068594932556,
+      "rows": 28,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION_BOQ_BLUEGRASS.pdf",
+      "manifest_path": "data/specifications/Specification 2/INSULATION_BOQ_BLUEGRASS.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.20227313041687,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation ARFF.xlsx",
+      "manifest_path": "data/specifications/Specification 2/Insulation ARFF.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.019215822219848633,
+      "rows": 1,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Medical.xlsx",
+      "manifest_path": "data/specifications/Specification 2/Insulation Medical.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.02308201789855957,
+      "rows": 15,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation.xlsx",
+      "manifest_path": "data/specifications/Specification 2/Insulation.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.022014141082763672,
+      "rows": 19,
+      "error": null
+    },
+    {
+      "doc_id": "MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf",
+      "manifest_path": "data/specifications/Specification 2/MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 42.55849814414978,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "Make list - Gopin.pdf",
+      "manifest_path": "data/specifications/Specification 2/Make list - Gopin.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 9.64901614189148,
+      "rows": 31,
+      "error": null
+    },
+    {
+      "doc_id": "Response to Prebid Queries - 20241228.pdf",
+      "manifest_path": "data/specifications/Specification 2/Response to Prebid Queries - 20241228.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 74.54699301719666,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.pdf",
+      "manifest_path": "data/specifications/Specification 2/SWPL-MPL-GPVC-CAC2-HVAC-RFQ-10.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.689006090164185,
+      "rows": 15,
+      "error": null
+    },
+    {
+      "doc_id": "Specification_Insulation_GBRC.pdf",
+      "manifest_path": "data/specifications/Specification 2/Specification_Insulation_GBRC.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 4.604976177215576,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "Specs_Thermal Insulation_Bajaj House.pdf",
+      "manifest_path": "data/specifications/Specification 2/Specs_Thermal Insulation_Bajaj House.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 40.720720052719116,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "TDS - Insulation Ducting.pdf",
+      "manifest_path": "data/specifications/Specification 2/TDS - Insulation Ducting.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.705214023590088,
+      "rows": 6,
+      "error": null
+    },
+    {
+      "doc_id": "TDS - Insulation Piping.pdf",
+      "manifest_path": "data/specifications/Specification 2/TDS - Insulation Piping.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.5122520923614502,
+      "rows": 6,
+      "error": null
+    },
+    {
+      "doc_id": "TECHNICAL SPECIFICATION OF INSULATION.pdf",
+      "manifest_path": "data/specifications/Specification 2/TECHNICAL SPECIFICATION OF INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.541677236557007,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Technical Compliance- Aquachill =CEAT, Halol dt 09.06.2025.pdf",
+      "manifest_path": "data/specifications/Specification 2/Technical Compliance- Aquachill =CEAT, Halol dt 09.06.2025.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.842836856842041,
+      "rows": 23,
+      "error": null
+    },
+    {
+      "doc_id": "Tender Specs (1).pdf",
+      "manifest_path": "data/specifications/Specification 2/Tender Specs (1).pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.9002761840820312,
+      "rows": 7,
+      "error": null
+    },
+    {
+      "doc_id": "Tender Specs.pdf",
+      "manifest_path": "data/specifications/Specification 2/Tender Specs.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 55.45675206184387,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "Tendor Specs - Wall Accoustic.pdf",
+      "manifest_path": "data/specifications/Specification 2/Tendor Specs - Wall Accoustic.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 0.4612100124359131,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "boq.pdf",
+      "manifest_path": "data/specifications/Specification 2/boq.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 3.8543701171875,
+      "rows": 23,
+      "error": null
+    },
+    {
+      "doc_id": "108, BOQ compliance, Grew Energy.pdf",
+      "manifest_path": "data/specifications/Re_ Required technical data - Avant - Grew Solar, Narmadapuram/108, BOQ compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.2486109733581543,
+      "rows": 9,
+      "error": null
+    },
+    {
+      "doc_id": "108, Specification compliance, Grew Energy.pdf",
+      "manifest_path": "data/specifications/Re_ Required technical data - Avant - Grew Solar, Narmadapuram/108, Specification compliance, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 6.211771011352539,
+      "rows": 14,
+      "error": null
+    },
+    {
+      "doc_id": "108, TDS Fill up, Grew Energy.pdf",
+      "manifest_path": "data/specifications/Re_ Required technical data - Avant - Grew Solar, Narmadapuram/108, TDS Fill up, Grew Energy.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.8135430812835693,
+      "rows": 11,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry - SAEL.xlsx",
+      "manifest_path": "data/specifications/Require Technical data/Copy of Insulation Enquiry - SAEL.xlsx",
+      "format": "xlsx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.013382911682128906,
+      "rows": 16,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS - Insulation - SAEL (1).xlsx",
+      "manifest_path": "data/specifications/Require Technical data/Copy of TDS - Insulation - SAEL (1).xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.01141500473022461,
+      "rows": 25,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Boq_132.pdf",
+      "manifest_path": "data/specifications/Re_ Enquiry for Insulation for AVANTE SPACES LIMITED PLOT – A+C , Kirloskar Pune. (1)/Insulation Boq_132.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 2.834336042404175,
+      "rows": 31,
+      "error": null
+    },
+    {
+      "doc_id": "Insulation Specs_132.pdf",
+      "manifest_path": "data/specifications/Re_ Enquiry for Insulation for AVANTE SPACES LIMITED PLOT – A+C , Kirloskar Pune. (1)/Insulation Specs_132.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 183.38497877120972,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGE2adani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/BOQ PAGE2adani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.4251980781555176,
+      "rows": 2,
+      "error": null
+    },
+    {
+      "doc_id": "BOQ PAGEadani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/BOQ PAGEadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 3.9957120418548584,
+      "rows": 43,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 2.592939853668213,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "manifest_path": "data/specifications/Specs and boq/TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.6929919719696045,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "manifest_path": "data/specifications/RE_ Provide Technical data - Avant , Zydus Animal Health Expansion Project - Pharmez-Ahmedabad/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+      "format": "xlsx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.020210981369018555,
+      "rows": 48,
+      "error": null
+    },
+    {
+      "doc_id": "Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "manifest_path": "data/specifications/RE_ Provide Technical data - Avant , Zydus Animal Health Expansion Project - Pharmez-Ahmedabad/Copy of TDS TO BE FILLED BY VENDOR-INSULATION.xlsx",
+      "format": "xlsx",
+      "doc_type": "boq_bearing",
+      "status": "ok",
+      "duration": 0.0053899288177490234,
+      "rows": 12,
+      "error": null
+    },
+    {
+      "doc_id": "INSULATION-TECHNICAL SPECIFICATION.docx",
+      "manifest_path": "data/specifications/RE_ Provide Technical data - Avant , Zydus Animal Health Expansion Project - Pharmez-Ahmedabad/INSULATION-TECHNICAL SPECIFICATION.docx",
+      "format": "docx",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 0.05803704261779785,
+      "rows": 0,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION- CHW PIPE INSULATION.pdf",
+      "manifest_path": "data/specifications/rar_extra/TENDER SPECIFICATION- CHW PIPE INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.874375820159912,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER SPECIFICATION-ACCOUSTIC INSULATION.pdf",
+      "manifest_path": "data/specifications/rar_extra/TENDER SPECIFICATION-ACCOUSTIC INSULATION.pdf",
+      "format": "pdf",
+      "doc_type": "spec_only",
+      "status": "ok",
+      "duration": 1.7435901165008545,
+      "rows": 5,
+      "error": null
+    },
+    {
+      "doc_id": "TENDER.pdf",
+      "manifest_path": "data/specifications/rar_extra/TENDER.pdf",
+      "format": "pdf",
+      "doc_type": "non_training",
+      "status": "ok",
+      "duration": 114.1226749420166,
+      "rows": 0,
+      "error": null
+    }
+  ]
+}

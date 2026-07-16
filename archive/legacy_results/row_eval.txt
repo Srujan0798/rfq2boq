@@ -1,0 +1,38 @@
+======================================================================
+HONEST ROW-LEVEL EVALUATION — Independent row gold, no self-comparison
+======================================================================
+Material threshold: 0.6, Quantity tolerance: ±5%
+
+Evaluating 01_gsecl... camelot-py not installed, falling back to pdfplumber
+F1=100.0% (P=100.0%, R=100.0%) [3 gold, 3 pred] 48.4s
+Evaluating 02_isro... F1=18.2% (P=25.0%, R=14.3%) [7 gold, 4 pred] 0.0s
+Evaluating 03_zydus_matoda... F1=0.0% (P=0.0%, R=0.0%) [33 gold, 16 pred] 0.0s
+Evaluating 04_adani... camelot-py not installed, falling back to pdfplumber
+F1=0.0% (P=0.0%, R=0.0%) [45 gold, 2 pred] 0.4s
+Evaluating 05_zydus_animal... F1=12.2% (P=14.6%, R=10.4%) [67 gold, 48 pred] 0.0s
+Evaluating 06_avante... camelot-py not installed, falling back to pdfplumber
+F1=29.0% (P=29.0%, R=29.0%) [31 gold, 31 pred] 3.2s
+Evaluating 07_grew... camelot-py not installed, falling back to pdfplumber
+F1=11.1% (P=11.1%, R=11.1%) [9 gold, 9 pred] 2.4s
+Evaluating 08_sael... F1=6.5% (P=7.1%, R=5.9%) [17 gold, 14 pred] 0.0s
+Evaluating 09_gem... camelot-py not installed, falling back to pdfplumber
+F1=100.0% (P=100.0%, R=100.0%) [22 gold, 22 pred] 27.6s
+Evaluating 10_gem... camelot-py not installed, falling back to pdfplumber
+F1=100.0% (P=100.0%, R=100.0%) [10 gold, 10 pred] 52.6s
+
+======================================================================
+SUMMARY
+======================================================================
+Enquiries: 10 / 10
+Total gold rows: 244
+Total predicted rows: 159
+
+Micro P/R/F1: 34.0% / 22.1% / 26.8%
+Macro P/R/F1: 38.7% / 37.1% / 37.7%
+
+XLSX F1 (macro): 9.2% (4 files)
+PDF F1 (macro): 56.7% (6 files)
+
+This is the HONEST row-level baseline. No self-comparison. No modified gold.
+
+Results saved to results/eval_honest_rows.json

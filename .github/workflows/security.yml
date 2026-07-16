@@ -1,0 +1,133 @@
+name: Security Scanning
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  bandit:
+    name: Bandit Security Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install bandit
+
+      - name: Run Bandit
+        run: bandit -r src/ -f json -o bandit_report.json || true
+
+      - name: Check Bandit results
+        run: |
+          if [ -f bandit_report.json ]; then
+            HIGH=$(grep -o '"severity": "HIGH"' bandit_report.json | wc -l)
+            MEDIUM=$(grep -o '"severity": "MEDIUM"' bandit_report.json | wc -l)
+            echo "Bandit findings: HIGH=$HIGH, MEDIUM=$MEDIUM"
+            if [ "$HIGH" -gt 0 ]; then
+              echo "HIGH severity issues found!"
+              cat bandit_report.json
+              exit 1
+            fi
+          fi
+
+  pip-audit:
+    name: pip-audit Dependency Scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install pip-audit
+        run: pip install pip-audit
+
+      - name: Run pip-audit
+        run: pip-audit --format=json --output=pip_audit.json || true
+
+      - name: Check pip-audit results
+        run: |
+          if [ -f pip_audit.json ]; then
+            VULNS=$(cat pip_audit.json | grep -o '"vulnerabilities":\[[^]]*\]' | grep -v '\[\]' | wc -l)
+            echo "pip-audit vulnerabilities found: $VULNS"
+            if [ "$VULNS" -gt 0 ]; then
+              cat pip_audit.json
+              exit 1
+            fi
+          fi
+
+  safety:
+    name: Safety Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Safety
+        run: pip install safety
+
+      - name: Run Safety check
+        run: safety check --json --output=safety_report.json || true
+
+      - name: Check Safety results
+        run: |
+          if [ -f safety_report.json ]; then
+            VULNS=$(cat safety_report.json | grep -c "vulnerability" || echo 0)
+            echo "Safety vulnerabilities found: $VULNS"
+            if [ "$VULNS" -gt 0 ]; then
+              cat safety_report.json
+              exit 1
+            fi
+          fi
+
+  security-tests:
+    name: Security Unit Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+          pip install pyotp
+
+      - name: Run security tests
+        run: python -m pytest tests/security/test_security.py -v --tb=short
+
+  ruff-check:
+    name: Ruff Lint Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ruff
+        run: pip install ruff
+
+      - name: Run ruff
+        run: ruff check src/auth/middleware.py src/security/upload.py tests/security/test_security.py

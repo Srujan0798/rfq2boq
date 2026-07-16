@@ -1,0 +1,107 @@
+{
+  "_provenance": {
+    "ingest_date_utc": "2026-07-06",
+    "ingest_tool": "scripts/ingest_gem_catalog.py",
+    "note": "Verbatim ingest from SWA's sacred GeM product workbook (read-only).",
+    "row_count": 19,
+    "source_file": "resources/PUBLISH PRODUCT.xlsx",
+    "source_sha256": "b2e01b14b083bbe791fda162208f1720242f0f43508daa428ed73a813b0f2871"
+  },
+  "products": [
+    {
+      "name": "THERMO ACOUSTIC INSULATION",
+      "product_id": "6925249-26396116846",
+      "row_no": 1
+    },
+    {
+      "name": "THERMO ACOUSTIC INSULATION",
+      "product_id": "6925249-78316051596",
+      "row_no": 2
+    },
+    {
+      "name": "ACCOUSTIC INSOUND BARRIER",
+      "product_id": "6925249-61634087056",
+      "row_no": 3
+    },
+    {
+      "name": "Acoustical insulation",
+      "product_id": "6925249-47731405482",
+      "row_no": 4
+    },
+    {
+      "name": "Insound Acoustical insulation",
+      "product_id": "6925249-15686947057",
+      "row_no": 5
+    },
+    {
+      "name": "FOAM TAPE",
+      "product_id": "6925249-50620430244",
+      "row_no": 6
+    },
+    {
+      "name": "FOAM GC TAPE",
+      "product_id": "6925249-39623363235",
+      "row_no": 7
+    },
+    {
+      "name": "Foam Tape",
+      "product_id": "6925249-26709647067",
+      "row_no": 8
+    },
+    {
+      "name": "Foam Tape",
+      "product_id": "6925249-14833112824",
+      "row_no": 9
+    },
+    {
+      "name": "Acoustical insulation",
+      "product_id": "6925249-28145600681",
+      "row_no": 10
+    },
+    {
+      "name": "Aluminum Tape",
+      "product_id": "6925249-45259645807",
+      "row_no": 11
+    },
+    {
+      "name": "Ceramic Fibre Blanket Insulation",
+      "product_id": "6925249-55070190000",
+      "row_no": 12
+    },
+    {
+      "name": "Thermal Insulation Board",
+      "product_id": "6925249-99765597883",
+      "row_no": 13
+    },
+    {
+      "name": "Aluminum Foil Scrim Kraft Tape",
+      "product_id": "6925249-26174451968",
+      "row_no": 14
+    },
+    {
+      "name": "Aluminum Foil Insulation Tape",
+      "product_id": "6925249-15225526090",
+      "row_no": 15
+    },
+    {
+      "name": "Preformed Fibrous Pipe Sections For Thermal Insulation-IS: 9842",
+      "product_id": "6925249-94997101114",
+      "row_no": 16
+    },
+    {
+      "name": "Preformed Fibrous Pipe Sections For Thermal Insulation-IS: 9842",
+      "product_id": "6925249-71196564230",
+      "row_no": 17
+    },
+    {
+      "name": "Preformed Fibrous Pipe Sections For Thermal Insulation-IS: 9842",
+      "product_id": "6925249-92262407909",
+      "row_no": 18
+    },
+    {
+      "name": "Preformed Fibrous Pipe Sections For Thermal Insulation-IS: 9842",
+      "product_id": "6925249-68999330875",
+      "row_no": 19
+    }
+  ]
+}

@@ -1,0 +1,775 @@
+{
+  "source_file": "data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Boq_132.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "sentences": [
+    {
+      "tokens": [
+        "13",
+        "mm",
+        "thick",
+        "insulation",
+        "for",
+        "supply",
+        "air",
+        "ducts",
+        "in",
+        "return",
+        "air",
+        "path",
+        "."
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "O",
+        "S-ACTION",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "S-UNIT",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "O",
+        "S-ACTION",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "S-UNIT",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ]
+    },
+    {
+      "tokens": [
+        "19",
+        "mm",
+        "thick",
+        "insulation",
+        "for",
+        "return",
+        "air",
+        "ducts",
+        "."
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "thick",
+        "insulation",
+        "for",
+        "ducts",
+        "exposed",
+        "to",
+        "atmosphere",
+        "with",
+        "UV",
+        "protection",
+        "of",
+        "thickness",
+        "minimum",
+        "7",
+        "mm",
+        "Supply,installation,testingandcommissioningof",
+        "25",
+        "mmthickclosedcellnitrile",
+        "rubberthermalinsulationforexposedductingalongwithfactorylaminatedglass",
+        "cloth",
+        "of",
+        "7",
+        "mil",
+        "thickness",
+        "with",
+        "UV",
+        "protection",
+        "."
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-QUANTITY",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "O",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-QUANTITY",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "O",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ]
+    },
+    {
+      "tokens": [
+        "15",
+        "mm",
+        "thick"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "15",
+        "mm",
+        "thick",
+        "acoustic",
+        "lining",
+        "with",
+        "Nitrile",
+        "Rubber"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "E-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "E-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "20",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia",
+        "condensate",
+        "drain",
+        "pipes",
+        "."
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "dia",
+        "condensate",
+        "drain",
+        "pipes",
+        "."
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O"
+      ]
+    },
+    {
+      "tokens": [
+        "100",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "80",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "65",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "400",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "300",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "250",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "200",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "150",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "125",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "600",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "500",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "450",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "350",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "300",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "250",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "200",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "150",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "600",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "500",
+        "mm",
+        "dia",
+        "pipes"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "S-MATERIAL"
+      ]
+    }
+  ]
+}

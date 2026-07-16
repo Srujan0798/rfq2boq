@@ -1,0 +1,35 @@
+{
+  "doc_id": "03_zydus_matoda_osd_008",
+  "source_file": "Zydus_Matoda_Insulation_Enquiry.xlsx",
+  "tokens": [
+    "supply",
+    "25",
+    "mm",
+    "thick",
+    "for",
+    "TFA",
+    "duct",
+    "0",
+    "sqm"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "03_zydus_matoda_osd.rowgold.json",
+    "row_idx": 8,
+    "action": "supply",
+    "quantity": "0",
+    "unit": "sqm"
+  }
+}

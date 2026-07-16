@@ -1,0 +1,383 @@
+{
+  "path": "/Users/srujansai/rfq2boq-phase9/data/real_rfqs/swa_enquiries/04_adani/BOQ PAGE2adani proj.pdf",
+  "format": "pdf",
+  "diagnostics": [
+    {
+      "page": 1,
+      "bands": [
+        {
+          "x_left": 16.0,
+          "x_right": 20.0,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 37.599999249999996,
+          "x_right": 41.599999249999996,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 46.239999999999995,
+          "x_right": 50.239999999999995,
+          "evidence": "word_histogram",
+          "word_count": 2
+        },
+        {
+          "x_left": 49.712272731114915,
+          "x_right": 71.04747895377118,
+          "evidence": "word_histogram",
+          "word_count": 3
+        },
+        {
+          "x_left": 89.50799985300452,
+          "x_right": 93.7974545,
+          "evidence": "word_histogram",
+          "word_count": 8
+        },
+        {
+          "x_left": 108.90353146472327,
+          "x_right": 130.73458552046216,
+          "evidence": "word_histogram",
+          "word_count": 9
+        },
+        {
+          "x_left": 132.4225735265479,
+          "x_right": 160.52575697647123,
+          "evidence": "word_histogram",
+          "word_count": 10
+        },
+        {
+          "x_left": 160.91341938099444,
+          "x_right": 184.26654663611635,
+          "evidence": "word_histogram",
+          "word_count": 6
+        },
+        {
+          "x_left": 187.42573814088055,
+          "x_right": 206.3003191717837,
+          "evidence": "word_histogram",
+          "word_count": 6
+        },
+        {
+          "x_left": 207.3100775109667,
+          "x_right": 217.55867424286288,
+          "evidence": "word_histogram",
+          "word_count": 2
+        },
+        {
+          "x_left": 220.97203987529932,
+          "x_right": 230.85129085029934,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 234.47322007489407,
+          "x_right": 244.82501096228822,
+          "evidence": "word_histogram",
+          "word_count": 2
+        },
+        {
+          "x_left": 244.2061548498357,
+          "x_right": 252.06396469898897,
+          "evidence": "word_histogram",
+          "word_count": 2
+        },
+        {
+          "x_left": 251.91122985367983,
+          "x_right": 258.64799018231594,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 266.75397933545565,
+          "x_right": 292.6850165923993,
+          "evidence": "word_histogram",
+          "word_count": 6
+        },
+        {
+          "x_left": 293.7120419937645,
+          "x_right": 307.26380652895216,
+          "evidence": "word_histogram",
+          "word_count": 3
+        },
+        {
+          "x_left": 315.77935897868224,
+          "x_right": 337.71297229729487,
+          "evidence": "word_histogram",
+          "word_count": 8
+        },
+        {
+          "x_left": 345.9294496027966,
+          "x_right": 352.7666910152966,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 356.97294187683286,
+          "x_right": 364.87838388053103,
+          "evidence": "word_histogram",
+          "word_count": 2
+        },
+        {
+          "x_left": 367.41771444053376,
+          "x_right": 379.18703307982287,
+          "evidence": "word_histogram",
+          "word_count": 2
+        },
+        {
+          "x_left": 382.3895730032514,
+          "x_right": 389.3892534921703,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 392.8807880486019,
+          "x_right": 412.7110663687211,
+          "evidence": "word_histogram",
+          "word_count": 6
+        },
+        {
+          "x_left": 415.4861961542058,
+          "x_right": 423.13760068122116,
+          "evidence": "word_histogram",
+          "word_count": 2
+        },
+        {
+          "x_left": 423.7055962700863,
+          "x_right": 436.5467399896829,
+          "evidence": "word_histogram",
+          "word_count": 4
+        },
+        {
+          "x_left": 437.11131603532067,
+          "x_right": 443.84671020380057,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 451.74756965843295,
+          "x_right": 463.46791220716676,
+          "evidence": "word_histogram",
+          "word_count": 2
+        },
+        {
+          "x_left": 464.51928937615776,
+          "x_right": 471.3225817131467,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 477.0015531881467,
+          "x_right": 490.7385181836378,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 489.9133719050785,
+          "x_right": 503.51997105235864,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 516.8357244002993,
+          "x_right": 547.8952876035011,
+          "evidence": "word_histogram",
+          "word_count": 3
+        },
+        {
+          "x_left": 551.800018,
+          "x_right": 555.800018,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 556.0,
+          "x_right": 560.0,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 564.2799835000001,
+          "x_right": 568.2799835000001,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 571.6146624754952,
+          "x_right": 579.3491595500001,
+          "evidence": "word_histogram",
+          "word_count": 1
+        },
+        {
+          "x_left": 578.9199985,
+          "x_right": 597.7670321423539,
+          "evidence": "word_histogram",
+          "word_count": 1
+        }
+      ],
+      "filtered_bands": 35,
+      "band_roles": {
+        "item": 2,
+        "unit": 3,
+        "qty": 31,
+        "remarks": 23,
+        "material": 6
+      },
+      "confidence": 0.5,
+      "evidence_summary": {
+        "ruling_dividers": 0,
+        "ruling_separators": 7,
+        "word_clusters": 44,
+        "word_coverage": 100,
+        "ruling_strength": 0
+      },
+      "first_3_rows": [
+        [
+          "",
+          "",
+          "Sr.",
+          "No.",
+          "",
+          "Description",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "UNIT",
+          "",
+          "",
+          "Total",
+          "",
+          "Qty"
+        ],
+        [
+          "",
+          "",
+          "",
+          "F",
+          "",
+          "THERMAL",
+          "&",
+          "ACOUSTIC",
+          "",
+          "",
+          "INSULATION:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "duct, Armaflex ,fixing specifications. Density insulation sh",
+          "",
+          "",
+          "1",
+          "",
+          "RA of",
+          "duct & black tap",
+          "TFA duct as per",
+          "of",
+          "",
+          "",
+          "",
+          "(FM",
+          "",
+          "approved) of",
+          "",
+          "including",
+          "adhesive",
+          "",
+          "between",
+          "required",
+          "for 40",
+          "to",
+          "50",
+          "insulation",
+          "",
+          "",
+          "application",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 5
+    }
+  ],
+  "tables": [
+    {
+      "page": 1,
+      "rows": 6,
+      "first_3_rows": [
+        [
+          "",
+          "",
+          "Sr.",
+          "No.",
+          "",
+          "Description"
+        ],
+        [
+          "",
+          "",
+          "",
+          "F",
+          "",
+          "THERMAL"
+        ],
+        [
+          "duct, Armaflex ,fixing specifications. Density insulation shall be Kg/m3.",
+          "",
+          "",
+          "1",
+          "",
+          "RA of"
+        ]
+      ]
+    }
+  ]
+}

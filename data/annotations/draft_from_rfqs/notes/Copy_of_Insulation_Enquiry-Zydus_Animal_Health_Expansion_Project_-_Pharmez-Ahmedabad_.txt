@@ -1,0 +1,31 @@
+Source: data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx
+Entries: 48
+Uncertain entries:
+Entry 1: missing quantity
+Entry 2: missing quantity
+Entry 3: missing quantity
+Entry 4: missing quantity
+Entry 5: missing quantity
+Entry 13: missing quantity
+Entry 14: missing quantity
+Entry 15: missing quantity
+Entry 16: missing quantity
+Entry 17: missing quantity
+Entry 18: missing quantity
+Entry 19: missing quantity
+Entry 20: missing quantity
+Entry 21: missing quantity
+Entry 22: missing quantity
+Entry 26: missing quantity
+Entry 27: missing quantity
+Entry 34: missing quantity
+Entry 35: missing quantity
+Entry 36: missing quantity
+Entry 38: missing quantity
+Entry 39: missing quantity
+Entry 40: missing quantity
+Entry 41: missing quantity
+Entry 42: missing quantity
+Entry 43: missing quantity
+Entry 44: missing quantity
+Entry 48: missing quantity

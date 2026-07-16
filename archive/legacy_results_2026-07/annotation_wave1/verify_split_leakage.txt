@@ -1,0 +1,25 @@
+Document-level split:
+  Train: 7 files
+  Val:   1 files
+  Test:  3 files
+
+Train files:
+  swa_02_isro_vssc.json
+  swa_03_zydus_matoda_osd.json
+  swa_05_zydus_animal_pharmez.json
+  swa_06_avante_kirloskar_pune.json
+  swa_07_grew_solar_narmadapuram.json
+  swa_08_sael.json
+  swa_09_gem_bid_7439924.json
+
+Val files:
+  swa_04_adani.json
+
+Test files (FROZEN):
+  cpwd_Guidelines.json
+  swa_01_gsecl_wanakbori_tmd8.json
+  swa_10_gem_bid_7552777.json
+
+✓ No overlap detected — split is clean
+
+Saved frozen test IDs to results/frozen_test_files.json

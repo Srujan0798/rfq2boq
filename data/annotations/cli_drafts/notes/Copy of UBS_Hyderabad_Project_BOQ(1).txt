@@ -1,0 +1,10 @@
+Source: data/incoming/Copy of UBS_Hyderabad_Project_BOQ(1).pdf
+Extracted entries: 20
+BIOES sentences generated: 20
+Unique material descriptions: 10
+Unique units found: 13
+Has location data: False
+Has grade data: False
+Method: pdf_pipeline
+Generated: 2026-07-04
+Status: DRAFT - requires human review

@@ -1,0 +1,27 @@
+{
+  "source_file": "data/incoming/BOQ - INSULATION.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/BOQ - INSULATION.pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "b Duct Insulation as per technical specifications and drawings Insulation thickness with 15 mm for supply ducts",
+      "quantity": "5702.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Insulation thickness with 13 mm for return ducts",
+      "quantity": "489.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

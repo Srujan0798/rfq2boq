@@ -1,0 +1,37 @@
+source,target,relationship,source_paper
+Paper:Zhang & El-Gohary,Technique:Semantic NLP,USES_TECHNIQUE,Zhang & El-Gohary
+Paper:Zhang & El-Gohary,Technique:Rule-based extraction,USES_TECHNIQUE,Zhang & El-Gohary
+Paper:Zhang & El-Gohary,Challenge:Regulatory compliance checking,ADDRESSES,Zhang & El-Gohary
+Paper:Zhang & El-Gohary,EntityType:Quantitative requirements,EXTRACTS,Zhang & El-Gohary
+Paper:Sousa et al.,Technique:NLP,USES_TECHNIQUE,Sousa et al.
+Paper:Sousa et al.,Technique:Text classification,USES_TECHNIQUE,Sousa et al.
+Paper:Sousa et al.,Technique:Computational models,USES_TECHNIQUE,Sousa et al.
+Paper:Sousa et al.,Challenge:Construction budgeting automation,ADDRESSES,Sousa et al.
+Paper:Sousa et al.,Challenge:Subjectivity in human communication,HAS_CHALLENGE,Sousa et al.
+Paper:Nabavi et al.,Technique:NLP,USES_TECHNIQUE,Nabavi et al.
+Paper:Nabavi et al.,Technique:BIM querying,USES_TECHNIQUE,Nabavi et al.
+Paper:Nabavi et al.,Technique:Semantic search,USES_TECHNIQUE,Nabavi et al.
+Paper:Nabavi et al.,Challenge:Quantity Take-Off (QTO),ADDRESSES,Nabavi et al.
+Paper:Yan et al.,Technique:Text mining,USES_TECHNIQUE,Yan et al.
+Paper:Yan et al.,"Technique:Topic modeling (LDA, PLSA)",USES_TECHNIQUE,Yan et al.
+Paper:Yan et al.,Challenge:Information extraction/retrieval,ADDRESSES,Yan et al.
+Paper:Yan et al.,Challenge:Semantic ambiguity,HAS_CHALLENGE,Yan et al.
+Paper:Yan et al.,Challenge:Structural characteristics ignored,HAS_CHALLENGE,Yan et al.
+Paper:Zheng et al.,Technique:Document-level IE,USES_TECHNIQUE,Zheng et al.
+Paper:Zheng et al.,Technique:Event extraction,USES_TECHNIQUE,Zheng et al.
+Paper:Zheng et al.,Technique:Entity extraction,USES_TECHNIQUE,Zheng et al.
+Paper:Zheng et al.,Challenge:Document-level challenges,ADDRESSES,Zheng et al.
+Paper:Zheng et al.,Challenge:Labeling noises,HAS_CHALLENGE,Zheng et al.
+Paper:Zheng et al.,Challenge:Entity coreference,HAS_CHALLENGE,Zheng et al.
+Paper:Zheng et al.,Challenge:Lack of reasoning,HAS_CHALLENGE,Zheng et al.
+Concept:NER,Domain:Information Extraction,PART_OF,domain_ontology
+Concept:NLP,Domain:NLP,PART_OF,domain_ontology
+Concept:BIM,Domain:BIM,PART_OF,domain_ontology
+Concept:BOQ,Domain:Construction,PART_OF,domain_ontology
+Concept:Compliance,Domain:Compliance,PART_OF,domain_ontology
+Concept:Extraction,Domain:Information Extraction,PART_OF,domain_ontology
+Concept:Information Retrieval,Domain:Information Extraction,PART_OF,domain_ontology
+Concept:Quantity Take-Off,Domain:Construction,PART_OF,domain_ontology
+Concept:Regulatory compliance,Domain:Compliance,PART_OF,domain_ontology
+Concept:Budgeting automation,Domain:Construction,PART_OF,domain_ontology
+Concept:Document-level challenges,Domain:Information Extraction,PART_OF,domain_ontology

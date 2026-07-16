@@ -1,0 +1,872 @@
+{
+  "source_file": "data/incoming/BOQ - Insulation.xlsx",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "sentences": [
+    {
+      "tokens": [
+        "LOW",
+        "HOT",
+        "WATER,",
+        "LOW",
+        "CHILLED",
+        "WATER",
+        "&",
+        "MEDIUM",
+        "CHILLED",
+        "WATER",
+        "PIPING"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "1100",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "900",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "800",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "700",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "650",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "600",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "550",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "500",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "450",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "400",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "350",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "300",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "250",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "200",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "150",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "125",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "100",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "80",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "65",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "50",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "40",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "32",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "CONDENSER",
+        "WATER",
+        "PIPING",
+        "WITHOUT",
+        "INSULATION"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "1500",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "600",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "500",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "450",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "400",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "300",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "200",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "PROCESS",
+        "WATER",
+        "PIPING(PCW)"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "400",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "350",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "300",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "250",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "200",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "150",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "100",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "80",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "65",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "50",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "40",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "DN",
+        "32",
+        "mm"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "THERMAL",
+        "INSULATION"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "thick",
+        "for",
+        "Supply",
+        "air",
+        "ducts"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "O",
+        "S-ACTION",
+        "B-MATERIAL",
+        "E-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "O",
+        "S-ACTION",
+        "B-MATERIAL",
+        "E-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "thick",
+        "for",
+        "Return",
+        "air",
+        "ducts"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "O",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION",
+        "O",
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL"
+      ]
+    },
+    {
+      "tokens": [
+        "ACCOUSTIC",
+        "INSULATION"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Source: data/real_rfqs/swa_enquiries/09_gem_bid_7439924/GeM-Bidding-9218026.pdf
+Extracted entries: 22
+BIOES sentences generated: 22
+Unique material descriptions: 15
+Unique units found: 1
+Has location data: True
+Has grade data: False
+Method: pdf_pipeline
+Generated: 2026-07-04
+Status: DRAFT - requires human review

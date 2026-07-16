@@ -1,0 +1,1 @@
+These are real (non-synthetic) reference PDFs for eval/demo. NOT training data. NOT SWA enquiries. Source: SWA project materials.

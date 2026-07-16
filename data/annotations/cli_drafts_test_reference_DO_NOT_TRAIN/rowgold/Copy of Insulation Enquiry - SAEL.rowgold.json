@@ -1,0 +1,126 @@
+{
+  "source_file": "data/incoming/Copy of Insulation Enquiry - SAEL.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/Copy of Insulation Enquiry - SAEL.pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "50 mm thick for Clean Room SA Duct - MAU Plenum",
+      "quantity": "2500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm thick for Clean Room SA Duct - For 15 Meter from MAU",
+      "quantity": "9000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25 mm thick for Clean Room SA Duct - For After 15 Meter All Ducts",
+      "quantity": "42000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "19 mm thick for Comfort SA Duct",
+      "quantity": "9500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "13 mm thick for Comfort RA Duct",
+      "quantity": "9500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "Supply,InstallationofInsulationmaterial.AcousticInsulationofDuctInternalliningsstartingfromAHUCollarstill5-7meters byDustandFiberfreeOpenCellNitrileRubberwithEPAapprovedantimicrobialadditiveforantimicrobial/antiviralproperties asperENISO846/JISZ280,havingmin140-180kg/m³densityandfireflammabilityasperUL94HBandV0alongwithmin NRC0.55asperASTMC423.Formaterialintegrity,theInsulationshallpassAirErosionResistanceTestinaccordanceto ASTMStandardC1071-05.AdhesivetobeusedshouldbelowvocandIGBCcompliantandspeciallyformulatedforducting insulationbyOEM(SR505orEquivalent).Insulationtobeapprovedbylocalfireauthorities.Also,applicationtobedoneinwell ventilated area with RH% below 80% Forgoodworkmanshipandlowerwastage,theInstallationteamtobecertifiedbyManufacturerteamforproperapplicaton withMin2dayinstallationtrainingtobeconductedbymanufacturer'spersononly.Aperiodicmonthlysitevisittobedoneby the manufacturer representative to ensure proper application quality. Report to be submitted to the PMC and User. AbovementionedspecificationstobebackedupbyThirdpartytestcertificatesfromforeign/nablaccreditedlabsandtobe submittedtoPMC/Consultantfortheapprovalbeforematerialsupply.Arandomlabtesttobeconductedbyuserforthe suppliedproductfordensity,andantimicrobialbehaviouratforeign/nablaccreditedlabs.Costforthesametobebornebythe contracting agency. Thickness - Min 25 mm",
+      "quantity": "2500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "50 mm thick Insulation",
+      "quantity": "7500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "44mm thick Insulation",
+      "quantity": "8500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "38 mm thick Insulation",
+      "quantity": "4000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "32 mm thick Insulation",
+      "quantity": "7000.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "25mm Thick Insulation",
+      "quantity": "4500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "19mm Thick Insulation",
+      "quantity": "1500.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "1",
+      "material": "13mm Thick Insulation",
+      "quantity": "150.0",
+      "unit": "sqm",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

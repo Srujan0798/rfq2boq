@@ -1,0 +1,502 @@
+{
+  "materials": [
+    {
+      "name": "nitrile rubber",
+      "aliases": [
+        "nitrile rubber",
+        "closed cell nitrile",
+        "elastomeric foam",
+        "elastomeric insulation",
+        "elastomeric nitrile rubber",
+        "nitrile rubber foam",
+        "nitrile rubber insulation",
+        "nitrile rubber sheet",
+        "nitrile rubber tube",
+        "open cell nitrile"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 112
+    },
+    {
+      "name": "rubber",
+      "aliases": [
+        "rubber"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 42
+    },
+    {
+      "name": "adhesive",
+      "aliases": [
+        "adhesive"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 37
+    },
+    {
+      "name": "foam",
+      "aliases": [
+        "foam"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 24
+    },
+    {
+      "name": "insulation material",
+      "aliases": [
+        "insulation material"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 24
+    },
+    {
+      "name": "thermal insulation",
+      "aliases": [
+        "thermal insulation"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 23
+    },
+    {
+      "name": "acoustic insulation",
+      "aliases": [
+        "acoustic insulation",
+        "acoustic board",
+        "acoustic material",
+        "acoustic panel"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 22
+    },
+    {
+      "name": "tape",
+      "aliases": [
+        "tape"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 21
+    },
+    {
+      "name": "aluminum foil",
+      "aliases": [
+        "aluminum foil",
+        "aluminium foil"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 20
+    },
+    {
+      "name": "duct insulation",
+      "aliases": [
+        "duct insulation"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 20
+    },
+    {
+      "name": "cladding",
+      "aliases": [
+        "cladding"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 19
+    },
+    {
+      "name": "pipe insulation",
+      "aliases": [
+        "pipe insulation",
+        "insulation pipe"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 17
+    },
+    {
+      "name": "fiberglass",
+      "aliases": [
+        "fiberglass",
+        "fiber glass",
+        "fibre glass"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 15
+    },
+    {
+      "name": "aluminum cladding",
+      "aliases": [
+        "aluminum cladding",
+        "aluminium cladding"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 14
+    },
+    {
+      "name": "adhesive tape",
+      "aliases": [
+        "adhesive tape",
+        "self adhesive tape"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 11
+    },
+    {
+      "name": "aluminum sheet",
+      "aliases": [
+        "aluminum sheet",
+        "aluminium sheet"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 8
+    },
+    {
+      "name": "polyethylene",
+      "aliases": [
+        "polyethylene"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 8
+    },
+    {
+      "name": "stainless steel",
+      "aliases": [
+        "stainless steel",
+        "stainless steel sheet"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 7
+    },
+    {
+      "name": "under deck insulation",
+      "aliases": [
+        "under deck insulation",
+        "under-deck insulation",
+        "underdeck insulation"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 7
+    },
+    {
+      "name": "vapor barrier",
+      "aliases": [
+        "vapor barrier",
+        "vapour barrier"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 7
+    },
+    {
+      "name": "insulation sheet",
+      "aliases": [
+        "insulation sheet"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 6
+    },
+    {
+      "name": "epoxy",
+      "aliases": [
+        "epoxy"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 5
+    },
+    {
+      "name": "galvanized steel",
+      "aliases": [
+        "galvanized steel",
+        "galvanized steel sheet"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 5
+    },
+    {
+      "name": "open cell foam",
+      "aliases": [
+        "open cell foam"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 5
+    },
+    {
+      "name": "resin",
+      "aliases": [
+        "resin"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 5
+    },
+    {
+      "name": "aluminum tape",
+      "aliases": [
+        "aluminum tape",
+        "aluminium tape"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 4
+    },
+    {
+      "name": "cross linked polyethylene",
+      "aliases": [
+        "cross linked polyethylene",
+        "cross-linked polyethylene",
+        "crosslinked polyethylene"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 4
+    },
+    {
+      "name": "sealant",
+      "aliases": [
+        "sealant"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 4
+    },
+    {
+      "name": "mineral wool",
+      "aliases": [
+        "mineral wool",
+        "mineral fiber"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 3
+    },
+    {
+      "name": "polyurethane foam",
+      "aliases": [
+        "polyurethane foam",
+        "pu foam"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 3
+    },
+    {
+      "name": "silicone",
+      "aliases": [
+        "silicone",
+        "silicone rubber"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 3
+    },
+    {
+      "name": "bitumen",
+      "aliases": [
+        "bitumen"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "calcium silicate",
+      "aliases": [
+        "calcium silicate",
+        "calcium silicate block"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "cold insulation",
+      "aliases": [
+        "cold insulation"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "floor insulation",
+      "aliases": [
+        "floor insulation"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "foil tape",
+      "aliases": [
+        "foil tape"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "gi sheet",
+      "aliases": [
+        "gi sheet"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "hot insulation",
+      "aliases": [
+        "hot insulation"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "polyisocyanurate",
+      "aliases": [
+        "polyisocyanurate"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "polyurethane",
+      "aliases": [
+        "polyurethane"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "rock wool",
+      "aliases": [
+        "rock wool",
+        "rockwool"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "roof insulation",
+      "aliases": [
+        "roof insulation"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "teflon",
+      "aliases": [
+        "teflon",
+        "teflon fiberglass"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "wall insulation",
+      "aliases": [
+        "wall insulation"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "xlpe",
+      "aliases": [
+        "xlpe"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 2
+    },
+    {
+      "name": "aluminum jacketing",
+      "aliases": [
+        "aluminum jacketing",
+        "aluminium jacketing"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "asphalt",
+      "aliases": [
+        "asphalt"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "cellular glass",
+      "aliases": [
+        "cellular glass"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "duct liner",
+      "aliases": [
+        "duct liner"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "felt",
+      "aliases": [
+        "felt"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "glass wool",
+      "aliases": [
+        "glass wool"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "insulation adhesive",
+      "aliases": [
+        "insulation adhesive"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "insulation board",
+      "aliases": [
+        "insulation board"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "insulation slab",
+      "aliases": [
+        "insulation slab"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "insulation tape",
+      "aliases": [
+        "insulation tape"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "jacketing",
+      "aliases": [
+        "jacketing"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "neoprene",
+      "aliases": [
+        "neoprene"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    },
+    {
+      "name": "perlite",
+      "aliases": [
+        "perlite"
+      ],
+      "category": "mined_from_specifications",
+      "source_count": 1
+    }
+  ]
+}

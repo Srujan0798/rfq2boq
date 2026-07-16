@@ -1,0 +1,33 @@
+{
+  "enquiry_id": "06_avante_kirloskar_pune",
+  "client": "Avante Spaces / Kirloskar Pune",
+  "project": "Plot A+C",
+  "files": [
+    {
+      "source": "Insulation Boq_132.pdf",
+      "sha256": "16b6437399f89f44445e1e06e0642fe98564386208e5163cb50c42c016bb6efe",
+      "size_bytes": 121733,
+      "file_class": "boq",
+      "format": "pdf",
+      "pages": 2,
+      "text": "F THERMAL INSULATION Remarks\n#REF! SupplyandinstallationofExternalThermalinsulation(NitrileRubber)with7mil\nthick factory laminated fibreglass cloth protective coating on ducts as per the Comply\nspecifications.\n#REF! 13 mm thick insulation for supply air ducts in return air path. sq.m 6163\n#REF! 19 mm thick insulation for return air ducts. sq.m 576\n#REF! 25 mm thick insulation for supply duct (not in RA path). sq.m RO\n#REF! 25 mm thick insulation for supply & return air ducts exposed to weather. sq.m RO\n75 25 mm thick insulation for ducts exposed to atmosphere with UV protection of\nthickness minimum 7 mm\nSupply,installation,testingandcommissioningof 25mmthickclosedcellnitrile sq.m 3443 Comply\nrubberthermalinsulationforexposedductingalongwithfactorylaminatedglass\ncloth of 7 mil thickness with UV protection.\n76 Supply, installation testing and commissioning of acoustic insulation. Material Complies for\nshall be nitrile rubber with 140-180 Kg/m3 density and all accessories as per\ndensity 180 - 220\nspecification.\nKg/m3\n76.1 15 mm thick sq.m 2664\n77 Supplyandinstallationof acousticliningofwallsofmechanicalplantroom,AHU\nrooms,Fanrooms,etc.coveredwithopencellNitrilerubber withdensity140- Complies for\n180kg/m3aspertheapprovedshopdrawings&specifications. Alllongitudinal Nos. RO density 180 - 220\nand transfer joint shall be covered with 22-gauge 50 mm wide GI strip with\nscrews Kg/m3\n77.1 15 mm thick acoustic lining with Nitrile Rubber Sq.m. 9351\n78 Supply, installation of acoustic enclosure for Axial flow fans. The outer panel\nshallbemadeofgalvanizedpreplasticisedsheetof24gagethickandinternally\nlinedwith50mmthickfibreglasshaving64Kg/cumdensityandcoveredwith\ntissue and 28 gauge perforated aluminium inside as shown in drawings. The Nos. RO\npanels shall be duly bolted, joints provided with gaskets and suitably braced.\n79 Supplying,installingandtestingof19mmthickinsulation(NitrileRubber)with\n7mil thick factory laminated fibreglass cloth protective coating on chilled water\nandcondensatedrainpipingandfittingslikevalves,flangesunion,etc. asper Comply\nthe approved shop drawings and specifications.\n79.1 25 mm dia pipes RM 1507\n79.2 20 mm dia pipes RM 1246\n79.3 15 mm dia pipes RM RO\n79.4 50 mm dia condensate drain pipes. RM 522\n79.5 25 mm dia condensate drain pipes. RM 260\n80 Supply, installation and testing of 25 mm thick insulation (Nitrile Rubber) with\n7mil thick factory laminated fibreglass cloth protective coating on chilled water\npipes and fittings like valves, flanges and unions, etc. as per approved shop Comply\ndrawings and specifications.\n80.1 100 mm dia pipes RM 345\n80.2 80 mm dia pipes RM 902\n80.3 65 mm dia pipes RM 201\n80.4 50 mm dia pipes RM 1946\n80.5 40 mm dia pipes RM 792\n80.6 32 mm dia pipes RM 1320\n81 Supply,installationandtestingof32mmthick insulation(Nitrile Rubber) with\n7mil thick factorylaminated fibreglass cloth protective coatingonchilledwater\npipes and fittings like valves, flanges and unions, etc. as per approved shop Comply\ndrawings and specifications.\n81.1 400 mm dia pipes RM 53\n81.2 300 mm dia pipes RM 45\n81.3 250 mm dia pipes RM 450\n81.4 200 mm dia pipes RM 386\n81.5 150 mm dia pipes RM 74\n81.6 125 mm dia pipes RM 273\n81.7 600 mm dia pipes RM 36\n81.8 500 mm dia pipes RM 200\n81.9 450 mm dia pipes RM 113\n81.10 350 mm dia pipes RM 41\n82 Supply, installation, testing & commissioning of 32mm thick insulation with\nComply with\naluminium clading and UV treatment over pipes exposed to sun & Plant room\npiping to be consider with Aluminium cladding. Nitrile rubber\n82.1 300 mm dia pipes RM 16\n82.2 250 mm dia pipes RM 140\n82.3 200 mm dia pipes RM 168\n82.4 150 mm dia pipes RM 176\n82.5 600 mm dia pipes RM 30\n82.6 500 mm dia pipes RM 47"
+    },
+    {
+      "source": "Insulation Specs_132.pdf",
+      "sha256": "b8ba7b3c13ed63b2b7251a2022223bac5d248b9a9116e52ea7746d1c890a9970",
+      "size_bytes": 6726298,
+      "file_class": "spec",
+      "format": "pdf",
+      "pages": 26,
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    }
+  ],
+  "boq_xlsx_path": null,
+  "spec_files": [
+    "data/real_rfqs/swa_enquiries/06_avante_kirloskar_pune/Insulation Specs_132.pdf"
+  ],
+  "tds_files": [],
+  "metadata": {
+    "pdf_page_count": 26
+  }
+}

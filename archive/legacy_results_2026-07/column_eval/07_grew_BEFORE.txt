@@ -1,0 +1,19 @@
+  row 1: material='32 mm thick for Clean Room SA Duct'
+           qty=Decimal('15000.0') unit='sqm' extraction_method=[1]
+  row 2: material='25 mm thick for Clean Room SA Duct'
+           qty=Decimal('23750.0') unit='sqm' extraction_method=[1]
+  row 3: material='19 mm thick for Comfort SA Duct'
+           qty=Decimal('8500.0') unit='sqm' extraction_method=[1]
+  row 4: material='13 mm thick for Comfort RA Duct'
+           qty=Decimal('5000.0') unit='sqm' extraction_method=[1]
+  row 5: material='ACOUSTIC LINING Supply,InstallationandTestingofAccousticliningwith10mmthickClass1ratingOpenCellnitrilerubberinsulationma'
+           qty=Decimal('500.0') unit='sqm' extraction_method=[1]
+  row 6: material='75 mm thick Insulation on 1200NB to 1000NB'
+           qty=Decimal('1976.0') unit='sqm' extraction_method=[1]
+  row 7: material='51 mm thick Insulation on 950NB to 500NB'
+           qty=Decimal('3600.0') unit='sqm' extraction_method=[1]
+  row 8: material='38 mm thick Insulation on 450NB to 80NB'
+           qty=Decimal('14800.0') unit='sqm' extraction_method=[1]
+  row 9: material='19 mm thick Insulation on 65NB / 50NB / 40NB / 32NB / 25NB / 20NB / 15NB'
+           qty=Decimal('7400.0') unit='sqm' extraction_method=[1]
+TOTAL: 9 rows

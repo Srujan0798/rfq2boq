@@ -1,0 +1,33 @@
+{
+  "doc_id": "05_zydus_animal_pharmez_000",
+  "source_file": "Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+  "tokens": [
+    "100",
+    "mm",
+    "dia",
+    "(Manifold",
+    "size",
+    "typ)",
+    "22",
+    "rmt"
+  ],
+  "ner_tags": [
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "05_zydus_animal_pharmez.rowgold.json",
+    "row_idx": 0,
+    "action": null,
+    "quantity": "22",
+    "unit": "rmt"
+  }
+}

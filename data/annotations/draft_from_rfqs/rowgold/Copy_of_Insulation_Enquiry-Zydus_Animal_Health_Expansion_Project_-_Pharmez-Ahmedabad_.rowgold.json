@@ -1,0 +1,441 @@
+{
+  "source_file": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "300 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "2",
+      "material": "250 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "3",
+      "material": "200 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "4",
+      "material": "150 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "5",
+      "material": "125 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "6",
+      "material": "100 mm dia (Manifold size typ)",
+      "quantity": "22",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "7",
+      "material": "80 mm dia",
+      "quantity": "44",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "8",
+      "material": "65 mm dia",
+      "quantity": "176",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "9",
+      "material": "50 mm dia",
+      "quantity": "396",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "10",
+      "material": "40 mm dia",
+      "quantity": "220",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "11",
+      "material": "32 mm dia",
+      "quantity": "396",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "12",
+      "material": "25 mm dia",
+      "quantity": "176",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "13",
+      "material": "20 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "14",
+      "material": "15 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "15",
+      "material": "250 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "16",
+      "material": "200 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "17",
+      "material": "150 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "18",
+      "material": "125 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "19",
+      "material": "100 mm dia (Manifold size typ)",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "20",
+      "material": "80 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "21",
+      "material": "65 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "22",
+      "material": "50 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "23",
+      "material": "40 mm dia",
+      "quantity": "132",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "24",
+      "material": "32 mm dia",
+      "quantity": "66",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "25",
+      "material": "25 mm dia",
+      "quantity": "220",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "26",
+      "material": "20 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "27",
+      "material": "15 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "28",
+      "material": "100 mm dia",
+      "quantity": "100",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "29",
+      "material": "80 mm dia",
+      "quantity": "100",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "30",
+      "material": "65 mm dia",
+      "quantity": "30",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "31",
+      "material": "50 mm dia",
+      "quantity": "75",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "32",
+      "material": "40 mm dia",
+      "quantity": "210",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "33",
+      "material": "32 mm dia",
+      "quantity": "50",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "34",
+      "material": "50 mm dia (Manifold size typ)",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "35",
+      "material": "40 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "36",
+      "material": "32 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "37",
+      "material": "25 mm dia",
+      "quantity": "320",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "38",
+      "material": "20 mm dia",
+      "quantity": "",
+      "unit": "RMT",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "39",
+      "material": "25 mm thickness",
+      "quantity": "",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "40",
+      "material": "13 mm thickness",
+      "quantity": "",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "41",
+      "material": "25 mm thickness",
+      "quantity": "",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "42",
+      "material": "13 mm thickness",
+      "quantity": "",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "43",
+      "material": "32 mm thickness",
+      "quantity": "",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "44",
+      "material": "13 mm thickness",
+      "quantity": "",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "45",
+      "material": "25 mm thickness",
+      "quantity": "2240",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "46",
+      "material": "19 mm thickness",
+      "quantity": "2000",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "47",
+      "material": "13 mm thickness",
+      "quantity": "4240",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "48",
+      "material": "Underdeck Insulation with 25 mm thick class 'O' elastomeric nitrile rubber insulation of 40 - 60kg/m3 density wherever roof is exposed to sun and the area is airconditioned as per specification",
+      "quantity": "",
+      "unit": "sq.m",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

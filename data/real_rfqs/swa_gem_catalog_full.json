@@ -1,0 +1,208 @@
+{
+  "source": "SWA Consultancy GeM portal published products (PUBLISH PRODUCT.xlsx + live product pages fetched 2026-06-18)",
+  "seller_id": "5116877",
+  "seller": "INNER ENGINEERING",
+  "products": [
+    {
+      "gem_id": "6925249-26396116846",
+      "name": "THERMO ACOUSTIC INSULATION",
+      "url": "http://mkp.gem.gov.in/acoustical-insulation/thermo-acoustic-insulation/p-5116877-82225700827-cat.html",
+      "material": "Polyester Fiber",
+      "dimensions": {"length_mm": 1200, "width_mm": 610, "thickness_mm": 25},
+      "density": "400 kg/m3",
+      "standards": ["IS:3346-1980"],
+      "certifications": [],
+      "aliases": ["thermo acoustic insulation", "thermoacoustic insulation", "thermo-acoustic insulation"]
+    },
+    {
+      "gem_id": "6925249-78316051596",
+      "name": "THERMO ACOUSTIC INSULATION",
+      "url": "http://mkp.gem.gov.in/acoustical-insulation/thermo-acoustic-insulation/p-5116877-70026714346-cat.html",
+      "material": "Polyester Fiber",
+      "dimensions": {"length_mm": 1200, "width_mm": 610, "thickness_mm": 25},
+      "density": "400 kg/m3",
+      "standards": ["IS:3346-1980"],
+      "aliases": ["thermo acoustic insulation", "thermoacoustic insulation"]
+    },
+    {
+      "gem_id": "6925249-61634087056",
+      "name": "ACCOUSTIC INSOUND BARRIER",
+      "url": "http://mkp.gem.gov.in/acoustical-insulation/accoustic-insound-barrier/p-5116877-34955438591-cat.html",
+      "material": "Polyurethane",
+      "dimensions": {"length_mm": 1200, "width_mm": 1200, "thickness_mm": 5},
+      "density": "500 kg/m3",
+      "price_inr": 2350,
+      "standards": ["IS:3346-1980", "IS 3308"],
+      "aliases": ["acoustic insound barrier", "accoustic insound barrier", "insound barrier", "acoustic barrier"]
+    },
+    {
+      "gem_id": "6925249-47731405482",
+      "name": "Acoustical insulation",
+      "url": "http://mkp.gem.gov.in/acoustical-insulation/acoustical-insulation/p-5116877-65255859671-cat.html",
+      "material": "Polyester Panel",
+      "dimensions": {"length_mm": 600, "width_mm": 600, "thickness_mm": 12},
+      "density": "400 kg/m3",
+      "aliases": ["acoustical insulation", "acoustic insulation panel", "polyester acoustic panel"]
+    },
+    {
+      "gem_id": "6925249-15686947057",
+      "name": "Insound Acoustical insulation",
+      "url": "http://mkp.gem.gov.in/acoustical-insulation/insound-acoustical-insulation/p-5116877-97597147193-cat.html",
+      "material": "Polyester Panel",
+      "dimensions": {"length_mm": 400, "width_mm": 400, "thickness_mm": 30},
+      "density": "400 kg/m3",
+      "aliases": ["insound acoustical insulation", "insound acoustic insulation"]
+    },
+    {
+      "gem_id": "6925249-50620430244",
+      "name": "FOAM TAPE",
+      "url": "http://mkp.gem.gov.in/foam-tape/foam-tape/p-5116877-73852810465-cat.html",
+      "material": "Nitrile",
+      "adhesive": "Acrylic",
+      "construction": "Single Sided",
+      "dimensions": {"length_m": 9, "width_mm": 25, "thickness_mm": 3},
+      "density": "2 lb/cu.ft",
+      "tensile_strength": "40 psi",
+      "temp_range": "-40 to 140 C",
+      "cell_type": "Closed",
+      "price_inr_per_m": 29,
+      "aliases": ["foam tape", "nitrile foam tape", "single sided foam tape"]
+    },
+    {
+      "gem_id": "6925249-39623363235",
+      "name": "FOAM GC TAPE",
+      "url": "http://mkp.gem.gov.in/foam-tape/foam-gc-tape/p-5116877-34641781395-cat.html",
+      "material": "Nitrile",
+      "adhesive": "Acrylic",
+      "construction": "Single Sided",
+      "dimensions": {"length_m": 20, "width_mm": 72, "thickness_mm": 1},
+      "density": "2 lb/cu.ft",
+      "cell_type": "Open",
+      "aliases": ["foam gc tape", "gc foam tape", "nitrile gc tape"]
+    },
+    {
+      "gem_id": "6925249-26709647067",
+      "name": "Foam Tape",
+      "url": "http://mkp.gem.gov.in/foam-tape/foam-tape/p-5116877-42334105744-cat.html",
+      "material": "Nitrile",
+      "adhesive": "Acrylic",
+      "aliases": ["foam tape", "nitrile foam tape"]
+    },
+    {
+      "gem_id": "6925249-14833112824",
+      "name": "Foam Tape",
+      "url": "http://mkp.gem.gov.in/foam-tape/foam-tape/p-5116877-42334105744-cat.html",
+      "material": "Nitrile",
+      "adhesive": "Acrylic",
+      "aliases": ["foam tape"]
+    },
+    {
+      "gem_id": "6925249-28145600681",
+      "name": "Acoustical insulation",
+      "url": "http://mkp.gem.gov.in/acoustical-insulation/acoustical-insulation/p-5116877-65255859671-cat.html",
+      "material": "Polyester Panel",
+      "aliases": ["acoustical insulation", "acoustic insulation"]
+    },
+    {
+      "gem_id": "6925249-45259645807",
+      "name": "Aluminum Tape",
+      "url": "http://mkp.gem.gov.in/aluminum-tape/aluminum-tape/p-5116877-13440941181-cat.html",
+      "material": "Aluminum Foil",
+      "adhesive": "Silicone",
+      "dimensions": {"width_mm": 48, "length_m": 20, "backing_thickness_um": 50, "total_thickness_um": 90},
+      "tensile_strength": "35 N/cm",
+      "temp_range": "-20 to 130 C",
+      "standards": ["ASTM D3652"],
+      "certifications": ["ISO 9001"],
+      "aliases": ["aluminum tape", "aluminium tape", "al tape", "foil tape"]
+    },
+    {
+      "gem_id": "6925249-55070190000",
+      "name": "Ceramic Fibre Blanket Insulation",
+      "url": "http://mkp.gem.gov.in/ceramic-fibre-blanket-insulation-v2-conforming-15402/ceramic-fibre-blanket-insulation/p-5116877-20842062387-cat.html",
+      "material": "Ceramic Fibre (Alumina-silica)",
+      "grade": "64",
+      "classification_temp_C": 1260,
+      "dimensions": {"length_mm": 3650, "width_mm": 610, "thickness_mm": 25},
+      "mean_fibre_diameter_um": 4,
+      "standards": ["IS 15402"],
+      "category": "Q3",
+      "price_inr": 6000,
+      "aliases": ["ceramic fibre blanket", "ceramic fiber blanket", "ceramic fibre blanket insulation", "refractory ceramic fibre", "rcf blanket"]
+    },
+    {
+      "gem_id": "6925249-99765597883",
+      "name": "Thermal Insulation Board",
+      "url": "http://mkp.gem.gov.in/acoustical-insulation/thermal-insulation-board/p-5116877-46257480567-cat.html",
+      "material": "Polyester Panel",
+      "dimensions": {"length_mm": 1200, "width_mm": 1200, "thickness_mm": 60},
+      "density": "500 kg/m3",
+      "standards": ["IS:3346-1980", "IS 3308"],
+      "price_inr": 550,
+      "aliases": ["thermal insulation board", "insulation board", "polyester insulation board"]
+    },
+    {
+      "gem_id": "6925249-26174451968",
+      "name": "Aluminum Foil Scrim Kraft Tape",
+      "url": "http://mkp.gem.gov.in/aluminum-tape/aluminum-foil-scrim-kraft-tape/p-5116877-3173504385-cat.html",
+      "material": "Aluminum Foil",
+      "adhesive": "Silicone",
+      "dimensions": {"width_mm": 60, "length_m": 20, "backing_thickness_um": 50, "total_thickness_um": 110},
+      "tensile_strength": "54 N/cm",
+      "temp_range": "40 to 105 C",
+      "standards": ["ASTM D3833"],
+      "certifications": ["ISO 9001"],
+      "aliases": ["aluminum foil scrim kraft tape", "aluminium foil scrim kraft tape", "FSK tape", "foil scrim kraft tape", "ASK tape"]
+    },
+    {
+      "gem_id": "6925249-15225526090",
+      "name": "Aluminum Foil Insulation Tape",
+      "url": "http://mkp.gem.gov.in/aluminum-tape/aluminum-foil-insulation-tape/p-5116877-94057435588-cat.html",
+      "material": "Aluminum Foil",
+      "adhesive": "Silicone",
+      "dimensions": {"width_mm": 72, "length_m": 20, "backing_thickness_um": 50, "total_thickness_um": 110},
+      "tensile_strength": "35 N/cm",
+      "temp_range": "-150 to 150 C",
+      "standards": ["ASTM D3652"],
+      "certifications": ["ISO 9001"],
+      "aliases": ["aluminum foil insulation tape", "aluminium foil insulation tape", "al foil tape", "foil insulation tape"]
+    },
+    {
+      "gem_id": "6925249-94997101114",
+      "name": "Preformed Fibrous Pipe Sections For Thermal Insulation-IS: 9842",
+      "url": "http://mkp.gem.gov.in/preformed-fibrous-pipe-sections-thermal-insulation-9842/preformed-fibrous-pipe-sections-thermal-insulation-9842/p-5116877-82431802127-cat.html",
+      "material": "Mineral Wool (rock/slag/glass fibre)",
+      "pipe_diameter_inch": 4,
+      "dimensions": {"length_cm": 100, "thickness_mm_range": "25-30"},
+      "bulk_density_kgm3": 50,
+      "thermal_conductivity": "0.6 mW/cm.C",
+      "max_temp_C": 500,
+      "facing": "Unfaced",
+      "standards": ["IS 9842"],
+      "category": "Q3",
+      "aliases": ["preformed fibrous pipe sections", "pipe section insulation", "mineral wool pipe section", "fibrous pipe insulation", "IS 9842 pipe section"]
+    },
+    {
+      "gem_id": "6925249-71196564230",
+      "name": "Preformed Fibrous Pipe Sections For Thermal Insulation-IS: 9842",
+      "url": "http://mkp.gem.gov.in/preformed-fibrous-pipe-sections-thermal-insulation-9842/preformed-fibrous-pipe-sections-thermal-insulation-9842/p-5116877-43242162186-cat.html",
+      "material": "Mineral Wool",
+      "standards": ["IS 9842"],
+      "aliases": ["preformed fibrous pipe sections", "pipe section insulation", "mineral wool pipe section"]
+    },
+    {
+      "gem_id": "6925249-92262407909",
+      "name": "Preformed Fibrous Pipe Sections For Thermal Insulation-IS: 9842",
+      "material": "Mineral Wool",
+      "standards": ["IS 9842"],
+      "aliases": ["preformed fibrous pipe sections", "pipe section insulation"]
+    },
+    {
+      "gem_id": "6925249-68999330875",
+      "name": "Preformed Fibrous Pipe Sections For Thermal Insulation-IS: 9842",
+      "material": "Mineral Wool",
+      "standards": ["IS 9842"],
+      "aliases": ["preformed fibrous pipe sections", "pipe section insulation"]
+    }
+  ]
+}

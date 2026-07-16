@@ -1,0 +1,451 @@
+{
+  "source_file": "data/incoming/Enquiry for Thermal Insulation for CHW Pipe.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "sentences": [
+    {
+      "tokens": [
+        "CHILLED",
+        "WATER",
+        "PIPE",
+        "INSULATION",
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "900",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "450",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "400",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "350",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "300",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "200",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "100",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "80",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "50",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "40",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "25",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "20",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    },
+    {
+      "tokens": [
+        "CONDENSATE",
+        "DRAIN",
+        "WATER",
+        "PIPE",
+        "INSULATION",
+        "Insulation",
+        "works",
+        "for",
+        "Piping",
+        "of",
+        "φ",
+        "32",
+        "mm"
+      ],
+      "ner_tags": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ],
+      "labels": [
+        "B-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "I-MATERIAL",
+        "E-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "O",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT"
+      ]
+    }
+  ]
+}

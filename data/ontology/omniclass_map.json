@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "source": "OmniClass 2019 + RFQ2BOQ 1.0",
+  "entity_to_omniclass": {
+    "MATERIAL": {"table": "23", "name": "Products", "default_code": "23-13"},
+    "QUANTITY": {"table": null, "note": "Plain numeric value, no OmniClass equivalent"},
+    "UNIT": {"table": null, "note": "Standard SI unit symbol"},
+    "LOCATION": {"table": "13", "name": "Spaces by Function", "default_code": "13-11"},
+    "DIMENSION": {"table": "49", "name": "Properties", "default_code": "49-21"},
+    "STANDARD": {"table": "41", "name": "Materials and Methods", "default_code": "41-31"},
+    "ACTION": {"table": "22", "name": "Work Results", "default_code": "22-00"},
+    "GRADE": {"table": "23", "name": "Products (specification)", "default_code": "23-13-25"}
+  },
+  "material_specifics": {
+    "cement": "23-13-21-13",
+    "concrete": "23-13-21-19",
+    "steel_reinforcement": "23-13-25-11",
+    "structural_steel": "23-13-25-15",
+    "brick": "23-13-23-11",
+    "mortar": "23-13-21-23",
+    "plaster": "23-13-29-11",
+    "tile": "23-15-23-11",
+    "sand": "23-13-21-17",
+    "aggregate": "23-13-21-15",
+    "paint": "23-15-47-11",
+    "steel_structural": "23-13-25-15",
+    "brick_masonry": "23-13-23-11",
+    "stone": "23-13-23-15"
+  },
+  "action_specifics": {
+    "supply": "22-01",
+    "install": "22-03",
+    "lay": "22-03-21",
+    "fix": "22-03-31",
+    "construct": "22-03",
+    "cast": "22-03-11",
+    "erect": "22-03-31",
+    "apply": "22-05",
+    "mix": "22-01-11",
+    "place": "22-03-01"
+  }
+}

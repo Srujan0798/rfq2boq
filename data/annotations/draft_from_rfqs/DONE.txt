@@ -1,0 +1,8 @@
+Draft annotation generation complete
+source extractions in summary: 26
+unique .extracted.json output files: 25
+draft files written: 25
+total entries: 378
+total BIOES sentences: 378
+note: 1 source path(s) share an output file with another source; only the on-disk version was drafted.
+blockers: none

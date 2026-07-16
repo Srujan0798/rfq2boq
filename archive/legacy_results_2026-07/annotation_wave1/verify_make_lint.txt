@@ -1,0 +1,115 @@
+python3 -m ruff check src/
+I001 [*] Import block is un-sorted or un-formatted
+  --> src/ingest/hierarchy.py:28:1
+   |
+26 |   """
+27 |
+28 | / from __future__ import annotations
+29 | |
+30 | | import re
+31 | | from collections import OrderedDict
+32 | | from dataclasses import dataclass, field
+33 | | from typing import Iterable
+   | |___________________________^
+   |
+help: Organize imports
+
+UP035 [*] Import from `collections.abc` instead: `Iterable`
+  --> src/ingest/hierarchy.py:33:1
+   |
+31 | from collections import OrderedDict
+32 | from dataclasses import dataclass, field
+33 | from typing import Iterable
+   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   |
+help: Import from `collections.abc`
+
+UP035 [*] Import from `collections.abc` instead: `Iterable`
+  --> src/ingest/table_classifier.py:55:1
+   |
+53 | from dataclasses import dataclass
+54 | from enum import StrEnum
+55 | from typing import Iterable
+   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   |
+help: Import from `collections.abc`
+
+F401 [*] `src.ingest.hierarchy.HierarchyTracker` imported but unused
+  --> src/pipeline_xlsx.py:33:34
+   |
+31 | from src.domain.models import BoqRow
+32 | from src.domain.xlsx_column_mapper import XLSXColumnMapper
+33 | from src.ingest.hierarchy import HierarchyTracker, format_parent_context, parse_item_number
+   |                                  ^^^^^^^^^^^^^^^^
+34 | from src.ingest.table_classifier import (
+35 |     ClassificationResult,
+   |
+help: Remove unused import
+
+F401 [*] `src.ingest.hierarchy.format_parent_context` imported but unused
+  --> src/pipeline_xlsx.py:33:52
+   |
+31 | from src.domain.models import BoqRow
+32 | from src.domain.xlsx_column_mapper import XLSXColumnMapper
+33 | from src.ingest.hierarchy import HierarchyTracker, format_parent_context, parse_item_number
+   |                                                    ^^^^^^^^^^^^^^^^^^^^^
+34 | from src.ingest.table_classifier import (
+35 |     ClassificationResult,
+   |
+help: Remove unused import
+
+F401 [*] `src.ingest.hierarchy.parse_item_number` imported but unused
+  --> src/pipeline_xlsx.py:33:75
+   |
+31 | from src.domain.models import BoqRow
+32 | from src.domain.xlsx_column_mapper import XLSXColumnMapper
+33 | from src.ingest.hierarchy import HierarchyTracker, format_parent_context, parse_item_number
+   |                                                                           ^^^^^^^^^^^^^^^^^
+34 | from src.ingest.table_classifier import (
+35 |     ClassificationResult,
+   |
+help: Remove unused import
+
+SIM108 Use ternary operator `text = "" if page_number < 1 or page_number > len(doc) else doc[page_number - 1].get_text()` instead of `if`-`else`-block
+   --> src/preproc/document_structure.py:694:17
+    |
+693 |               with fitz.open(str(pdf_path)) as doc:
+694 | /                 if page_number < 1 or page_number > len(doc):
+695 | |                     text = ""
+696 | |                 else:
+697 | |                     text = doc[page_number - 1].get_text()
+    | |__________________________________________________________^
+698 |           except Exception:
+699 |               logger.debug("Failed to read page %d of %s", page_number, pdf_path, exc_info=True)
+    |
+help: Replace `if`-`else`-block with `text = "" if page_number < 1 or page_number > len(doc) else doc[page_number - 1].get_text()`
+
+F841 Local variable `text_len` is assigned to but never used
+   --> src/preproc/document_structure.py:759:13
+    |
+757 | …     unit_pat = r"\b(\d+(?:[,\d]{0,7})(?:\.\d+)?)\s*(cum|kg|sqm|m3|nos|sq\.?m\.?|rmt|m|rm|lm|each|set|lot|nos\.?|tonne|ton|mt|pcs|pc…
+758 | …     qty_unit_count = len(re.findall(unit_pat, page_text, re.IGNORECASE))
+759 | …     text_len = max(1, len(page_text))
+    |       ^^^^^^^^
+760 | …     # Calibrate: a typical real BOQ page has >= 5 such pairs
+761 | …     # in 1500 chars (~3000 chars / line). Saturation at 12 pairs
+    |
+help: Remove assignment to unused variable `text_len`
+
+SIM108 Use ternary operator `page_text = self._get_page_text(pdf_path_obj, sec.page_number) if pdf_path_obj is not None else ""` instead of `if`-`else`-block
+   --> src/preproc/document_structure.py:842:13
+    |
+840 |           scored: list[tuple[DocumentSection, float, dict[str, float]]] = []
+841 |           for sec in self.sections:
+842 | /             if pdf_path_obj is not None:
+843 | |                 page_text = self._get_page_text(pdf_path_obj, sec.page_number)
+844 | |             else:
+845 | |                 page_text = ""
+    | |______________________________^
+846 |               combined, features = self._score_section(sec, page_text)
+847 |               if combined >= thr:
+    |
+help: Replace `if`-`else`-block with `page_text = self._get_page_text(pdf_path_obj, sec.page_number) if pdf_path_obj is not None else ""`
+
+Found 9 errors.
+[*] 6 fixable with the `--fix` option (3 hidden fixes can be enabled with the `--unsafe-fixes` option).

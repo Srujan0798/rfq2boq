@@ -1,0 +1,35 @@
+{
+  "doc_id": "06_avante_kirloskar_pune_007",
+  "source_file": "Insulation Boq_132.pdf",
+  "tokens": [
+    "supply",
+    "50",
+    "mm",
+    "dia",
+    "condensate",
+    "drain",
+    "pipes.",
+    "522",
+    "rmt"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "06_avante_kirloskar_pune.rowgold.json",
+    "row_idx": 7,
+    "action": "supply",
+    "quantity": "522",
+    "unit": "rmt"
+  }
+}

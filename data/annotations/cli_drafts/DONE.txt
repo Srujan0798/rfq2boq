@@ -1,0 +1,5 @@
+Annotation drafts generated successfully.
+Files processed: 38
+Total entries: 480
+Total BIOES sentences: 480
+Generated: 2026-07-04

@@ -1,0 +1,279 @@
+{
+  "units": [
+    {
+      "symbol": "mm",
+      "aliases": [
+        "millimeter",
+        "millimetre",
+        "mm"
+      ],
+      "full_name": "",
+      "dimension": "length",
+      "source_count": 40
+    },
+    {
+      "symbol": "kg",
+      "aliases": [
+        "kg",
+        "kilogram",
+        "kilograms"
+      ],
+      "full_name": "",
+      "dimension": "mass",
+      "source_count": 39
+    },
+    {
+      "symbol": "cum",
+      "aliases": [
+        "cubic meter",
+        "cubic metre",
+        "cum",
+        "m3",
+        "m³"
+      ],
+      "full_name": "",
+      "dimension": "volume",
+      "source_count": 38
+    },
+    {
+      "symbol": "nos",
+      "aliases": [
+        "each",
+        "no",
+        "no.",
+        "nos",
+        "number",
+        "numbers",
+        "pc",
+        "pcs"
+      ],
+      "full_name": "",
+      "dimension": "count",
+      "source_count": 38
+    },
+    {
+      "symbol": "sheet",
+      "aliases": [
+        "sheet",
+        "sheets"
+      ],
+      "full_name": "",
+      "dimension": "count",
+      "source_count": 35
+    },
+    {
+      "symbol": "°C",
+      "aliases": [
+        "celsius",
+        "degree celsius",
+        "°C",
+        "°c"
+      ],
+      "full_name": "",
+      "dimension": "temperature",
+      "source_count": 19
+    },
+    {
+      "symbol": "W/mK",
+      "aliases": [
+        "W/mK",
+        "W/m·K",
+        "w/mk"
+      ],
+      "full_name": "",
+      "dimension": "thermal conductivity",
+      "source_count": 14
+    },
+    {
+      "symbol": "sqm",
+      "aliases": [
+        "m2",
+        "m²",
+        "sq.m",
+        "sqm",
+        "square meter",
+        "square metre"
+      ],
+      "full_name": "",
+      "dimension": "area",
+      "source_count": 10
+    },
+    {
+      "symbol": "m",
+      "aliases": [
+        "m",
+        "meter",
+        "metre",
+        "mtr"
+      ],
+      "full_name": "",
+      "dimension": "length",
+      "source_count": 8
+    },
+    {
+      "symbol": "ft²",
+      "aliases": [
+        "ft2",
+        "ft²",
+        "sft",
+        "sq ft",
+        "sq.ft",
+        "square feet",
+        "square foot"
+      ],
+      "full_name": "",
+      "dimension": "area",
+      "source_count": 7
+    },
+    {
+      "symbol": "cm",
+      "aliases": [
+        "centimeter",
+        "centimetre",
+        "cm"
+      ],
+      "full_name": "",
+      "dimension": "length",
+      "source_count": 6
+    },
+    {
+      "symbol": "set",
+      "aliases": [
+        "set",
+        "sets"
+      ],
+      "full_name": "",
+      "dimension": "count",
+      "source_count": 6
+    },
+    {
+      "symbol": "%",
+      "aliases": [
+        "%",
+        "percent",
+        "percentage"
+      ],
+      "full_name": "",
+      "dimension": "percentage",
+      "source_count": 5
+    },
+    {
+      "symbol": "ltr",
+      "aliases": [
+        "liter",
+        "liters",
+        "litre",
+        "litres",
+        "ltr"
+      ],
+      "full_name": "",
+      "dimension": "volume",
+      "source_count": 5
+    },
+    {
+      "symbol": "roll",
+      "aliases": [
+        "roll",
+        "rolls"
+      ],
+      "full_name": "",
+      "dimension": "count",
+      "source_count": 3
+    },
+    {
+      "symbol": "hp",
+      "aliases": [
+        "horsepower",
+        "hp"
+      ],
+      "full_name": "",
+      "dimension": "power",
+      "source_count": 2
+    },
+    {
+      "symbol": "kW",
+      "aliases": [
+        "kW",
+        "kilowatt",
+        "kw"
+      ],
+      "full_name": "",
+      "dimension": "power",
+      "source_count": 2
+    },
+    {
+      "symbol": "pair",
+      "aliases": [
+        "pair",
+        "pairs"
+      ],
+      "full_name": "",
+      "dimension": "count",
+      "source_count": 2
+    },
+    {
+      "symbol": "bar",
+      "aliases": [
+        "bar"
+      ],
+      "full_name": "",
+      "dimension": "pressure",
+      "source_count": 1
+    },
+    {
+      "symbol": "ml",
+      "aliases": [
+        "milliliter",
+        "millilitre",
+        "ml"
+      ],
+      "full_name": "",
+      "dimension": "volume",
+      "source_count": 1
+    },
+    {
+      "symbol": "psi",
+      "aliases": [
+        "psi"
+      ],
+      "full_name": "",
+      "dimension": "pressure",
+      "source_count": 1
+    },
+    {
+      "symbol": "rmt",
+      "aliases": [
+        "rmt",
+        "running meter",
+        "running metre"
+      ],
+      "full_name": "",
+      "dimension": "length",
+      "source_count": 1
+    },
+    {
+      "symbol": "ton",
+      "aliases": [
+        "ton",
+        "tonne",
+        "tonnes",
+        "tons"
+      ],
+      "full_name": "",
+      "dimension": "mass",
+      "source_count": 1
+    },
+    {
+      "symbol": "°F",
+      "aliases": [
+        "degree fahrenheit",
+        "fahrenheit",
+        "°F",
+        "°f"
+      ],
+      "full_name": "",
+      "dimension": "temperature",
+      "source_count": 1
+    }
+  ]
+}

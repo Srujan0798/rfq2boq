@@ -1,0 +1,18 @@
+{
+  "source_file": "resources/RFQ to BOQ Scope Extraction using NLP system.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "resources/RFQ to BOQ Scope Extraction using NLP system.pdf",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "RFQ to BOQ Scope Extraction using NLP system The RFQ to BOQ Scope Extraction using NLP system is an automated solution that transforms unstructured tender documents into structured Bill of Quantities (BOQ) data, significantly improving efficiency and accuracy in construction estimation workflows. Using Natural Language Processing (NLP) techniques such as Named Entity Recognition (NER), semantic parsing, and text classification, the system extracts critical parameters like material type, thickness, location, and standards from RFQs and links them into meaningful relationships for BOQ generation. The workflow includes document ingestion (PDF/OCR), entity and relation extraction, rule-based validation, and structured output generation, reducing manual processing time by up to 70% while minimizing risks such as scope omission, misinterpretation, and contractual disputes. By integrating knowledge bases, ontology models, and advanced AI methods like transformer-based language models, the tool enhances decision-making, consistency, and scalability in tendering, cost estimation, and procurement planning processes. Academic Papers 1. Zhang & El-Gohary (2015) - Semantic NLP-Based Information Extraction https://www.researchgate.net/profile/Jiansong-Zhang- 2/publication/273024453_Semantic_NLP- Based_Information_Extraction_from_Construction_Regulatory_Documents_for_Automa ted_Compliance_Checking/links/5831d22108ae138f1c07a010/Semantic-NLP-Based- Information-Extraction-from-Construction-Regulatory-Documents-for-Automated- Compliance-Checking.pdf 2. Sousa et al. (2024) - NLP in Construction Budgeting https://www.emerald.com/ci/article/24/7/292/1230787/Automation-of-text-document- classification-in-the 3. Nabavi et al. (2023) - NLP for BIM Information Extraction https://www.itcon.org/papers/2023_13-ITcon-Nabavi.pdf Technical Sources 4. Helium42 (2026) - AI for BOQ Automation https://helium42.com/blog/ai-for-construction-boq 5. DesignDrafter (2026) - Quantity Extraction Automation https://designdrafter.com/quantity-extraction-in-construction-how-ai-is-replacing- manual-boq-with-smart-automation-in-2026/ NLP Foundations 6. GeeksforGeeks - Named Entity Recognition (NER) https://www.geeksforgeeks.org/nlp/named-entity-recognition/ 7. Microsoft NLP Recipes - NER using BERT https://microsoft.github.io/nlp-recipes/examples/named_entity_recognition/ Industry Studies & Insights 8. Yan et al. (2022) - Text Mining in Construction https://www.researchgate.net/publication/366045971_Overview_and_analysis_of_the_text_mi ning_applications_in_the_construction_industry/fulltext/63982e4f095a6a7774272942/Overvie w-and-analysis-of-the-text-mining-applications-in-the-construction-industry.pdf 9. AEC Contracts - Scope Extraction Risks https://aeccontracts.com/tender-document-ai-scope-extraction/ Surveys & Reviews 10. Zheng et al. (2023) - Document-Level Information Extraction Survey https://arxiv.org/abs/2309.13249",
+      "quantity": "2309.13249",
+      "unit": "nos",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

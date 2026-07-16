@@ -1,0 +1,126 @@
+{
+  "results": [
+    {
+      "file": "sacred10__INSULATION-TECHNICAL SPECIFICATION.docx",
+      "items": 0,
+      "time_sec": 0.3,
+      "status": "ok"
+    },
+    {
+      "file": "sacred10__108, BOQ compliance, Grew Energy.pdf",
+      "items": 9,
+      "time_sec": 2.2,
+      "status": "ok"
+    },
+    {
+      "file": "bundle_grew_solar__108, TDS Fill up, Grew Energy.pdf",
+      "items": 11,
+      "time_sec": 2.0,
+      "status": "ok"
+    },
+    {
+      "file": "sacred10__Insulation Boq_132.pdf",
+      "items": 31,
+      "time_sec": 3.8,
+      "status": "ok"
+    },
+    {
+      "file": "sacred10__GeM-Bidding-9343469.pdf",
+      "items": 10,
+      "time_sec": 44.0,
+      "status": "ok"
+    },
+    {
+      "file": "sacred10__BOQ PAGE2adani proj.pdf",
+      "items": 3,
+      "time_sec": 0.7,
+      "status": "ok"
+    },
+    {
+      "file": "bundle_adani__BOQ PAGEadani proj.pdf",
+      "items": 43,
+      "time_sec": 3.4,
+      "status": "ok"
+    },
+    {
+      "file": "bundle_adani__TENDER SPECIFICATION-ACCOUSTIC INSULATIONadani proj.pdf",
+      "items": 5,
+      "time_sec": 1.2,
+      "status": "ok"
+    },
+    {
+      "file": "sacred10__TENDER SPECIFICATION- CHW PIPE INSULATIONadani proj.pdf",
+      "items": 8,
+      "time_sec": 1.2,
+      "status": "ok"
+    },
+    {
+      "file": "sacred10__GeM-Bidding-9218026.pdf",
+      "items": 22,
+      "time_sec": 36.4,
+      "status": "ok"
+    },
+    {
+      "file": "sacred10__108, Specification compliance, Grew Energy.pdf",
+      "items": 13,
+      "time_sec": 7.7,
+      "status": "ok"
+    },
+    {
+      "file": "spec2__INSULATION.pdf",
+      "items": 28,
+      "time_sec": 20.5,
+      "status": "ok"
+    },
+    {
+      "file": "spec1__Insulation TS.pdf",
+      "items": 17,
+      "time_sec": 11.8,
+      "status": "ok"
+    },
+    {
+      "file": "spec1__Technical specifciation_ Thermal & acoustic insulation.pdf",
+      "items": 0,
+      "time_sec": 73.8,
+      "status": "ok"
+    },
+    {
+      "file": "spec1__Tender (5).pdf",
+      "items": 0,
+      "time_sec": 38.9,
+      "status": "ok"
+    },
+    {
+      "file": "spec2__Response to Prebid Queries - 20241228.pdf",
+      "items": 0,
+      "time_sec": 129.8,
+      "status": "ok"
+    },
+    {
+      "file": "spec1__insulation-cmrl.pdf",
+      "items": 0,
+      "time_sec": 113.9,
+      "status": "ok"
+    },
+    {
+      "file": "sacred10__RFQ-75810 TMD-8.pdf",
+      "items": 3,
+      "time_sec": 26.6,
+      "status": "ok"
+    },
+    {
+      "file": "spec2__MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK.pdf",
+      "items": 10,
+      "time_sec": 40.0,
+      "status": "ok"
+    },
+    {
+      "file": "spec2__CISF EXTENSION -HVAC- PC-TS.pdf",
+      "items": 37,
+      "time_sec": 43.9,
+      "status": "ok"
+    }
+  ],
+  "completed": 20,
+  "total": 35
+}

@@ -1,0 +1,51 @@
+{
+  "doc_id": "10_gem_bid_7552777_004",
+  "source_file": "GeM-Bidding-9343469.pdf",
+  "tokens": [
+    "supply",
+    "Bonded",
+    "Mineral",
+    "Rock",
+    "Wool",
+    "Mattresses",
+    "With",
+    "One",
+    "Side",
+    "0.4",
+    "Mm",
+    "SS",
+    "Wire",
+    "Netting",
+    "150-75",
+    "3795",
+    "no."
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "10_gem_bid_7552777.rowgold.json",
+    "row_idx": 4,
+    "action": "supply",
+    "quantity": "3795",
+    "unit": "no."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "doc_id": "01_gsecl_wanakbori_tmd8",
+  "source_file": "RFQ-75810 TMD-8.pdf",
+  "date": "2026-06-08",
+  "human_verified": true,
+  "method": "pdfplumber-table-transcription",
+  "entries": [
+    {
+      "item_no": 1,
+      "material": "Supply & application of 100 mm thick lightly bonded Mineral Wool mattresses, hooks, retainer plates, casing supports, wires etc. on plain area, pipes, valves, bends, vessels etc. of as per Schedule-A, General terms & conditions and Instruction of Engineer In-charge.",
+      "quantity": "1600",
+      "unit": "sqm",
+      "action": "supply",
+      "source_file": "RFQ-75810 TMD-8.pdf",
+      "source_sheet": "page_61",
+      "source_row": 0,
+      "human_verified": true
+    },
+    {
+      "item_no": 2,
+      "material": "Supply & application of 50 mm thick lightly resin bonded Mineral Wool mattresses, hooks, retainer plates, casing supports, wires etc. on plain area, pipes, valves, bends, vessels etc. of as per Schedule-A, General terms & conditions and Instruction of Engineer In-charge.",
+      "quantity": "1600",
+      "unit": "sqm",
+      "action": "supply",
+      "source_file": "RFQ-75810 TMD-8.pdf",
+      "source_sheet": "page_61",
+      "source_row": 0,
+      "human_verified": true
+    },
+    {
+      "item_no": 3,
+      "material": "Supply & application of Aluminum sheet, self taping screws etc. on insulated surface as per Schedule A of general terms & condition and as per instruction of Engineer In-charge.",
+      "quantity": "3200",
+      "unit": "sqm",
+      "action": "supply",
+      "source_file": "RFQ-75810 TMD-8.pdf",
+      "source_sheet": "page_61",
+      "source_row": 0,
+      "human_verified": true
+    }
+  ]
+}

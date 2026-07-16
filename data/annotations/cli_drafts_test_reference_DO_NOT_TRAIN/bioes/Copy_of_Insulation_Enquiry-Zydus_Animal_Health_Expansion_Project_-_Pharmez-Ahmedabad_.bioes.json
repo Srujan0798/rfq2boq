@@ -1,0 +1,1313 @@
+{
+  "source_file": "data/real_rfqs/swa_enquiries/05_zydus_animal_pharmez/Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "sentences": [
+    {
+      "tokens": [
+        "300",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "250",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "200",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "150",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "125",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "100",
+        "mm",
+        "dia",
+        "(",
+        "Manifold",
+        "size",
+        "typ",
+        ")",
+        "22",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "80",
+        "mm",
+        "dia",
+        "44",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "65",
+        "mm",
+        "dia",
+        "176",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia",
+        "396",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "mm",
+        "dia",
+        "220",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "dia",
+        "396",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "dia",
+        "176",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "20",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "15",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "250",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "200",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "150",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "125",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "100",
+        "mm",
+        "dia",
+        "(",
+        "Manifold",
+        "size",
+        "typ",
+        ")",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "80",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "65",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "mm",
+        "dia",
+        "132",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "dia",
+        "66",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "dia",
+        "220",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "20",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "15",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "100",
+        "mm",
+        "dia",
+        "100",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "80",
+        "mm",
+        "dia",
+        "100",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "65",
+        "mm",
+        "dia",
+        "30",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia",
+        "75",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "mm",
+        "dia",
+        "210",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "dia",
+        "50",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia",
+        "(",
+        "Manifold",
+        "size",
+        "typ",
+        ")",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-DIMENSION",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "dia",
+        "320",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "20",
+        "mm",
+        "dia",
+        "RMT",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "thickness",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "13",
+        "mm",
+        "thickness",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "thickness",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "13",
+        "mm",
+        "thickness",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "thickness",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "13",
+        "mm",
+        "thickness",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "thickness",
+        "2240",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "19",
+        "mm",
+        "thickness",
+        "2000",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "13",
+        "mm",
+        "thickness",
+        "4240",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    },
+    {
+      "tokens": [
+        "Underdeck",
+        "Insulation",
+        "with",
+        "25",
+        "mm",
+        "thick",
+        "class",
+        "O",
+        "elastomeric",
+        "nitrile",
+        "rubber",
+        "insulation",
+        "of",
+        "40",
+        "-",
+        "60",
+        "kg",
+        "/",
+        "m",
+        "3",
+        "density",
+        "wherever",
+        "roof",
+        "is",
+        "exposed",
+        "to",
+        "sun",
+        "and",
+        "the",
+        "area",
+        "is",
+        "airconditioned",
+        "as",
+        "per",
+        "specification",
+        "sq.m",
+        "supply"
+      ],
+      "ner_tags": [
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-GRADE",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-QUANTITY",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-GRADE",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-GRADE",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ],
+      "labels": [
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-GRADE",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-MATERIAL",
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-QUANTITY",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-GRADE",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-GRADE",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-MATERIAL",
+        "S-UNIT",
+        "S-ACTION"
+      ]
+    }
+  ]
+}

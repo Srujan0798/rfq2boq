@@ -1,0 +1,8 @@
+Source: data/real_rfqs/swa_enquiries/08_sael/Copy of Insulation Enquiry - SAEL.xlsx
+Entries: 17
+Uncertain entries:
+Entry 1: missing quantity
+Entry 2: missing quantity, contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 8: contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 9: contains non-ascii / possible OCR artifacts, very long material description; review segmentation
+Entry 10: missing quantity, contains non-ascii / possible OCR artifacts, very long material description; review segmentation

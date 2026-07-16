@@ -1,0 +1,57 @@
+{
+  "doc_id": "01_gsecl_wanakbori_tmd8",
+  "source_file": "RFQ-75810 TMD-8.pdf",
+  "date": "2026-06-22",
+  "human_verified": false,
+  "method": "pymupdf-independent-text-extraction",
+  "entries": [
+    {
+      "item_no": 1,
+      "material": "The Lightly Resin Bonded mineral wool mattresses of density 150",
+      "quantity": "3",
+      "unit": "kg",
+      "action": "supply",
+      "source_file": "RFQ-75810 TMD-8.pdf",
+      "source_sheet": "page_16",
+      "source_row": 1,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    },
+    {
+      "item_no": 2,
+      "material": "temperature is more than 400 deg cent and 100",
+      "quantity": "3",
+      "unit": "kg",
+      "action": "supply",
+      "source_file": "RFQ-75810 TMD-8.pdf",
+      "source_sheet": "page_16",
+      "source_row": 2,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    },
+    {
+      "item_no": 3,
+      "material": "In any work, Contractor shall be issued the minimum",
+      "quantity": "6",
+      "unit": "nos",
+      "action": "supply",
+      "source_file": "RFQ-75810 TMD-8.pdf",
+      "source_sheet": "page_30",
+      "source_row": 3,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    },
+    {
+      "item_no": 4,
+      "material": "Telephone and Fax",
+      "quantity": "0",
+      "unit": "nos",
+      "action": "supply",
+      "source_file": "RFQ-75810 TMD-8.pdf",
+      "source_sheet": "page_54",
+      "source_row": 4,
+      "human_verified": false,
+      "provenance": "pymupdf-text-extraction"
+    }
+  ]
+}

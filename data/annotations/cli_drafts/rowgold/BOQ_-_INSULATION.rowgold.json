@@ -1,0 +1,441 @@
+{
+  "source_file": "data/incoming/BOQ - Insulation.xlsx",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "gold_source": "data/incoming/BOQ - Insulation.xlsx",
+  "entries": [
+    {
+      "item_no": "1",
+      "material": "LOW HOT WATER, LOW CHILLED WATER & MEDIUM CHILLED WATER PIPING",
+      "quantity": "",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "2",
+      "material": "DN 1100 mm",
+      "quantity": "320",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "3",
+      "material": "DN 900 mm",
+      "quantity": "20",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "4",
+      "material": "DN 800 mm",
+      "quantity": "150",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "5",
+      "material": "DN 700 mm",
+      "quantity": "450",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "6",
+      "material": "DN 650 mm",
+      "quantity": "310",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "7",
+      "material": "DN 600 mm",
+      "quantity": "330",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "8",
+      "material": "DN 550 mm",
+      "quantity": "500",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "9",
+      "material": "DN 500 mm",
+      "quantity": "820",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "10",
+      "material": "DN 450 mm",
+      "quantity": "680",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "11",
+      "material": "DN 400 mm",
+      "quantity": "1040",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "12",
+      "material": "DN 350 mm",
+      "quantity": "1000",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "13",
+      "material": "DN 300 mm",
+      "quantity": "600",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "14",
+      "material": "DN 250 mm",
+      "quantity": "820",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "15",
+      "material": "DN 200 mm",
+      "quantity": "2210",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "16",
+      "material": "DN 150 mm",
+      "quantity": "970",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "17",
+      "material": "DN 125 mm",
+      "quantity": "1400",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "18",
+      "material": "DN 100mm",
+      "quantity": "1990",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "19",
+      "material": "DN 80mm",
+      "quantity": "2590",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "20",
+      "material": "DN 65mm",
+      "quantity": "670",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "21",
+      "material": "DN 50mm",
+      "quantity": "1780",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "22",
+      "material": "DN 40mm",
+      "quantity": "370",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "23",
+      "material": "DN 32mm",
+      "quantity": "510",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "24",
+      "material": "CONDENSER WATER PIPING WITHOUT INSULATION",
+      "quantity": "",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "25",
+      "material": "DN 1500 mm",
+      "quantity": "220",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "26",
+      "material": "DN 600 mm",
+      "quantity": "110",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "27",
+      "material": "DN 500 mm",
+      "quantity": "40",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "28",
+      "material": "DN 450 mm",
+      "quantity": "260",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "29",
+      "material": "DN 400 mm",
+      "quantity": "1010",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "30",
+      "material": "DN 300 mm",
+      "quantity": "90",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "31",
+      "material": "DN 200 mm",
+      "quantity": "1170",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "32",
+      "material": "PROCESS WATER PIPING(PCW)",
+      "quantity": "",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "33",
+      "material": "DN 400 mm",
+      "quantity": "20",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "34",
+      "material": "DN 350 mm",
+      "quantity": "30",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "35",
+      "material": "DN 300 mm",
+      "quantity": "330",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "36",
+      "material": "DN 250 mm",
+      "quantity": "180",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "37",
+      "material": "DN 200 mm",
+      "quantity": "400",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "38",
+      "material": "DN 150 mm",
+      "quantity": "350",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "39",
+      "material": "DN 100 mm",
+      "quantity": "590",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "40",
+      "material": "DN 80 mm",
+      "quantity": "70",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "41",
+      "material": "DN 65 mm",
+      "quantity": "60",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "42",
+      "material": "DN 50 mm",
+      "quantity": "600",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "43",
+      "material": "DN 40 mm",
+      "quantity": "40",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "44",
+      "material": "DN 32 mm",
+      "quantity": "220",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "45",
+      "material": "THERMAL INSULATION",
+      "quantity": "",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "46",
+      "material": "32 mm thick  for Supply air ducts",
+      "quantity": "14475",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "47",
+      "material": "25 mm thick  for Return air ducts",
+      "quantity": "4540",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    },
+    {
+      "item_no": "48",
+      "material": "ACCOUSTIC INSULATION",
+      "quantity": "",
+      "unit": "no.",
+      "grade": "",
+      "location": "",
+      "action": "supply"
+    }
+  ]
+}

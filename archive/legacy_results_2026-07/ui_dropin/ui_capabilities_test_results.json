@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-07-07T05:46:23.443838+00:00",
+  "tests": [
+    {
+      "test_name": "ui_imports",
+      "passed": true,
+      "details": "ui.app and all components imported successfully"
+    },
+    {
+      "test_name": "apptest_capabilities",
+      "passed": true,
+      "details": "set_value: True, run_support: True"
+    },
+    {
+      "test_name": "available_docs",
+      "passed": true,
+      "details": "Found 149 test documents"
+    }
+  ],
+  "summary": {
+    "total_tests": 3,
+    "passed_tests": 3,
+    "failed_tests": 0,
+    "success_rate": 1.0,
+    "status": "completed"
+  }
+}

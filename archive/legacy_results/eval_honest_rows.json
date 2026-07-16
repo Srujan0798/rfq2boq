@@ -1,0 +1,478 @@
+{
+  "results": [
+    {
+      "eid": "05_zydus_animal",
+      "type": "xlsx",
+      "gold_count": 20,
+      "pred_count": 48,
+      "tp": 20,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "time_sec": 0.06357312202453613,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 5,
+          "material_score": 1.0,
+          "gold_material": "100 mm dia (Manifold size typ)",
+          "pred_material": "100 mm dia (Manifold size typ)",
+          "gold_qty": 22.0,
+          "pred_qty": 22.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 6,
+          "material_score": 1.0,
+          "gold_material": "80 mm dia",
+          "pred_material": "80 mm dia",
+          "gold_qty": 44.0,
+          "pred_qty": 44.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 7,
+          "material_score": 1.0,
+          "gold_material": "65 mm dia",
+          "pred_material": "65 mm dia",
+          "gold_qty": 176.0,
+          "pred_qty": 176.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 3,
+          "pred_idx": 8,
+          "material_score": 1.0,
+          "gold_material": "50 mm dia",
+          "pred_material": "50 mm dia",
+          "gold_qty": 396.0,
+          "pred_qty": 396.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 4,
+          "pred_idx": 9,
+          "material_score": 1.0,
+          "gold_material": "40 mm dia",
+          "pred_material": "40 mm dia",
+          "gold_qty": 220.0,
+          "pred_qty": 220.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 5,
+          "pred_idx": 10,
+          "material_score": 1.0,
+          "gold_material": "32 mm dia",
+          "pred_material": "32 mm dia",
+          "gold_qty": 396.0,
+          "pred_qty": 396.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 6,
+          "pred_idx": 11,
+          "material_score": 1.0,
+          "gold_material": "25 mm dia",
+          "pred_material": "25 mm dia",
+          "gold_qty": 176.0,
+          "pred_qty": 176.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 7,
+          "pred_idx": 22,
+          "material_score": 1.0,
+          "gold_material": "40 mm dia",
+          "pred_material": "40 mm dia",
+          "gold_qty": 132.0,
+          "pred_qty": 132.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 8,
+          "pred_idx": 23,
+          "material_score": 1.0,
+          "gold_material": "32 mm dia",
+          "pred_material": "32 mm dia",
+          "gold_qty": 66.0,
+          "pred_qty": 66.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 9,
+          "pred_idx": 24,
+          "material_score": 1.0,
+          "gold_material": "25 mm dia",
+          "pred_material": "25 mm dia",
+          "gold_qty": 220.0,
+          "pred_qty": 220.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 10,
+          "pred_idx": 27,
+          "material_score": 1.0,
+          "gold_material": "100 mm dia",
+          "pred_material": "100 mm dia",
+          "gold_qty": 100.0,
+          "pred_qty": 100.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 11,
+          "pred_idx": 28,
+          "material_score": 1.0,
+          "gold_material": "80 mm dia",
+          "pred_material": "80 mm dia",
+          "gold_qty": 100.0,
+          "pred_qty": 100.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 12,
+          "pred_idx": 29,
+          "material_score": 1.0,
+          "gold_material": "65 mm dia",
+          "pred_material": "65 mm dia",
+          "gold_qty": 30.0,
+          "pred_qty": 30.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 13,
+          "pred_idx": 30,
+          "material_score": 1.0,
+          "gold_material": "50 mm dia",
+          "pred_material": "50 mm dia",
+          "gold_qty": 75.0,
+          "pred_qty": 75.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 14,
+          "pred_idx": 31,
+          "material_score": 1.0,
+          "gold_material": "40 mm dia",
+          "pred_material": "40 mm dia",
+          "gold_qty": 210.0,
+          "pred_qty": 210.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 15,
+          "pred_idx": 32,
+          "material_score": 1.0,
+          "gold_material": "32 mm dia",
+          "pred_material": "32 mm dia",
+          "gold_qty": 50.0,
+          "pred_qty": 50.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 16,
+          "pred_idx": 36,
+          "material_score": 1.0,
+          "gold_material": "25 mm dia",
+          "pred_material": "25 mm dia",
+          "gold_qty": 320.0,
+          "pred_qty": 320.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 17,
+          "pred_idx": 44,
+          "material_score": 1.0,
+          "gold_material": "25 mm thickness",
+          "pred_material": "25 mm thickness",
+          "gold_qty": 2240.0,
+          "pred_qty": 2240.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sq.m"
+        },
+        {
+          "gold_idx": 18,
+          "pred_idx": 45,
+          "material_score": 1.0,
+          "gold_material": "19 mm thickness",
+          "pred_material": "19 mm thickness",
+          "gold_qty": 2000.0,
+          "pred_qty": 2000.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sq.m"
+        },
+        {
+          "gold_idx": 19,
+          "pred_idx": 46,
+          "material_score": 1.0,
+          "gold_material": "13 mm thickness",
+          "pred_material": "13 mm thickness",
+          "gold_qty": 4240.0,
+          "pred_qty": 4240.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sq.m"
+        }
+      ],
+      "unmatched_gold": [],
+      "unmatched_pred": [
+        {
+          "idx": 0,
+          "material": "300 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 1,
+          "material": "250 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 2,
+          "material": "200 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 3,
+          "material": "150 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 4,
+          "material": "125 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 12,
+          "material": "20 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 13,
+          "material": "15 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 14,
+          "material": "250 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 15,
+          "material": "200 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 16,
+          "material": "150 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 17,
+          "material": "125 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 18,
+          "material": "100 mm dia (Manifold size typ)",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 19,
+          "material": "80 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 20,
+          "material": "65 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 21,
+          "material": "50 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 25,
+          "material": "20 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 26,
+          "material": "15 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 33,
+          "material": "50 mm dia (Manifold size typ)",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 34,
+          "material": "40 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 35,
+          "material": "32 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 37,
+          "material": "20 mm dia",
+          "quantity": "0",
+          "unit": "RMT",
+          "rate_only": false,
+          "zero_qty": true
+        },
+        {
+          "idx": 38,
+          "material": "25 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 39,
+          "material": "13 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 40,
+          "material": "25 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 41,
+          "material": "13 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 42,
+          "material": "32 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 43,
+          "material": "13 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m",
+          "rate_only": true,
+          "zero_qty": true
+        },
+        {
+          "idx": 47,
+          "material": "Underdeck Insulation with 25 mm thick class 'O' elastomeric nitrile rubber insul",
+          "quantity": "0",
+          "unit": "sq.m",
+          "rate_only": true,
+          "zero_qty": true
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "micro_precision": 1.0,
+    "micro_recall": 1.0,
+    "micro_f1": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "total_gold": 20,
+    "total_pred": 48,
+    "material_threshold": 0.6,
+    "quantity_tolerance": 0.05
+  }
+}

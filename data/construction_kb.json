@@ -1,0 +1,97 @@
+{
+  "materials": {
+    "cement": {
+      "name": "Cement",
+      "category": "binding_material",
+      "default_units": ["bags", "kg", "tonnes"],
+      "standards": ["IS 456", "IS 12269", "OPC 53"],
+      "grades": ["OPC 33", "OPC 43", "OPC 53", "PPC", "PSC"]
+    },
+    "concrete": {
+      "name": "Concrete",
+      "category": "composite_material",
+      "default_units": ["m³", "cubic meters"],
+      "standards": ["IS 456", "M20", "M25", "M30", "M35", "M40"],
+      "grades": ["M15", "M20", "M25", "M30", "M35", "M40", "M45", "M50"]
+    },
+    "steel": {
+      "name": "Steel",
+      "category": "metal",
+      "default_units": ["kg", "tonnes"],
+      "standards": ["IS 1786", "IS 2062", "IS 432"],
+      "grades": ["Fe415", "Fe500", "Fe550", "Fe500D", "Fe550D"]
+    },
+    "brick": {
+      "name": "Brick",
+      "category": "masonry",
+      "default_units": ["no.", "thousand"],
+      "standards": ["IS 1077", "IS 2185", "Fly ash brick"],
+      "grades": ["Class A", "Class B", "Class C"]
+    },
+    "marble": {
+      "name": "Marble",
+      "category": "stone",
+      "default_units": ["m²", "sq.m", "sq ft"],
+      "standards": ["IS 12022"],
+      "grades": ["Premium", "Standard", "Commercial"]
+    },
+    "granite": {
+      "name": "Granite",
+      "category": "stone",
+      "default_units": ["m²", "sq.m", "sq ft"],
+      "standards": ["IS 12022"],
+      "grades": ["Premium", "Standard", "Commercial"]
+    },
+    "wood": {
+      "name": "Wood",
+      "category": "timber",
+      "default_units": ["cubic feet", "m³"],
+      "standards": ["IS 1003", "IS 3622"],
+      "grades": ["Grade I", "Grade II", "Grade III"]
+    },
+    "paint": {
+      "name": "Paint",
+      "category": "coating",
+      "default_units": ["liters", "gallons"],
+      "standards": ["IS 108", "IS 2338"],
+      "grades": ["Premium", "Standard", "Economy"]
+    },
+    "sand": {
+      "name": "Sand",
+      "category": "aggregate",
+      "default_units": ["m³", "cubic meters", "kg"],
+      "standards": ["IS 383"],
+      "grades": ["Zone I", "Zone II", "Zone III", "Zone IV"]
+    },
+    "aggregate": {
+      "name": "Aggregate",
+      "category": "aggregate",
+      "default_units": ["m³", "cubic meters", "kg"],
+      "standards": ["IS 383"],
+      "grades": ["10mm", "20mm", "40mm"]
+    }
+  },
+  "standards": {
+    "IS 456": {"body": "BIS", "description": "Plain and reinforced concrete - code of practice"},
+    "IS 1786": {"body": "BIS", "description": "Hot rolled steel bars for concrete reinforcement"},
+    "IS 12269": {"body": "BIS", "description": "Ordinary Portland cement 53 grade"},
+    "IS 1077": {"body": "BIS", "description": "Common burnt clay bricks"},
+    "IS 2062": {"body": "BIS", "description": "Hot rolled medium and high tensile structural steel"},
+    "IS 383": {"body": "BIS", "description": "Coarse and fine aggregates for concrete"},
+    "IS 12022": {"body": "BIS", "description": "Stone for flooring"},
+    "IS 1003": {"body": "BIS", "description": "Timber for door and window frames"},
+    "M20": {"body": "Concrete Grade", "description": "20 MPa characteristic compressive strength"},
+    "M25": {"body": "Concrete Grade", "description": "25 MPa characteristic compressive strength"},
+    "M30": {"body": "Concrete Grade", "description": "30 MPa characteristic compressive strength"},
+    "Fe415": {"body": "Steel Grade", "description": "415 MPa yield strength steel"},
+    "Fe500": {"body": "Steel Grade", "description": "500 MPa yield strength steel"}
+  },
+  "units": {
+    "volume": ["m³", "cum", "cubic meters", "cu.m"],
+    "area": ["m²", "sqm", "square meters", "sq.m"],
+    "length": ["m", "meter", "lm", "running meter"],
+    "mass": ["kg", "t", "tonnes", "MT"],
+    "count": ["no.", "nos", "each", "nr"],
+    "lumpsum": ["ls", "Lump-sum"]
+  }
+}

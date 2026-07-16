@@ -1,0 +1,739 @@
+{
+  "source_file": "data/incoming/BOQ PAGE.pdf",
+  "date": "2026-07-04",
+  "human_verified": false,
+  "method": "machine-assisted-draft-from-extraction",
+  "sentences": [
+    {
+      "tokens": [
+        "500",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "400",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "350",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "300",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "250",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "200",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "150",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "125",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "100",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "80",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "65",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "500",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "400",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "350",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "300",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "250",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "200",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "150",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "125",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "100",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "80",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "65",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "25",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "400",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "350",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "300",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "250",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "200",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "150",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "125",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "100",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "80",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "65",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "50",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "40",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    },
+    {
+      "tokens": [
+        "32",
+        "mm",
+        "dia"
+      ],
+      "ner_tags": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ],
+      "labels": [
+        "S-QUANTITY",
+        "S-UNIT",
+        "S-DIMENSION"
+      ]
+    }
+  ]
+}

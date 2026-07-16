@@ -1,0 +1,43 @@
+{
+  "doc_id": "07_grew_solar_narmadapuram_004",
+  "source_file": "108, BOQ compliance, Grew Energy.pdf",
+  "tokens": [
+    "supply",
+    "ACOUSTIC",
+    "LINING",
+    "Supply,InstallationandTestingofAccousticliningwith10mmthickClass1ratingOpenCellnitrilerubberinsulationmaterialwithdensityof140to",
+    "180",
+    "kg",
+    "/m\u00b3along",
+    "with",
+    "manufacturer",
+    "recommended",
+    "adhesive.",
+    "500",
+    "sqm"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "I-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "07_grew_solar_narmadapuram.rowgold.json",
+    "row_idx": 4,
+    "action": "supply",
+    "quantity": "500",
+    "unit": "sqm"
+  }
+}

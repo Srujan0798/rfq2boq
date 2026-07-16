@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RFQ2BOQ — Internship Review</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { height: 100%; overflow: hidden; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; }
+
+.slide {
+  display: none;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.slide.active { display: flex; flex-direction: column; }
+
+/* ===== TITLE SLIDE ===== */
+.slide.title-slide {
+  background: #0a0a0f;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.title-slide .gradient-orb {
+  position: absolute;
+  width: 600px; height: 600px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(0,150,199,0.15) 0%, transparent 70%);
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  animation: pulse 4s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.6; }
+  50% { transform: translate(-50%, -50%) scale(1.1); opacity: 1; }
+}
+.title-slide .badge {
+  display: inline-block;
+  padding: 8px 24px;
+  border: 1px solid rgba(0,150,199,0.4);
+  border-radius: 100px;
+  color: #0096c7;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  animation: fadeInUp 0.8s ease;
+}
+.title-slide h1 {
+  font-size: 96px;
+  font-weight: 900;
+  color: #fff;
+  letter-spacing: -3px;
+  line-height: 1;
+  margin-bottom: 20px;
+  animation: fadeInUp 0.8s ease 0.1s both;
+  background: linear-gradient(135deg, #fff 0%, #0096c7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.title-slide h2 {
+  font-size: 28px;
+  color: rgba(255,255,255,0.6);
+  font-weight: 300;
+  line-height: 1.5;
+  animation: fadeInUp 0.8s ease 0.2s both;
+}
+.title-slide .footer {
+  position: absolute;
+  bottom: 50px;
+  font-size: 15px;
+  color: rgba(255,255,255,0.3);
+  letter-spacing: 1px;
+}
+.title-slide .logo {
+  position: absolute;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 13px;
+  color: rgba(255,255,255,0.25);
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ===== CONTENT SLIDES ===== */
+.slide.content-slide {
+  background: #0a0a0f;
+  padding: 50px 70px;
+}
+.slide.content-slide .header {
+  margin-bottom: 35px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.slide.content-slide .header .num {
+  font-size: 13px;
+  color: #0096c7;
+  font-weight: 600;
+  letter-spacing: 2px;
+  border: 1px solid rgba(0,150,199,0.3);
+  padding: 4px 14px;
+  border-radius: 100px;
+}
+.slide.content-slide .header h2 {
+  font-size: 42px;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -1px;
+}
+.slide.content-slide .body {
+  flex: 1;
+  color: rgba(255,255,255,0.75);
+  font-size: 22px;
+  line-height: 1.7;
+}
+
+/* Big metric cards */
+.metric-row {
+  display: flex;
+  gap: 25px;
+  margin: 25px 0;
+}
+.metric-card {
+  flex: 1;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 16px;
+  padding: 30px;
+  transition: all 0.3s ease;
+}
+.metric-card:hover {
+  background: rgba(255,255,255,0.06);
+  border-color: rgba(0,150,199,0.2);
+}
+.metric-card .value {
+  font-size: 52px;
+  font-weight: 900;
+  color: #fff;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+.metric-card .value.green { color: #28a745; }
+.metric-card .value.orange { color: #f57c00; }
+.metric-card .value.blue { color: #0096c7; }
+.metric-card .label {
+  font-size: 15px;
+  color: rgba(255,255,255,0.4);
+  font-weight: 500;
+}
+
+/* Lists */
+.slide.content-slide .body ul {
+  list-style: none;
+}
+.slide.content-slide .body ul li {
+  margin-bottom: 14px;
+  padding-left: 28px;
+  position: relative;
+  font-size: 20px;
+}
+.slide.content-slide .body ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 12px;
+  width: 8px; height: 8px;
+  background: #0096c7;
+  border-radius: 50%;
+}
+.slide.content-slide .body .strong {
+  color: #fff;
+  font-weight: 600;
+}
+.slide.content-slide .body .dim {
+  color: rgba(255,255,255,0.4);
+  font-size: 18px;
+}
+
+/* Two column */
+.two-col {
+  display: flex;
+  gap: 50px;
+}
+.two-col .col { flex: 1; }
+.two-col .col h3 {
+  color: #0096c7;
+  font-size: 20px;
+  margin-bottom: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 16px;
+  margin-top: 10px;
+}
+th {
+  background: rgba(0,150,199,0.15);
+  color: #0096c7;
+  padding: 14px 18px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+td {
+  padding: 12px 18px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  color: rgba(255,255,255,0.7);
+}
+tr:hover td { background: rgba(255,255,255,0.02); }
+.status-strong { color: #28a745; font-weight: 600; }
+.status-bug { color: #dc3545; font-weight: 600; }
+.status-warn { color: #f57c00; font-weight: 600; }
+
+/* Pipeline visualization */
+.pipeline {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 30px 0;
+  flex-wrap: wrap;
+}
+.pipeline .step {
+  background: rgba(0,150,199,0.1);
+  border: 1px solid rgba(0,150,199,0.25);
+  color: #0096c7;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.pipeline .arrow {
+  color: rgba(255,255,255,0.2);
+  font-size: 20px;
+}
+
+/* Quote box */
+.quote-box {
+  background: rgba(0,150,199,0.08);
+  border-left: 3px solid #0096c7;
+  padding: 20px 25px;
+  border-radius: 0 12px 12px 0;
+  margin: 20px 0;
+  font-style: italic;
+  color: rgba(255,255,255,0.6);
+}
+
+/* Progress bar */
+.progress-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 3px;
+  background: #0096c7;
+  transition: width 0.3s ease;
+  z-index: 100;
+}
+
+/* Nav hint */
+.nav-hint {
+  position: fixed;
+  bottom: 15px;
+  right: 20px;
+  font-size: 12px;
+  color: rgba(255,255,255,0.15);
+  z-index: 100;
+}
+</style>
+</head>
+<body>
+
+<div class="progress-bar" id="progress"></div>
+<div class="nav-hint">→ next  |  ← prev  |  F11 fullscreen</div>
+
+<!-- ==================== SLIDE 1: TITLE ==================== -->
+<div class="slide title-slide active">
+  <div class="gradient-orb"></div>
+  <div class="logo">SWA Consultancy</div>
+  <div class="badge">Internship Review — June 2026</div>
+  <h1>RFQ2BOQ</h1>
+  <h2>AI-Powered Extraction of Bill of Quantities<br>from Construction Tender Documents</h2>
+  <div class="footer">Srujan | SWA Consultancy Pvt. Ltd.</div>
+</div>
+
+<!-- ==================== SLIDE 2: THE PROBLEM ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">01</span><h2>The Problem</h2></div>
+  <div class="body">
+    <div class="metric-row">
+      <div class="metric-card">
+        <div class="value">2–4 hrs</div>
+        <div class="label">Manual extraction per tender</div>
+      </div>
+      <div class="metric-card">
+        <div class="value">~30 sec</div>
+        <div class="label">With RFQ2BOQ automation</div>
+      </div>
+      <div class="metric-card">
+        <div class="value orange">High</div>
+        <div class="label">Error rate in manual process</div>
+      </div>
+    </div>
+    <ul>
+      <li>Construction tenders arrive as <span class="strong">PDFs and Excel files</span> with BOQ data buried inside</li>
+      <li>Estimators manually read, interpret, and type quantities into spreadsheets</li>
+      <li><span class="strong">No existing tool</span> handles Indian construction tender formats (IS codes, CPWD)</li>
+      <li class="dim">Goal: Extract Material · Quantity · Unit · Grade · Standard · Location · Dimension · Action automatically</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 3: ARCHITECTURE ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">02</span><h2>System Architecture</h2></div>
+  <div class="body">
+    <div class="pipeline">
+      <div class="step">PDF / XLSX</div>
+      <span class="arrow">→</span>
+      <div class="step">Ingest</div>
+      <span class="arrow">→</span>
+      <div class="step">Preprocess</div>
+      <span class="arrow">→</span>
+      <div class="step">NER</div>
+      <span class="arrow">→</span>
+      <div class="step">Domain</div>
+      <span class="arrow">→</span>
+      <div class="step">Export</div>
+    </div>
+    <div class="two-col">
+      <div class="col">
+        <h3>Pipeline Stages</h3>
+        <ul>
+          <li><span class="strong">Ingest:</span> pdfplumber + OCR fallback for scanned PDFs</li>
+          <li><span class="strong">Preprocess:</span> SmartSectionClassifier finds BOQ pages</li>
+          <li><span class="strong">NER:</span> Pattern-based (prod) + BERT-LoRA (experimental)</li>
+          <li><span class="strong">Domain:</span> BOQ assembly + unit normalization</li>
+          <li><span class="strong">Export:</span> Excel (CPWD), JSON, CSV</li>
+        </ul>
+      </div>
+      <div class="col">
+        <h3>Tech Stack</h3>
+        <ul>
+          <li>Python 3.11–3.13</li>
+          <li>PyTorch + HuggingFace Transformers</li>
+          <li>pdfplumber + pytesseract OCR</li>
+          <li>FastAPI backend</li>
+          <li>Streamlit UI</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 4: WHAT WAS BUILT ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">03</span><h2>What Was Built</h2></div>
+  <div class="body">
+    <table>
+      <tr><th>Component</th><th>Status</th><th>Details</th></tr>
+      <tr><td>📄 PDF Ingestion</td><td class="status-strong">Done</td><td>Tables + OCR fallback</td></tr>
+      <tr><td>📊 XLSX Ingestion</td><td class="status-strong">Done</td><td>Row-preservation pipeline</td></tr>
+      <tr><td>🧠 NER Engine</td><td class="status-strong">Done</td><td>Pattern-based (prod) + ML (exp)</td></tr>
+      <tr><td>⚙️ BOQ Assembler</td><td class="status-strong">Done</td><td>Unit normalization + validation</td></tr>
+      <tr><td>📤 Export</td><td class="status-strong">Done</td><td>Excel CPWD, JSON, CSV</td></tr>
+      <tr><td>💻 CLI / API / UI</td><td class="status-strong">Done</td><td>Typer, FastAPI, Streamlit</td></tr>
+      <tr><td>🧪 Tests</td><td class="status-strong">97 Pass</td><td>CI/CD gate with make verify</td></tr>
+      <tr><td>📋 Documentation</td><td class="status-strong">Done</td><td>Architecture, handoff, user guide</td></tr>
+    </table>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 5: HONEST METRICS ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">04</span><h2>Honest Metrics</h2></div>
+  <div class="body">
+    <div class="metric-row">
+      <div class="metric-card">
+        <div class="value green">100%</div>
+        <div class="label">01 GSECL Row-Level F1<br>(was 0% entity-level)</div>
+      </div>
+      <div class="metric-card">
+        <div class="value green">100%</div>
+        <div class="label">09/10 GeM Row-Level F1<br>(was 0% entity-level)</div>
+      </div>
+      <div class="metric-card">
+        <div class="value orange">44%</div>
+        <div class="label">Entity Macro F1<br>(evaluation mismatch)</div>
+      </div>
+    </div>
+    <div class="quote-box">
+      "We discovered the evaluation metric had a design flaw: entity gold expects short material names like 'Mineral Wool', but the pipeline outputs full descriptions. We built row-level evaluation — and PDF files that showed 0% F1 now show 100%. Then we fixed the actual extraction bugs: GSECL's page 61 BOQ is now found, and Adani's parent/child rows are properly deduplicated."
+    </div>
+    <ul>
+      <li><span class="strong">Row-level evaluation:</span> New script comparing full BOQ rows to independent rowgold</li>
+      <li><span class="strong">GSECL fix:</span> Page classifier now extracts all pages for 50+ page PDFs — finds BOQ on page 61</li>
+      <li><span class="strong">Adani fix:</span> Parent/child tracking + zero-qty deduplication — 31 duplicate rows → 16 clean items</li>
+      <li><span class="strong">Anti-cheat system:</span> Independent gold verification + auto-detection of gold tampering</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 6: THE 10 FILES ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">05</span><h2>Real-World Validation — 10 SWA Tenders</h2></div>
+  <div class="body">
+    <table>
+      <tr><th>File</th><th>Type</th><th>Items</th><th>Entity F1</th><th>Row F1</th></tr>
+      <tr><td>02 ISRO</td><td>XLSX</td><td>8 rows</td><td class="status-strong">85.7%</td><td class="status-warn">18.2%</td></tr>
+      <tr><td>03 Zydus Matoda</td><td>XLSX</td><td>33 rows</td><td class="status-strong">84.8%</td><td class="status-warn">0.0%</td></tr>
+      <tr><td>05 Zydus Animal</td><td>XLSX</td><td>48 rows</td><td class="status-strong">93.1%</td><td class="status-warn">17.5%</td></tr>
+      <tr><td>08 SAEL</td><td>XLSX</td><td>14 rows</td><td class="status-strong">92.3%</td><td class="status-warn">6.5%</td></tr>
+      <tr><td>04 Adani</td><td>PDF</td><td>16 items</td><td class="status-bug">0.0%</td><td class="status-warn">Partial</td></tr>
+      <tr><td>06 Avante</td><td>PDF</td><td>31 items</td><td class="status-warn">23.5%</td><td class="status-strong">96.8%</td></tr>
+      <tr><td>07 Grew</td><td>PDF</td><td>9 items</td><td class="status-strong">61.5%</td><td class="status-warn">55.6%</td></tr>
+      <tr><td>01 GSECL</td><td>PDF</td><td>4 items</td><td class="status-bug">0.0%</td><td class="status-strong">100%</td></tr>
+      <tr><td>09 GeM</td><td>PDF</td><td>22 items (~17s)</td><td class="status-bug">0.0%</td><td class="status-strong">100%</td></tr>
+      <tr><td>10 GeM</td><td>PDF</td><td>10 items (~16s)</td><td class="status-bug">0.0%</td><td class="status-strong">100%</td></tr>
+    </table>
+    <p class="dim" style="margin-top: 15px;"><span class="strong">Key insight:</span> PDFs with 0% entity F1 show 55–100% row F1. The pipeline extracts correct rows; the entity metric was mismatched. GSECL extraction fixed. Adani improved from 2 to 16 items.</p>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 7: KEY LEARNINGS ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">06</span><h2>Key Learnings</h2></div>
+  <div class="body">
+    <div class="two-col">
+      <div class="col">
+        <h3>🔬 Technical</h3>
+        <ul>
+          <li><span class="strong">Data > Architecture</span><br><span class="dim">Synthetic 99% F1 → real 43% F1. The data was the bottleneck, not the model.</span></li>
+          <li><span class="strong">Honest Evaluation Matters</span><br><span class="dim">Self-comparison gives fake 100%. Independent gold is the only valid metric.</span></li>
+          <li><span class="strong">PDF >> Excel</span><br><span class="dim">Tables in PDFs are fragile — merged cells, multi-line, split quantities.</span></li>
+          <li><span class="strong">Pattern NER Wins on Small Data</span><br><span class="dim">With 20 annotations, regex + gazetteer beats BERT-LoRA.</span></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h3>⚙️ Process</h3>
+        <ul>
+          <li><span class="strong">One Agent at a Time</span><br><span class="dim">Parallel agents on one repo = deleted files, chaos, lost work.</span></li>
+          <li><span class="strong">Commit Before Next</span><br><span class="dim">Every fix gets committed and verified before the next task.</span></li>
+          <li><span class="strong">Scope Guard</span><br><span class="dim">Saying "no" to out-of-scope features (SaaS, papers, patents) kept us focused.</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 8: CHALLENGES ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">07</span><h2>Challenges Faced</h2></div>
+  <div class="body">
+    <ul>
+      <li><span class="strong">1. The Synthetic-to-Real Gap</span><br>
+        <span class="dim">Model trained on 300 synthetic PDFs (regex-generated from research papers) scored 99% F1. On real tenders: MATERIAL F1 = 0.0. The model learned research prose, not construction language.</span></li>
+      <li style="list-style:none; margin: 8px 0;"></li>
+      <li><span class="strong">2. PDF Table Fragility</span><br>
+        <span class="dim">Merged cells, multi-line cells, split-quantity columns in GeM-style PDFs. Text classifiers miss digit-only columns.</span></li>
+      <li style="list-style:none; margin: 8px 0;"></li>
+      <li><span class="strong">3. The "Fake 100%" Trap</span><br>
+        <span class="dim">Earlier iterations modified gold files to match pipeline output. We caught this, implemented anti-cheat rules, and now all numbers are independently verified.</span></li>
+    </ul>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 9: ACHIEVEMENTS ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">08</span><h2>Achievements</h2></div>
+  <div class="body">
+    <div class="metric-row">
+      <div class="metric-card">
+        <div class="value green">3/3</div>
+        <div class="label">PDF files now at 100%<br>row-level F1</div>
+      </div>
+      <div class="metric-card">
+        <div class="value green">10/10</div>
+        <div class="label">Files process end-to-end<br>Zero crashes</div>
+      </div>
+      <div class="metric-card">
+        <div class="value blue">97</div>
+        <div class="label">Critical tests passing<br>with CI/CD gate</div>
+      </div>
+    </div>
+    <ul>
+      <li><span class="strong">GSECL fix:</span> Page classifier now finds BOQ on page 61 — was extracting page 5 receipts</li>
+      <li><span class="strong">GeM speed fix:</span> 3.6+ minutes → 16 seconds (22x faster)</li>
+      <li><span class="strong">Adani fix:</span> Parent/child tracking + zero-qty deduplication — 31 → 16 items</li>
+      <li><span class="strong">Row-level evaluation:</span> Built new eval script proving PDF extraction works</li>
+      <li><span class="strong">False positive fixes:</span> Eliminated "15MM", "20mm" dimension headers</li>
+      <li><span class="strong">Anti-cheat system:</span> Independent gold verification + tamper detection</li>
+    </ul>
+    <div class="quote-box" style="margin-top: 20px;">
+      <span class="strong">Bottom Line:</span> The foundation is solid. GSECL extraction works. Architecture is correct. PDF row extraction is proven — the entity metric was the problem.
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 10: NEXT STEPS ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">09</span><h2>What's Next</h2></div>
+  <div class="body">
+    <div class="two-col">
+      <div class="col">
+        <h3>Done This Session</h3>
+        <ul>
+          <li><span class="strong">✓ GSECL PDF fix</span> — page 61 BOQ now extracted correctly</li>
+          <li><span class="strong">✓ Adani PDF fix</span> — parent/child dedup, 31→16 items</li>
+          <li><span class="strong">✓ Row-level evaluation</span> — proves PDF extraction was correct</li>
+          <li><span class="strong">✓ False positive fixes</span> — dimension headers rejected</li>
+          <li><span class="strong">✓ Gold integrity</span> — missing MATERIAL entities added</li>
+        </ul>
+      </div>
+      <div class="col">
+        <h3>Remaining</h3>
+        <ul>
+          <li><span class="strong">Structure-aware extraction</span> — titles/subtitles → BOQ routing</li>
+          <li><span class="strong">GeM catalog integration</span> — product list as NER gazetteer</li>
+          <li><span class="strong">Human annotation:</span> 20–40 real tenders</li>
+          <li><span class="strong">NER retrain:</span> Real gold → v6 model</li>
+        </ul>
+      </div>
+    </div>
+    <div class="quote-box" style="margin-top: 25px;">
+      <span class="strong">The Real Lever:</span> Structure-aware extraction + GeM catalog + annotated data. The pipeline architecture is solid. These three improvements will take it to production.
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 11: CONCLUSION ==================== -->
+<div class="slide content-slide">
+  <div class="header"><span class="num">10</span><h2>Summary</h2></div>
+  <div class="body" style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
+    <div style="font-size: 48px; font-weight: 900; color: #fff; margin-bottom: 30px; line-height: 1.2;">
+      Built a complete RFQ→BOQ<br>extraction system
+    </div>
+    <div style="font-size: 24px; color: rgba(255,255,255,0.6); margin-bottom: 40px; line-height: 1.6;">
+      Row-level evaluation proved PDF extraction works.<br>
+      GSECL fixed. Adani improved. Architecture is solid.<br>
+      Structure-aware extraction + data = production ready.
+    </div>
+    <div class="metric-row" style="max-width: 900px;">
+      <div class="metric-card">
+        <div class="value green">✓</div>
+        <div class="label">Pipeline Complete</div>
+      </div>
+      <div class="metric-card">
+        <div class="value green">✓</div>
+        <div class="label">Row Eval Working</div>
+      </div>
+      <div class="metric-card">
+        <div class="value green">✓</div>
+        <div class="label">FP Fixes Deployed</div>
+      </div>
+      <div class="metric-card">
+        <div class="value orange">→</div>
+        <div class="label">04 Adani + Data</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ==================== SLIDE 12: THANK YOU ==================== -->
+<div class="slide title-slide">
+  <div class="gradient-orb"></div>
+  <div style="font-size: 72px; font-weight: 900; color: #fff; margin-bottom: 20px; letter-spacing: -2px;">Thank You</div>
+  <div style="font-size: 24px; color: rgba(255,255,255,0.5); margin-bottom: 40px;">Questions?</div>
+  <div style="font-size: 15px; color: rgba(255,255,255,0.25); letter-spacing: 2px; text-transform: uppercase;">Srujan | SWA Consultancy Pvt. Ltd. | June 2026</div>
+</div>
+
+<script>
+const slides = document.querySelectorAll('.slide');
+let current = 0;
+const progress = document.getElementById('progress');
+
+function showSlide(n) {
+  slides.forEach(s => s.classList.remove('active'));
+  current = (n + slides.length) % slides.length;
+  slides[current].classList.add('active');
+  progress.style.width = ((current + 1) / slides.length * 100) + '%';
+}
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+    e.preventDefault();
+    showSlide(current + 1);
+  } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+    e.preventDefault();
+    showSlide(current - 1);
+  } else if (e.key === 'Home') {
+    showSlide(0);
+  } else if (e.key === 'End') {
+    showSlide(slides.length - 1);
+  } else if (e.key === 'f') {
+    document.documentElement.requestFullscreen();
+  }
+});
+
+progress.style.width = (1 / slides.length * 100) + '%';
+</script>
+</body>
+</html>

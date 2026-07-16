@@ -1,0 +1,444 @@
+{
+  "version": "P1_01-draft",
+  "generated_note": "Independent source-truth counts. Sacred-10 manual counts from pdfplumber/openpyxl transcription (subagent-verified). Spec1/spec2 counts from direct source reading. D4 exclusions recorded. Owner confirmation pending.",
+  "entries": [
+    {
+      "doc_id": "01_gsecl_wanakbori_tmd8",
+      "source_row_count": 3,
+      "unit": "BOQ line items",
+      "method": "human count (orchestrator-verified, corrected from bad machine-draft)",
+      "evidence": "files=[RFQ-75810 TMD-8.pdf]; page 61 (Schedule-B); 3 real BOQ rows, all with qty+unit: 1) 100mm thick Mineral Wool mattresses, qty=1600, unit=Sq meter; 2) 50mm thick Mineral Wool mattresses, qty=1600, unit=Sq meter; 3) Aluminum sheet cladding, qty=3200, unit=Sq meter. Corrected 2026-07-07: prior machine-draft value (63) wrongly counted tender-fee/EMD eligibility boilerplate text elsewhere in the 62-page document as BOQ rows.",
+      "counted_by": "owner-verified",
+      "owner_confirmed": true,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "02_isro_vssc",
+      "source_row_count": 4,
+      "unit": "BOQ line items",
+      "method": "human count",
+      "evidence": "files=[VSSC_BOQ_with_qty.xlsx]; Sheet1; rows counted=4 (excluding rate-only/'R.O.' rows: 4); first3=[sheet 'Sheet1': Providing and fixing under-deck & wall acoustic insulation as 4 mm thi | value=SQM || sheet 'Sheet1': Providing and fixing outdoor noise barrier with brick wall support wit | value=SQM || sheet 'Sheet1': Custom Fabrication and Installation of Aluminum based noise diffractor | value=RMT]; last3=[sheet 'Sheet1': Providing and fixing outdoor noise barrier with brick wall support wit | value=SQM || sheet 'Sheet1': Custom Fabrication and Installation of Aluminum based noise diffractor | value=RMT || sheet 'Sheet1': Furnish and install acoustic louvers shall be preferably made of 16 ga | value=SQM]",
+      "counted_by": "machine-draft",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "Structure & civil (section title, no qty/unit) \u2014 P0_02 D4 ruling"
+      ]
+    },
+    {
+      "doc_id": "03_zydus_matoda_osd",
+      "source_row_count": 33,
+      "unit": "BOQ line items",
+      "method": "human count",
+      "evidence": "files=[Zydus_Matoda_Insulation_Enquiry.xlsx]; BOQ; rows counted=33 (excluding rate-only/'R.O.' rows: 33); first3=[sheet 'BOQ': 19 mm thick insulation for supply air ducts | value=Sqm. || sheet 'BOQ': 13 mm thick insulation for return / exhaust air ducts | value=Sqm. || sheet 'BOQ': 25 mm thick for TFA duct | value=Sqm.]; last3=[sheet 'BOQ': 32MM | value=RMT || sheet 'BOQ': 40MM | value=RMT || sheet 'BOQ': 50MM | value=RMT]",
+      "counted_by": "machine-draft",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "04_adani",
+      "source_row_count": 45,
+      "unit": "BOQ line items",
+      "method": "human count (pdfplumber full-text recount, corrected from under-count machine-draft)",
+      "evidence": "files=[BOQ PAGEadani proj.pdf, BOQ PAGE2adani proj.pdf]. Independent 2026-07-16 pdfplumber text recount of every unit+qty line item: Section1 Inside Piping 15 dia rows (1.1 500..1.14 25 mm), Section2 Shaft&terrace 15 dia rows (2.1 500..2.14 25 mm), Section3 Inside Piping 13 dia rows (3.1 400..3.13 32 mm; no 500/25), PAGE2 duct thermal 2 rows (1.1 19mm thick SA/DH-AHU/TFA duct qty=14735 Sqmtrs; 1.2 32mm thick exposed ducting qty=18 Sqmtrs, multi-line wrap). Total 15+15+13+2=45 (includes zero-qty dia rows). Matches human_verified rowgold (45). Corrected from machine-draft 44 which under-counted by 1 (likely pdfplumber table-merge of section2 2.1 500+400 into one cell dropped a diameter row).",
+      "counted_by": "orchestrator-verified",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "05_zydus_animal_pharmez",
+      "source_row_count": 20,
+      "unit": "BOQ line items",
+      "method": "human count",
+      "evidence": "files=[Copy of Insulation Enquiry-Zydus Animal Health Expansion Project - Pharmez-Ahmedabad_.xlsx]; Sheet1; rows counted=20 (excluding rate-only/'R.O.'/zero-total rows: 48-28=20); first3=[sheet 'Sheet1': 100 mm dia (Manifold size typ) | value=RMT || sheet 'Sheet1': 80 mm dia | value=RMT || sheet 'Sheet1': 65 mm dia | value=RMT]; last3=[sheet 'Sheet1': 25 mm thickness | value=sq.m || sheet 'Sheet1': 19 mm thickness | value=sq.m || sheet 'Sheet1': 13 mm thickness | value=sq.m]. D5 ruling 2026-07-06: Rule A \u2014 one row per material line with positive TOTAL, qty = sheet TOTAL column; matches gold (20 rows).",
+      "counted_by": "machine-draft",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "06_avante_kirloskar_pune",
+      "source_row_count": 36,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1-p2: 36 line items in BOQ table (4 #REF! parent items with qty, 75, 76.1, 77, 77.1, 78, 79.1-79.5, 80.1-80.6, 81.1-81.10, 82.1-82.6). D4 excluded 5 section-title parents (76,79,80,81,82).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "76 acoustic insulation (section title)",
+        "79 19mm thick insulation CHW piping (section title)",
+        "80 25mm thick insulation CHW pipes (section title)",
+        "81 32mm thick insulation CHW pipes (section title)",
+        "82 32mm thick insulation with aluminium cladding (section title)"
+      ]
+    },
+    {
+      "doc_id": "07_grew_solar_narmadapuram",
+      "source_row_count": 11,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: items 11.1-11.4 (Sqm), 12 acoustic lining (Sqm 500), 8.1-8.4 (Sq.Mtr.), 6 underfloor (Sqm R/O), 7 underdeck (Sqm R/O). D4 excluded 3 section titles (11 THERMAL INSULATION, 12 ACOUSTIC LINING header, 8 SITC header).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "11 THERMAL INSULATION (section title)",
+        "12 ACOUSTIC LINING header (section title)",
+        "8 S.I.T.C. of Thermal insulation CHW Pipings (section header)"
+      ]
+    },
+    {
+      "doc_id": "08_sael",
+      "source_row_count": 16,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Aligned 2026-07-16 to BOQ enquiry file 'Copy of Insulation Enquiry - SAEL.xlsx' (16 rows) per P0_02 D4 / gold 08_sael.rowgold.json (16 entries). Prior count 19 was from the TDS file (Copy of TDS - Insulation - SAEL (1).xlsx), which is a technical data sheet not the BOQ enquiry. Audit path uses the enquiry file (manifest first-match). D6: source_truth ruler = enquiry gold row count.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "11 DUCT THERMAL INSULATION (section title)",
+        "11.2 FINISHING MATERIALS (section title)",
+        "12.01 INSULATION MATERIALS (section title)"
+      ]
+    },
+    {
+      "doc_id": "09_gem_bid_7439924",
+      "source_row_count": 22,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Page 1 total qty=231900; 11 product variants x 2 projects (TALCHER+LARA)=22 lines; pages 6-7 consolidated BOQ table 22 items; sum of quantities=231900 (exact match to page 1 total).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "10_gem_bid_7552777",
+      "source_row_count": 10,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "pages 5-11: 10 product titles each followed by consignee table with quantity (208,892,5838,10061,3795,1080,3405,5504,8893,9967); 730=Delivery Days not qty.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "47_Pipe Insulation_BOQ Compliance",
+      "source_row_count": 31,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: 3 sections (CHW 5deg=11 rows, CHW 12deg=12 rows, warm water 35deg=6 rows) + p2: 2 rows. D4 excluded 3 section titles.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "Chilled water piping 5 deg (section title)",
+        "Chilled water piping 12 deg (section title)",
+        "Warm water piping 35 deg (section title)"
+      ]
+    },
+    {
+      "doc_id": "BOQ - INSULATION",
+      "source_row_count": 21,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1 single BOQ table: 14 dia rows with Rmtr+qty + 3 parent rows + 4 Sqmtr+qty rows = 21. D4 excluded blank-qty rows and section titles.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "column header",
+        "parent item j desc only",
+        "parent item 4 desc only",
+        "section titles and blank-qty rows"
+      ]
+    },
+    {
+      "doc_id": "BOQ PAGE (003)",
+      "source_row_count": 2,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: 2 valid rows (1.1 19mm Sqmtrs 14735, 1.2 32mm Sqmtrs 18). D4 excluded section title + parent.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "F THERMAL & ACOUSTIC INSULATION (section title)",
+        "item 1 parent desc only"
+      ]
+    },
+    {
+      "doc_id": "BOQ PAGE",
+      "source_row_count": 43,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: 15 dia rows (1.1-1.14 Rmt+qty); p2: 15+13 dia rows (2.1-2.14, 3.1-3.13 Rmt+qty, qty=0 counts as real). D4 excluded section titles + parent descs.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "E CHILLED WATER PIPING & VALVES (section title)",
+        "item 1/2/3 parent desc only"
+      ]
+    },
+    {
+      "doc_id": "BOQ- Insulation_Compliance",
+      "source_row_count": 13,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: 13 valid leaf rows with Sq.M + numeric qty (13mm/19mm/25mm variants). D4 excluded E.1-E.5 parent rows (unit=insulation-text not UOM).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "E Insulation parent",
+        "E.1-E.5 parent desc only"
+      ]
+    },
+    {
+      "doc_id": "BOQ",
+      "source_row_count": 23,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: 18 valid (drain piping 1 + 8.1-8.7 + underdeck 1 + 11.1.1-5 + 11.2 + 12.1-3); p2: 5 valid (8.1-8.5). D4 excluded section titles + parent descs.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "11 THERMAL INSULATION (section title)",
+        "12 INSULATED FLEXIBLE DUCT (section title)",
+        "item 8/11.1/12 parent desc only"
+      ]
+    },
+    {
+      "doc_id": "Copy of BOQ",
+      "source_row_count": 19,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: 7 supply + 7 return + 3 condensate + 2 terrace = 19 rows with Rmt+numeric qty. D4 excluded section titles + parent descs + TOTAL summary.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "A) Piping (section title)",
+        "1.0 CHILLED WATER PIPING (section title)",
+        "SUPPLY/RETURN PIPES section titles",
+        "TOTAL 1780 summary"
+      ]
+    },
+    {
+      "doc_id": "Insulation Boq (1)",
+      "source_row_count": 2,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: 2 valid (item 1 Acoustic Insulation Sqft 13617, 20mm thick Sq.Mt. 3975). D4 excluded parent desc.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "item 7.3.4 parent desc only"
+      ]
+    },
+    {
+      "doc_id": "Insulation Boq (2)",
+      "source_row_count": 29,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1: 29 BOQ line items with desc+unit(Rmt/Sqm) including RO-qty rows (real unit present). D4 excluded section titles + parent descs.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "item 3/4.0/5.0/2/3 parent desc only",
+        "blank rows"
+      ]
+    },
+    {
+      "doc_id": "Tech Specs  - Insulation",
+      "source_row_count": 0,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "7 pages: pure spec text + p2 technical datasheet (Sr.No|Item|Description, no qty/UOM columns). Spec-only, NOT a BOQ. MANIFEST MAY MISCLASSIFY AS boq_bearing \u2014 recommend reclassifying to spec_only.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "p2 datasheet rows (no qty/UOM columns)"
+      ]
+    },
+    {
+      "doc_id": "BOQ - Insulation (spec2 XLSX)",
+      "source_row_count": 44,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Sheet1: rows 20-78 (44 line items).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "Insulation ARFF",
+      "source_row_count": 15,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Sheet1: 1 row; Sheet2: 14 rows.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "Insulation Medical",
+      "source_row_count": 29,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Sheet1: 13 rows (7-29); Sheet2: 16 rows (8-36).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "Insulation",
+      "source_row_count": 17,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Sheet1: 17 rows (3-39).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": []
+    },
+    {
+      "doc_id": "BOQ_Thermal Insulation",
+      "source_row_count": 1,
+      "unit": "BOQ line items",
+      "method": "auto",
+      "evidence": "p1: single fiberglass insulation line (m2/1547). D4 excluded section title.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "A AIR CONDITIONING (section title)"
+      ]
+    },
+    {
+      "doc_id": "Copy of UBS_Hyderabad_Project_BOQ(1)",
+      "source_row_count": 25,
+      "unit": "BOQ line items",
+      "method": "auto",
+      "evidence": "p1-p4: acoustic lining + duct insulation + CHW pipe insulation by dia + copper piping by dia + CPVC drain = 25 line items.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "column header",
+        "spec continuation text",
+        "section headers"
+      ]
+    },
+    {
+      "doc_id": "INSULATION_BOQ_BLUEGRASS",
+      "source_row_count": 27,
+      "unit": "BOQ line items",
+      "method": "auto",
+      "evidence": "p1: 3 duct thermal + 1 acoustic + 1 wall acoustic + 13 pipe-aluminium + 9 pipe-nitrile = 27 line items with M2/M+qty.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "DUCT INSULATION/PIPE THERMAL INSULATION section titles",
+        "1-5 section headers",
+        "TOTAL summary"
+      ]
+    },
+    {
+      "doc_id": "MECH-EIPL-HVAC-NXTRA-001-R2-BUFFER TANK",
+      "source_row_count": 2,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p2-p3: 2 BOQ line items (1.1 buffer tank supply+install, 1.2 tank spec Nos) repeated across 4 tranche tables. p5-13 are drawings/specs/calcs (NOT BOQ).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "HVAC WORKS section title",
+        "1 BUFFER TANK section title",
+        "make-list/drawing/calc tables"
+      ]
+    },
+    {
+      "doc_id": "boq",
+      "source_row_count": 2,
+      "unit": "BOQ line items",
+      "method": "auto",
+      "evidence": "p1: 2 line items (duct acoustic insulation 15mm M2/600, under deck insulation M2/750). D4 excluded HVAC BOQ section title.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "HVAC BOQ section title"
+      ]
+    },
+    {
+      "doc_id": "BOQ - INSULATION (spec1 PDF)",
+      "source_row_count": 21,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "p1 single BOQ table: 14 dia rows with Rmtr+qty + 3 parent rows + 4 Sqmtr+qty rows = 21. From resources/Specifications/BOQ - INSULATION.pdf.",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [
+        "column header",
+        "parent item j desc only",
+        "parent item 4 desc only",
+        "section titles and blank-qty rows"
+      ]
+    },
+    {
+      "doc_id": "06_avante_kirloskar_pune (bundle copy)",
+      "source_row_count": 36,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Bundle duplicate of sacred-10 06_avante (same sha256). Count = 36 (see 06_avante_kirloskar_pune entry).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [],
+      "duplicate_of": "06_avante_kirloskar_pune"
+    },
+    {
+      "doc_id": "07_grew_solar_narmadapuram (bundle copy)",
+      "source_row_count": 11,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Bundle duplicate of sacred-10 07_grew (same sha256). Count = 11 (see 07_grew_solar_narmadapuram entry).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [],
+      "duplicate_of": "07_grew_solar_narmadapuram"
+    },
+    {
+      "doc_id": "08_sael_TDS (bundle copy)",
+      "source_row_count": 16,
+      "unit": "BOQ line items",
+      "method": "manual",
+      "evidence": "Bundle duplicate of sacred-10 08_sael (same audit path via duplicate_of). Count = 16 (enquiry gold; see 08_sael entry D6).",
+      "counted_by": "machine-draft-manual-verify",
+      "owner_confirmed": false,
+      "needs_manual_count": false,
+      "d4_exclusions": [],
+      "duplicate_of": "08_sael"
+    }
+  ],
+  "reconciliation_note": "33 manifest boq_bearing entries = 27 unique hashes (deduped) + 6 bundle-duplicate copies. This file has 33 entries: 27 unique + 3 disambiguated name-collisions + 3 bundle-copy cross-references. Every manifest entry maps to exactly one source_truth entry. The 4 owner-decisions (06_avante 36-vs-31, 07_grew 11-vs-9, 08_sael TDS classification, 05_zydus D5) are flagged in evidence fields."
+}

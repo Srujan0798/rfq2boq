@@ -1,0 +1,46 @@
+Source: data/incoming/BOQ PAGE.pdf
+Entries: 43
+Uncertain entries:
+Entry 1: low confidence (0.35), missing quantity
+Entry 2: low confidence (0.35), missing quantity
+Entry 3: low confidence (0.35), missing quantity
+Entry 4: low confidence (0.6)
+Entry 5: low confidence (0.6)
+Entry 6: low confidence (0.6)
+Entry 7: low confidence (0.6)
+Entry 8: low confidence (0.6)
+Entry 9: low confidence (0.6)
+Entry 10: low confidence (0.5)
+Entry 11: low confidence (0.5)
+Entry 12: low confidence (0.5)
+Entry 13: low confidence (0.5)
+Entry 14: low confidence (0.5)
+Entry 15: low confidence (0.5)
+Entry 16: low confidence (0.6)
+Entry 17: low confidence (0.6)
+Entry 18: low confidence (0.35), missing quantity
+Entry 19: low confidence (0.6)
+Entry 20: low confidence (0.35), missing quantity
+Entry 21: low confidence (0.35), missing quantity
+Entry 22: low confidence (0.35), missing quantity
+Entry 23: low confidence (0.35), missing quantity
+Entry 24: low confidence (0.35), missing quantity
+Entry 25: low confidence (0.25), missing quantity
+Entry 26: low confidence (0.25), missing quantity
+Entry 27: low confidence (0.25), missing quantity
+Entry 28: low confidence (0.25), missing quantity
+Entry 29: low confidence (0.25), missing quantity
+Entry 30: low confidence (0.25), missing quantity
+Entry 31: low confidence (0.35), missing quantity
+Entry 32: low confidence (0.35), missing quantity
+Entry 33: low confidence (0.35), missing quantity
+Entry 34: low confidence (0.35), missing quantity
+Entry 35: low confidence (0.35), missing quantity
+Entry 36: low confidence (0.35), missing quantity
+Entry 37: low confidence (0.35), missing quantity
+Entry 38: low confidence (0.35), missing quantity
+Entry 39: low confidence (0.25), missing quantity
+Entry 40: low confidence (0.25), missing quantity
+Entry 41: low confidence (0.25), missing quantity
+Entry 42: low confidence (0.25), missing quantity
+Entry 43: low confidence (0.25), missing quantity

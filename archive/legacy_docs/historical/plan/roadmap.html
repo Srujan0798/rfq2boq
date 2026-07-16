@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RFQ→BOQ Plan</title>
+<style>
+:root { color-scheme: light; --fg:#0f172a; --bg:#ffffff; --muted:#475569; --accent:#0369a1; --warn:#b45309; --ok:#15803d; --line:#e2e8f0; }
+* { box-sizing: border-box; }
+body { font: 14px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, system-ui, sans-serif; color: var(--fg); background: var(--bg); margin: 0; padding: 24px; }
+h1 { font-size: 22px; margin: 0 0 4px; }
+h2 { font-size: 16px; margin: 28px 0 8px; padding-bottom: 4px; border-bottom: 1px solid var(--line); color: var(--accent); }
+h3 { font-size: 13px; margin: 16px 0 6px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+.sub { color: var(--muted); margin-bottom: 16px; }
+.grid { display: grid; gap: 12px; }
+.cards { grid-template-columns: repeat(4, 1fr); }
+.card { border: 1px solid var(--line); border-radius: 8px; padding: 12px; background: #f8fafc; }
+.card .h { font-weight: 600; font-size: 12px; color: var(--accent); text-transform: uppercase; letter-spacing: 0.4px; }
+.card .v { font-size: 22px; font-weight: 700; margin: 4px 0; }
+.card .d { color: var(--muted); font-size: 12px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { border: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+th { background: #f1f5f9; font-weight: 600; }
+.tag { display: inline-block; padding: 1px 6px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+.tag.p0 { background: #fee2e2; color: #991b1b; }
+.tag.p1 { background: #fef3c7; color: #92400e; }
+.tag.p2 { background: #e0e7ff; color: #3730a3; }
+.tag.ok { background: #dcfce7; color: #166534; }
+.tag.todo { background: #f1f5f9; color: #475569; }
+.mermaid { background: #ffffff; border: 1px solid var(--line); border-radius: 8px; padding: 12px; margin: 8px 0; }
+.legend { display:flex; gap:12px; flex-wrap:wrap; color: var(--muted); font-size:12px; }
+.legend span { display:inline-flex; align-items:center; gap:4px; }
+.dot { width:8px; height:8px; border-radius:50%; display:inline-block; }
+.toc { font-size: 13px; }
+.toc a { color: var(--accent); text-decoration: none; margin-right: 12px; }
+.toc a:hover { text-decoration: underline; }
+.bar { height: 10px; background:#e2e8f0; border-radius: 5px; overflow: hidden; }
+.bar > div { height: 100%; background: var(--accent); }
+.kbd { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; background:#f1f5f9; padding: 1px 5px; border-radius:3px; font-size: 12px; }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11.10.0/dist/mermaid.min.js" integrity="sha384-PY+AFiXLIHkR5jE4nk0JwPQQmmQlT4mJXFlgeT4jJeuARaBQBK+nSwwxzrPRAtUM" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<h1>RFQ → BOQ Scope Extraction · Master Plan</h1>
+<div class="sub">Internship project · Plan date 2026-05-15 · Owner Srujan · 10-week calendar · Inputs: <span class="kbd">prompts/archive/UNIVERSAL_ORCHESTRATOR_PROMPT.md</span> + <span class="kbd">RFQ to BOQ Scope Extraction using NLP system.pdf</span> (10 refs read).</div>
+
+<div class="toc">
+  <a href="#kpis">KPIs</a>
+  <a href="#arch">Architecture</a>
+  <a href="#gantt">Gantt</a>
+  <a href="#agents">Agents</a>
+  <a href="#risks">Risks</a>
+  <a href="#ontology">Ontology</a>
+  <a href="#gates">Gates</a>
+  <a href="#cuts">Cut order</a>
+</div>
+
+<h2 id="kpis">Success bar (target → minimum)</h2>
+<div class="grid cards">
+  <div class="card"><div class="h">NER span-F1</div><div class="v">0.90 / 0.80</div><div class="d">micro, exact match</div></div>
+  <div class="card"><div class="h">Relation F1</div><div class="v">0.80 / 0.70</div><div class="d">strict, 6 relations</div></div>
+  <div class="card"><div class="h">BOQ completeness</div><div class="v">0.95 / 0.85</div><div class="d">rows recovered vs gold</div></div>
+  <div class="card"><div class="h">Latency / 20-pp</div><div class="v">&lt;30s / &lt;120s</div><div class="d">CPU, ONNX</div></div>
+  <div class="card"><div class="h">Test coverage</div><div class="v">90% / 70%</div><div class="d">line coverage</div></div>
+  <div class="card"><div class="h">OCR recall (scans)</div><div class="v">0.85 / 0.70</div><div class="d">paddle+tesseract</div></div>
+  <div class="card"><div class="h">Repro Docker cold</div><div class="v">&lt;10m / &lt;30m</div><div class="d">make demo</div></div>
+  <div class="card"><div class="h">Corpus size</div><div class="v">200 RFQs</div><div class="d">30 paired w/ BOQ gold</div></div>
+</div>
+
+<h2 id="arch">Architecture — 7-stage pipeline</h2>
+<div class="mermaid">
+flowchart LR
+  A[PDF / Scans] --> B[Ingest<br/>pdfplumber<br/>tesseract+paddle<br/>layoutparser]
+  B --> C[Preproc<br/>norm + senter<br/>construction tokenizer<br/>section detect]
+  C --> D[NER<br/>BERT-BiLSTM-CRF<br/>BIOES, 8 types]
+  D --> E[Relation Extraction<br/>PURE span-pair<br/>Longformer fallback]
+  E --> F[Rules + Ontology<br/>unit grammar<br/>ifcOWL + CTO<br/>scope-gap warnings]
+  F --> G[Canonical JSON<br/>schema/boq.v1<br/>row-level conf]
+  G --> H[Excel / CSV / JSON<br/>Review UI<br/>REST API]
+</div>
+
+<h2>Sequence — happy path</h2>
+<div class="mermaid">
+sequenceDiagram
+  participant U as User (QS)
+  participant API as FastAPI
+  participant W as Worker
+  participant FS as Disk (stage outputs)
+  U->>API: POST /v1/extract (PDF)
+  API->>W: enqueue job
+  W->>FS: doc.json (ingest)
+  W->>FS: clean.json (preproc)
+  W->>FS: spans.json (NER)
+  W->>FS: relations.json (RE)
+  W->>FS: validated.json (rules)
+  W->>FS: canonical.json (normalize)
+  W->>FS: boq.xlsx (export)
+  W-->>API: job done
+  U->>API: GET /v1/jobs/{id}/boq.xlsx
+  API-->>U: file
+</div>
+
+<h2 id="gantt">10-week Gantt</h2>
+<div class="mermaid">
+gantt
+  dateFormat  YYYY-MM-DD
+  title 10-week internship calendar
+  excludes weekends
+
+  section S1 Setup
+  Repo + CI + devcontainer       :done, s1, 2026-05-18, 5d
+  section S2 Data
+  Corpus 200 RFQs + EDA + schema :s2, after s1, 7d
+  section S3 Ingestion
+  pdfplumber + OCR + layout      :s3, after s2, 8d
+  section S4 ML/NLP
+  Annotation campaign            :s4a, after s2, 12d
+  NER training + tuning          :s4b, after s4a, 8d
+  RE training                    :s4c, after s4b, 5d
+  section S5 Rules + Onto
+  Unit grammar + standards       :s5, after s3, 10d
+  Ontology + conflict policy     :s5b, after s5, 6d
+  section S6 Output
+  Schema + exporters + UI        :s6, after s5b, 6d
+  section S7 Testing
+  Unit + integration + perf      :s7, after s6, 5d
+  section S8 Verify
+  ORC self-attack                :s8, after s7, 3d
+  section S9 Deploy + Docs
+  Docker + report + slides       :s9, after s8, 8d
+</div>
+
+<h2 id="agents">Agents × 9-step matrix (RACI)</h2>
+<table>
+  <thead><tr><th>Step</th><th>A-1 Data</th><th>A-2 ML</th><th>A-3 Output</th><th>A-4 Test</th><th>Orch</th></tr></thead>
+  <tbody>
+    <tr><td>1 Setup</td><td>C</td><td>I</td><td>C</td><td><b>R</b></td><td>A</td></tr>
+    <tr><td>2 Data</td><td><b>R</b></td><td>C</td><td>I</td><td>I</td><td>A</td></tr>
+    <tr><td>3 Ingestion</td><td><b>R</b></td><td>C</td><td>I</td><td>C</td><td>A</td></tr>
+    <tr><td>4 ML / NLP</td><td>C</td><td><b>R</b></td><td>I</td><td>C</td><td>A</td></tr>
+    <tr><td>5 Rules + Ontology</td><td>I</td><td><b>R</b></td><td>C</td><td>C</td><td>A</td></tr>
+    <tr><td>6 Output</td><td>I</td><td>I</td><td><b>R</b></td><td>C</td><td>A</td></tr>
+    <tr><td>7 Testing</td><td>C</td><td>C</td><td>C</td><td><b>R</b></td><td>A</td></tr>
+    <tr><td>8 Verification</td><td>C</td><td>C</td><td>C</td><td>C</td><td><b>R</b></td></tr>
+    <tr><td>9 Deploy + Docs</td><td>I</td><td>I</td><td>C</td><td><b>R</b></td><td>A</td></tr>
+  </tbody>
+</table>
+<div class="legend"><span><b>R</b>esponsible</span><span><b>A</b>ccountable</span><span><b>C</b>onsulted</span><span><b>I</b>nformed</span></div>
+
+<h2 id="risks">Risk register — top 10</h2>
+<table>
+  <thead><tr><th>ID</th><th>Sev</th><th>Risk</th><th>Mitigation</th><th>Detection signal</th></tr></thead>
+  <tbody>
+    <tr><td>R1</td><td><span class="tag p0">P0</span></td><td>OCR collapses on bad scans</td><td>Quality gate + manual queue; PaddleOCR alt; deskew/denoise</td><td>OCR conf p50 trend in CI</td></tr>
+    <tr><td>R2</td><td><span class="tag p0">P0</span></td><td>Cross-sentence relations missed</td><td>PURE ±3 sents + Longformer fallback</td><td>RE recall stratified intra/cross</td></tr>
+    <tr><td>R3</td><td><span class="tag p0">P0</span></td><td>LLM hallucinated entities</td><td>Rule validator gates every entity</td><td>rule_validated == false rate &gt; 2%</td></tr>
+    <tr><td>R4</td><td><span class="tag p1">P1</span></td><td>Unit ambiguity (m vs m² vs m³)</td><td>Unit-grammar + context priors</td><td>UNIT confusion matrix</td></tr>
+    <tr><td>R5</td><td><span class="tag p1">P1</span></td><td>Annotator drift</td><td>Guide + weekly calibration, κ ≥ 0.75</td><td>κ trend per batch</td></tr>
+    <tr><td>R6</td><td><span class="tag p1">P1</span></td><td>Tables read as flat text</td><td>LayoutParser + PaddleOCR table model</td><td>row-match % on golden tables</td></tr>
+    <tr><td>R7</td><td><span class="tag p1">P1</span></td><td>Geographic domain shift</td><td>Per-region configs + stratified corpus</td><td>per-region F1</td></tr>
+    <tr><td>R8</td><td><span class="tag p1">P1</span></td><td>Silent scope omission</td><td>Co-occurrence rules → SCOPE_GAP_WARNING</td><td>numbered items w/o rows %</td></tr>
+    <tr><td>R9</td><td><span class="tag p2">P2</span></td><td>License / privacy</td><td>License audit script in CI</td><td>pre-merge audit pass</td></tr>
+    <tr><td>R10</td><td><span class="tag p2">P2</span></td><td>Dependency drift</td><td>Pinned uv.lock + docker tag-lock</td><td>weekly CI break alarm</td></tr>
+  </tbody>
+</table>
+
+<h2 id="ontology">Entity ontology (8 types) + relations (6)</h2>
+<div class="mermaid">
+flowchart LR
+  M([MATERIAL]) -- HAS_QUANTITY --> Q([QUANTITY])
+  Q -- HAS_UNIT --> U([UNIT])
+  M -- AT_LOCATION --> L([LOCATION])
+  M -- OF_GRADE --> G([GRADE])
+  M -- COMPLIES_WITH --> S([STANDARD])
+  M -- HAS_DIMENSION --> D([DIMENSION])
+  A([ACTION]) -. attaches to .- M
+  classDef e fill:#e0f2fe,stroke:#0369a1,color:#0c4a6e;
+  class M,Q,U,L,G,S,D,A e;
+</div>
+
+<h2 id="gates">Verification gates</h2>
+<div class="grid cards">
+  <div class="card"><div class="h">Gate 1</div><div class="v">Code</div><div class="d">ruff · black · mypy · pre-commit</div></div>
+  <div class="card"><div class="h">Gate 2</div><div class="v">Tests</div><div class="d">pytest · cov ≥ 80% · integ green</div></div>
+  <div class="card"><div class="h">Gate 3</div><div class="v">Model</div><div class="d">F1 not regress · ECE ≤ 0.05</div></div>
+  <div class="card"><div class="h">Gate 4</div><div class="v">Data</div><div class="d">κ ≥ 0.75 · PII audit · license</div></div>
+  <div class="card"><div class="h">Gate 5</div><div class="v">Domain</div><div class="d">schema · unit-norm · scope-gap</div></div>
+  <div class="card"><div class="h">Gate 6</div><div class="v">Reliability</div><div class="d">crash-safe · 100-concur · OOM</div></div>
+  <div class="card"><div class="h">Gate 7</div><div class="v">Repro</div><div class="d">cold-Docker demo &lt; 10m</div></div>
+  <div class="card"><div class="h">Gate 8</div><div class="v">Docs</div><div class="d">README doctests · ADRs current</div></div>
+</div>
+
+<h2 id="cuts">If we must cut (priority of cuts, bottom first)</h2>
+<table>
+  <thead><tr><th>#</th><th>Cut</th><th>Cost of cutting</th></tr></thead>
+  <tbody>
+    <tr><td>9</td><td>React UI → ipywidgets review</td><td>UX downgrade, no functional loss</td></tr>
+    <tr><td>8</td><td>Longformer doc-RE</td><td>Cross-sentence recall hit (R2)</td></tr>
+    <tr><td>7</td><td>ifcOWL → custom CTO only</td><td>No BIM downstream</td></tr>
+    <tr><td>6</td><td>Load tests</td><td>Unknown concurrency ceiling</td></tr>
+    <tr><td>5</td><td>CSV/JSON → Excel only</td><td>Integration friction</td></tr>
+    <tr><td>4</td><td>κ enforcement → 1-annotator pilot</td><td>Label noise risk</td></tr>
+    <tr><td>3</td><td>RE → hand-rule relations on NER</td><td>Cross-entity links shaky</td></tr>
+    <tr><td>2</td><td>BERT-CRF → spaCy custom NER</td><td>F1 ceiling drops ~10 pts</td></tr>
+    <tr><td>1</td><td>Off-the-shelf spaCy + rules</td><td>Graceful degraded MVP</td></tr>
+  </tbody>
+</table>
+<div class="sub"><b>Never cut:</b> Steps 1, 2, 3, 6, 7, 8, 9.</div>
+
+<h2>Files shipped in this plan</h2>
+<table>
+  <tbody>
+    <tr><td>00</td><td>Master plan + index</td><td>plan/00_PROJECT_PLAN.md</td></tr>
+    <tr><td>01</td><td>Architecture (C4, dataflow, contracts)</td><td>plan/01_ARCHITECTURE.md</td></tr>
+    <tr><td>02</td><td>9-step execution + RACI + Gantt</td><td>plan/02_EXECUTION_PLAN.md</td></tr>
+    <tr><td>03</td><td>Risk register + reverse-role attack</td><td>plan/03_RISK_REGISTER.md</td></tr>
+    <tr><td>04</td><td>Entity ontology + relations + IFC</td><td>plan/04_ENTITY_ONTOLOGY.md</td></tr>
+    <tr><td>05</td><td>Data + annotation</td><td>plan/05_DATA_AND_ANNOTATION.md</td></tr>
+    <tr><td>06</td><td>Evaluation protocol</td><td>plan/06_EVALUATION_PROTOCOL.md</td></tr>
+    <tr><td>07</td><td>Repo layout</td><td>plan/07_REPO_LAYOUT.md</td></tr>
+    <tr><td>08</td><td>Verification gates</td><td>plan/08_VERIFICATION_GATES.md</td></tr>
+    <tr><td>09</td><td>Report + slides outline</td><td>plan/09_PRESENTATION_OUTLINE.md</td></tr>
+    <tr><td>—</td><td>This visual roadmap</td><td>plan/roadmap.html</td></tr>
+  </tbody>
+</table>
+
+<script>
+mermaid.initialize({ startOnLoad: true, securityLevel: "strict", theme: "default" });
+</script>
+</body>
+</html>

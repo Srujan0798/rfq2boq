@@ -1,0 +1,2481 @@
+{
+  "results": [
+    {
+      "eid": "01_gsecl",
+      "type": "pdf",
+      "gold_count": 3,
+      "pred_count": 3,
+      "tp": 3,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "time_sec": 13.715909957885742,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 0,
+          "material_score": 1.0,
+          "gold_material": "Supply & application of 100 mm thick lightly bonded Mineral Wool mattresses, hoo",
+          "pred_material": "Supply & application of 100 mm thick lightly bonded Mineral Wool mattresses, hoo",
+          "gold_qty": 1600.0,
+          "pred_qty": 1600.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 1,
+          "material_score": 1.0,
+          "gold_material": "Supply & application of 50 mm thick lightly resin bonded Mineral Wool mattresses",
+          "pred_material": "Supply & application of 50 mm thick lightly resin bonded Mineral Wool mattresses",
+          "gold_qty": 1600.0,
+          "pred_qty": 1600.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 2,
+          "material_score": 1.0,
+          "gold_material": "Supply & application of Aluminum sheet, self taping screws etc. on insulated sur",
+          "pred_material": "Supply & application of Aluminum sheet, self taping screws etc. on insulated sur",
+          "gold_qty": 3200.0,
+          "pred_qty": 3200.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        }
+      ],
+      "unmatched_gold": [],
+      "unmatched_pred": []
+    },
+    {
+      "eid": "02_isro",
+      "type": "xlsx",
+      "gold_count": 5,
+      "pred_count": 5,
+      "tp": 5,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "time_sec": 0.010394096374511719,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 0,
+          "material_score": 1.0,
+          "gold_material": "Providing and fixing under-deck & wall acoustic insulation as 4 mm thick sound d",
+          "pred_material": "Providing and fixing under-deck & wall acoustic insulation as 4 mm thick sound d",
+          "gold_qty": 1300.0,
+          "pred_qty": 1300.0,
+          "gold_unit": "sqm",
+          "pred_unit": "SQM"
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 1,
+          "material_score": 1.0,
+          "gold_material": "Providing and fixing outdoor noise barrier with brick wall support with metal fr",
+          "pred_material": "Providing and fixing outdoor noise barrier with brick wall support with metal fr",
+          "gold_qty": 350.0,
+          "pred_qty": 350.0,
+          "gold_unit": "sqm",
+          "pred_unit": "SQM"
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 2,
+          "material_score": 1.0,
+          "gold_material": "Structure & civil",
+          "pred_material": "Structure & civil",
+          "gold_qty": 0.0,
+          "pred_qty": 0.0,
+          "gold_unit": "no.",
+          "pred_unit": "no."
+        },
+        {
+          "gold_idx": 3,
+          "pred_idx": 3,
+          "material_score": 1.0,
+          "gold_material": "Custom Fabrication and Installation of Aluminum based noise diffractors to be mo",
+          "pred_material": "Custom Fabrication and Installation of Aluminum based noise diffractors to be mo",
+          "gold_qty": 55.0,
+          "pred_qty": 55.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 4,
+          "pred_idx": 4,
+          "material_score": 1.0,
+          "gold_material": "Furnish and install acoustic louvers shall be preferably made of 16 gauge galvan",
+          "pred_material": "Furnish and install acoustic louvers shall be preferably made of 16 gauge galvan",
+          "gold_qty": 150.0,
+          "pred_qty": 150.0,
+          "gold_unit": "sqm",
+          "pred_unit": "SQM"
+        }
+      ],
+      "unmatched_gold": [],
+      "unmatched_pred": []
+    },
+    {
+      "eid": "03_zydus_matoda",
+      "type": "xlsx",
+      "gold_count": 33,
+      "pred_count": 16,
+      "tp": 16,
+      "fp": 0,
+      "fn": 17,
+      "precision": 1.0,
+      "recall": 0.48484848484848486,
+      "f1": 0.653061224489796,
+      "time_sec": 0.021028757095336914,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 0,
+          "material_score": 1.0,
+          "gold_material": "19 mm thick insulation for supply air ducts",
+          "pred_material": "19 mm thick insulation for supply air ducts",
+          "gold_qty": 32500.0,
+          "pred_qty": 32500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 1,
+          "material_score": 1.0,
+          "gold_material": "13 mm thick insulation for return / exhaust air ducts",
+          "pred_material": "13 mm thick insulation for return / exhaust air ducts",
+          "gold_qty": 32500.0,
+          "pred_qty": 32500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 2,
+          "material_score": 1.0,
+          "gold_material": "25 mm thick for TFA duct",
+          "pred_material": "25 mm thick for TFA duct",
+          "gold_qty": 0.0,
+          "pred_qty": 0.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 3,
+          "pred_idx": 3,
+          "material_score": 1.0,
+          "gold_material": "19 mm thick insulation for supply air ducts",
+          "pred_material": "19 mm thick insulation for supply air ducts",
+          "gold_qty": 32500.0,
+          "pred_qty": 32500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 4,
+          "pred_idx": 4,
+          "material_score": 1.0,
+          "gold_material": "13 mm thick insulation for return / exhaust air ducts",
+          "pred_material": "13 mm thick insulation for return / exhaust air ducts",
+          "gold_qty": 32500.0,
+          "pred_qty": 32500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 5,
+          "pred_idx": 5,
+          "material_score": 1.0,
+          "gold_material": "25 mm thick for TFA duct",
+          "pred_material": "25 mm thick for TFA duct",
+          "gold_qty": 0.0,
+          "pred_qty": 0.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 6,
+          "pred_idx": 6,
+          "material_score": 1.0,
+          "gold_material": "19 mm thick insulation for supply air ducts",
+          "pred_material": "19 mm thick insulation for supply air ducts",
+          "gold_qty": 32500.0,
+          "pred_qty": 32500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 7,
+          "pred_idx": 7,
+          "material_score": 1.0,
+          "gold_material": "13 mm thick insulation for return / exhaust air ducts",
+          "pred_material": "13 mm thick insulation for return / exhaust air ducts",
+          "gold_qty": 32500.0,
+          "pred_qty": 32500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 8,
+          "pred_idx": 8,
+          "material_score": 1.0,
+          "gold_material": "25 mm thick for TFA duct",
+          "pred_material": "25 mm thick for TFA duct",
+          "gold_qty": 0.0,
+          "pred_qty": 0.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 20,
+          "pred_idx": 9,
+          "material_score": 1.0,
+          "gold_material": "15mm OD",
+          "pred_material": "15mm OD",
+          "gold_qty": 30.0,
+          "pred_qty": 30.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 21,
+          "pred_idx": 10,
+          "material_score": 1.0,
+          "gold_material": "25mm OD",
+          "pred_material": "25mm OD",
+          "gold_qty": 60.0,
+          "pred_qty": 60.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 22,
+          "pred_idx": 11,
+          "material_score": 1.0,
+          "gold_material": "32mm OD",
+          "pred_material": "32mm OD",
+          "gold_qty": 280.0,
+          "pred_qty": 280.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 23,
+          "pred_idx": 12,
+          "material_score": 1.0,
+          "gold_material": "40mm OD",
+          "pred_material": "40mm OD",
+          "gold_qty": 260.0,
+          "pred_qty": 260.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 24,
+          "pred_idx": 13,
+          "material_score": 1.0,
+          "gold_material": "50mm OD",
+          "pred_material": "50mm OD",
+          "gold_qty": 120.0,
+          "pred_qty": 120.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 25,
+          "pred_idx": 14,
+          "material_score": 1.0,
+          "gold_material": "65MM OD",
+          "pred_material": "65MM OD",
+          "gold_qty": 80.0,
+          "pred_qty": 80.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 26,
+          "pred_idx": 15,
+          "material_score": 1.0,
+          "gold_material": "80MM OD",
+          "pred_material": "80MM OD",
+          "gold_qty": 150.0,
+          "pred_qty": 150.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        }
+      ],
+      "unmatched_gold": [
+        {
+          "idx": 9,
+          "material": "15MM",
+          "quantity": "6",
+          "unit": "rmt"
+        },
+        {
+          "idx": 10,
+          "material": "20MM",
+          "quantity": "270",
+          "unit": "rmt"
+        },
+        {
+          "idx": 11,
+          "material": "25MM",
+          "quantity": "468",
+          "unit": "rmt"
+        },
+        {
+          "idx": 12,
+          "material": "32MM",
+          "quantity": "486",
+          "unit": "rmt"
+        },
+        {
+          "idx": 13,
+          "material": "40MM",
+          "quantity": "306",
+          "unit": "rmt"
+        },
+        {
+          "idx": 14,
+          "material": "50MM",
+          "quantity": "666",
+          "unit": "rmt"
+        },
+        {
+          "idx": 15,
+          "material": "65MM",
+          "quantity": "504",
+          "unit": "rmt"
+        },
+        {
+          "idx": 16,
+          "material": "80MM",
+          "quantity": "432",
+          "unit": "rmt"
+        },
+        {
+          "idx": 17,
+          "material": "100MM",
+          "quantity": "54",
+          "unit": "rmt"
+        },
+        {
+          "idx": 18,
+          "material": "125MM",
+          "quantity": "6",
+          "unit": "rmt"
+        },
+        {
+          "idx": 19,
+          "material": "150MM",
+          "quantity": "18",
+          "unit": "rmt"
+        },
+        {
+          "idx": 27,
+          "material": "15MM",
+          "quantity": "15",
+          "unit": "rmt"
+        },
+        {
+          "idx": 28,
+          "material": "20MM",
+          "quantity": "90",
+          "unit": "rmt"
+        },
+        {
+          "idx": 29,
+          "material": "25MM",
+          "quantity": "60",
+          "unit": "rmt"
+        },
+        {
+          "idx": 30,
+          "material": "32MM",
+          "quantity": "60",
+          "unit": "rmt"
+        },
+        {
+          "idx": 31,
+          "material": "40MM",
+          "quantity": "30",
+          "unit": "rmt"
+        },
+        {
+          "idx": 32,
+          "material": "50MM",
+          "quantity": "15",
+          "unit": "rmt"
+        }
+      ],
+      "unmatched_pred": []
+    },
+    {
+      "eid": "04_adani",
+      "type": "pdf",
+      "gold_count": 45,
+      "pred_count": 44,
+      "tp": 2,
+      "fp": 42,
+      "fn": 43,
+      "precision": 0.045454545454545456,
+      "recall": 0.044444444444444446,
+      "f1": 0.0449438202247191,
+      "time_sec": 1.029160976409912,
+      "matches": [
+        {
+          "gold_idx": 43,
+          "pred_idx": 42,
+          "material_score": 1.0,
+          "gold_material": "19mm thick - SA/DH-AHU/TFA duct",
+          "pred_material": "19mm thick - SA/DH-AHU/TFA duct",
+          "gold_qty": 14735.0,
+          "pred_qty": 14735.0,
+          "gold_unit": "Sqmtrs",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 44,
+          "pred_idx": 43,
+          "material_score": 1.0,
+          "gold_material": "32mm thick with 7 mill glass cloth and special UV resistant paint/weatherproof c",
+          "pred_material": "32mm thick with 7 mill glass cloth and special UV resistant paint/weatherproof c",
+          "gold_qty": 18.0,
+          "pred_qty": 18.0,
+          "gold_unit": "Sqmtrs",
+          "pred_unit": "sqm"
+        }
+      ],
+      "unmatched_gold": [
+        {
+          "idx": 0,
+          "material": "500 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 1,
+          "material": "400 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 2,
+          "material": "350 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 3,
+          "material": "300 mm dia",
+          "quantity": "1540.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 4,
+          "material": "250 mm dia",
+          "quantity": "365.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 5,
+          "material": "200 mm dia",
+          "quantity": "520.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 6,
+          "material": "150 mm dia",
+          "quantity": "1288.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 7,
+          "material": "125 mm dia",
+          "quantity": "1114.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 8,
+          "material": "100 mm dia",
+          "quantity": "4506.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 9,
+          "material": "80 mm dia",
+          "quantity": "2777.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 10,
+          "material": "65 mm dia",
+          "quantity": "2534.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 11,
+          "material": "50 mm dia",
+          "quantity": "277.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 12,
+          "material": "40 mm dia",
+          "quantity": "9.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 13,
+          "material": "32 mm dia",
+          "quantity": "660.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 14,
+          "material": "25 mm dia",
+          "quantity": "1390.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 15,
+          "material": "500 mm dia",
+          "quantity": "1044.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 16,
+          "material": "400 mm dia",
+          "quantity": "1044.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 17,
+          "material": "350 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 18,
+          "material": "300 mm dia",
+          "quantity": "146.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 19,
+          "material": "250 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 20,
+          "material": "200 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 21,
+          "material": "150 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 22,
+          "material": "125 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 23,
+          "material": "100 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 24,
+          "material": "80 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 25,
+          "material": "65 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 26,
+          "material": "50 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 27,
+          "material": "40 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 28,
+          "material": "32 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 29,
+          "material": "25 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 30,
+          "material": "400 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 31,
+          "material": "350 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 32,
+          "material": "300 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 33,
+          "material": "250 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 34,
+          "material": "200 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 35,
+          "material": "150 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 36,
+          "material": "125 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 37,
+          "material": "100 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 38,
+          "material": "80 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 39,
+          "material": "65 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 40,
+          "material": "50 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 41,
+          "material": "40 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        },
+        {
+          "idx": 42,
+          "material": "32 mm dia",
+          "quantity": "0.0",
+          "unit": "Rmt."
+        }
+      ],
+      "unmatched_pred": [
+        {
+          "idx": 0,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 1,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 2,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 3,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "1540.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 4,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "365.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 5,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "520.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 6,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "1288.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 7,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "1114.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 8,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "4506.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 9,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "2777.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 10,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "2534.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 11,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "277.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 12,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "9.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 13,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "660.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 14,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "1390.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 15,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "1044.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 16,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 17,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "146.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 18,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 19,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 20,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 21,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 22,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 23,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 24,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 25,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 26,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 27,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 28,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 29,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 30,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 31,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 32,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 33,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 34,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 35,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 36,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 37,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 38,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 39,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 40,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        },
+        {
+          "idx": 41,
+          "material": "thermally insulated MS Class C (heavy) chilled water piping as per IS1239 / IS 3",
+          "quantity": "0.0",
+          "unit": "rmt"
+        }
+      ]
+    },
+    {
+      "eid": "05_zydus_animal",
+      "type": "xlsx",
+      "gold_count": 20,
+      "pred_count": 48,
+      "tp": 20,
+      "fp": 28,
+      "fn": 0,
+      "precision": 0.4166666666666667,
+      "recall": 1.0,
+      "f1": 0.5882352941176471,
+      "time_sec": 0.010689020156860352,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 5,
+          "material_score": 1.0,
+          "gold_material": "100 mm dia (Manifold size typ)",
+          "pred_material": "100 mm dia (Manifold size typ)",
+          "gold_qty": 22.0,
+          "pred_qty": 22.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 6,
+          "material_score": 1.0,
+          "gold_material": "80 mm dia",
+          "pred_material": "80 mm dia",
+          "gold_qty": 44.0,
+          "pred_qty": 44.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 7,
+          "material_score": 1.0,
+          "gold_material": "65 mm dia",
+          "pred_material": "65 mm dia",
+          "gold_qty": 176.0,
+          "pred_qty": 176.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 3,
+          "pred_idx": 8,
+          "material_score": 1.0,
+          "gold_material": "50 mm dia",
+          "pred_material": "50 mm dia",
+          "gold_qty": 396.0,
+          "pred_qty": 396.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 4,
+          "pred_idx": 9,
+          "material_score": 1.0,
+          "gold_material": "40 mm dia",
+          "pred_material": "40 mm dia",
+          "gold_qty": 220.0,
+          "pred_qty": 220.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 5,
+          "pred_idx": 10,
+          "material_score": 1.0,
+          "gold_material": "32 mm dia",
+          "pred_material": "32 mm dia",
+          "gold_qty": 396.0,
+          "pred_qty": 396.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 6,
+          "pred_idx": 11,
+          "material_score": 1.0,
+          "gold_material": "25 mm dia",
+          "pred_material": "25 mm dia",
+          "gold_qty": 176.0,
+          "pred_qty": 176.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 7,
+          "pred_idx": 22,
+          "material_score": 1.0,
+          "gold_material": "40 mm dia",
+          "pred_material": "40 mm dia",
+          "gold_qty": 132.0,
+          "pred_qty": 132.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 8,
+          "pred_idx": 23,
+          "material_score": 1.0,
+          "gold_material": "32 mm dia",
+          "pred_material": "32 mm dia",
+          "gold_qty": 66.0,
+          "pred_qty": 66.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 9,
+          "pred_idx": 24,
+          "material_score": 1.0,
+          "gold_material": "25 mm dia",
+          "pred_material": "25 mm dia",
+          "gold_qty": 220.0,
+          "pred_qty": 220.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 10,
+          "pred_idx": 27,
+          "material_score": 1.0,
+          "gold_material": "100 mm dia",
+          "pred_material": "100 mm dia",
+          "gold_qty": 100.0,
+          "pred_qty": 100.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 11,
+          "pred_idx": 28,
+          "material_score": 1.0,
+          "gold_material": "80 mm dia",
+          "pred_material": "80 mm dia",
+          "gold_qty": 100.0,
+          "pred_qty": 100.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 12,
+          "pred_idx": 29,
+          "material_score": 1.0,
+          "gold_material": "65 mm dia",
+          "pred_material": "65 mm dia",
+          "gold_qty": 30.0,
+          "pred_qty": 30.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 13,
+          "pred_idx": 30,
+          "material_score": 1.0,
+          "gold_material": "50 mm dia",
+          "pred_material": "50 mm dia",
+          "gold_qty": 75.0,
+          "pred_qty": 75.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 14,
+          "pred_idx": 31,
+          "material_score": 1.0,
+          "gold_material": "40 mm dia",
+          "pred_material": "40 mm dia",
+          "gold_qty": 210.0,
+          "pred_qty": 210.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 15,
+          "pred_idx": 32,
+          "material_score": 1.0,
+          "gold_material": "32 mm dia",
+          "pred_material": "32 mm dia",
+          "gold_qty": 50.0,
+          "pred_qty": 50.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 16,
+          "pred_idx": 36,
+          "material_score": 1.0,
+          "gold_material": "25 mm dia",
+          "pred_material": "25 mm dia",
+          "gold_qty": 320.0,
+          "pred_qty": 320.0,
+          "gold_unit": "rmt",
+          "pred_unit": "RMT"
+        },
+        {
+          "gold_idx": 17,
+          "pred_idx": 44,
+          "material_score": 1.0,
+          "gold_material": "25 mm thickness",
+          "pred_material": "25 mm thickness",
+          "gold_qty": 2240.0,
+          "pred_qty": 2240.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sq.m"
+        },
+        {
+          "gold_idx": 18,
+          "pred_idx": 45,
+          "material_score": 1.0,
+          "gold_material": "19 mm thickness",
+          "pred_material": "19 mm thickness",
+          "gold_qty": 2000.0,
+          "pred_qty": 2000.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sq.m"
+        },
+        {
+          "gold_idx": 19,
+          "pred_idx": 46,
+          "material_score": 1.0,
+          "gold_material": "13 mm thickness",
+          "pred_material": "13 mm thickness",
+          "gold_qty": 4240.0,
+          "pred_qty": 4240.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sq.m"
+        }
+      ],
+      "unmatched_gold": [],
+      "unmatched_pred": [
+        {
+          "idx": 0,
+          "material": "300 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 1,
+          "material": "250 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 2,
+          "material": "200 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 3,
+          "material": "150 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 4,
+          "material": "125 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 12,
+          "material": "20 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 13,
+          "material": "15 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 14,
+          "material": "250 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 15,
+          "material": "200 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 16,
+          "material": "150 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 17,
+          "material": "125 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 18,
+          "material": "100 mm dia (Manifold size typ)",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 19,
+          "material": "80 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 20,
+          "material": "65 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 21,
+          "material": "50 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 25,
+          "material": "20 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 26,
+          "material": "15 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 33,
+          "material": "50 mm dia (Manifold size typ)",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 34,
+          "material": "40 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 35,
+          "material": "32 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 37,
+          "material": "20 mm dia",
+          "quantity": "0",
+          "unit": "RMT"
+        },
+        {
+          "idx": 38,
+          "material": "25 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m"
+        },
+        {
+          "idx": 39,
+          "material": "13 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m"
+        },
+        {
+          "idx": 40,
+          "material": "25 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m"
+        },
+        {
+          "idx": 41,
+          "material": "13 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m"
+        },
+        {
+          "idx": 42,
+          "material": "32 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m"
+        },
+        {
+          "idx": 43,
+          "material": "13 mm thickness",
+          "quantity": "0",
+          "unit": "sq.m"
+        },
+        {
+          "idx": 47,
+          "material": "Underdeck Insulation with 25 mm thick class 'O' elastomeric nitrile rubber insul",
+          "quantity": "0",
+          "unit": "sq.m"
+        }
+      ]
+    },
+    {
+      "eid": "06_avante",
+      "type": "pdf",
+      "gold_count": 31,
+      "pred_count": 31,
+      "tp": 30,
+      "fp": 1,
+      "fn": 1,
+      "precision": 0.967741935483871,
+      "recall": 0.967741935483871,
+      "f1": 0.967741935483871,
+      "time_sec": 1.2899248600006104,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 0,
+          "material_score": 1.0,
+          "gold_material": "13 mm thick insulation for supply air ducts in return air path.",
+          "pred_material": "13 mm thick insulation for supply air ducts in return air path.",
+          "gold_qty": 6163.0,
+          "pred_qty": 6163.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 1,
+          "material_score": 1.0,
+          "gold_material": "19 mm thick insulation for return air ducts.",
+          "pred_material": "19 mm thick insulation for return air ducts.",
+          "gold_qty": 576.0,
+          "pred_qty": 576.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 2,
+          "material_score": 1.0,
+          "gold_material": "25 mm thick insulation for ducts exposed to atmosphere with UV protection of thi",
+          "pred_material": "25 mm thick insulation for ducts exposed to atmosphere with UV protection of thi",
+          "gold_qty": 3443.0,
+          "pred_qty": 3443.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 4,
+          "pred_idx": 4,
+          "material_score": 1.0,
+          "gold_material": "15 mm thick acoustic lining with Nitrile Rubber",
+          "pred_material": "15 mm thick acoustic lining with Nitrile Rubber",
+          "gold_qty": 9351.0,
+          "pred_qty": 9351.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 5,
+          "pred_idx": 5,
+          "material_score": 1.0,
+          "gold_material": "25 mm dia pipes",
+          "pred_material": "25 mm dia pipes",
+          "gold_qty": 1507.0,
+          "pred_qty": 1507.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 6,
+          "pred_idx": 6,
+          "material_score": 1.0,
+          "gold_material": "20 mm dia pipes",
+          "pred_material": "20 mm dia pipes",
+          "gold_qty": 1246.0,
+          "pred_qty": 1246.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 7,
+          "pred_idx": 7,
+          "material_score": 1.0,
+          "gold_material": "50 mm dia condensate drain pipes.",
+          "pred_material": "50 mm dia condensate drain pipes.",
+          "gold_qty": 522.0,
+          "pred_qty": 522.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 8,
+          "pred_idx": 8,
+          "material_score": 1.0,
+          "gold_material": "25 mm dia condensate drain pipes.",
+          "pred_material": "25 mm dia condensate drain pipes.",
+          "gold_qty": 260.0,
+          "pred_qty": 260.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 9,
+          "pred_idx": 9,
+          "material_score": 1.0,
+          "gold_material": "100 mm dia pipes",
+          "pred_material": "100 mm dia pipes",
+          "gold_qty": 345.0,
+          "pred_qty": 345.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 10,
+          "pred_idx": 10,
+          "material_score": 1.0,
+          "gold_material": "80 mm dia pipes",
+          "pred_material": "80 mm dia pipes",
+          "gold_qty": 902.0,
+          "pred_qty": 902.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 11,
+          "pred_idx": 11,
+          "material_score": 1.0,
+          "gold_material": "65 mm dia pipes",
+          "pred_material": "65 mm dia pipes",
+          "gold_qty": 201.0,
+          "pred_qty": 201.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 12,
+          "pred_idx": 12,
+          "material_score": 1.0,
+          "gold_material": "50 mm dia pipes",
+          "pred_material": "50 mm dia pipes",
+          "gold_qty": 1946.0,
+          "pred_qty": 1946.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 13,
+          "pred_idx": 13,
+          "material_score": 1.0,
+          "gold_material": "40 mm dia pipes",
+          "pred_material": "40 mm dia pipes",
+          "gold_qty": 792.0,
+          "pred_qty": 792.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 14,
+          "pred_idx": 14,
+          "material_score": 1.0,
+          "gold_material": "32 mm dia pipes",
+          "pred_material": "32 mm dia pipes",
+          "gold_qty": 1320.0,
+          "pred_qty": 1320.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 15,
+          "pred_idx": 15,
+          "material_score": 1.0,
+          "gold_material": "400 mm dia pipes",
+          "pred_material": "400 mm dia pipes",
+          "gold_qty": 53.0,
+          "pred_qty": 53.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 16,
+          "pred_idx": 16,
+          "material_score": 1.0,
+          "gold_material": "300 mm dia pipes",
+          "pred_material": "300 mm dia pipes",
+          "gold_qty": 45.0,
+          "pred_qty": 45.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 17,
+          "pred_idx": 17,
+          "material_score": 1.0,
+          "gold_material": "250 mm dia pipes",
+          "pred_material": "250 mm dia pipes",
+          "gold_qty": 450.0,
+          "pred_qty": 450.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 18,
+          "pred_idx": 18,
+          "material_score": 1.0,
+          "gold_material": "200 mm dia pipes",
+          "pred_material": "200 mm dia pipes",
+          "gold_qty": 386.0,
+          "pred_qty": 386.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 19,
+          "pred_idx": 19,
+          "material_score": 1.0,
+          "gold_material": "150 mm dia pipes",
+          "pred_material": "150 mm dia pipes",
+          "gold_qty": 74.0,
+          "pred_qty": 74.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 20,
+          "pred_idx": 20,
+          "material_score": 1.0,
+          "gold_material": "125 mm dia pipes",
+          "pred_material": "125 mm dia pipes",
+          "gold_qty": 273.0,
+          "pred_qty": 273.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 21,
+          "pred_idx": 21,
+          "material_score": 1.0,
+          "gold_material": "600 mm dia pipes",
+          "pred_material": "600 mm dia pipes",
+          "gold_qty": 36.0,
+          "pred_qty": 36.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 22,
+          "pred_idx": 22,
+          "material_score": 1.0,
+          "gold_material": "500 mm dia pipes",
+          "pred_material": "500 mm dia pipes",
+          "gold_qty": 200.0,
+          "pred_qty": 200.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 23,
+          "pred_idx": 23,
+          "material_score": 1.0,
+          "gold_material": "450 mm dia pipes",
+          "pred_material": "450 mm dia pipes",
+          "gold_qty": 113.0,
+          "pred_qty": 113.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 24,
+          "pred_idx": 24,
+          "material_score": 1.0,
+          "gold_material": "350 mm dia pipes",
+          "pred_material": "350 mm dia pipes",
+          "gold_qty": 41.0,
+          "pred_qty": 41.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 25,
+          "pred_idx": 25,
+          "material_score": 1.0,
+          "gold_material": "300 mm dia pipes",
+          "pred_material": "300 mm dia pipes",
+          "gold_qty": 16.0,
+          "pred_qty": 16.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 26,
+          "pred_idx": 26,
+          "material_score": 1.0,
+          "gold_material": "250 mm dia pipes",
+          "pred_material": "250 mm dia pipes",
+          "gold_qty": 140.0,
+          "pred_qty": 140.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 27,
+          "pred_idx": 27,
+          "material_score": 1.0,
+          "gold_material": "200 mm dia pipes",
+          "pred_material": "200 mm dia pipes",
+          "gold_qty": 168.0,
+          "pred_qty": 168.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 28,
+          "pred_idx": 28,
+          "material_score": 1.0,
+          "gold_material": "150 mm dia pipes",
+          "pred_material": "150 mm dia pipes",
+          "gold_qty": 176.0,
+          "pred_qty": 176.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 29,
+          "pred_idx": 29,
+          "material_score": 1.0,
+          "gold_material": "600 mm dia pipes",
+          "pred_material": "600 mm dia pipes",
+          "gold_qty": 30.0,
+          "pred_qty": 30.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        },
+        {
+          "gold_idx": 30,
+          "pred_idx": 30,
+          "material_score": 1.0,
+          "gold_material": "500 mm dia pipes",
+          "pred_material": "500 mm dia pipes",
+          "gold_qty": 47.0,
+          "pred_qty": 47.0,
+          "gold_unit": "rmt",
+          "pred_unit": "rmt"
+        }
+      ],
+      "unmatched_gold": [
+        {
+          "idx": 3,
+          "material": "15 mm thick",
+          "quantity": "2664",
+          "unit": "sqm"
+        }
+      ],
+      "unmatched_pred": [
+        {
+          "idx": 3,
+          "material": "acoustic insulation. Material shall be nitrile rubber with 140-180 Kg/m3 density",
+          "quantity": "2664.0",
+          "unit": "sqm"
+        }
+      ]
+    },
+    {
+      "eid": "07_grew",
+      "type": "pdf",
+      "gold_count": 9,
+      "pred_count": 9,
+      "tp": 9,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "time_sec": 1.165802001953125,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 0,
+          "material_score": 1.0,
+          "gold_material": "32 mm thick for Clean Room SA Duct",
+          "pred_material": "32 mm thick for Clean Room SA Duct",
+          "gold_qty": 15000.0,
+          "pred_qty": 15000.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 1,
+          "material_score": 1.0,
+          "gold_material": "25 mm thick for Clean Room SA Duct",
+          "pred_material": "25 mm thick for Clean Room SA Duct",
+          "gold_qty": 23750.0,
+          "pred_qty": 23750.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 2,
+          "material_score": 1.0,
+          "gold_material": "19 mm thick for Comfort SA Duct",
+          "pred_material": "19 mm thick for Comfort SA Duct",
+          "gold_qty": 8500.0,
+          "pred_qty": 8500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 3,
+          "pred_idx": 3,
+          "material_score": 1.0,
+          "gold_material": "13 mm thick for Comfort RA Duct",
+          "pred_material": "13 mm thick for Comfort RA Duct",
+          "gold_qty": 5000.0,
+          "pred_qty": 5000.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 4,
+          "pred_idx": 4,
+          "material_score": 1.0,
+          "gold_material": "ACOUSTIC LINING Supply,InstallationandTestingofAccousticliningwith10mmthickClass",
+          "pred_material": "ACOUSTIC LINING Supply,InstallationandTestingofAccousticliningwith10mmthickClass",
+          "gold_qty": 500.0,
+          "pred_qty": 500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 5,
+          "pred_idx": 5,
+          "material_score": 1.0,
+          "gold_material": "75 mm thick Insulation on 1200NB to 1000NB",
+          "pred_material": "75 mm thick Insulation on 1200NB to 1000NB",
+          "gold_qty": 1976.0,
+          "pred_qty": 1976.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 6,
+          "pred_idx": 6,
+          "material_score": 1.0,
+          "gold_material": "51 mm thick Insulation on 950NB to 500NB",
+          "pred_material": "51 mm thick Insulation on 950NB to 500NB",
+          "gold_qty": 3600.0,
+          "pred_qty": 3600.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 7,
+          "pred_idx": 7,
+          "material_score": 1.0,
+          "gold_material": "38 mm thick Insulation on 450NB to 80NB",
+          "pred_material": "38 mm thick Insulation on 450NB to 80NB",
+          "gold_qty": 14800.0,
+          "pred_qty": 14800.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        },
+        {
+          "gold_idx": 8,
+          "pred_idx": 8,
+          "material_score": 1.0,
+          "gold_material": "19 mm thick Insulation on 65NB / 50NB / 40NB / 32NB / 25NB / 20NB / 15NB",
+          "pred_material": "19 mm thick Insulation on 65NB / 50NB / 40NB / 32NB / 25NB / 20NB / 15NB",
+          "gold_qty": 7400.0,
+          "pred_qty": 7400.0,
+          "gold_unit": "sqm",
+          "pred_unit": "sqm"
+        }
+      ],
+      "unmatched_gold": [],
+      "unmatched_pred": []
+    },
+    {
+      "eid": "08_sael",
+      "type": "xlsx",
+      "gold_count": 17,
+      "pred_count": 17,
+      "tp": 17,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "time_sec": 0.005755186080932617,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 0,
+          "material_score": 1.0,
+          "gold_material": "THERMAL INSULATION",
+          "pred_material": "THERMAL INSULATION",
+          "gold_qty": 0.0,
+          "pred_qty": 0.0,
+          "gold_unit": "no.",
+          "pred_unit": "no."
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 1,
+          "material_score": 1.0,
+          "gold_material": "Supply, Installation of Insulation material. Thermal insulation of Ducts with lo",
+          "pred_material": "Supply, Installation of Insulation material. Thermal insulation of Ducts with lo",
+          "gold_qty": 0.0,
+          "pred_qty": 0.0,
+          "gold_unit": "no.",
+          "pred_unit": "no."
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 2,
+          "material_score": 1.0,
+          "gold_material": "50 mm thick  for Clean Room SA Duct - MAU Plenum",
+          "pred_material": "50 mm thick  for Clean Room SA Duct - MAU Plenum",
+          "gold_qty": 2500.0,
+          "pred_qty": 2500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 3,
+          "pred_idx": 3,
+          "material_score": 1.0,
+          "gold_material": "32 mm thick  for Clean Room SA Duct - For 15 Meter from MAU",
+          "pred_material": "32 mm thick  for Clean Room SA Duct - For 15 Meter from MAU",
+          "gold_qty": 9000.0,
+          "pred_qty": 9000.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 4,
+          "pred_idx": 4,
+          "material_score": 1.0,
+          "gold_material": "25 mm thick  for Clean Room SA Duct - For After 15 Meter All Ducts",
+          "pred_material": "25 mm thick  for Clean Room SA Duct - For After 15 Meter All Ducts",
+          "gold_qty": 42000.0,
+          "pred_qty": 42000.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 5,
+          "pred_idx": 5,
+          "material_score": 1.0,
+          "gold_material": "19 mm thick for Comfort SA Duct",
+          "pred_material": "19 mm thick for Comfort SA Duct",
+          "gold_qty": 9500.0,
+          "pred_qty": 9500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 6,
+          "pred_idx": 6,
+          "material_score": 1.0,
+          "gold_material": "13 mm thick for Comfort RA Duct",
+          "pred_material": "13 mm thick for Comfort RA Duct",
+          "gold_qty": 9500.0,
+          "pred_qty": 9500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 7,
+          "pred_idx": 7,
+          "material_score": 1.0,
+          "gold_material": "Supply, Installation of Insulation material. Acoustic Insulation of Duct Interna",
+          "pred_material": "Supply, Installation of Insulation material. Acoustic Insulation of Duct Interna",
+          "gold_qty": 2500.0,
+          "pred_qty": 2500.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm."
+        },
+        {
+          "gold_idx": 8,
+          "pred_idx": 8,
+          "material_score": 1.0,
+          "gold_material": "Supply & Installation of underdeck insulation as per specification. Material sha",
+          "pred_material": "Supply & Installation of underdeck insulation as per specification. Material sha",
+          "gold_qty": 300.0,
+          "pred_qty": 300.0,
+          "gold_unit": "sqm",
+          "pred_unit": "Sqm"
+        },
+        {
+          "gold_idx": 9,
+          "pred_idx": 9,
+          "material_score": 1.0,
+          "gold_material": "S.I.T.C. of Thermal insulation of CHW Pipings with low fire propagation Class O ",
+          "pred_material": "S.I.T.C. of Thermal insulation of CHW Pipings with low fire propagation Class O ",
+          "gold_qty": 0.0,
+          "pred_qty": 0.0,
+          "gold_unit": "no.",
+          "pred_unit": "no."
+        },
+        {
+          "gold_idx": 10,
+          "pred_idx": 10,
+          "material_score": 1.0,
+          "gold_material": "50 mm thick Insulation",
+          "pred_material": "50 mm thick Insulation",
+          "gold_qty": 7500.0,
+          "pred_qty": 7500.0,
+          "gold_unit": "sq. mtr",
+          "pred_unit": "Sq. Mtr."
+        },
+        {
+          "gold_idx": 11,
+          "pred_idx": 11,
+          "material_score": 1.0,
+          "gold_material": "44mm thick Insulation",
+          "pred_material": "44mm thick Insulation",
+          "gold_qty": 8500.0,
+          "pred_qty": 8500.0,
+          "gold_unit": "sq. mtr",
+          "pred_unit": "Sq. Mtr."
+        },
+        {
+          "gold_idx": 12,
+          "pred_idx": 12,
+          "material_score": 1.0,
+          "gold_material": "38 mm thick Insulation",
+          "pred_material": "38 mm thick Insulation",
+          "gold_qty": 4000.0,
+          "pred_qty": 4000.0,
+          "gold_unit": "sq. mtr",
+          "pred_unit": "Sq. Mtr."
+        },
+        {
+          "gold_idx": 13,
+          "pred_idx": 13,
+          "material_score": 1.0,
+          "gold_material": "32 mm thick Insulation",
+          "pred_material": "32 mm thick Insulation",
+          "gold_qty": 7000.0,
+          "pred_qty": 7000.0,
+          "gold_unit": "sq. mtr",
+          "pred_unit": "Sq. Mtr."
+        },
+        {
+          "gold_idx": 14,
+          "pred_idx": 14,
+          "material_score": 1.0,
+          "gold_material": "25mm Thick Insulation",
+          "pred_material": "25mm Thick Insulation",
+          "gold_qty": 4500.0,
+          "pred_qty": 4500.0,
+          "gold_unit": "sq. mtr",
+          "pred_unit": "Sq. Mtr."
+        },
+        {
+          "gold_idx": 15,
+          "pred_idx": 15,
+          "material_score": 1.0,
+          "gold_material": "19mm Thick Insulation",
+          "pred_material": "19mm Thick Insulation",
+          "gold_qty": 1500.0,
+          "pred_qty": 1500.0,
+          "gold_unit": "sq. mtr",
+          "pred_unit": "Sq. Mtr."
+        },
+        {
+          "gold_idx": 16,
+          "pred_idx": 16,
+          "material_score": 1.0,
+          "gold_material": "13mm Thick Insulation",
+          "pred_material": "13mm Thick Insulation",
+          "gold_qty": 150.0,
+          "pred_qty": 150.0,
+          "gold_unit": "sq. mtr",
+          "pred_unit": "Sq. Mtr."
+        }
+      ],
+      "unmatched_gold": [],
+      "unmatched_pred": []
+    },
+    {
+      "eid": "09_gem",
+      "type": "pdf",
+      "gold_count": 22,
+      "pred_count": 22,
+      "tp": 1,
+      "fp": 21,
+      "fn": 21,
+      "precision": 0.045454545454545456,
+      "recall": 0.045454545454545456,
+      "f1": 0.045454545454545456,
+      "time_sec": 14.199635028839111,
+      "matches": [
+        {
+          "gold_idx": 5,
+          "pred_idx": 5,
+          "material_score": 0.710239651416122,
+          "gold_material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "pred_material": "Bonded mineral -Rock- wool mattresses with one side GS \u0935\u0935(cid:38)(cid:38)\u0924\u0924\u0941 \u0941 (",
+          "gold_qty": 700.0,
+          "pred_qty": 700.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        }
+      ],
+      "unmatched_gold": [
+        {
+          "idx": 0,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "7150",
+          "unit": "no."
+        },
+        {
+          "idx": 1,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "8300",
+          "unit": "no."
+        },
+        {
+          "idx": 2,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "8550",
+          "unit": "no."
+        },
+        {
+          "idx": 3,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "9150",
+          "unit": "no."
+        },
+        {
+          "idx": 4,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "17600",
+          "unit": "no."
+        },
+        {
+          "idx": 6,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "7100",
+          "unit": "no."
+        },
+        {
+          "idx": 7,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "1700",
+          "unit": "no."
+        },
+        {
+          "idx": 8,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "6300",
+          "unit": "no."
+        },
+        {
+          "idx": 9,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "28250",
+          "unit": "no."
+        },
+        {
+          "idx": 10,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Ss Wire Netting Of 13 Mm X 0",
+          "quantity": "8400",
+          "unit": "no."
+        },
+        {
+          "idx": 11,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "5900",
+          "unit": "no."
+        },
+        {
+          "idx": 12,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "11000",
+          "unit": "no."
+        },
+        {
+          "idx": 13,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "10300",
+          "unit": "no."
+        },
+        {
+          "idx": 14,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "14800",
+          "unit": "no."
+        },
+        {
+          "idx": 15,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "18400",
+          "unit": "no."
+        },
+        {
+          "idx": 16,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "3000",
+          "unit": "no."
+        },
+        {
+          "idx": 17,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "1200",
+          "unit": "no."
+        },
+        {
+          "idx": 18,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "7900",
+          "unit": "no."
+        },
+        {
+          "idx": 19,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "17500",
+          "unit": "no."
+        },
+        {
+          "idx": 20,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Gs Wire Netting Of 13 Mm X 0",
+          "quantity": "28600",
+          "unit": "no."
+        },
+        {
+          "idx": 21,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Side Ss Wire Netting Of 13 Mm X 0",
+          "quantity": "10100",
+          "unit": "no."
+        }
+      ],
+      "unmatched_pred": [
+        {
+          "idx": 0,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS wire netting",
+          "quantity": "7150",
+          "unit": "nos"
+        },
+        {
+          "idx": 1,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS wire netting",
+          "quantity": "8300",
+          "unit": "nos"
+        },
+        {
+          "idx": 2,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS wire netting",
+          "quantity": "8550",
+          "unit": "nos"
+        },
+        {
+          "idx": 3,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS wire netting",
+          "quantity": "9150",
+          "unit": "nos"
+        },
+        {
+          "idx": 4,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS wire netting",
+          "quantity": "17600",
+          "unit": "nos"
+        },
+        {
+          "idx": 6,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS wire netting",
+          "quantity": "7100",
+          "unit": "nos"
+        },
+        {
+          "idx": 7,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS wire netting",
+          "quantity": "1700",
+          "unit": "nos"
+        },
+        {
+          "idx": 8,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS wire netting",
+          "quantity": "6300",
+          "unit": "nos"
+        },
+        {
+          "idx": 9,
+          "material": "Bonded mineral -Rock- wool mattresses with one side SS wire netting",
+          "quantity": "28250",
+          "unit": "nos"
+        },
+        {
+          "idx": 10,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS \u0935\u0935(cid:38)(cid:38)\u0924\u0924\u0941 \u0941 (",
+          "quantity": "8400",
+          "unit": "nos"
+        },
+        {
+          "idx": 11,
+          "material": "Bonded Mineral Wool Strings used in GeMARPTS Bonded Mineral Wool as per IS 8183,",
+          "quantity": "5900",
+          "unit": "nos"
+        },
+        {
+          "idx": 12,
+          "material": "Bonded Mineral Wool as per IS 8183 \u0905\u0905\u093f\u093f\u0927\u0927\u0938\u0938\u0942\u091a\u0942\u091a\u0928\u0928\u093e\u093e \u0915\u0915\u0947\u0947 \u093f\u093f\u0932\u0932\u090f\u090f \u091a\u091a\u092f\u092f\u093f\u093f\u0928\u0928\u0924\u0924 (cid:",
+          "quantity": "11000",
+          "unit": "nos"
+        },
+        {
+          "idx": 13,
+          "material": "Bonded mineral -Rock- wool mattresses with one side GS (cid:62)(cid:62)\u093e\u093e\u0925\u0925\u093f\u093f\u092e\u092e\u0915",
+          "quantity": "10300",
+          "unit": "nos"
+        },
+        {
+          "idx": 14,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Construction Manager, BHEL SITE 7",
+          "quantity": "14800",
+          "unit": "nos"
+        },
+        {
+          "idx": 15,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Construction Manager, BHEL SITE 8",
+          "quantity": "18400",
+          "unit": "nos"
+        },
+        {
+          "idx": 16,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Construction Manager, BHEL SITE 9",
+          "quantity": "3000",
+          "unit": "nos"
+        },
+        {
+          "idx": 17,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Construction Manager, BHEL SITE M",
+          "quantity": "1200",
+          "unit": "nos"
+        },
+        {
+          "idx": 18,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Construction Manager, BHEL SITE F",
+          "quantity": "7900",
+          "unit": "nos"
+        },
+        {
+          "idx": 19,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Construction Manager, BHEL SITE 1",
+          "quantity": "17500",
+          "unit": "nos"
+        },
+        {
+          "idx": 20,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Construction Manager, BHEL SITE 6",
+          "quantity": "28600",
+          "unit": "nos"
+        },
+        {
+          "idx": 21,
+          "material": "Bonded Mineral -rock- Wool Mattresses With One Construction Manager, BHEL SITE M",
+          "quantity": "10100",
+          "unit": "nos"
+        }
+      ]
+    },
+    {
+      "eid": "10_gem",
+      "type": "pdf",
+      "gold_count": 10,
+      "pred_count": 10,
+      "tp": 10,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "time_sec": 10.751517057418823,
+      "matches": [
+        {
+          "gold_idx": 0,
+          "pred_idx": 0,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 150-40",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 208.0,
+          "pred_qty": 208.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 1,
+          "pred_idx": 1,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 150-50",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 892.0,
+          "pred_qty": 892.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 2,
+          "pred_idx": 2,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 150-60",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 5838.0,
+          "pred_qty": 5838.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 3,
+          "pred_idx": 3,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 150-75",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 10061.0,
+          "pred_qty": 10061.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 4,
+          "pred_idx": 4,
+          "material_score": 0.6728971962616822,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm SS Wire Netting 150-75",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm \u0935\u0935(cid:38)(cid:38)\u0924\u0924\u0941 \u0941",
+          "gold_qty": 3795.0,
+          "pred_qty": 3795.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 5,
+          "pred_idx": 5,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 100-25",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 1080.0,
+          "pred_qty": 1080.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 6,
+          "pred_idx": 6,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 100-40",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 3405.0,
+          "pred_qty": 3405.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 7,
+          "pred_idx": 7,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 100-50",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 5504.0,
+          "pred_qty": 5504.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 8,
+          "pred_idx": 8,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 100-60",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 8893.0,
+          "pred_qty": 8893.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        },
+        {
+          "gold_idx": 9,
+          "pred_idx": 9,
+          "material_score": 0.9536423841059603,
+          "gold_material": "Bonded Mineral Rock Wool Mattresses With One Side 0.4 Mm GS Wire Netting 100-75",
+          "pred_material": "Bonded mineral Rock wool mattresses with one side 0.4 mm GS wire netting",
+          "gold_qty": 9967.0,
+          "pred_qty": 9967.0,
+          "gold_unit": "no.",
+          "pred_unit": "nos"
+        }
+      ],
+      "unmatched_gold": [],
+      "unmatched_pred": []
+    }
+  ],
+  "summary": {
+    "micro_precision": 0.551219512195122,
+    "micro_recall": 0.5794871794871795,
+    "micro_f1": 0.565,
+    "macro_precision": 0.7475317693059629,
+    "macro_recall": 0.7542489410231346,
+    "macro_f1": 0.7299436819770578,
+    "total_gold": 195,
+    "total_pred": 205,
+    "material_threshold": 0.6,
+    "quantity_tolerance": 0.05
+  }
+}

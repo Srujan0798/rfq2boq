@@ -1,0 +1,27 @@
+{
+  "doc_id": "03_zydus_matoda_osd_024",
+  "source_file": "Zydus_Matoda_Insulation_Enquiry.xlsx",
+  "tokens": [
+    "supply",
+    "50mm",
+    "OD",
+    "120",
+    "rmt"
+  ],
+  "ner_tags": [
+    "S-ACTION",
+    "B-MATERIAL",
+    "E-MATERIAL",
+    "S-QUANTITY",
+    "S-UNIT"
+  ],
+  "metadata": {
+    "status": "human_verified",
+    "source": "rowgold",
+    "rowgold_file": "03_zydus_matoda_osd.rowgold.json",
+    "row_idx": 24,
+    "action": "supply",
+    "quantity": "120",
+    "unit": "rmt"
+  }
+}

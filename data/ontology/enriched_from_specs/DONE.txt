@@ -1,0 +1,5 @@
+Processed 63 of 63 specification files.
+Materials mined: 58
+Standards mined: 117
+Units mined: 24
+Blockers: none

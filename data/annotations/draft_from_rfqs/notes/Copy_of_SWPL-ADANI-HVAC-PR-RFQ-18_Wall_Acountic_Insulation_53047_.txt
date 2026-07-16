@@ -1,0 +1,4 @@
+Source: data/incoming/Copy of SWPL-ADANI-HVAC-PR-RFQ-18_Wall Acountic Insulation(53047).pdf
+Entries: 1
+Uncertain entries:
+Entry 1: very long material description; review segmentation
