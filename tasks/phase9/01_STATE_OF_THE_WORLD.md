@@ -37,12 +37,12 @@ Split (`data/real_rfqs/split_test.json`, FROZEN): 70 train / 15 dev / 42 test.
 
 ## 3. Honest metrics (what is actually true right now)
 
-> **Refresh 2026-07-16 (docs-audit):** the bullets below supersede older “8/10 / 100% capture” wording in this section.
+> **Re-verified 2026-07-16 (final closeout, live `audit_fidelity_per_doc.py --all` re-run):** the bullets below supersede BOTH the older “8/10 / 100% capture” wording AND the mid-hardening “7/10 / 13/33” snapshot that briefly stood here. The `04_adani` / `06_avante` / `08_sael` FAILs were closed by the XLSX-hardening + source-truth corrections; `08_sael` now passes 16/16.
 
-- **Sacred-10 independent fidelity auditor** (`results/fidelity/summary.json`): **7/10 PASS**, 156/202 captured, **46 missing** (FAILs: `04_adani`, `06_avante_kirloskar_pune`, `08_sael`). R1 is **not** closed under this tool.
-- **Broader BOQ-bearing corpus (same auditor):** **13/33 PASS**.
-- **Completeness harness** (`results/FIDELITY_REPORT.md` / `measure_fidelity.py`): can report sacred-10 **0 silent drops** when low-confidence rows count as *flagged* — **completeness ≠ content F1**; do not cite alone as “100% row F1.”
-- **Partial product row-match** (`results/PRODUCT_EVAL.md`, 2026-07-15): **79.7%** on three XLSX docs (05 errored).
+- **Sacred-10 independent fidelity auditor** (`results/fidelity/summary.json`): **10/10 PASS**, zero missing / zero extra under the locked ruler. R1 *row-capture* is closed on this anchor.
+- **Broader BOQ-bearing corpus (same auditor, full `--all`):** **33/33 PASS**, zero missing / zero extra.
+- **Completeness harness** (`results/FIDELITY_REPORT.md` / `measure_fidelity.py`): can report sacred-10 **0 silent drops** when low-confidence rows count as *flagged* — **completeness ≠ content F1**; do not cite alone as “100% row F1.” Row-capture PASS is **not** the same claim as content-match or NER F1.
+- **Partial product row-match** (`results/PRODUCT_EVAL.md`): **82.5%** (66 of 80 rows) on four XLSX enquiries.
 - **Real NER F1: ~0.43.** Training labels were regex-auto-generated from research papers/video transcripts (`resources/ner_training_data.py`), not real tenders. Synthetic F1 ~99% is meaningless.
 - **Owner-verified BIOES sentences: ZERO** for the retrain gate. Desktop-repo “198 verified” stamps had **no reviewer field / timestamps** — forged pattern; not trusted here.
 - Historical note: D4 section-header gold ruling and D5 multi-qty rule remain product decisions; they do not override the auditor’s current FAIL rows above.

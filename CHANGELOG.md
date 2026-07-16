@@ -62,7 +62,7 @@ All notable changes to RFQ2BOQ are documented here.
 ### Known Limitations
 
 - **Synthetic / auto-label training gap**: real RFQ NER F1 ~0.43; synthetic high scores are not evidence
-- **R1 not closed**: independent auditor 7/10 sacred-10 PASS, 13/33 broader BOQ-bearing PASS (2026-07-16 artifacts)
+- **R1 (fidelity) was open through the 0.1.x development cycle** — row-capture was closed only at [0.1.1] above (final auditor re-run: 10/10 sacred-10, 33/33 BOQ-bearing corpus). Neural-NER accuracy and unseen-document generalization remain open.
 - **English primary**: no production Hindi/regional language support
 - **Indian focus**: Optimized for IS codes, limited ASTM/BS/EN coverage
 - **Table extraction**: complex PDF layouts still fail (e.g. hard multi-column / free-text cases)
